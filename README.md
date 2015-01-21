@@ -1,5 +1,5 @@
-# geonamesjp
-geonames.jp documents &amp; specifications
+# [GeoNames.jp](http://geonames.jp/)
+このレポジトリでは [GeoNames.jp](http://geonames.jp/) の仕様を整理します。
 
 ## Background
 世界中の地名に対して URI を付与する基盤である [GeoNames.org](http://www.geonames.org/) は、LOD Cloud の中でも重要な地位を占めています(2014年時点で DBPedia に次ぐ第二位)。しかし、日本国内では GeoNames.org が積極的に活用されているとは言い難い状況です。われわれはこの原因を以下のように考えました。
