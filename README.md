@@ -1,7 +1,7 @@
 # [GeoNames.jp](http://geonames.jp/)
 
-このレポジトリでは [GeoNames.jp](http://geonames.jp/) の仕様やドキュメント、リファレンス等を整理します。
-技術情報を含む最新の情報については [Wiki](wiki) にて更新しています。
+* このレポジトリでは [GeoNames.jp](http://geonames.jp/) の仕様やドキュメント、リファレンス等を整理します。
+* 技術情報を含む最新の情報については [Wiki](https://github.com/indigo-lab/geonamesjp/wiki) にて更新しています。
 
 
 ## Background
