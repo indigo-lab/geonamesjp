@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県大津市稲葉台",
+    "表記": "滋賀県大津市稲葉台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "大津市",
+      "町名": "稲葉台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252011430"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353696",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353697",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354607"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229984/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229984/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229983/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229984/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229988/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229990/103835.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県大津市稲葉台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/大津市/稲葉台.json",
+    "name": "稲葉台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県大津市"
+  }
+]

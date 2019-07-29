@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県千葉市稲毛区稲丘町",
+    "表記": "千葉県千葉市稲毛区稲丘町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "千葉市",
+      "区": "稲毛区",
+      "町名": "稲丘町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S121030040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403056",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403057",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403066"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/103271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/103270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/103271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/103271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/103271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/103270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/103270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/103269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/103270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/103269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233078/103269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233078/103270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/103272.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県千葉市稲毛区稲丘町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/千葉市/稲毛区/稲丘町.json",
+    "name": "稲丘町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県千葉市稲毛区"
+  }
+]

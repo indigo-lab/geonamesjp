@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市垣生",
+    "表記": "愛媛県新居浜市垣生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "新居浜市",
+      "町名": "垣生",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382050660"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市垣生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/新居浜市/垣生.json",
+    "name": "垣生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県新居浜市",
+    "children": [
+      "https://geonames.jp/resource/愛媛県新居浜市垣生（丁目なし）",
+      "https://geonames.jp/resource/愛媛県新居浜市垣生一丁目",
+      "https://geonames.jp/resource/愛媛県新居浜市垣生二丁目",
+      "https://geonames.jp/resource/愛媛県新居浜市垣生三丁目",
+      "https://geonames.jp/resource/愛媛県新居浜市垣生四丁目",
+      "https://geonames.jp/resource/愛媛県新居浜市垣生五丁目",
+      "https://geonames.jp/resource/愛媛県新居浜市垣生六丁目"
+    ]
+  }
+]

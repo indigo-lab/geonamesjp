@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県小豆郡内海町木庄",
+    "表記": "香川県小豆郡内海町木庄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "小豆郡",
+      "市区町村": "内海町",
+      "町名": "木庄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051345275",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051345285"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228875/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228876/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228875/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228876/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228875/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228875/104289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228876/104288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228876/104289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228876/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/104288.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県小豆郡内海町木庄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/小豆郡/内海町/木庄.json",
+    "name": "木庄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県小豆郡内海町"
+  }
+]

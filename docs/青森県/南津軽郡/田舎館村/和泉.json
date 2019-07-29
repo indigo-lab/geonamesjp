@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡田舎館村和泉",
+    "表記": "青森県南津軽郡田舎館村和泉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "南津軽郡",
+      "市区町村": "田舎館村",
+      "町名": "和泉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407471",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407472",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407482"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/98622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233400/98614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/98618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/98618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/98624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/98623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/98623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/98617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/98616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/98617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/98620.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡田舎館村和泉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/南津軽郡/田舎館村/和泉.json",
+    "name": "和泉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県南津軽郡田舎館村"
+  }
+]

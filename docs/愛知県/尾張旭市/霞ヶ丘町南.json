@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県尾張旭市霞ヶ丘町南",
+    "表記": "愛知県尾張旭市霞ヶ丘町南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "尾張旭市",
+      "町名": "霞ヶ丘町南"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376050"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230836/103646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230837/103647.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県尾張旭市霞ヶ丘町南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/尾張旭市/霞ヶ丘町南.json",
+    "name": "霞ヶ丘町南",
+    "alternateName": [
+      "霞ケ丘町南"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県尾張旭市"
+  }
+]

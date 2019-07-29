@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県八千代市下高野",
+    "表記": "千葉県八千代市下高野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "八千代市",
+      "町名": "下高野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122210200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404190",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404181",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404191",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405100",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405101"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233116/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233118/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233117/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233117/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233118/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233118/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233118/103172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233117/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233116/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233116/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233118/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/103163.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県八千代市下高野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/八千代市/下高野.json",
+    "name": "下高野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県八千代市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡甲賀町滝",
+    "表記": "滋賀県甲賀郡甲賀町滝",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "甲賀郡",
+      "市区町村": "甲賀町",
+      "町名": "滝"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362177",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362186"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230261/103928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230259/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/103923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/103923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230253/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230253/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230263/103928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103923.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡甲賀町滝",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀郡/甲賀町/滝.json",
+    "name": "滝",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀郡甲賀町"
+  }
+]

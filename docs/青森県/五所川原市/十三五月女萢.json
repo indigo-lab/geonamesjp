@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県五所川原市十三五月女萢",
+    "表記": "青森県五所川原市十三五月女萢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "五所川原市",
+      "町名": "十三五月女萢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022050630"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061404266"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233254/98232.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県五所川原市十三五月女萢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/五所川原市/十三五月女萢.json",
+    "name": "十三五月女萢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県五所川原市"
+  }
+]

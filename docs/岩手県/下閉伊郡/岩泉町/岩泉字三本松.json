@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県下閉伊郡岩泉町岩泉字三本松",
+    "表記": "岩手県下閉伊郡岩泉町岩泉字三本松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "下閉伊郡",
+      "市区町村": "岩泉町",
+      "町名": "岩泉字三本松"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416614",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416613"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234329/99388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234330/99386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234328/99388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234327/99388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234327/99387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234326/99389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234325/99389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234332/99385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234328/99389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234330/99387.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県下閉伊郡岩泉町岩泉字三本松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/下閉伊郡/岩泉町/岩泉字三本松.json",
+    "name": "岩泉字三本松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県下閉伊郡岩泉町"
+  }
+]

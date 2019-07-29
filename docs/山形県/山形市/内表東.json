@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市内表東",
+    "表記": "山形県山形市内表東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "内表東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062012220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403244",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403254"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/100841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/100845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/100844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/100843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/100841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/100843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233240/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/100850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233240/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233240/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233240/100845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/100844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/100845.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市内表東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/内表東.json",
+    "name": "内表東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

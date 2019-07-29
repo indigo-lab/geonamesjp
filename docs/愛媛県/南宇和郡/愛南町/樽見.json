@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県南宇和郡愛南町樽見",
+    "表記": "愛媛県南宇和郡愛南町樽見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "南宇和郡",
+      "市区町村": "愛南町",
+      "町名": "樽見",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S385060480"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323411",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323421",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323410"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227567/105650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/105650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227568/105649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227568/105650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227567/105649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227565/105651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227567/105646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227564/105650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227570/105649.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県南宇和郡愛南町樽見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/南宇和郡/愛南町/樽見.json",
+    "name": "樽見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県南宇和郡愛南町"
+  }
+]

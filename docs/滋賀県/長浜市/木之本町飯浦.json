@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県長浜市木之本町飯浦",
+    "表記": "滋賀県長浜市木之本町飯浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "長浜市",
+      "町名": "木之本町飯浦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252032560"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362105",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362114"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/103381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/103385.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県長浜市木之本町飯浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/長浜市/木之本町飯浦.json",
+    "name": "木之本町飯浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県長浜市"
+  }
+]

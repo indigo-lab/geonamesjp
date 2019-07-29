@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県胎内市本郷",
+    "表記": "新潟県胎内市本郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "胎内市",
+      "町名": "本郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390371",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390373"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232575/101058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232573/101058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232573/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232571/101057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232573/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232571/101058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232571/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232571/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232594/101057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232575/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232575/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232572/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/101059.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県胎内市本郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/胎内市/本郷.json",
+    "name": "本郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県胎内市"
+  }
+]

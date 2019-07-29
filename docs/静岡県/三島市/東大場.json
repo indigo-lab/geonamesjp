@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県三島市東大場",
+    "表記": "静岡県三島市東大場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "三島市",
+      "町名": "東大場",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222067210"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県三島市東大場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/三島市/東大場.json",
+    "name": "東大場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県三島市",
+    "children": [
+      "https://geonames.jp/resource/静岡県三島市東大場一丁目",
+      "https://geonames.jp/resource/静岡県三島市東大場二丁目"
+    ]
+  }
+]

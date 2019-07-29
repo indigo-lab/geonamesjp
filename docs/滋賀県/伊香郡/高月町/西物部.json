@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県伊香郡高月町西物部",
+    "表記": "滋賀県伊香郡高月町西物部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "伊香郡",
+      "市区町村": "高月町",
+      "町名": "西物部"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361167",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361168",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361177"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230263/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230263/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103411.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県伊香郡高月町西物部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/伊香郡/高月町/西物部.json",
+    "name": "西物部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県伊香郡高月町"
+  }
+]

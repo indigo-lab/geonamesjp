@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県むつ市大畑町正津川平",
+    "表記": "青森県むつ市大畑町正津川平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "むつ市",
+      "町名": "大畑町正津川平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062410164",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062410174"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233880/97907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233877/97902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233879/97905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233879/97906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233878/97904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233877/97903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233878/97905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233878/97907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233877/97906.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県むつ市大畑町正津川平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/むつ市/大畑町正津川平.json",
+    "name": "大畑町正津川平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県むつ市"
+  }
+]

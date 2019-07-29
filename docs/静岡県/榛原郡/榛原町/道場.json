@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県榛原郡榛原町道場",
+    "表記": "静岡県榛原郡榛原町道場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "榛原郡",
+      "市区町村": "榛原町",
+      "町名": "道場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380177",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380187"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231717/104076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231718/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231718/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231717/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231717/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231717/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231716/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231715/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231715/104070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231714/104070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231716/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231711/104070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231718/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231715/104076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231716/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231711/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231712/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231708/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/104073.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県榛原郡榛原町道場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/榛原郡/榛原町/道場.json",
+    "name": "道場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県榛原郡榛原町"
+  }
+]

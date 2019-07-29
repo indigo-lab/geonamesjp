@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県安芸郡",
+    "表記": "三重県安芸郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "安芸郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C24380-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C24380-20060101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県安芸郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/安芸郡.json",
+    "name": "安芸郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県",
+    "children": [
+      "https://geonames.jp/resource/三重県安芸郡芸濃町",
+      "https://geonames.jp/resource/三重県安芸郡河芸町",
+      "https://geonames.jp/resource/三重県安芸郡安濃村",
+      "https://geonames.jp/resource/三重県安芸郡豊里村",
+      "https://geonames.jp/resource/三重県安芸郡安濃町",
+      "https://geonames.jp/resource/三重県安芸郡美里村"
+    ]
+  }
+]

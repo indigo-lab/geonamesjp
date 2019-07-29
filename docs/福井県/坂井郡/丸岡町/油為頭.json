@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井郡丸岡町油為頭",
+    "表記": "福井県坂井郡丸岡町油為頭",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "坂井郡",
+      "市区町村": "丸岡町",
+      "町名": "油為頭"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361242",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361243"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230312/102830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230314/102831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230313/102830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230313/102829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230312/102829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230313/102828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230312/102828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102828.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井郡丸岡町油為頭",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井郡/丸岡町/油為頭.json",
+    "name": "油為頭",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井郡丸岡町"
+  }
+]

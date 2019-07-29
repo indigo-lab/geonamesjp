@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道広尾郡大樹町字浜大樹",
+    "表記": "北海道広尾郡大樹町字浜大樹",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "広尾郡",
+      "市区町村": "大樹町",
+      "町名": "字浜大樹",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016410360"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063435364",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063435374",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063435395"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235511/96845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235513/96846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235511/96848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235513/96848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235514/96846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235514/96845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235512/96848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235514/96847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235515/96845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235523/96826.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道広尾郡大樹町字浜大樹",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/広尾郡/大樹町/字浜大樹.json",
+    "name": "字浜大樹",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道広尾郡大樹町"
+  }
+]

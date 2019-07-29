@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市丸山新田",
+    "表記": "新潟県上越市丸山新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "丸山新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385201",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385210",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385211"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231745/101947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231746/101945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231749/101949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231752/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231753/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231753/101949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231753/101951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231753/101952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231754/101952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231749/101948.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市丸山新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/丸山新田.json",
+    "name": "丸山新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

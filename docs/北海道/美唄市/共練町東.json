@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道美唄市共練町東",
+    "表記": "北海道美唄市共練町東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "美唄市",
+      "町名": "共練町東"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417791",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417780",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417790"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234393/95994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234396/95993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234391/95995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234394/95994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234392/95995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234395/95995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234396/96003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234392/96004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234388/96004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234388/96001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234396/96005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234390/96000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234390/95998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234391/96000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234394/95997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234397/95994.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道美唄市共練町東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/美唄市/共練町東.json",
+    "name": "共練町東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道美唄市"
+  }
+]

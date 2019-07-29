@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県名取市名取が丘五丁目",
+    "表記": "宮城県名取市名取が丘五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "名取市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04207016005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401689"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/100972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/100971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/100972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/100970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233651/100970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233651/100971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233651/100972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/100971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/100973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233649/100973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233648/100972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233649/100972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233648/100971.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県名取市名取が丘五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/名取市/名取が丘/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県名取市名取が丘"
+  }
+]

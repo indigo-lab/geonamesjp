@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道上川郡上川町越路",
+    "表記": "北海道上川郡上川町越路",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "上川郡",
+      "市区町村": "上川町",
+      "町名": "越路"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065426620",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065426621",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065426630",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065426631",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065426632"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235030/95466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235024/95464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235021/95466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235029/95464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235026/95463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235028/95462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235032/95465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235034/95464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235033/95463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235037/95462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235035/95465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235039/95461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235038/95461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235039/95460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235038/95463.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道上川郡上川町越路",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/上川郡/上川町/越路.json",
+    "name": "越路",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道上川郡上川町"
+  }
+]

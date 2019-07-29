@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市四ッ山町",
+    "表記": "熊本県荒尾市四ッ山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "四ッ山町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市四ッ山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/荒尾市/四ッ山町.json",
+    "name": "四ッ山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県荒尾市",
+    "children": [
+      "https://geonames.jp/resource/熊本県荒尾市四ッ山町一丁目",
+      "https://geonames.jp/resource/熊本県荒尾市四ッ山町二丁目",
+      "https://geonames.jp/resource/熊本県荒尾市四ッ山町三丁目"
+    ]
+  }
+]

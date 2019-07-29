@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村豊浦",
+    "表記": "奈良県高市郡明日香村豊浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "高市郡",
+      "市区町村": "明日香村",
+      "町名": "豊浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355674",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355675",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355684"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229966/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229966/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229964/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229969/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229970/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229968/104297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229967/104293.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村豊浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/高市郡/明日香村/豊浦.json",
+    "name": "豊浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県高市郡明日香村"
+  }
+]

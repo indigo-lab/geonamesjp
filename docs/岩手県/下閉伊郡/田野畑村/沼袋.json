@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県下閉伊郡田野畑村沼袋",
+    "表記": "岩手県下閉伊郡田野畑村沼袋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "下閉伊郡",
+      "市区町村": "田野畑村",
+      "町名": "沼袋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059417627"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234355/99302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234354/99304.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県下閉伊郡田野畑村沼袋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/下閉伊郡/田野畑村/沼袋.json",
+    "name": "沼袋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県下閉伊郡田野畑村"
+  }
+]

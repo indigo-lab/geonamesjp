@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道留萌市沖見町二丁目",
+    "表記": "北海道留萌市沖見町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "沖見町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01212007002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417521",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417510",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417511",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417520"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234209/95387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234207/95387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234210/95388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234208/95387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234210/95387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234211/95388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234211/95387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234210/95389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234208/95388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234209/95388.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道留萌市沖見町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/留萌市/沖見町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道留萌市沖見町"
+  }
+]

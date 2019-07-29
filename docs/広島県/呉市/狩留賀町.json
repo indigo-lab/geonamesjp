@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県呉市狩留賀町",
+    "表記": "広島県呉市狩留賀町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "狩留賀町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342020960"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323411",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323421"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227568/104487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227567/104485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227569/104485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/104481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227567/104486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/104484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227568/104486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227569/104486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227568/104485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227570/104484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227567/104480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/104485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/104482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227567/104487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227568/104490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227569/104484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227570/104485.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県呉市狩留賀町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/呉市/狩留賀町.json",
+    "name": "狩留賀町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県呉市"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県亀山市白木町",
+    "表記": "三重県亀山市白木町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "白木町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242100580"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362353",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362342",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362343",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362362",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362360"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230405/103944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230408/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230402/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230400/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230399/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230402/103943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230399/103936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230406/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230403/103943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230411/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230407/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230383/103934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230400/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230405/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230405/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230406/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230411/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230404/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230402/103944.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県亀山市白木町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/亀山市/白木町.json",
+    "name": "白木町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県亀山市"
+  }
+]

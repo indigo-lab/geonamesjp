@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道上川郡新得町西四条南七丁目",
+    "表記": "北海道上川郡新得町西四条南七丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "上川郡",
+      "市区町村": "新得町",
+      "町名": "七丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01635026007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064424686",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064424685"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235074/96253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235073/96253.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道上川郡新得町西四条南七丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/上川郡/新得町/西四条南/7.json",
+    "name": "七丁目",
+    "alternateName": [
+      "7",
+      "7丁目",
+      "７",
+      "７丁目",
+      "七"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道上川郡新得町西四条南"
+  }
+]

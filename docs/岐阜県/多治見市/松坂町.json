@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市松坂町",
+    "表記": "岐阜県多治見市松坂町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "松坂町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212040800"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市松坂町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/多治見市/松坂町.json",
+    "name": "松坂町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県多治見市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県多治見市松坂町一丁目",
+      "https://geonames.jp/resource/岐阜県多治見市松坂町二丁目",
+      "https://geonames.jp/resource/岐阜県多治見市松坂町三丁目",
+      "https://geonames.jp/resource/岐阜県多治見市松坂町四丁目",
+      "https://geonames.jp/resource/岐阜県多治見市松坂町五丁目"
+    ]
+  }
+]

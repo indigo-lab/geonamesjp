@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県岩井市勘助新田",
+    "表記": "茨城県岩井市勘助新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "岩井市",
+      "町名": "勘助新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390773",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390774",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390783",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390784"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/102878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232959/102880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232966/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/102877.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県岩井市勘助新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/岩井市/勘助新田.json",
+    "name": "勘助新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県岩井市"
+  }
+]

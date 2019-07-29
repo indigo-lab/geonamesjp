@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市吉川区川崎",
+    "表記": "新潟県上越市吉川区川崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "吉川区川崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386363",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386364"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/101832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231872/101832.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市吉川区川崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/吉川区川崎.json",
+    "name": "吉川区川崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

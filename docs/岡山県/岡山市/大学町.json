@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市大学町",
+    "表記": "岡山県岡山市大学町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "大学町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337783"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228589/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228590/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228591/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228590/104143.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市大学町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/大学町.json",
+    "name": "大学町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

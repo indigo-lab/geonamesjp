@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村市船引町船引舘柄",
+    "表記": "福島県田村市船引町船引舘柄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "田村市",
+      "町名": "船引町船引舘柄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401426",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401427"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/101636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233446/101635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233446/101633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233446/101634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/101634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/101635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/101634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/101633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/101633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/101632.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村市船引町船引舘柄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村市/船引町船引舘柄.json",
+    "name": "船引町船引舘柄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県田村市"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡五木村入鴨",
+    "表記": "熊本県球磨郡五木村入鴨",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "球磨郡",
+      "市区町村": "五木村",
+      "町名": "入鴨"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048304791"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226384/106096.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡五木村入鴨",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/球磨郡/五木村/入鴨.json",
+    "name": "入鴨",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県球磨郡五木村"
+  }
+]

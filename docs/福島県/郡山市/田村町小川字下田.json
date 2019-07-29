@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県郡山市田村町小川字下田",
+    "表記": "福島県郡山市田村町小川字下田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "郡山市",
+      "町名": "田村町小川字下田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07203160002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400312",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400323"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233317/101715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233318/101712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233319/101712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233318/101710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233319/101711.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県郡山市田村町小川字下田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/郡山市/田村町小川字下田.json",
+    "name": "田村町小川字下田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県郡山市"
+  }
+]

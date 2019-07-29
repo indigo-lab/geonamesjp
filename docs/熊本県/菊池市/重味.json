@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県菊池市重味",
+    "表記": "熊本県菊池市重味",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "菊池市",
+      "町名": "重味",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S43210019021",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S432100190"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303697",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304619",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304628"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226347/105592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226365/105580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226363/105573.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県菊池市重味",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/菊池市/重味.json",
+    "name": "重味",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県菊池市"
+  }
+]

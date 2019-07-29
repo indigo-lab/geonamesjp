@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県匝瑳市堀ノ内",
+    "表記": "千葉県匝瑳市堀ノ内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "匝瑳市",
+      "町名": "堀ノ内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404472",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404473",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404482"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/103181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/103182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233409/103181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/103179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/103179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/103182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/103182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/103183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/103184.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/103182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/103181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/103184.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県匝瑳市堀ノ内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/匝瑳市/堀ノ内.json",
+    "name": "堀ノ内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県匝瑳市"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府八幡市八幡月夜田",
+    "表記": "京都府八幡市八幡月夜田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "八幡市",
+      "町名": "八幡月夜田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352536"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229887/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229888/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229887/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229888/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229888/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/103956.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府八幡市八幡月夜田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/八幡市/八幡月夜田.json",
+    "name": "八幡月夜田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府八幡市"
+  }
+]

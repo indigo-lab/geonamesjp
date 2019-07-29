@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県塩谷郡氏家町馬場",
+    "表記": "栃木県塩谷郡氏家町馬場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "塩谷郡",
+      "市区町村": "氏家町",
+      "町名": "馬場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390735",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390736",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390745",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390746",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390756"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232979/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232980/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232981/102307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232988/102307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232988/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/102300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/102299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232986/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/102307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232980/102306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232974/102306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232978/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232978/102309.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県塩谷郡氏家町馬場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/塩谷郡/氏家町/馬場.json",
+    "name": "馬場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県塩谷郡氏家町"
+  }
+]

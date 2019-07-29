@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県北茨城市大津町五浦",
+    "表記": "茨城県北茨城市大津町五浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "北茨城市",
+      "町名": "大津町五浦"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県北茨城市大津町五浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/北茨城市/大津町五浦.json",
+    "name": "大津町五浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県北茨城市",
+    "children": [
+      "https://geonames.jp/resource/茨城県北茨城市大津町五浦一丁目",
+      "https://geonames.jp/resource/茨城県北茨城市大津町五浦二丁目",
+      "https://geonames.jp/resource/茨城県北茨城市大津町五浦三丁目"
+    ]
+  }
+]

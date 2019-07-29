@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道標津郡中標津町緑ヶ丘",
+    "表記": "北海道標津郡中標津町緑ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "標津郡",
+      "市区町村": "中標津町",
+      "町名": "緑ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442745",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442746",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442755",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442756"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236614/95786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236617/95784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236618/95785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236614/95785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236617/95777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236616/95783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236619/95781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236619/95787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236620/95789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236619/95784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236619/95785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236623/95783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236622/95780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236624/95780.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道標津郡中標津町緑ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/標津郡/中標津町/緑ヶ丘.json",
+    "name": "緑ヶ丘",
+    "alternateName": [
+      "緑ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道標津郡中標津町"
+  }
+]

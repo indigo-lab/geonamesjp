@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県塩山市下柏木",
+    "表記": "山梨県塩山市下柏木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "塩山市",
+      "町名": "下柏木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384597",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384598",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053385507",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053385508"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232087/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232092/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232088/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232088/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232086/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232087/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232087/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232086/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232088/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232091/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232087/103166.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県塩山市下柏木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/塩山市/下柏木.json",
+    "name": "下柏木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県塩山市"
+  }
+]

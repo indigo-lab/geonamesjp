@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名郡木曽岬町大字白鷺",
+    "表記": "三重県桑名郡木曽岬町大字白鷺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "桑名郡",
+      "市区町村": "木曽岬町",
+      "町名": "大字白鷺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S243030150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364579"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230642/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230645/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230649/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230647/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230648/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230646/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230647/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230648/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230645/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230646/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230649/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230644/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103777.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名郡木曽岬町大字白鷺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名郡/木曽岬町/大字白鷺.json",
+    "name": "大字白鷺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名郡木曽岬町"
+  }
+]

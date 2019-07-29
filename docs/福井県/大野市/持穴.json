@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県大野市持穴",
+    "表記": "福井県大野市持穴",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "大野市",
+      "町名": "持穴"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366548",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366528"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103074.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県大野市持穴",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/大野市/持穴.json",
+    "name": "持穴",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県大野市"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県気高郡鹿野町",
+    "表記": "鳥取県気高郡鹿野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "気高郡",
+      "市区町村": "鹿野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C31342-19871201",
+        "http://data.e-stat.go.jp/lod/sac/C31342-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C31342-20041101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県気高郡鹿野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/気高郡/鹿野町.json",
+    "name": "鹿野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県気高郡",
+    "children": [
+      "https://geonames.jp/resource/鳥取県気高郡鹿野町鹿野",
+      "https://geonames.jp/resource/鳥取県気高郡鹿野町水谷",
+      "https://geonames.jp/resource/鳥取県気高郡鹿野町今市",
+      "https://geonames.jp/resource/鳥取県気高郡鹿野町末用",
+      "https://geonames.jp/resource/鳥取県気高郡鹿野町乙亥正",
+      "https://geonames.jp/resource/鳥取県気高郡鹿野町閉野"
+    ]
+  }
+]

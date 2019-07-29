@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県安城市榎前町狐塚",
+    "表記": "愛知県安城市榎前町狐塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "安城市",
+      "町名": "榎前町狐塚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373013",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373023"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/103892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/103893.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県安城市榎前町狐塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/安城市/榎前町狐塚.json",
+    "name": "榎前町狐塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県安城市"
+  }
+]

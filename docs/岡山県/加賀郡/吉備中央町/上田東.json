@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県加賀郡吉備中央町上田東",
+    "表記": "岡山県加賀郡吉備中央町上田東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "加賀郡",
+      "市区町村": "吉備中央町",
+      "町名": "上田東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33681057002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S336810570",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33681057005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052332684",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052332676"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228511/103922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228528/103927.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県加賀郡吉備中央町上田東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/加賀郡/吉備中央町/上田東.json",
+    "name": "上田東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県加賀郡吉備中央町"
+  }
+]

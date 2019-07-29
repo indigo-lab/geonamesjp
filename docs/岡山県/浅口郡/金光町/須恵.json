@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県浅口郡金光町須恵",
+    "表記": "岡山県浅口郡金光町須恵",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "浅口郡",
+      "市区町村": "金光町",
+      "町名": "須恵"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336429",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336439",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336449"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228368/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228367/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228371/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228367/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228369/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228368/104250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228372/104248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228369/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228373/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228373/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228372/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228371/104249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228368/104249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228371/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228372/104253.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県浅口郡金光町須恵",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/浅口郡/金光町/須恵.json",
+    "name": "須恵",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県浅口郡金光町"
+  }
+]

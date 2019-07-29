@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市花園町石根",
+    "表記": "愛知県豊田市花園町石根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "花園町石根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374025",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374026"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230887/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230887/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230886/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230888/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230888/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230887/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230887/103817.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市花園町石根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/花園町石根.json",
+    "name": "花園町石根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

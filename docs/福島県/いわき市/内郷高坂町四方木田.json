@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市内郷高坂町四方木田",
+    "表記": "福島県いわき市内郷高坂町四方木田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "内郷高坂町四方木田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404659",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404658"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233646/101995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/101994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233643/101996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/101996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/101997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/101996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/101995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/101995.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市内郷高坂町四方木田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/内郷高坂町四方木田.json",
+    "name": "内郷高坂町四方木田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

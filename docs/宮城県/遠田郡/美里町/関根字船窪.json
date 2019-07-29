@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡美里町関根字船窪",
+    "表記": "宮城県遠田郡美里町関根字船窪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "遠田郡",
+      "市区町村": "美里町",
+      "町名": "関根字船窪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416070"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/100593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/100591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233751/100592.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡美里町関根字船窪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/遠田郡/美里町/関根字船窪.json",
+    "name": "関根字船窪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県遠田郡美里町"
+  }
+]

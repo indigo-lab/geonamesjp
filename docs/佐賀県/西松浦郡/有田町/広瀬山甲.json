@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町広瀬山甲",
+    "表記": "佐賀県西松浦郡有田町広瀬山甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "西松浦郡",
+      "市区町村": "有田町",
+      "町名": "広瀬山甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296659",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296760",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296750"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225652/105402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225641/105409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225651/105399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225650/105406.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町広瀬山甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/西松浦郡/有田町/広瀬山甲.json",
+    "name": "広瀬山甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県西松浦郡有田町"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県八幡平市大更第二十二地割",
+    "表記": "岩手県八幡平市大更第二十二地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "八幡平市",
+      "町名": "大更第二十二地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416087",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416097"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233808/99330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233810/99328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233813/99327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233812/99329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233814/99330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233814/99329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233812/99327.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県八幡平市大更第二十二地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/八幡平市/大更第二十二地割.json",
+    "name": "大更第二十二地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県八幡平市"
+  }
+]

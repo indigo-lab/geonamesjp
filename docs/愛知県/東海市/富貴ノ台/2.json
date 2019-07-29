@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県東海市富貴ノ台二丁目",
+    "表記": "愛知県東海市富貴ノ台二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "東海市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23222015002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364742"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230762/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230762/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230762/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230763/103803.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県東海市富貴ノ台二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/東海市/富貴ノ台/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県東海市富貴ノ台"
+  }
+]

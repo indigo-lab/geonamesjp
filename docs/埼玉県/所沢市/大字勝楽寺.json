@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県所沢市大字勝楽寺",
+    "表記": "埼玉県所沢市大字勝楽寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "所沢市",
+      "町名": "大字勝楽寺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112080480"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395311",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395320",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395322",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395323",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395331",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395332"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/103145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232567/103146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232567/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/103145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232574/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/103137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/103136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232591/103142.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県所沢市大字勝楽寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/所沢市/大字勝楽寺.json",
+    "name": "大字勝楽寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県所沢市"
+  }
+]

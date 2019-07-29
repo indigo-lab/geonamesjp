@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県大分市大字里",
+    "表記": "大分県大分市大字里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "大分市",
+      "町名": "大字里",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S442012324"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316579",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316589",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316588"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227001/105390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227002/105385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227001/105393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227000/105388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226998/105390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227001/105391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226999/105392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227000/105392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227000/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227002/105392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227003/105391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227003/105392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227004/105393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227003/105393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227002/105393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227003/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227004/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227004/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227004/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227005/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226998/105391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226996/105392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226997/105392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226996/105393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226997/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226997/105393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226997/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226999/105387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226998/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227001/105386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226998/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226999/105391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227000/105391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227000/105393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227001/105392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227001/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227002/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227002/105388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227002/105384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227002/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227003/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227005/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226999/105393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227002/105391.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県大分市大字里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/大分市/大字里.json",
+    "name": "大字里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県大分市"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西条市西泉甲",
+    "表記": "愛媛県西条市西泉甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "西条市",
+      "町名": "西泉甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336181",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336171",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336172"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228030/104803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228029/104797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228028/104802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228036/104799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228023/104806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228024/104804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228029/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228030/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228031/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228032/104810.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西条市西泉甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西条市/西泉甲.json",
+    "name": "西泉甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西条市"
+  }
+]

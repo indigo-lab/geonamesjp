@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字和江",
+    "表記": "京都府舞鶴市字和江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "字和江"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351271",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351272",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351281",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351262"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229572/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229580/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229577/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229577/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229578/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229574/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229572/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229574/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229578/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229580/103417.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字和江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/字和江.json",
+    "name": "字和江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

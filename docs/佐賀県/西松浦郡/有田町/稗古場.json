@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町稗古場",
+    "表記": "佐賀県西松浦郡有田町稗古場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "西松浦郡",
+      "市区町村": "有田町",
+      "町名": "稗古場",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S414010070"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町稗古場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/西松浦郡/有田町/稗古場.json",
+    "name": "稗古場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県西松浦郡有田町",
+    "children": [
+      "https://geonames.jp/resource/佐賀県西松浦郡有田町稗古場一丁目",
+      "https://geonames.jp/resource/佐賀県西松浦郡有田町稗古場二丁目"
+    ]
+  }
+]

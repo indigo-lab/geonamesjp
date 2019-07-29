@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県和光市松ノ木島町",
+    "表記": "埼玉県和光市松ノ木島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "松ノ木島町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395469",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395560"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232743/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232743/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232742/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232742/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232742/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232741/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232741/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232741/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232744/103117.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県和光市松ノ木島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/和光市/松ノ木島町.json",
+    "name": "松ノ木島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県和光市"
+  }
+]

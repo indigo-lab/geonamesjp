@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市門司区黒川",
+    "表記": "福岡県北九州市門司区黒川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "門司区",
+      "町名": "黒川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307728",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307717",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307718",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307719"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226447/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226435/104781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/104783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226445/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226451/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226452/104782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226454/104781.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市門司区黒川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/門司区/黒川.json",
+    "name": "黒川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市門司区"
+  }
+]

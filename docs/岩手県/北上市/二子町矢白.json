@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県北上市二子町矢白",
+    "表記": "岩手県北上市二子町矢白",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "北上市",
+      "町名": "二子町矢白"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417181"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233854/99886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233853/99884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233853/99883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233852/99882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233854/99883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233855/99883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233855/99884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233854/99884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233854/99888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233855/99885.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県北上市二子町矢白",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/北上市/二子町矢白.json",
+    "name": "二子町矢白",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県北上市"
+  }
+]

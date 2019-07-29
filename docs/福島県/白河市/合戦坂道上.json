@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市合戦坂道上",
+    "表記": "福島県白河市合戦坂道上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "合戦坂道上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405128"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233184/101935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233184/101936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233184/101937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/101936.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市合戦坂道上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/合戦坂道上.json",
+    "name": "合戦坂道上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

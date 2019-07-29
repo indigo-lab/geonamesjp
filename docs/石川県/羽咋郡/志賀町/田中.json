@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡志賀町田中",
+    "表記": "石川県羽咋郡志賀町田中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "羽咋郡",
+      "市区町村": "志賀町",
+      "町名": "田中",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S173840840"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365690",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365681",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365691"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230654/101889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230661/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230658/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230666/101887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230652/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230653/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230653/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230657/101887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230663/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230660/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230658/101886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230655/101886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230663/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230653/101886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230654/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230654/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230656/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230665/101891.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡志賀町田中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/羽咋郡/志賀町/田中.json",
+    "name": "田中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県羽咋郡志賀町"
+  }
+]

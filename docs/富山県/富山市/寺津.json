@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市寺津",
+    "表記": "富山県富山市寺津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "寺津",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162016670"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376119",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376210",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376118"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/102480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231009/102477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231003/102480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231004/102479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231004/102480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231002/102479.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市寺津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/寺津.json",
+    "name": "寺津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

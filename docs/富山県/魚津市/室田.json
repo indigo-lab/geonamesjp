@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県魚津市室田",
+    "表記": "富山県魚津市室田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "魚津市",
+      "町名": "室田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162040360"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371343",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371344",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371354"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231147/102223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231142/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231140/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231139/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231143/102226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231140/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231142/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231144/102227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231146/102225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231147/102225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231143/102227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231139/102228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231144/102228.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県魚津市室田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/魚津市/室田.json",
+    "name": "室田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県魚津市"
+  }
+]

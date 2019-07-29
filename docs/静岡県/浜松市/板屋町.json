@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市板屋町",
+    "表記": "静岡県浜松市板屋町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "板屋町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370548",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370549",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370558"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231369/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231366/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231368/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231367/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231367/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231366/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231366/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231365/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231370/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231368/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231367/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231369/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231368/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231370/104094.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市板屋町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/板屋町.json",
+    "name": "板屋町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市"
+  }
+]

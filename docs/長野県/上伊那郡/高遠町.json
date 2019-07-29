@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡高遠町",
+    "表記": "長野県上伊那郡高遠町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "上伊那郡",
+      "市区町村": "高遠町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20381-20060331",
+        "http://data.e-stat.go.jp/lod/sac/C20381-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C20381-19920301"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡高遠町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上伊那郡/高遠町.json",
+    "name": "高遠町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上伊那郡",
+    "children": [
+      "https://geonames.jp/resource/長野県上伊那郡高遠町下山田",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町三義",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町勝間",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町小原",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町上山田",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町西高遠",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町長藤",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町東高遠",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町藤沢",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町美篶",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町富県",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町多町",
+      "https://geonames.jp/resource/長野県上伊那郡高遠町大字東高遠"
+    ]
+  }
+]

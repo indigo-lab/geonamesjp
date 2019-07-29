@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県平鹿郡十文字町鼎",
+    "表記": "秋田県平鹿郡十文字町鼎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "平鹿郡",
+      "市区町村": "十文字町",
+      "町名": "鼎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406358",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406359",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406460",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406470"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233386/99982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233377/99981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/99982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233378/99981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/99977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/99983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233375/99983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/99984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/99982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233386/99981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/99981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/99983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/99973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233375/99981.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県平鹿郡十文字町鼎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/平鹿郡/十文字町/鼎.json",
+    "name": "鼎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県平鹿郡十文字町"
+  }
+]

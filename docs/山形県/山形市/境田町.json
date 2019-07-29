@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市境田町",
+    "表記": "山形県山形市境田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "境田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062012360"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403256",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403266"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233256/100837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/100839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/100838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/100837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/100840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/100843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/100842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/100841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/100845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/100844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/100842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/100841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/100839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/100843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/100840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/100837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/100842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233254/100841.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市境田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/境田町.json",
+    "name": "境田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県阿蘇郡南小国町",
+    "表記": "熊本県阿蘇郡南小国町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "阿蘇郡",
+      "市区町村": "南小国町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43423-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C43423-20071217"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県阿蘇郡南小国町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/阿蘇郡/南小国町.json",
+    "name": "南小国町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県阿蘇郡",
+    "children": [
+      "https://geonames.jp/resource/熊本県阿蘇郡南小国町大字赤馬場",
+      "https://geonames.jp/resource/熊本県阿蘇郡南小国町大字中原",
+      "https://geonames.jp/resource/熊本県阿蘇郡南小国町大字満願寺"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1184473"
+    ]
+  }
+]

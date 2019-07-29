@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県員弁郡大安町宇賀新田",
+    "表記": "三重県員弁郡大安町宇賀新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "員弁郡",
+      "市区町村": "大安町",
+      "町名": "宇賀新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365400",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365401",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365410",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365411"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230480/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230480/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230478/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230477/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230476/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230478/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230479/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230478/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230478/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230478/103749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230477/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230479/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230477/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230476/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230477/103751.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県員弁郡大安町宇賀新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/員弁郡/大安町/宇賀新田.json",
+    "name": "宇賀新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県員弁郡大安町"
+  }
+]

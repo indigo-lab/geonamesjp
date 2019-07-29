@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道二海郡八雲町三杉町",
+    "表記": "北海道二海郡八雲町三杉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "二海郡",
+      "市区町村": "八雲町",
+      "町名": "三杉町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道二海郡八雲町三杉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/二海郡/八雲町/三杉町.json",
+    "name": "三杉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道二海郡八雲町",
+    "children": [
+      "https://geonames.jp/resource/北海道二海郡八雲町三杉町（丁目なし）",
+      "https://geonames.jp/resource/北海道二海郡八雲町三杉町一丁目",
+      "https://geonames.jp/resource/北海道二海郡八雲町三杉町二丁目",
+      "https://geonames.jp/resource/北海道二海郡八雲町三杉町三丁目"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市水橋小出",
+    "表記": "富山県富山市水橋小出",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "水橋小出"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370285",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370275",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370284",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370286"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231064/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231064/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231064/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231065/102279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231066/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231067/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231066/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231067/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231066/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231064/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231065/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231064/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231058/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231070/102275.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市水橋小出",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/水橋小出.json",
+    "name": "水橋小出",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

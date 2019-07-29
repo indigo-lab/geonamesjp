@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道標津郡中標津町南中",
+    "表記": "北海道標津郡中標津町南中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "標津郡",
+      "市区町村": "中標津町",
+      "町名": "南中",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016921370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442717",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442718",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442726",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442727",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442736",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065442737"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236636/95808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236626/95796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236635/95798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236630/95800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236625/95803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236632/95805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236628/95808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236640/95809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236637/95807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236633/95811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236633/95806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236625/95796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236630/95803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236627/95807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236631/95798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236641/95810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236635/95809.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道標津郡中標津町南中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/標津郡/中標津町/南中.json",
+    "name": "南中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道標津郡中標津町"
+  }
+]

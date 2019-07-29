@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県甲府市富竹",
+    "表記": "山梨県甲府市富竹",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "甲府市",
+      "町名": "富竹",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S192010410"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県甲府市富竹",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/甲府市/富竹.json",
+    "name": "富竹",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県甲府市",
+    "children": [
+      "https://geonames.jp/resource/山梨県甲府市富竹一丁目",
+      "https://geonames.jp/resource/山梨県甲府市富竹二丁目",
+      "https://geonames.jp/resource/山梨県甲府市富竹三丁目",
+      "https://geonames.jp/resource/山梨県甲府市富竹四丁目"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市大字間々原新田下新池",
+    "表記": "愛知県小牧市大字間々原新田下新池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "大字間々原新田下新池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367753",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367763"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/103567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103566.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市大字間々原新田下新池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/大字間々原新田下新池.json",
+    "name": "大字間々原新田下新池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市"
+  }
+]

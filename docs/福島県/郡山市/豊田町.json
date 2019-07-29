@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県郡山市豊田町",
+    "表記": "福島県郡山市豊田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "豊田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072030340"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400279"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/101671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/101669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/101669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/101672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/101671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/101670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/101671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/101670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/101672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/101671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/101672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/101670.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県郡山市豊田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/郡山市/豊田町.json",
+    "name": "豊田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県郡山市"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡相川町戸中",
+    "表記": "新潟県佐渡郡相川町戸中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "佐渡郡",
+      "市区町村": "相川町",
+      "町名": "戸中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057381232",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057381241",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057381242",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057381252"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231769/100998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231760/101002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231765/101010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231766/101006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231759/101006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231760/101004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231763/101005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231759/101004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231762/101013.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡相川町戸中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/佐渡郡/相川町/戸中.json",
+    "name": "戸中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県佐渡郡相川町"
+  }
+]

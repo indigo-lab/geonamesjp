@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡栗橋町大字北広島",
+    "表記": "埼玉県北葛飾郡栗橋町大字北広島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "北葛飾郡",
+      "市区町村": "栗橋町",
+      "町名": "大字北広島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391536",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391535",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391546"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/102836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/102837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/102835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/102834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/102832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232803/102835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232802/102833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/102831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232802/102831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/102832.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡栗橋町大字北広島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/北葛飾郡/栗橋町/大字北広島.json",
+    "name": "大字北広島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県北葛飾郡栗橋町"
+  }
+]

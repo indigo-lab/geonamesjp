@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市平町揖斐川東",
+    "表記": "岐阜県大垣市平町揖斐川東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "大垣市",
+      "町名": "平町揖斐川東"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360502"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230580/103531.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市平町揖斐川東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/大垣市/平町揖斐川東.json",
+    "name": "平町揖斐川東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県大垣市"
+  }
+]

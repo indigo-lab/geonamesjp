@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市小中野",
+    "表記": "青森県八戸市小中野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "小中野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022030470"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市小中野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/小中野.json",
+    "name": "小中野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市",
+    "children": [
+      "https://geonames.jp/resource/青森県八戸市小中野一丁目",
+      "https://geonames.jp/resource/青森県八戸市小中野二丁目",
+      "https://geonames.jp/resource/青森県八戸市小中野三丁目",
+      "https://geonames.jp/resource/青森県八戸市小中野四丁目",
+      "https://geonames.jp/resource/青森県八戸市小中野五丁目",
+      "https://geonames.jp/resource/青森県八戸市小中野六丁目",
+      "https://geonames.jp/resource/青森県八戸市小中野七丁目",
+      "https://geonames.jp/resource/青森県八戸市小中野八丁目"
+    ]
+  }
+]

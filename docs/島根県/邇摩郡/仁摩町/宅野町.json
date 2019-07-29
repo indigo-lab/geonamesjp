@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県邇摩郡仁摩町宅野町",
+    "表記": "島根県邇摩郡仁摩町宅野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "邇摩郡",
+      "市区町村": "仁摩町",
+      "町名": "宅野町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052325392"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227486/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227490/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227490/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227490/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227488/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227488/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227488/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227489/103691.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県邇摩郡仁摩町宅野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/邇摩郡/仁摩町/宅野町.json",
+    "name": "宅野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県邇摩郡仁摩町"
+  }
+]

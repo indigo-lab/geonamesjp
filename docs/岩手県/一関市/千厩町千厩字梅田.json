@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県一関市千厩町千厩字梅田",
+    "表記": "岩手県一関市千厩町千厩字梅田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "一関市",
+      "町名": "千厩町千厩字梅田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412295",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412296"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233981/100267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233981/100268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233980/100269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233982/100268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233982/100269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233979/100268.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県一関市千厩町千厩字梅田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/一関市/千厩町千厩字梅田.json",
+    "name": "千厩町千厩字梅田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県一関市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県坂田郡伊吹町伊吹",
+    "表記": "滋賀県坂田郡伊吹町伊吹",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "坂田郡",
+      "市区町村": "伊吹町",
+      "町名": "伊吹"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360279",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360370",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360380"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230375/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230376/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230374/103481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230375/103480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230374/103482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230375/103481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230377/103480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230378/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230378/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230378/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230378/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230379/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230379/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230379/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230380/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230381/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230379/103473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230378/103472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230385/103473.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県坂田郡伊吹町伊吹",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/坂田郡/伊吹町/伊吹.json",
+    "name": "伊吹",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県坂田郡伊吹町"
+  }
+]

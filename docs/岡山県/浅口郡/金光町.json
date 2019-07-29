@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県浅口郡金光町",
+    "表記": "岡山県浅口郡金光町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "浅口郡",
+      "市区町村": "金光町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C33442-20060321",
+        "http://data.e-stat.go.jp/lod/sac/C33442-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県浅口郡金光町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/浅口郡/金光町.json",
+    "name": "金光町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県浅口郡",
+    "children": [
+      "https://geonames.jp/resource/岡山県浅口郡金光町須恵",
+      "https://geonames.jp/resource/岡山県浅口郡金光町佐方",
+      "https://geonames.jp/resource/岡山県浅口郡金光町上竹",
+      "https://geonames.jp/resource/岡山県浅口郡金光町占見新田",
+      "https://geonames.jp/resource/岡山県浅口郡金光町占見",
+      "https://geonames.jp/resource/岡山県浅口郡金光町八重",
+      "https://geonames.jp/resource/岡山県浅口郡金光町大谷",
+      "https://geonames.jp/resource/岡山県浅口郡金光町地頭下",
+      "https://geonames.jp/resource/岡山県浅口郡金光町下竹"
+    ]
+  }
+]

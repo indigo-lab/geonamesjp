@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県犬山市塔野地北",
+    "表記": "愛知県犬山市塔野地北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "犬山市",
+      "町名": "塔野地北",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232150090"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県犬山市塔野地北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/犬山市/塔野地北.json",
+    "name": "塔野地北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県犬山市",
+    "children": [
+      "https://geonames.jp/resource/愛知県犬山市塔野地北一丁目",
+      "https://geonames.jp/resource/愛知県犬山市塔野地北二丁目",
+      "https://geonames.jp/resource/愛知県犬山市塔野地北三丁目",
+      "https://geonames.jp/resource/愛知県犬山市塔野地北四丁目"
+    ]
+  }
+]

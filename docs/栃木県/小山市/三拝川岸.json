@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県小山市三拝川岸",
+    "表記": "栃木県小山市三拝川岸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "小山市",
+      "町名": "三拝川岸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394625"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232887/102618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232886/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232884/102621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232887/102621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/102621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232884/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232885/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/102621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/102622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/102621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/102623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/102620.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県小山市三拝川岸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/小山市/三拝川岸.json",
+    "name": "三拝川岸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県小山市"
+  }
+]

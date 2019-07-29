@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県鹿嶋市光",
+    "表記": "茨城県鹿嶋市光",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "鹿嶋市",
+      "町名": "光"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407522",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407523",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407513",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407524",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407533",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407543",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407532"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233507/102992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233497/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233497/102993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233507/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233506/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233503/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233510/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233505/102994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233504/102992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233504/102988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233501/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233500/102993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233501/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233503/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233507/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233498/102992.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県鹿嶋市光",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/鹿嶋市/光.json",
+    "name": "光",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県鹿嶋市"
+  }
+]

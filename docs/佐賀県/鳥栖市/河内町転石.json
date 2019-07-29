@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県鳥栖市河内町転石",
+    "表記": "佐賀県鳥栖市河内町転石",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "鳥栖市",
+      "町名": "河内町転石"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300388"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226081/105238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226087/105239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226085/105240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105238.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県鳥栖市河内町転石",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/鳥栖市/河内町転石.json",
+    "name": "河内町転石",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県鳥栖市"
+  }
+]

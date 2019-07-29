@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市小柳（丁目なし）",
+    "表記": "青森県青森市小柳（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022010551"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401673",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401683",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401684",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401693"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233595/98462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233600/98460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/98453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233598/98455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233598/98458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233598/98457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233598/98456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233599/98457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233599/98456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233599/98455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233598/98454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233597/98456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233597/98455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233597/98454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233597/98453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233597/98457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/98455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/98454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/98452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233598/98459.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市小柳（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/小柳/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市小柳"
+  }
+]

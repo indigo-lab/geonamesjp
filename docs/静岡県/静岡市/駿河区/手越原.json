@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市駿河区手越原",
+    "表記": "静岡県静岡市駿河区手越原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "区": "駿河区",
+      "町名": "手越原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S221020810"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383248",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383238",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383249"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231824/103878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231825/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231826/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231826/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231825/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231825/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231826/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231825/103878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231824/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231825/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231824/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231824/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231824/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231823/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231824/103881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231823/103881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231823/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231823/103878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231822/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231822/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231827/103877.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市駿河区手越原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/駿河区/手越原.json",
+    "name": "手越原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市駿河区"
+  }
+]

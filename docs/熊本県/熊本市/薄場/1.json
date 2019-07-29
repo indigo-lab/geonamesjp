@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市薄場一丁目",
+    "表記": "熊本県熊本市薄場一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301514",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301524"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226233/105791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226229/105790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226229/105791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226229/105792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105794.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市薄場一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/薄場/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市薄場"
+  }
+]

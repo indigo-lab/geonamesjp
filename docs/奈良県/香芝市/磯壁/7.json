@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県香芝市磯壁七丁目",
+    "表記": "奈良県香芝市磯壁七丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "香芝市",
+      "町名": "七丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S29210046007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356535",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356536"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229884/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229883/104252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229884/104250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229884/104252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229885/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229885/104250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/104250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229883/104251.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県香芝市磯壁七丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/香芝市/磯壁/7.json",
+    "name": "七丁目",
+    "alternateName": [
+      "7",
+      "7丁目",
+      "７",
+      "７丁目",
+      "七"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県香芝市磯壁"
+  }
+]

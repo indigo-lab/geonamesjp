@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県みよし市打越町山ノ神",
+    "表記": "愛知県みよし市打越町山ノ神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "みよし市",
+      "町名": "打越町山ノ神"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374098",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375008"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230907/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230908/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230908/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230909/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230908/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230907/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230909/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230909/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230910/103756.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県みよし市打越町山ノ神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/みよし市/打越町山ノ神.json",
+    "name": "打越町山ノ神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県みよし市"
+  }
+]

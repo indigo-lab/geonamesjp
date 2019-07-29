@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府亀岡市西別院町万願寺",
+    "表記": "京都府亀岡市西別院町万願寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "亀岡市",
+      "町名": "西別院町万願寺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S26206033002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353432",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353421",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353422",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353431"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229760/103884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229759/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229754/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229758/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229760/103883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229756/103884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229755/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229755/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229758/103884.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府亀岡市西別院町万願寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/亀岡市/西別院町万願寺.json",
+    "name": "西別院町万願寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府亀岡市"
+  }
+]

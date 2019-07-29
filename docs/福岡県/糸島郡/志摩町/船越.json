@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県糸島郡志摩町船越",
+    "表記": "福岡県糸島郡志摩町船越",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "糸島郡",
+      "市区町村": "志摩町",
+      "町名": "船越"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302069",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302160"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225822/105111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225821/105110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225823/105110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225822/105109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225823/105111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225823/105109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225826/105105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225821/105111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225822/105110.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県糸島郡志摩町船越",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/糸島郡/志摩町/船越.json",
+    "name": "船越",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県糸島郡志摩町"
+  }
+]

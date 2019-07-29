@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県岩国市立石町",
+    "表記": "山口県岩国市立石町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "立石町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352080100"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県岩国市立石町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/岩国市/立石町.json",
+    "name": "立石町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県岩国市",
+    "children": [
+      "https://geonames.jp/resource/山口県岩国市立石町一丁目",
+      "https://geonames.jp/resource/山口県岩国市立石町二丁目",
+      "https://geonames.jp/resource/山口県岩国市立石町三丁目",
+      "https://geonames.jp/resource/山口県岩国市立石町四丁目"
+    ]
+  }
+]

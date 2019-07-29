@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県東白川郡棚倉町一色カナイ神",
+    "表記": "福島県東白川郡棚倉町一色カナイ神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "東白川郡",
+      "市区町村": "棚倉町",
+      "町名": "一色カナイ神"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404391",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405302"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/101962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/101957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/101959.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県東白川郡棚倉町一色カナイ神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/東白川郡/棚倉町/一色カナイ神.json",
+    "name": "一色カナイ神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県東白川郡棚倉町"
+  }
+]

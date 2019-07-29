@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県大津市大萱七丁目",
+    "表記": "滋賀県大津市大萱七丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "大津市",
+      "町名": "七丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25201307007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353792"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230041/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230038/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230039/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230040/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230040/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230041/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230042/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230043/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230046/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230046/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230043/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230042/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230038/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230039/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230043/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230046/103839.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県大津市大萱七丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/大津市/大萱/7.json",
+    "name": "七丁目",
+    "alternateName": [
+      "7",
+      "7丁目",
+      "７",
+      "７丁目",
+      "七"
+    ],
+    "parentFeature": "https://geonames.jp/resource/滋賀県大津市大萱"
+  }
+]

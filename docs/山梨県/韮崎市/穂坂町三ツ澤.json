@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県韮崎市穂坂町三ツ澤",
+    "表記": "山梨県韮崎市穂坂町三ツ澤",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "韮崎市",
+      "町名": "穂坂町三ツ澤"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384357",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384367"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231912/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231906/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231905/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/103190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231904/103191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/103191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/103192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/103193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231905/103191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231904/103193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231913/103182.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県韮崎市穂坂町三ツ澤",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/韮崎市/穂坂町三ツ澤.json",
+    "name": "穂坂町三ツ澤",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県韮崎市"
+  }
+]

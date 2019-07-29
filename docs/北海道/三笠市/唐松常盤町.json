@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道三笠市唐松常盤町",
+    "表記": "北海道三笠市唐松常盤町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "唐松常盤町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012220450"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417703",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416793"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234415/96074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234415/96076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234413/96073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234412/96073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234414/96073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234412/96074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234413/96074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234414/96074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234413/96075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234414/96075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234414/96072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234415/96075.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道三笠市唐松常盤町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/三笠市/唐松常盤町.json",
+    "name": "唐松常盤町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道三笠市"
+  }
+]

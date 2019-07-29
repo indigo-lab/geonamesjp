@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市三の倉町大美山",
+    "表記": "岐阜県多治見市三の倉町大美山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "多治見市",
+      "町名": "三の倉町大美山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377077",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377067"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/103557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/103558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230903/103558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/103556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/103560.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市三の倉町大美山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/多治見市/三の倉町大美山.json",
+    "name": "三の倉町大美山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県多治見市"
+  }
+]

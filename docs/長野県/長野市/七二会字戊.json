@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県長野市七二会字戊",
+    "表記": "長野県長野市七二会字戊",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "長野市",
+      "町名": "七二会字戊"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054387067",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054387068",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054387077"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231632/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231629/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231625/102364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231632/102364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231633/102366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231630/102365.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県長野市七二会字戊",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/長野市/七二会字戊.json",
+    "name": "七二会字戊",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県長野市"
+  }
+]

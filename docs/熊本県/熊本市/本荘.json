@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市本荘",
+    "表記": "熊本県熊本市本荘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "本荘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市本荘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/本荘.json",
+    "name": "本荘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市",
+    "children": [
+      "https://geonames.jp/resource/熊本県熊本市本荘一丁目",
+      "https://geonames.jp/resource/熊本県熊本市本荘二丁目",
+      "https://geonames.jp/resource/熊本県熊本市本荘三丁目",
+      "https://geonames.jp/resource/熊本県熊本市本荘四丁目",
+      "https://geonames.jp/resource/熊本県熊本市本荘五丁目",
+      "https://geonames.jp/resource/熊本県熊本市本荘六丁目"
+    ]
+  }
+]

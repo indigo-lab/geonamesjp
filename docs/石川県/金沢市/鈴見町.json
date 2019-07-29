@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市鈴見町",
+    "表記": "石川県金沢市鈴見町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "鈴見町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172016700"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366564",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366574",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366575",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366584"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230604/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/102436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/102436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230607/102429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230605/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230606/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230606/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/102433.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市鈴見町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/鈴見町.json",
+    "name": "鈴見町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

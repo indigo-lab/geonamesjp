@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県四日市市江村町",
+    "表記": "三重県四日市市江村町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "江村町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242022120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364403",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364413"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230500/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230499/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230502/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230503/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230501/103824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230501/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230500/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230500/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230502/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230503/103824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230499/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230503/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230504/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230504/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230499/103828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230497/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230501/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230502/103823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230502/103824.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県四日市市江村町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/四日市市/江村町.json",
+    "name": "江村町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県四日市市"
+  }
+]

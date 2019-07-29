@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県上新川郡大沢野町葛原",
+    "表記": "富山県上新川郡大沢野町葛原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "上新川郡",
+      "市区町村": "大沢野町",
+      "町名": "葛原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376174",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376184"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230966/102424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230966/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230965/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230965/102424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/102422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/102423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230964/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230964/102424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/102424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102425.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県上新川郡大沢野町葛原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/上新川郡/大沢野町/葛原.json",
+    "name": "葛原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県上新川郡大沢野町"
+  }
+]

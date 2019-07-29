@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道河西郡芽室町東二条",
+    "表記": "北海道河西郡芽室町東二条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "河西郡",
+      "市区町村": "芽室町",
+      "町名": "東二条",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016370140"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道河西郡芽室町東二条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/河西郡/芽室町/東二条.json",
+    "name": "東二条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道河西郡芽室町",
+    "children": [
+      "https://geonames.jp/resource/北海道河西郡芽室町東二条一丁目",
+      "https://geonames.jp/resource/北海道河西郡芽室町東二条二丁目",
+      "https://geonames.jp/resource/北海道河西郡芽室町東二条三丁目",
+      "https://geonames.jp/resource/北海道河西郡芽室町東二条四丁目",
+      "https://geonames.jp/resource/北海道河西郡芽室町東二条五丁目",
+      "https://geonames.jp/resource/北海道河西郡芽室町東二条六丁目",
+      "https://geonames.jp/resource/北海道河西郡芽室町東二条七丁目",
+      "https://geonames.jp/resource/北海道河西郡芽室町東二条十丁目"
+    ]
+  }
+]

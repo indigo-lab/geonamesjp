@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市新開町",
+    "表記": "岐阜県大垣市新開町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "新開町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212021600"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360551",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360552"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230578/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230577/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230578/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230579/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230579/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230578/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230579/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230580/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230581/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230580/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230580/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230578/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230577/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230579/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103499.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市新開町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/大垣市/新開町.json",
+    "name": "新開町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県大垣市"
+  }
+]

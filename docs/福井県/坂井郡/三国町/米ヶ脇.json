@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井郡三国町米ヶ脇",
+    "表記": "福井県坂井郡三国町米ヶ脇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "坂井郡",
+      "市区町村": "三国町",
+      "町名": "米ヶ脇"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井郡三国町米ヶ脇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井郡/三国町/米ヶ脇.json",
+    "name": "米ヶ脇",
+    "alternateName": [
+      "米ケ脇"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井郡三国町",
+    "children": [
+      "https://geonames.jp/resource/福井県坂井郡三国町米ヶ脇（丁目なし）",
+      "https://geonames.jp/resource/福井県坂井郡三国町米ヶ脇一丁目",
+      "https://geonames.jp/resource/福井県坂井郡三国町米ヶ脇二丁目",
+      "https://geonames.jp/resource/福井県坂井郡三国町米ヶ脇三丁目",
+      "https://geonames.jp/resource/福井県坂井郡三国町米ヶ脇四丁目",
+      "https://geonames.jp/resource/福井県坂井郡三国町米ヶ脇五丁目"
+    ]
+  }
+]

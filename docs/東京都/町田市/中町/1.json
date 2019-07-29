@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都町田市中町一丁目",
+    "表記": "東京都町田市中町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "中町",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13209022001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392355",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392365"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232614/103344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/103348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/103347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232612/103346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232612/103345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232611/103345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232611/103344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232612/103344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/103346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232614/103346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232614/103345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/103345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/103344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232612/103343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/103343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232615/103344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232615/103345.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都町田市中町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/町田市/中町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都町田市中町"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀郡諸富町",
+    "表記": "佐賀県佐賀郡諸富町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "佐賀郡",
+      "市区町村": "諸富町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C41301-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C41301-19900326",
+        "http://data.e-stat.go.jp/lod/sac/C41301-19940228",
+        "http://data.e-stat.go.jp/lod/sac/C41301-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C41301-19890427"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀郡諸富町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/佐賀郡/諸富町.json",
+    "name": "諸富町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県佐賀郡",
+    "children": [
+      "https://geonames.jp/resource/佐賀県佐賀郡諸富町諸富津",
+      "https://geonames.jp/resource/佐賀県佐賀郡諸富町寺井津",
+      "https://geonames.jp/resource/佐賀県佐賀郡諸富町山領",
+      "https://geonames.jp/resource/佐賀県佐賀郡諸富町徳富",
+      "https://geonames.jp/resource/佐賀県佐賀郡諸富町大堂",
+      "https://geonames.jp/resource/佐賀県佐賀郡諸富町為重"
+    ]
+  }
+]

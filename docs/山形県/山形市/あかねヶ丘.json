@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市あかねヶ丘",
+    "表記": "山形県山形市あかねヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "あかねヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市あかねヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/あかねヶ丘.json",
+    "name": "あかねヶ丘",
+    "alternateName": [
+      "あかねケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市",
+    "children": [
+      "https://geonames.jp/resource/山形県山形市あかねヶ丘一丁目",
+      "https://geonames.jp/resource/山形県山形市あかねヶ丘二丁目",
+      "https://geonames.jp/resource/山形県山形市あかねヶ丘三丁目"
+    ]
+  }
+]

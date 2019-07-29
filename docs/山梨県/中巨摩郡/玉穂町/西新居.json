@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡玉穂町西新居",
+    "表記": "山梨県中巨摩郡玉穂町西新居",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "中巨摩郡",
+      "市区町村": "玉穂町",
+      "町名": "西新居"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383433"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231957/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231957/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231957/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231956/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231957/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231957/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231959/103290.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡玉穂町西新居",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/中巨摩郡/玉穂町/西新居.json",
+    "name": "西新居",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県中巨摩郡玉穂町"
+  }
+]

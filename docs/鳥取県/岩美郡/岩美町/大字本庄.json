@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県岩美郡岩美町大字本庄",
+    "表記": "鳥取県岩美郡岩美町大字本庄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "岩美郡",
+      "市区町村": "岩美町",
+      "町名": "大字本庄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342264",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342275",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342285",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342296"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228879/103327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228885/103320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228876/103326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/103326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228878/103326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228878/103327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228880/103329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228879/103328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228878/103328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/103327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228876/103327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228876/103333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228869/103341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/103334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228871/103340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228875/103327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/103328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228879/103329.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県岩美郡岩美町大字本庄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/岩美郡/岩美町/大字本庄.json",
+    "name": "大字本庄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県岩美郡岩美町"
+  }
+]

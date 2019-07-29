@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県君津市練木",
+    "表記": "千葉県君津市練木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "君津市",
+      "町名": "練木",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122250570"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397786"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232981/103556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/103556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/103555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/103555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232981/103557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232981/103554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/103554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232981/103546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/103553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/103555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/103548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232980/103554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232981/103555.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県君津市練木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/君津市/練木.json",
+    "name": "練木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県君津市"
+  }
+]

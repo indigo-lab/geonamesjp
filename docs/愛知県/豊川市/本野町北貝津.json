@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊川市本野町北貝津",
+    "表記": "愛知県豊川市本野町北貝津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊川市",
+      "町名": "本野町北貝津"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372300"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231108/103976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231108/103977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231109/103977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231110/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231108/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231109/103978.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊川市本野町北貝津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊川市/本野町北貝津.json",
+    "name": "本野町北貝津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊川市"
+  }
+]

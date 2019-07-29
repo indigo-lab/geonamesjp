@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県犬山市字八曽",
+    "表記": "愛知県犬山市字八曽",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "犬山市",
+      "町名": "字八曽"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370022",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370000",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370003",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370021",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370011",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370012",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370013",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370023"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230853/103521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230853/103520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/103532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/103520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/103526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230855/103529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230860/103527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/103531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/103522.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県犬山市字八曽",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/犬山市/字八曽.json",
+    "name": "字八曽",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県犬山市"
+  }
+]

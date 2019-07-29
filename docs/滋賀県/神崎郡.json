@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡",
+    "表記": "滋賀県神崎郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "神崎郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C25400-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C25400-20060101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/神崎郡.json",
+    "name": "神崎郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県",
+    "children": [
+      "https://geonames.jp/resource/滋賀県神崎郡永源寺町",
+      "https://geonames.jp/resource/滋賀県神崎郡能登川町",
+      "https://geonames.jp/resource/滋賀県神崎郡五個荘町",
+      "https://geonames.jp/resource/滋賀県神崎郡五峰村",
+      "https://geonames.jp/resource/滋賀県神崎郡伊庭村",
+      "https://geonames.jp/resource/滋賀県神崎郡八幡村",
+      "https://geonames.jp/resource/滋賀県神崎郡八日市町",
+      "https://geonames.jp/resource/滋賀県神崎郡北五個荘村",
+      "https://geonames.jp/resource/滋賀県神崎郡南五個荘村",
+      "https://geonames.jp/resource/滋賀県神崎郡山上村",
+      "https://geonames.jp/resource/滋賀県神崎郡建部村",
+      "https://geonames.jp/resource/滋賀県神崎郡御園村",
+      "https://geonames.jp/resource/滋賀県神崎郡旭村",
+      "https://geonames.jp/resource/滋賀県神崎郡栗見村",
+      "https://geonames.jp/resource/滋賀県神崎郡栗見荘村",
+      "https://geonames.jp/resource/滋賀県神崎郡能登川村",
+      "https://geonames.jp/resource/滋賀県神崎郡永源寺村"
+    ]
+  }
+]

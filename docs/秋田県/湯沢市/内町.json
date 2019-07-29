@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市内町",
+    "表記": "秋田県湯沢市内町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "内町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052070250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058405399",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058405389"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233376/100037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233376/100036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233377/100038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233376/100038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233376/100039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233377/100037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233377/100036.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市内町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/湯沢市/内町.json",
+    "name": "内町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県湯沢市"
+  }
+]

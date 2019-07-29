@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市川向町字井シトビ",
+    "表記": "愛知県岡崎市川向町字井シトビ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "川向町字井シトビ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374148"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230999/103800.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市川向町字井シトビ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/川向町字井シトビ.json",
+    "name": "川向町字井シトビ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

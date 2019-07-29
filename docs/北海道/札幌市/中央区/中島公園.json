@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道札幌市中央区中島公園",
+    "表記": "北海道札幌市中央区中島公園",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "札幌市",
+      "区": "中央区",
+      "町名": "中島公園",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S011011800"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414258",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414248"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234002/96280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234003/96280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234001/96282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234001/96279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234001/96280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234002/96279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234002/96277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234002/96276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234003/96277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234003/96282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234004/96283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234004/96278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234004/96280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234004/96279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234001/96278.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道札幌市中央区中島公園",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/札幌市/中央区/中島公園.json",
+    "name": "中島公園",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道札幌市中央区"
+  }
+]

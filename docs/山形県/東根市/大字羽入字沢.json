@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県東根市大字羽入字沢",
+    "表記": "山形県東根市大字羽入字沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "東根市",
+      "町名": "大字羽入字沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057404288"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233273/100739.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県東根市大字羽入字沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/東根市/大字羽入字沢.json",
+    "name": "大字羽入字沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県東根市"
+  }
+]

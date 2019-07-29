@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府八幡市西山丸尾",
+    "表記": "京都府八幡市西山丸尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "八幡市",
+      "町名": "西山丸尾",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S26210121053"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352544",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352545"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229875/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229877/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229878/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229877/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229876/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229876/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229876/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229875/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229874/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229877/103949.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府八幡市西山丸尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/八幡市/西山丸尾.json",
+    "name": "西山丸尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府八幡市"
+  }
+]

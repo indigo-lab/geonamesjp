@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県西宮市名塩",
+    "表記": "兵庫県西宮市名塩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "西宮市",
+      "町名": "名塩",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282045330"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県西宮市名塩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/西宮市/名塩.json",
+    "name": "名塩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県西宮市",
+    "children": [
+      "https://geonames.jp/resource/兵庫県西宮市名塩一丁目",
+      "https://geonames.jp/resource/兵庫県西宮市名塩二丁目",
+      "https://geonames.jp/resource/兵庫県西宮市名塩三丁目"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士市田島",
+    "表記": "静岡県富士市田島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "富士市",
+      "町名": "田島",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222100220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385585",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385575"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232066/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232068/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232067/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232065/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232065/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232067/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232067/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232064/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232066/103703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232064/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232066/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232065/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232068/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232067/103702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232067/103703.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士市田島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士市/田島.json",
+    "name": "田島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士市"
+  }
+]

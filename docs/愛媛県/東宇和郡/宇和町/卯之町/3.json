@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県東宇和郡宇和町卯之町三丁目",
+    "表記": "愛媛県東宇和郡宇和町卯之町三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "東宇和郡",
+      "市区町村": "宇和町",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050320430",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050320431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050320420"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227565/105274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/105274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/105275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227564/105274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227564/105276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227565/105275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227565/105276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227564/105275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227563/105275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227565/105277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227564/105277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227564/105279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227565/105279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227562/105279.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県東宇和郡宇和町卯之町三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/東宇和郡/宇和町/卯之町/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛媛県東宇和郡宇和町卯之町"
+  }
+]

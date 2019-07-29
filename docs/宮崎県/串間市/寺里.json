@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県串間市寺里",
+    "表記": "宮崎県串間市寺里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "串間市",
+      "町名": "寺里",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S452070170"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県串間市寺里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/串間市/寺里.json",
+    "name": "寺里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県串間市",
+    "children": [
+      "https://geonames.jp/resource/宮崎県串間市寺里一丁目",
+      "https://geonames.jp/resource/宮崎県串間市寺里二丁目"
+    ]
+  }
+]

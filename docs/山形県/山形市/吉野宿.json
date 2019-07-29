@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市吉野宿",
+    "表記": "山形県山形市吉野宿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "吉野宿"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403243",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403253"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/100845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/100845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/100851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233227/100851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233229/100851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233229/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233229/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233229/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/100851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/100851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/100850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233232/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/100853.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市吉野宿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/吉野宿.json",
+    "name": "吉野宿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市小佐々町葛籠",
+    "表記": "長崎県佐世保市小佐々町葛籠",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "佐世保市",
+      "町名": "小佐々町葛籠"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296489",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296580"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225461/105386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225463/105388.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市小佐々町葛籠",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/佐世保市/小佐々町葛籠.json",
+    "name": "小佐々町葛籠",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県佐世保市"
+  }
+]

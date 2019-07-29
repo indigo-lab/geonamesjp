@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県小矢部市北一",
+    "表記": "富山県小矢部市北一",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "小矢部市",
+      "町名": "北一",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162090810"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367667",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367666",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367676"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/102366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230711/102365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230712/102367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230709/102365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230710/102364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230712/102363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/102361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/102362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/102361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/102365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/102363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230712/102366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/102365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230706/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230708/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230712/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/102364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230707/102365.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県小矢部市北一",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/小矢部市/北一.json",
+    "name": "北一",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県小矢部市"
+  }
+]

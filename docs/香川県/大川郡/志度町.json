@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県大川郡志度町",
+    "表記": "香川県大川郡志度町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "大川郡",
+      "市区町村": "志度町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C37306-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C37306-20020401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県大川郡志度町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/大川郡/志度町.json",
+    "name": "志度町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県大川郡",
+    "children": [
+      "https://geonames.jp/resource/香川県大川郡志度町鴨庄",
+      "https://geonames.jp/resource/香川県大川郡志度町鴨部",
+      "https://geonames.jp/resource/香川県大川郡志度町志度",
+      "https://geonames.jp/resource/香川県大川郡志度町末"
+    ]
+  }
+]

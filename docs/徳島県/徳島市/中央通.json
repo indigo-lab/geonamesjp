@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県徳島市中央通",
+    "表記": "徳島県徳島市中央通",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "徳島市",
+      "町名": "中央通",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S362010290"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県徳島市中央通",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/徳島市/中央通.json",
+    "name": "中央通",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県徳島市",
+    "children": [
+      "https://geonames.jp/resource/徳島県徳島市中央通一丁目",
+      "https://geonames.jp/resource/徳島県徳島市中央通二丁目",
+      "https://geonames.jp/resource/徳島県徳島市中央通三丁目",
+      "https://geonames.jp/resource/徳島県徳島市中央通四丁目"
+    ]
+  }
+]

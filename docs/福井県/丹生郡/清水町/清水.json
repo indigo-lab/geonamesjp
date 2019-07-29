@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県丹生郡清水町清水",
+    "表記": "福井県丹生郡清水町清水",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "丹生郡",
+      "市区町村": "清水町",
+      "町名": "清水"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360172"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/102889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/102887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/102886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/102889.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県丹生郡清水町清水",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/丹生郡/清水町/清水.json",
+    "name": "清水",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県丹生郡清水町"
+  }
+]

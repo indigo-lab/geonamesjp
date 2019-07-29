@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県津久井郡津久井町",
+    "表記": "神奈川県津久井郡津久井町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "郡": "津久井郡",
+      "市区町村": "津久井町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C14422-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C14422-20060320"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県津久井郡津久井町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/津久井郡/津久井町.json",
+    "name": "津久井町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県津久井郡",
+    "children": [
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町根小屋",
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町三ヶ木",
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町三井",
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町青山",
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町青野原",
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町太井",
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町中野",
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町長竹",
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町鳥屋",
+      "https://geonames.jp/resource/神奈川県津久井郡津久井町又野"
+    ]
+  }
+]

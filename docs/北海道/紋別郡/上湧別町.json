@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道紋別郡上湧別町",
+    "表記": "北海道紋別郡上湧別町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "紋別郡",
+      "市区町村": "上湧別町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C01558-20091005",
+        "http://data.e-stat.go.jp/lod/sac/C01558-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道紋別郡上湧別町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/紋別郡/上湧別町.json",
+    "name": "上湧別町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道紋別郡",
+    "children": [
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字札富美",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字旭",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字富美",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字上富美",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字開盛",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字南兵村一区",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字南兵村二区",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字南兵村三区",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字屯田市街地",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字北兵村一区",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字中湧別",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字北兵村三区",
+      "https://geonames.jp/resource/北海道紋別郡上湧別町字北兵村二区"
+    ]
+  }
+]

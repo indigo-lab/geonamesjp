@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県西礪波郡",
+    "表記": "富山県西礪波郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "西礪波郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C16420-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C16420-20051101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県西礪波郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/西礪波郡.json",
+    "name": "西礪波郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県",
+    "children": [
+      "https://geonames.jp/resource/富山県西礪波郡福光町",
+      "https://geonames.jp/resource/富山県西礪波郡福岡町"
+    ]
+  }
+]

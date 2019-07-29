@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市若松西",
+    "表記": "三重県鈴鹿市若松西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "鈴鹿市",
+      "町名": "若松西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242071060"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市若松西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/鈴鹿市/若松西.json",
+    "name": "若松西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県鈴鹿市",
+    "children": [
+      "https://geonames.jp/resource/三重県鈴鹿市若松西一丁目",
+      "https://geonames.jp/resource/三重県鈴鹿市若松西二丁目",
+      "https://geonames.jp/resource/三重県鈴鹿市若松西三丁目",
+      "https://geonames.jp/resource/三重県鈴鹿市若松西四丁目",
+      "https://geonames.jp/resource/三重県鈴鹿市若松西五丁目",
+      "https://geonames.jp/resource/三重県鈴鹿市若松西六丁目"
+    ]
+  }
+]

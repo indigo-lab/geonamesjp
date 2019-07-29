@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市薄袋",
+    "表記": "新潟県上越市薄袋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "薄袋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385158",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385168",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385169",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385179",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385188"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231736/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231736/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231738/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231737/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231737/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231736/101900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231736/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231737/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231738/101900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231733/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231733/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231733/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231733/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231737/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231732/101894.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市薄袋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/薄袋.json",
+    "name": "薄袋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市浅虫字蛍谷",
+    "表記": "青森県青森市浅虫字蛍谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "浅虫字蛍谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402668",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402669",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402678",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402679"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/98389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/98388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/98392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/98391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/98390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/98389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233646/98389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/98391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233649/98385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/98387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233642/98389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233643/98391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233647/98390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/98392.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市浅虫字蛍谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/浅虫字蛍谷.json",
+    "name": "浅虫字蛍谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市"
+  }
+]

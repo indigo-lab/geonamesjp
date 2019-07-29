@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市時水",
+    "表記": "新潟県小千谷市時水",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "小千谷市",
+      "町名": "時水"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387651",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387652",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387661",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387662"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232120/101756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232120/101757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232121/101757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232125/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232120/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232120/101758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232120/101762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232121/101761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232122/101761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232122/101763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232122/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232124/101761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232124/101763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232123/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232123/101758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232124/101758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232125/101762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232126/101761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232120/101760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232119/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232119/101760.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市時水",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/小千谷市/時水.json",
+    "name": "時水",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県小千谷市"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士市青葉町",
+    "表記": "静岡県富士市青葉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "青葉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222101390"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385592",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385593"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232041/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232045/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232045/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232044/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232044/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232044/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232044/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232041/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232040/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232040/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232041/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232041/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232041/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232040/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232040/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232041/103687.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士市青葉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士市/青葉町.json",
+    "name": "青葉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士市"
+  }
+]

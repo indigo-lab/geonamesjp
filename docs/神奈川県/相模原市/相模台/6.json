@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県相模原市相模台六丁目",
+    "表記": "神奈川県相模原市相模台六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "相模原市",
+      "町名": "六丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392322",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392312"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232585/103370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/103370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/103371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232585/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232585/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/103371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/103371.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県相模原市相模台六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/相模原市/相模台/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県相模原市相模台"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市芹山",
+    "表記": "新潟県三条市芹山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三条市",
+      "町名": "芹山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152040940"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383722"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232210/101485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232211/101484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232211/101485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232212/101485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232212/101486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/101487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232210/101487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232209/101486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232212/101482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/101483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232213/101486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232216/101483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/101481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/101482.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市芹山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/芹山.json",
+    "name": "芹山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市"
+  }
+]

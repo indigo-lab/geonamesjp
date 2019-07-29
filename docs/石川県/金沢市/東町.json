@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市東町",
+    "表記": "石川県金沢市東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172017140"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365690",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365680"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230659/102492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230659/102493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230655/102495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230658/102491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230658/102495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230656/102496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230659/102491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230657/102496.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/東町.json",
+    "name": "東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市祗園町",
+    "表記": "長崎県佐世保市祗園町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "祗園町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296507",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296508",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296517",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296518"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225535/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225535/105441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225534/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225536/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225535/105439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225534/105438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225533/105438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225536/105439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225534/105439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225535/105438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225533/105437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225533/105439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225532/105437.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市祗園町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/佐世保市/祗園町.json",
+    "name": "祗園町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県佐世保市"
+  }
+]

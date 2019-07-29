@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市北会津町二方甲",
+    "表記": "福島県会津若松市北会津町二方甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "会津若松市",
+      "町名": "北会津町二方甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391698",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391699"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/101583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/101579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/101582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/101582.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市北会津町二方甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/北会津町二方甲.json",
+    "name": "北会津町二方甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市"
+  }
+]

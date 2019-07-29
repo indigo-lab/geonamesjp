@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市小久保",
+    "表記": "埼玉県飯能市小久保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "飯能市",
+      "町名": "小久保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396237",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396247"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232539/103064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232538/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232537/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232538/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232539/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232539/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232536/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232536/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232537/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232538/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232539/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232539/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232537/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232533/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232534/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232533/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232532/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/103057.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市小久保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/飯能市/小久保.json",
+    "name": "小久保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県飯能市"
+  }
+]

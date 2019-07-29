@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡大和町芹田",
+    "表記": "新潟県南魚沼郡大和町芹田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "南魚沼郡",
+      "市区町村": "大和町",
+      "町名": "芹田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385773",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385783",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385784"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232232/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232233/101894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232234/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232233/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232235/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/101897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232233/101897.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡大和町芹田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/南魚沼郡/大和町/芹田.json",
+    "name": "芹田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県南魚沼郡大和町"
+  }
+]

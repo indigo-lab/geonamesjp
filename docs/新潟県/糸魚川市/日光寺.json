@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市日光寺",
+    "表記": "新潟県糸魚川市日光寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "糸魚川市",
+      "町名": "日光寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374734",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374735",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374744"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231513/102007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231514/102005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231513/102003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231514/102004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231515/102005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231515/102004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231517/102004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231517/102005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/102004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/102003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/102003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/102005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231514/102007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231515/102007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/102002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/102002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/102004.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市日光寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/糸魚川市/日光寺.json",
+    "name": "日光寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県糸魚川市"
+  }
+]

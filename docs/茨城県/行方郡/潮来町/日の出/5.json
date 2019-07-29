@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県行方郡潮来町日の出五丁目",
+    "表記": "茨城県行方郡潮来町日の出五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "行方郡",
+      "市区町村": "潮来町",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407415",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407416"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233436/103002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233435/103002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233435/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233434/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233433/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233433/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233435/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233433/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233433/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233432/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233432/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233432/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233432/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233431/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233431/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/103003.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県行方郡潮来町日の出五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/行方郡/潮来町/日の出/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県行方郡潮来町日の出"
+  }
+]

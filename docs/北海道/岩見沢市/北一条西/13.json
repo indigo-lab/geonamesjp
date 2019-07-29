@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道岩見沢市北一条西十三丁目",
+    "表記": "北海道岩見沢市北一条西十三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "岩見沢市",
+      "町名": "十三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01210009113"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416640"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234292/96124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234291/96123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234291/96124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234292/96123.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道岩見沢市北一条西十三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/岩見沢市/北一条西/13.json",
+    "name": "十三丁目",
+    "alternateName": [
+      "13",
+      "13丁目",
+      "１３",
+      "１３丁目",
+      "十三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道岩見沢市北一条西"
+  }
+]

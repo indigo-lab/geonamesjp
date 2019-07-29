@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市横根",
+    "表記": "新潟県魚沼市横根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "魚沼市",
+      "町名": "横根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390045",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390054",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390056"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232350/101684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/101686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/101687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232331/101690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/101695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101691.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市横根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/魚沼市/横根.json",
+    "name": "横根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県魚沼市"
+  }
+]

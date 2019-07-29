@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市西区池田",
+    "表記": "熊本県熊本市西区池田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "区": "西区",
+      "町名": "池田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市西区池田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/西区/池田.json",
+    "name": "池田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市西区",
+    "children": [
+      "https://geonames.jp/resource/熊本県熊本市西区池田（丁目なし）",
+      "https://geonames.jp/resource/熊本県熊本市西区池田一丁目",
+      "https://geonames.jp/resource/熊本県熊本市西区池田二丁目",
+      "https://geonames.jp/resource/熊本県熊本市西区池田三丁目",
+      "https://geonames.jp/resource/熊本県熊本市西区池田四丁目"
+    ]
+  }
+]

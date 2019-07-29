@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡牧園町三体堂",
+    "表記": "鹿児島県姶良郡牧園町三体堂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "姶良郡",
+      "市区町村": "牧園町",
+      "町名": "三体堂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306630",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306631",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306632",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306641"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226295/106568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226292/106565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226294/106565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226293/106564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226296/106565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226291/106570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226288/106570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/106570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226289/106574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226303/106573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226304/106572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226304/106574.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡牧園町三体堂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/姶良郡/牧園町/三体堂.json",
+    "name": "三体堂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県姶良郡牧園町"
+  }
+]

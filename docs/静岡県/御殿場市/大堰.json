@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県御殿場市大堰",
+    "表記": "静岡県御殿場市大堰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "御殿場市",
+      "町名": "大堰",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222150430"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387786",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387795"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232259/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232250/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232257/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232258/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/103542.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県御殿場市大堰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/御殿場市/大堰.json",
+    "name": "大堰",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県御殿場市"
+  }
+]

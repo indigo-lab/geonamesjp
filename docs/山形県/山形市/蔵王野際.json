@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市蔵王野際",
+    "表記": "山形県山形市蔵王野際",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "蔵王野際"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402245",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402236"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233250/100930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233251/100931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233251/100930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/100932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233249/100930.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市蔵王野際",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/蔵王野際.json",
+    "name": "蔵王野際",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

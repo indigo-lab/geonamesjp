@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市沓掛町",
+    "表記": "奈良県奈良市沓掛町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "沓掛町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292018260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350703",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230047/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230043/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230042/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230049/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230046/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230046/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230050/104127.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市沓掛町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/沓掛町.json",
+    "name": "沓掛町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市"
+  }
+]

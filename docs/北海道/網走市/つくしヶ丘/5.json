@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道網走市つくしヶ丘五丁目",
+    "表記": "北海道網走市つくしヶ丘五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "網走市",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065447283",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065447282",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065447293"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236141/95329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236141/95327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236140/95328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236139/95328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236139/95329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236140/95330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236139/95330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236138/95329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236142/95328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236142/95329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236141/95330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236143/95329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236141/95328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236140/95329.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道網走市つくしヶ丘五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/網走市/つくしヶ丘/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道網走市つくしヶ丘"
+  }
+]

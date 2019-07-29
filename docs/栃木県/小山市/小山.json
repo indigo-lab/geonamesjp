@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県小山市小山",
+    "表記": "栃木県小山市小山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "小山市",
+      "町名": "小山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393655",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393665",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393683"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/102680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/102677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232885/102673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232885/102670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/102666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232866/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232867/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232867/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232866/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232867/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/102676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/102681.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県小山市小山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/小山市/小山.json",
+    "name": "小山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県小山市"
+  }
+]

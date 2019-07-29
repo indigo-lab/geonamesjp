@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市木瀬町字隠ケ沢",
+    "表記": "愛知県豊田市木瀬町字隠ケ沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "木瀬町字隠ケ沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376168"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231001/103641.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市木瀬町字隠ケ沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/木瀬町字隠ケ沢.json",
+    "name": "木瀬町字隠ケ沢",
+    "alternateName": [
+      "木瀬町字隠ヶ沢"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

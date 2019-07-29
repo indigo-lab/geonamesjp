@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市山崎町生谷",
+    "表記": "兵庫県宍粟市山崎町生谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "宍粟市",
+      "町名": "山崎町生谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344423",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344413"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229042/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229043/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229043/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229044/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229045/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229042/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229043/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229041/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229042/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229044/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229042/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229046/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229044/103819.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市山崎町生谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/宍粟市/山崎町生谷.json",
+    "name": "山崎町生谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県宍粟市"
+  }
+]

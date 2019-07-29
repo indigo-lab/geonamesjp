@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県吉田郡永平寺町上浄法寺",
+    "表記": "福井県吉田郡永平寺町上浄法寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "吉田郡",
+      "市区町村": "永平寺町",
+      "町名": "上浄法寺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S18322050000",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S183220500"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361228",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361218"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230362/102849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230362/102851.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県吉田郡永平寺町上浄法寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/吉田郡/永平寺町/上浄法寺.json",
+    "name": "上浄法寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県吉田郡永平寺町"
+  }
+]

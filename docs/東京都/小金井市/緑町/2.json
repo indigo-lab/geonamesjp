@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都小金井市緑町二丁目",
+    "表記": "東京都小金井市緑町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "緑町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13210004002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394441",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394451"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232668/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232668/103204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232668/103203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232668/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232668/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232668/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232668/103199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103205.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都小金井市緑町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/小金井市/緑町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都小金井市緑町"
+  }
+]

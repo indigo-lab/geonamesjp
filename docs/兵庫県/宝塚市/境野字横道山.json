@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県宝塚市境野字横道山",
+    "表記": "兵庫県宝塚市境野字横道山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "宝塚市",
+      "町名": "境野字横道山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352264"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229601/103933.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県宝塚市境野字横道山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/宝塚市/境野字横道山.json",
+    "name": "境野字横道山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県宝塚市"
+  }
+]

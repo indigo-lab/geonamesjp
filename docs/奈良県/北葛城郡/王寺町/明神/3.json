@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡王寺町明神三丁目",
+    "表記": "奈良県北葛城郡王寺町明神三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "北葛城郡",
+      "市区町村": "王寺町",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S29425010003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356594",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356595"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229878/104207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229879/104207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229877/104207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229877/104206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229877/104205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229876/104206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229876/104205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229876/104207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229875/104207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229877/104208.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡王寺町明神三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/北葛城郡/王寺町/明神/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県北葛城郡王寺町明神"
+  }
+]

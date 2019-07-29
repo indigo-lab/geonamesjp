@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県周南市中畷町",
+    "表記": "山口県周南市中畷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "中畷町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352151530"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310588"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226992/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226993/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226992/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226993/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226994/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226994/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226993/104657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226993/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226994/104657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226994/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226993/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226995/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226995/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226992/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226991/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226992/104655.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県周南市中畷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/周南市/中畷町.json",
+    "name": "中畷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県周南市"
+  }
+]

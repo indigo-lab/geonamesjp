@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県飽海郡遊佐町北目字石淵",
+    "表記": "山形県飽海郡遊佐町北目字石淵",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "郡": "飽海郡",
+      "市区町村": "遊佐町",
+      "町名": "北目字石淵"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058394771",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058394780"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232936/100127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/100123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/100122.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県飽海郡遊佐町北目字石淵",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/飽海郡/遊佐町/北目字石淵.json",
+    "name": "北目字石淵",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県飽海郡遊佐町"
+  }
+]

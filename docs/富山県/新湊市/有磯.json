@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県新湊市有磯",
+    "表記": "富山県新湊市有磯",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "新湊市",
+      "町名": "有磯"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県新湊市有磯",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/新湊市/有磯.json",
+    "name": "有磯",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県新湊市",
+    "children": [
+      "https://geonames.jp/resource/富山県新湊市有磯一丁目",
+      "https://geonames.jp/resource/富山県新湊市有磯二丁目"
+    ]
+  }
+]

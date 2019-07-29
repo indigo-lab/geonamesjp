@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県遠野市東穀町",
+    "表記": "岩手県遠野市東穀町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "東穀町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032080050"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417493",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417492"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234136/99876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234135/99877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234136/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234137/99877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234137/99876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234136/99877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234136/99875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234136/99874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234137/99875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234138/99875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234135/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234137/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234138/99877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234139/99875.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県遠野市東穀町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/遠野市/東穀町.json",
+    "name": "東穀町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県遠野市"
+  }
+]

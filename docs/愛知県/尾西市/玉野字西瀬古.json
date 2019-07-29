@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県尾西市玉野字西瀬古",
+    "表記": "愛知県尾西市玉野字西瀬古",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "尾西市",
+      "町名": "玉野字西瀬古"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367529"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230642/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230642/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230644/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230642/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230643/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230644/103594.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県尾西市玉野字西瀬古",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/尾西市/玉野字西瀬古.json",
+    "name": "玉野字西瀬古",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県尾西市"
+  }
+]

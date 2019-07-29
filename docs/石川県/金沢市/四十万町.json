@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市四十万町",
+    "表記": "石川県金沢市四十万町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "四十万町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172012340"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366409",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365580"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/102484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/102484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/102486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/102489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/102492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230555/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230560/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/102483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/102486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230555/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230551/102483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230550/102489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/102485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/102485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230550/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230551/102484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230550/102484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230551/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230550/102485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230551/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230551/102486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230550/102486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230550/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230551/102485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230551/102489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230563/102486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230560/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230564/102496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230561/102492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230555/102486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/102493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/102482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230560/102482.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市四十万町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/四十万町.json",
+    "name": "四十万町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

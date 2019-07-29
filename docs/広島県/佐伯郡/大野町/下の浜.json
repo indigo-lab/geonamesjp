@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡大野町下の浜",
+    "表記": "広島県佐伯郡大野町下の浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "佐伯郡",
+      "市区町村": "大野町",
+      "町名": "下の浜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323242",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323252"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227395/104464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227395/104463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227394/104462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227392/104461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227392/104460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227396/104464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227394/104463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227396/104463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227393/104462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227392/104462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227394/104461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227393/104460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227391/104460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227392/104459.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡大野町下の浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/佐伯郡/大野町/下の浜.json",
+    "name": "下の浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県佐伯郡大野町"
+  }
+]

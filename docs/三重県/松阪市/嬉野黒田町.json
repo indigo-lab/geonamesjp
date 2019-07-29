@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県松阪市嬉野黒田町",
+    "表記": "三重県松阪市嬉野黒田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "嬉野黒田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242041870"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367368"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230452/104151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230453/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230454/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230453/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230454/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230454/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230453/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230452/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230453/104151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230454/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230454/104151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230453/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230452/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230452/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230452/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230452/104153.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県松阪市嬉野黒田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/松阪市/嬉野黒田町.json",
+    "name": "嬉野黒田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県松阪市"
+  }
+]

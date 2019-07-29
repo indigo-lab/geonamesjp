@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県北名古屋市沖村井島",
+    "表記": "愛知県北名古屋市沖村井島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "北名古屋市",
+      "町名": "沖村井島",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23234015006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366678"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230730/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230730/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230730/103627.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県北名古屋市沖村井島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/北名古屋市/沖村井島.json",
+    "name": "沖村井島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県北名古屋市"
+  }
+]

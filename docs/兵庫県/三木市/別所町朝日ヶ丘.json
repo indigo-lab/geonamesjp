@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県三木市別所町朝日ヶ丘",
+    "表記": "兵庫県三木市別所町朝日ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "三木市",
+      "町名": "別所町朝日ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341747",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341757"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229352/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229353/104025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229353/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229353/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229353/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229353/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229353/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229353/104020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229354/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229354/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229354/104020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229354/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229354/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229354/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229354/104025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229355/104025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229355/104024.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県三木市別所町朝日ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/三木市/別所町朝日ヶ丘.json",
+    "name": "別所町朝日ヶ丘",
+    "alternateName": [
+      "別所町朝日ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県三木市"
+  }
+]

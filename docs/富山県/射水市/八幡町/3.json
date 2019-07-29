@@ -1,0 +1,67 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県射水市八幡町三丁目",
+    "表記": "富山県射水市八幡町三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "八幡町",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S16211009103",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S16211009203"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371037",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371028",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371038"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230904/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/102235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/102236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230907/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230898/102236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230900/102235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230900/102236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/102236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/102235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230902/102235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230903/102236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230904/102236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/102240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230902/102236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230900/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230902/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230908/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230903/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230904/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/102236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230906/102238.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県射水市八幡町三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/射水市/八幡町/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/富山県射水市八幡町"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県上北郡東北町字ほとけ沢",
+    "表記": "青森県上北郡東北町字ほとけ沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "上北郡",
+      "市区町村": "東北町",
+      "町名": "字ほとけ沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061411136",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061411137",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061411147"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233904/98491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233904/98492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233901/98491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233905/98494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233899/98490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233900/98492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233901/98492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233900/98493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233899/98494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233900/98494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233901/98494.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県上北郡東北町字ほとけ沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/上北郡/東北町/字ほとけ沢.json",
+    "name": "字ほとけ沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県上北郡東北町"
+  }
+]

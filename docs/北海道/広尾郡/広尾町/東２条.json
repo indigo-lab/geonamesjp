@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道広尾郡広尾町東２条",
+    "表記": "北海道広尾郡広尾町東２条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "広尾郡",
+      "市区町村": "広尾町",
+      "町名": "東２条"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道広尾郡広尾町東２条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/広尾郡/広尾町/東２条.json",
+    "name": "東２条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道広尾郡広尾町",
+    "children": [
+      "https://geonames.jp/resource/北海道広尾郡広尾町東２条十丁目",
+      "https://geonames.jp/resource/北海道広尾郡広尾町東２条十一丁目",
+      "https://geonames.jp/resource/北海道広尾郡広尾町東２条十二丁目"
+    ]
+  }
+]

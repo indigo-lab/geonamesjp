@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県安八郡墨俣町",
+    "表記": "岐阜県安八郡墨俣町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "安八郡",
+      "市区町村": "墨俣町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C21384-19791201",
+        "http://data.e-stat.go.jp/lod/sac/C21384-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C21384-20060327",
+        "http://data.e-stat.go.jp/lod/sac/C21384-19740101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県安八郡墨俣町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/安八郡/墨俣町.json",
+    "name": "墨俣町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県安八郡",
+    "children": [
+      "https://geonames.jp/resource/岐阜県安八郡墨俣町下宿",
+      "https://geonames.jp/resource/岐阜県安八郡墨俣町上宿",
+      "https://geonames.jp/resource/岐阜県安八郡墨俣町先入方",
+      "https://geonames.jp/resource/岐阜県安八郡墨俣町二ツ木",
+      "https://geonames.jp/resource/岐阜県安八郡墨俣町墨俣"
+    ]
+  }
+]

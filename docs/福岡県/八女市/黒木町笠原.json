@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県八女市黒木町笠原",
+    "表記": "福岡県八女市黒木町笠原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "八女市",
+      "町名": "黒木町笠原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40210057006",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402100570",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40210057001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40210057003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40210057004",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40210057005",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40210057002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306567",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306554",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306564",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306569"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226258/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226275/105401.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県八女市黒木町笠原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/八女市/黒木町笠原.json",
+    "name": "黒木町笠原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県八女市"
+  }
+]

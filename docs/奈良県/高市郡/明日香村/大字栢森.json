@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村大字栢森",
+    "表記": "奈良県高市郡明日香村大字栢森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "高市郡",
+      "市区町村": "明日香村",
+      "町名": "大字栢森",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S294020240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355626",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355627",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355636"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229983/104325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229981/104329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229983/104329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229984/104331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229980/104326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229981/104328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229982/104329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/104332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/104327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229982/104330.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村大字栢森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/高市郡/明日香村/大字栢森.json",
+    "name": "大字栢森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県高市郡明日香村"
+  }
+]

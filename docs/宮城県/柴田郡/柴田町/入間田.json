@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県柴田郡柴田町入間田",
+    "表記": "宮城県柴田郡柴田町入間田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "柴田郡",
+      "市区町村": "柴田町",
+      "町名": "入間田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401612",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401613",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401614"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/101026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/101029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233597/101027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233597/101026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233597/101029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233598/101027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233598/101028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233601/101030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233599/101027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233599/101028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233602/101027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233601/101028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233589/101027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233590/101026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/101030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/101028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/101027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233591/101026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233595/101030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233590/101028.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県柴田郡柴田町入間田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/柴田郡/柴田町/入間田.json",
+    "name": "入間田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県柴田郡柴田町"
+  }
+]

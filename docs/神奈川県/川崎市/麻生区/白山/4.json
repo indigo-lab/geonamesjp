@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市麻生区白山四丁目",
+    "表記": "神奈川県川崎市麻生区白山四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "川崎市",
+      "区": "麻生区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14137713004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393400",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393410"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232659/103308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232659/103309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232659/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/103306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232659/103306.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市麻生区白山四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/川崎市/麻生区/白山/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県川崎市麻生区白山"
+  }
+]

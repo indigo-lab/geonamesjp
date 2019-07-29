@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県古賀市古賀",
+    "表記": "福岡県古賀市古賀",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "古賀市",
+      "町名": "古賀",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40223014002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40223014006",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40223014005",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40223014001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40223014004",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402230140",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40223014003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304376",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304377",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304386"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/104965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/104962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/104963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226075/104959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/104958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226066/104953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226068/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226066/104956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226067/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226070/104948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/104957.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県古賀市古賀",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/古賀市/古賀.json",
+    "name": "古賀",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県古賀市"
+  }
+]

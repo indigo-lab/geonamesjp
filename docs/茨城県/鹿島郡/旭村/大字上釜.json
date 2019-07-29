@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡旭村大字上釜",
+    "表記": "茨城県鹿島郡旭村大字上釜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "鹿島郡",
+      "市区町村": "旭村",
+      "町名": "大字上釜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402493",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403403"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233412/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233411/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233415/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233410/102718.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡旭村大字上釜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/鹿島郡/旭村/大字上釜.json",
+    "name": "大字上釜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県鹿島郡旭村"
+  }
+]

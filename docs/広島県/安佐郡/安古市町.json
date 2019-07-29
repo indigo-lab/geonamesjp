@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県安佐郡安古市町",
+    "表記": "広島県安佐郡安古市町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "安佐郡",
+      "市区町村": "安古市町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C34342-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C34342-19730320"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県安佐郡安古市町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/安佐郡/安古市町.json",
+    "name": "安古市町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県安佐郡"
+  }
+]

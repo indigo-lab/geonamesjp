@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名郡長島町浦安",
+    "表記": "三重県桑名郡長島町浦安",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "桑名郡",
+      "市区町村": "長島町",
+      "町名": "浦安"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364538",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364539",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103806.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名郡長島町浦安",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名郡/長島町/浦安.json",
+    "name": "浦安",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名郡長島町"
+  }
+]

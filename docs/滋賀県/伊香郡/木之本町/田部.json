@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県伊香郡木之本町田部",
+    "表記": "滋賀県伊香郡木之本町田部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "伊香郡",
+      "市区町村": "木之本町",
+      "町名": "田部"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362108"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230275/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230274/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230275/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230275/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230274/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230273/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230273/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230275/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230273/103385.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県伊香郡木之本町田部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/伊香郡/木之本町/田部.json",
+    "name": "田部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県伊香郡木之本町"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県新南陽市富田（丁目なし）",
+    "表記": "山口県新南陽市富田（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "新南陽市",
+      "町名": "（丁目なし）"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310690",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310691",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310692",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311601"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227020/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227032/104651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227020/104638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227006/104648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227016/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227017/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227014/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227017/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104650.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県新南陽市富田（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/新南陽市/富田/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県新南陽市富田"
+  }
+]

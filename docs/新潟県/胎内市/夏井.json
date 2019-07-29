@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県胎内市夏井",
+    "表記": "新潟県胎内市夏井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "胎内市",
+      "町名": "夏井",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152270950"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390348",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390339"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232642/101079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/101087.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県胎内市夏井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/胎内市/夏井.json",
+    "name": "夏井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県胎内市"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井市坂井町河和田",
+    "表記": "福井県坂井市坂井町河和田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "坂井市",
+      "町名": "坂井町河和田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362109",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362119",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362108"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/102783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/102784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/102783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/102783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/102782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/102784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/102782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/102783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/102784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/102783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/102780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/102784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/102786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/102787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/102786.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井市坂井町河和田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井市/坂井町河和田.json",
+    "name": "坂井町河和田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井市"
+  }
+]

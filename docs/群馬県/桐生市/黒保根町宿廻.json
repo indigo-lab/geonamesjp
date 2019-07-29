@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県桐生市黒保根町宿廻",
+    "表記": "群馬県桐生市黒保根町宿廻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "桐生市",
+      "町名": "黒保根町宿廻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054395199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054396117"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232469/102494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/102479.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県桐生市黒保根町宿廻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/桐生市/黒保根町宿廻.json",
+    "name": "黒保根町宿廻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県桐生市"
+  }
+]

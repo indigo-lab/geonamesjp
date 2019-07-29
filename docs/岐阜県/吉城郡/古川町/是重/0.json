@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県吉城郡古川町是重（丁目なし）",
+    "表記": "岐阜県吉城郡古川町是重（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "吉城郡",
+      "市区町村": "古川町",
+      "町名": "（丁目なし）"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054372175",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054372176"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230973/102733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230974/102733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230977/102736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230975/102733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230975/102735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230976/102735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230976/102734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230978/102735.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県吉城郡古川町是重（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/吉城郡/古川町/是重/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県吉城郡古川町是重"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県碓氷郡松井田町小日向",
+    "表記": "群馬県碓氷郡松井田町小日向",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "碓氷郡",
+      "市区町村": "松井田町",
+      "町名": "小日向"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383685",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383686"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232163/102654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232163/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/102654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232159/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/102652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/102648.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県碓氷郡松井田町小日向",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/碓氷郡/松井田町/小日向.json",
+    "name": "小日向",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県碓氷郡松井田町"
+  }
+]

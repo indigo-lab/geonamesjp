@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県我孫子市岡発戸新田",
+    "表記": "千葉県我孫子市岡発戸新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "我孫子市",
+      "町名": "岡発戸新田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122220730"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406024",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406034",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406023"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/103069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/103067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/103065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/103065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/103065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/103064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/103064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/103069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/103067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/103069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/103069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/103065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/103066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233056/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/103069.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県我孫子市岡発戸新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/我孫子市/岡発戸新田.json",
+    "name": "岡発戸新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県我孫子市"
+  }
+]

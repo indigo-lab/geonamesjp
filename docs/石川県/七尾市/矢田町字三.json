@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県七尾市矢田町字三",
+    "表記": "石川県七尾市矢田町字三",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "七尾市",
+      "町名": "矢田町字三"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364747",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364748",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364758"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/101997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/101998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/101997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/101997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/101999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/102000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/101998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/101999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/101999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/101998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/102001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/101996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/101996.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県七尾市矢田町字三",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/七尾市/矢田町字三.json",
+    "name": "矢田町字三",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県七尾市"
+  }
+]

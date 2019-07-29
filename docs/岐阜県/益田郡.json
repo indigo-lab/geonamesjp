@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県益田郡",
+    "表記": "岐阜県益田郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "益田郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C21580-20040301",
+        "http://data.e-stat.go.jp/lod/sac/C21580-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県益田郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/益田郡.json",
+    "name": "益田郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県",
+    "children": [
+      "https://geonames.jp/resource/岐阜県益田郡馬瀬村",
+      "https://geonames.jp/resource/岐阜県益田郡萩原町",
+      "https://geonames.jp/resource/岐阜県益田郡金山町",
+      "https://geonames.jp/resource/岐阜県益田郡小坂町",
+      "https://geonames.jp/resource/岐阜県益田郡下呂町",
+      "https://geonames.jp/resource/岐阜県益田郡上原村",
+      "https://geonames.jp/resource/岐阜県益田郡下原村",
+      "https://geonames.jp/resource/岐阜県益田郡下呂村",
+      "https://geonames.jp/resource/岐阜県益田郡中原村",
+      "https://geonames.jp/resource/岐阜県益田郡川西村",
+      "https://geonames.jp/resource/岐阜県益田郡朝日村",
+      "https://geonames.jp/resource/岐阜県益田郡竹原村",
+      "https://geonames.jp/resource/岐阜県益田郡高根村"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県藤沢市藤が岡三丁目",
+    "表記": "神奈川県藤沢市藤が岡三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "藤沢市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14205211003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390319",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390410"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/103524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/103526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/103525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232652/103524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232652/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232652/103525.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県藤沢市藤が岡三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/藤沢市/藤が岡/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県藤沢市藤が岡"
+  }
+]

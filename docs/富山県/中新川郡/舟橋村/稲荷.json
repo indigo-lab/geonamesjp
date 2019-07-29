@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県中新川郡舟橋村稲荷",
+    "表記": "富山県中新川郡舟橋村稲荷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "中新川郡",
+      "市区町村": "舟橋村",
+      "町名": "稲荷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S163210020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370244",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370243"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231052/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231052/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231052/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231052/102301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231050/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/102303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231050/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231053/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231052/102303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231053/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231053/102304.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県中新川郡舟橋村稲荷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/中新川郡/舟橋村/稲荷.json",
+    "name": "稲荷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県中新川郡舟橋村"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市竜泉寺町字塘ケ入",
+    "表記": "愛知県岡崎市竜泉寺町字塘ケ入",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "竜泉寺町字塘ケ入"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372195"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230972/103915.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市竜泉寺町字塘ケ入",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/竜泉寺町字塘ケ入.json",
+    "name": "竜泉寺町字塘ケ入",
+    "alternateName": [
+      "竜泉寺町字塘ヶ入"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

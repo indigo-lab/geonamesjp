@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県津島市天王通り六丁目",
+    "表記": "愛知県津島市天王通り六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "津島市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23208042006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366518"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/103676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/103677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103675.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県津島市天王通り六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/津島市/天王通り/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県津島市天王通り"
+  }
+]

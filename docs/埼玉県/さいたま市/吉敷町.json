@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市吉敷町",
+    "表記": "埼玉県さいたま市吉敷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "吉敷町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市吉敷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/吉敷町.json",
+    "name": "吉敷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県さいたま市吉敷町一丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市吉敷町二丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市吉敷町三丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市吉敷町四丁目"
+    ]
+  }
+]

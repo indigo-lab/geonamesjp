@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県久留米市青峰",
+    "表記": "福岡県久留米市青峰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "久留米市",
+      "町名": "青峰",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402030870"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県久留米市青峰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/久留米市/青峰.json",
+    "name": "青峰",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県久留米市",
+    "children": [
+      "https://geonames.jp/resource/福岡県久留米市青峰一丁目",
+      "https://geonames.jp/resource/福岡県久留米市青峰二丁目",
+      "https://geonames.jp/resource/福岡県久留米市青峰三丁目"
+    ]
+  }
+]

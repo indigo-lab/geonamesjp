@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県小松市北浅井町字ち",
+    "表記": "石川県小松市北浅井町字ち",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "小松市",
+      "町名": "北浅井町字ち"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364366"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230436/102590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230436/102589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230437/102590.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県小松市北浅井町字ち",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/小松市/北浅井町字ち.json",
+    "name": "北浅井町字ち",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県小松市"
+  }
+]

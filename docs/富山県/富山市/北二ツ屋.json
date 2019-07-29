@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市北二ツ屋",
+    "表記": "富山県富山市北二ツ屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "北二ツ屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370161"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230938/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230938/102285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230938/102289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230939/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230937/102289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230938/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230939/102288.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市北二ツ屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/北二ツ屋.json",
+    "name": "北二ツ屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県米沢市松が岬",
+    "表記": "山形県米沢市松が岬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "米沢市",
+      "町名": "松が岬",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062020170"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県米沢市松が岬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/米沢市/松が岬.json",
+    "name": "松が岬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県米沢市",
+    "children": [
+      "https://geonames.jp/resource/山形県米沢市松が岬一丁目",
+      "https://geonames.jp/resource/山形県米沢市松が岬二丁目",
+      "https://geonames.jp/resource/山形県米沢市松が岬三丁目"
+    ]
+  }
+]

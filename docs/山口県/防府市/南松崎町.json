@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県防府市南松崎町",
+    "表記": "山口県防府市南松崎町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "南松崎町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352060070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310466",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310476"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226883/104668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226884/104668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226884/104667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226883/104667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226882/104667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226884/104666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226883/104666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226885/104668.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県防府市南松崎町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/防府市/南松崎町.json",
+    "name": "南松崎町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県防府市"
+  }
+]

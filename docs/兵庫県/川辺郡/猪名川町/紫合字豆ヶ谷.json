@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県川辺郡猪名川町紫合字豆ヶ谷",
+    "表記": "兵庫県川辺郡猪名川町紫合字豆ヶ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "川辺郡",
+      "市区町村": "猪名川町",
+      "町名": "紫合字豆ヶ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353300"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/103906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/103906.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県川辺郡猪名川町紫合字豆ヶ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/川辺郡/猪名川町/紫合字豆ヶ谷.json",
+    "name": "紫合字豆ヶ谷",
+    "alternateName": [
+      "紫合字豆ケ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県川辺郡猪名川町"
+  }
+]

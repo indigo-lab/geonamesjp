@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市港南区港南台九丁目",
+    "表記": "神奈川県横浜市港南区港南台九丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "港南区",
+      "町名": "九丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14111057009"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390445",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390446",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390455"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232705/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232701/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232700/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232701/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232701/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232702/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232702/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232703/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232704/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232704/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232706/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232707/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232707/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232707/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/103507.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市港南区港南台九丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/港南区/港南台/9.json",
+    "name": "九丁目",
+    "alternateName": [
+      "9",
+      "9丁目",
+      "９",
+      "９丁目",
+      "九"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市港南区港南台"
+  }
+]

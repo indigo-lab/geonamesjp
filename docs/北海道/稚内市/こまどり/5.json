@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道稚内市こまどり五丁目",
+    "表記": "北海道稚内市こまどり五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "稚内市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01214111005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410555",
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410554",
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410564",
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410565"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234246/93904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234242/93901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234244/93901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234242/93902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234242/93904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234242/93903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234243/93902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234243/93903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234244/93903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234245/93902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234241/93903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234241/93904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234243/93904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234245/93901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234245/93904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234241/93902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234243/93900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234244/93906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234246/93905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234247/93901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234247/93902.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道稚内市こまどり五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/稚内市/こまどり/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道稚内市こまどり"
+  }
+]

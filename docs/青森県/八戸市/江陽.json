@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市江陽",
+    "表記": "青森県八戸市江陽",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "江陽",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022030480"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市江陽",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/江陽.json",
+    "name": "江陽",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市",
+    "children": [
+      "https://geonames.jp/resource/青森県八戸市江陽一丁目",
+      "https://geonames.jp/resource/青森県八戸市江陽二丁目",
+      "https://geonames.jp/resource/青森県八戸市江陽三丁目",
+      "https://geonames.jp/resource/青森県八戸市江陽四丁目",
+      "https://geonames.jp/resource/青森県八戸市江陽五丁目"
+    ]
+  }
+]

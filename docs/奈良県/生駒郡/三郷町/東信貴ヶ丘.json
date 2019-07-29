@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県生駒郡三郷町東信貴ヶ丘",
+    "表記": "奈良県生駒郡三郷町東信貴ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "生駒郡",
+      "市区町村": "三郷町",
+      "町名": "東信貴ヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県生駒郡三郷町東信貴ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/生駒郡/三郷町/東信貴ヶ丘.json",
+    "name": "東信貴ヶ丘",
+    "alternateName": [
+      "東信貴ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県生駒郡三郷町",
+    "children": [
+      "https://geonames.jp/resource/奈良県生駒郡三郷町東信貴ヶ丘一丁目",
+      "https://geonames.jp/resource/奈良県生駒郡三郷町東信貴ヶ丘二丁目",
+      "https://geonames.jp/resource/奈良県生駒郡三郷町東信貴ヶ丘三丁目"
+    ]
+  }
+]

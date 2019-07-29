@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県土浦市烏山",
+    "表記": "茨城県土浦市烏山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "土浦市",
+      "町名": "烏山"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県土浦市烏山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/土浦市/烏山.json",
+    "name": "烏山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県土浦市",
+    "children": [
+      "https://geonames.jp/resource/茨城県土浦市烏山（丁目なし）",
+      "https://geonames.jp/resource/茨城県土浦市烏山一丁目",
+      "https://geonames.jp/resource/茨城県土浦市烏山二丁目",
+      "https://geonames.jp/resource/茨城県土浦市烏山三丁目",
+      "https://geonames.jp/resource/茨城県土浦市烏山四丁目",
+      "https://geonames.jp/resource/茨城県土浦市烏山五丁目"
+    ]
+  }
+]

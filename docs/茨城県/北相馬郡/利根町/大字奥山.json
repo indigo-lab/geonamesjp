@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県北相馬郡利根町大字奥山",
+    "表記": "茨城県北相馬郡利根町大字奥山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "北相馬郡",
+      "市区町村": "利根町",
+      "町名": "大字奥山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406153",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406163"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233138/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233135/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233136/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233136/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233136/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233137/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233135/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233136/103043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233135/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233136/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233137/103044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233137/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233138/103044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233138/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233137/103048.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県北相馬郡利根町大字奥山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/北相馬郡/利根町/大字奥山.json",
+    "name": "大字奥山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県北相馬郡利根町"
+  }
+]

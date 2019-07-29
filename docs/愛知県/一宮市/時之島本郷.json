@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県一宮市時之島本郷",
+    "表記": "愛知県一宮市時之島本郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "一宮市",
+      "町名": "時之島本郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367696"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230711/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230710/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230710/103544.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県一宮市時之島本郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/一宮市/時之島本郷.json",
+    "name": "時之島本郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県一宮市"
+  }
+]

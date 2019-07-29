@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中蒲原郡村松町山谷",
+    "表記": "新潟県中蒲原郡村松町山谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中蒲原郡",
+      "市区町村": "村松町",
+      "町名": "山谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393173",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393183"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232407/101433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232406/101435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232412/101432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232410/101432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232410/101434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232412/101437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232413/101437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232412/101438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232414/101441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232414/101440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232412/101439.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中蒲原郡村松町山谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中蒲原郡/村松町/山谷.json",
+    "name": "山谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中蒲原郡村松町"
+  }
+]

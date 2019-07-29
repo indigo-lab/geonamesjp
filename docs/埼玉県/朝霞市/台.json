@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県朝霞市台",
+    "表記": "埼玉県朝霞市台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "朝霞市",
+      "町名": "台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395468",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395469",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395479",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395478"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232733/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232734/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232738/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/103111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/103115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/103108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232732/103108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232733/103108.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県朝霞市台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/朝霞市/台.json",
+    "name": "台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県朝霞市"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市植木町伊知坊",
+    "表記": "熊本県熊本市植木町伊知坊",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "植木町伊知坊"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303547",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303537",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303538",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226260/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226261/105635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226262/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226262/105636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226263/105635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226263/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226263/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226262/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226261/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226260/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226254/105635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226260/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226257/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226259/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226258/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226264/105635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226260/105635.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市植木町伊知坊",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/植木町伊知坊.json",
+    "name": "植木町伊知坊",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県安達郡白沢村稲沢",
+    "表記": "福島県安達郡白沢村稲沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "安達郡",
+      "市区町村": "白沢村",
+      "町名": "稲沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401398",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402308",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402318",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402328"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/101577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/101576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/101575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/101561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233368/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/101576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233368/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/101575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/101567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/101573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/101578.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県安達郡白沢村稲沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/安達郡/白沢村/稲沢.json",
+    "name": "稲沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県安達郡白沢村"
+  }
+]

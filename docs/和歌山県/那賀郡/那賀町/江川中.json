@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡那賀町江川中",
+    "表記": "和歌山県那賀郡那賀町江川中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "那賀郡",
+      "市区町村": "那賀町",
+      "町名": "江川中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353344",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353345",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353355"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/104465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229698/104465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229694/104463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229697/104463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229698/104464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/104464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/104465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229694/104462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/104462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229694/104461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/104461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229696/104463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229697/104461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229699/104462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229699/104464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229699/104461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229696/104459.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡那賀町江川中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/那賀郡/那賀町/江川中.json",
+    "name": "江川中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県那賀郡那賀町"
+  }
+]

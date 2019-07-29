@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県群馬郡箕郷町中野",
+    "表記": "群馬県群馬郡箕郷町中野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "群馬郡",
+      "市区町村": "箕郷町",
+      "町名": "中野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054385704",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054385711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054385712"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232235/102558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232212/102552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/102552.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県群馬郡箕郷町中野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/群馬郡/箕郷町/中野.json",
+    "name": "中野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県群馬郡箕郷町"
+  }
+]

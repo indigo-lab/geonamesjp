@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県船橋市七林町",
+    "表記": "千葉県船橋市七林町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "七林町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122040700"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404052",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404053",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404062",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404063"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/103196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/103193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/103197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/103196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/103196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/103193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/103193.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県船橋市七林町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/船橋市/七林町.json",
+    "name": "七林町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県船橋市"
+  }
+]

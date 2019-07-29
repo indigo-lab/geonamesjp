@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道河西郡芽室町芽室基線",
+    "表記": "北海道河西郡芽室町芽室基線",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "河西郡",
+      "市区町村": "芽室町",
+      "町名": "芽室基線"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433003",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433005",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433000",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433001",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433002"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235233/96402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235248/96403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235229/96402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235247/96404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235249/96403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235234/96402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235221/96403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235214/96404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235214/96406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235209/96404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235204/96404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235221/96404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235212/96405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235220/96403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235225/96402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235228/96402.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道河西郡芽室町芽室基線",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/河西郡/芽室町/芽室基線.json",
+    "name": "芽室基線",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道河西郡芽室町"
+  }
+]

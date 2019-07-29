@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府相楽郡加茂町北下手",
+    "表記": "京都府相楽郡加茂町北下手",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "相楽郡",
+      "市区町村": "加茂町",
+      "町名": "北下手"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350780",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350782",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350790",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350791",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351701"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230017/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230016/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230020/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230028/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230026/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230027/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230034/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230026/104052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230026/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230028/104053.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府相楽郡加茂町北下手",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/相楽郡/加茂町/北下手.json",
+    "name": "北下手",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府相楽郡加茂町"
+  }
+]

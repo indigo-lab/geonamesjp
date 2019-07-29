@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県生駒郡斑鳩町服部",
+    "表記": "奈良県生駒郡斑鳩町服部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "生駒郡",
+      "市区町村": "斑鳩町",
+      "町名": "服部"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県生駒郡斑鳩町服部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/生駒郡/斑鳩町/服部.json",
+    "name": "服部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県生駒郡斑鳩町",
+    "children": [
+      "https://geonames.jp/resource/奈良県生駒郡斑鳩町服部（丁目なし）",
+      "https://geonames.jp/resource/奈良県生駒郡斑鳩町服部一丁目",
+      "https://geonames.jp/resource/奈良県生駒郡斑鳩町服部二丁目"
+    ]
+  }
+]

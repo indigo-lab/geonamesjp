@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県愛知郡日進町",
+    "表記": "愛知県愛知郡日進町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "愛知郡",
+      "市区町村": "日進町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C23303-19780320",
+        "http://data.e-stat.go.jp/lod/sac/C23303-19941001",
+        "http://data.e-stat.go.jp/lod/sac/C23303-19880701",
+        "http://data.e-stat.go.jp/lod/sac/C23303-19720601",
+        "http://data.e-stat.go.jp/lod/sac/C23303-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C23303-19720301",
+        "http://data.e-stat.go.jp/lod/sac/C23303-19760201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県愛知郡日進町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/愛知郡/日進町.json",
+    "name": "日進町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県愛知郡"
+  }
+]

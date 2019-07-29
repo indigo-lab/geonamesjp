@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県香芝市真美ケ丘三丁目",
+    "表記": "奈良県香芝市真美ケ丘三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "香芝市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356547",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/104243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229902/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229902/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229902/104243.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県香芝市真美ケ丘三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/香芝市/真美ケ丘/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県香芝市真美ケ丘"
+  }
+]

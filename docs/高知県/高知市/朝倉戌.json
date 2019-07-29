@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高知市朝倉戌",
+    "表記": "高知県高知市朝倉戌",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "高知市",
+      "町名": "朝倉戌"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332338",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332348",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332349"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228276/105121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228277/105122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228276/105122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228275/105122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228274/105123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228273/105123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228272/105124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228269/105127.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高知市朝倉戌",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高知市/朝倉戌.json",
+    "name": "朝倉戌",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高知市"
+  }
+]

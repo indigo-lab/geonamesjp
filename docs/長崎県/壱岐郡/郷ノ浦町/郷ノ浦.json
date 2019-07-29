@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県壱岐郡郷ノ浦町郷ノ浦",
+    "表記": "長崎県壱岐郡郷ノ浦町郷ノ浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "郡": "壱岐郡",
+      "市区町村": "郷ノ浦町",
+      "町名": "郷ノ浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050294594",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050294595"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225509/104940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225510/104939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225509/104939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225510/104941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225509/104943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225508/104942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225504/104938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225507/104944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225508/104941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225509/104942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225507/104942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225506/104942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225505/104942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225504/104941.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県壱岐郡郷ノ浦町郷ノ浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/壱岐郡/郷ノ浦町/郷ノ浦.json",
+    "name": "郷ノ浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県壱岐郡郷ノ浦町"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県潟上市天王字大長根",
+    "表記": "秋田県潟上市天王字大長根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "潟上市",
+      "町名": "天王字大長根",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S05211001010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405093",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059406002",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059406003"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/99401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/99400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/99398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/99398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/99397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/99401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/99400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/99403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233048/99402.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県潟上市天王字大長根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/潟上市/天王字大長根.json",
+    "name": "天王字大長根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県潟上市"
+  }
+]

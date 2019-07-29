@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡松伏町田中二丁目",
+    "表記": "埼玉県北葛飾郡松伏町田中二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "北葛飾郡",
+      "市区町村": "松伏町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11465010002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397604",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397614",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397615"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232878/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232878/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232877/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232878/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232877/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232876/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232877/103009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/103005.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡松伏町田中二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/北葛飾郡/松伏町/田中/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県北葛飾郡松伏町田中"
+  }
+]

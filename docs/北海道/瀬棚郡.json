@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道瀬棚郡",
+    "表記": "北海道瀬棚郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "瀬棚郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道瀬棚郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/瀬棚郡.json",
+    "name": "瀬棚郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道瀬棚郡今金町",
+      "https://geonames.jp/resource/北海道瀬棚郡北檜山町",
+      "https://geonames.jp/resource/北海道瀬棚郡瀬棚町",
+      "https://geonames.jp/resource/北海道瀬棚郡利別村",
+      "https://geonames.jp/resource/北海道瀬棚郡東瀬棚村",
+      "https://geonames.jp/resource/北海道瀬棚郡瀬棚村"
+    ]
+  }
+]

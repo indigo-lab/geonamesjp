@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町五郎丸",
+    "表記": "富山県中新川郡立山町五郎丸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "中新川郡",
+      "市区町村": "立山町",
+      "町名": "五郎丸",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S163230540"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370213",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370214",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370223"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231052/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231050/102319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231050/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/102319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231050/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231048/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231049/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231050/102318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231048/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231050/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231050/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231049/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231049/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231052/102318.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町五郎丸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/中新川郡/立山町/五郎丸.json",
+    "name": "五郎丸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県中新川郡立山町"
+  }
+]

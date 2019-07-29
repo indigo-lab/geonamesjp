@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道静内郡静内町目名",
+    "表記": "北海道静内郡静内町目名",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "静内郡",
+      "市区町村": "静内町",
+      "町名": "目名"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063424331",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063424341"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234757/96953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234757/96951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234758/96958.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道静内郡静内町目名",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/静内郡/静内町/目名.json",
+    "name": "目名",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道静内郡静内町"
+  }
+]

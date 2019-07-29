@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県福島市入江町",
+    "表記": "福島県福島市入江町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "入江町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072010380"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405328"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233365/101329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/101328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/101328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/101327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/101326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233368/101327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/101328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/101329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/101330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/101329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233368/101328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233365/101328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/101329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/101329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233365/101327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/101327.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県福島市入江町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/福島市/入江町.json",
+    "name": "入江町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県福島市"
+  }
+]

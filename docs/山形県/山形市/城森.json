@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市城森",
+    "表記": "山形県山形市城森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "城森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402280",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402290",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402291"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233205/100893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233205/100892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233205/100891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233207/100893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233207/100892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233207/100891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233209/100892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233209/100891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233201/100894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233208/100891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233206/100892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/100894.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市城森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/城森.json",
+    "name": "城森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

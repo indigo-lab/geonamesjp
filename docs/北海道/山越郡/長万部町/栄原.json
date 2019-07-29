@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道山越郡長万部町栄原",
+    "表記": "北海道山越郡長万部町栄原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "山越郡",
+      "市区町村": "長万部町",
+      "町名": "栄原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406320",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406330"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/96790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/96795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/96791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/96797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/96797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/96799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/96797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/96794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/96798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/96795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/96798.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道山越郡長万部町栄原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/山越郡/長万部町/栄原.json",
+    "name": "栄原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道山越郡長万部町"
+  }
+]

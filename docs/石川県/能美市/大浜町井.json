@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県能美市大浜町井",
+    "表記": "石川県能美市大浜町井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "能美市",
+      "町名": "大浜町井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365346"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230438/102531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230439/102530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230436/102530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230437/102530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230436/102529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230437/102529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230437/102531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230439/102531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230438/102530.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県能美市大浜町井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/能美市/大浜町井.json",
+    "name": "大浜町井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県能美市"
+  }
+]

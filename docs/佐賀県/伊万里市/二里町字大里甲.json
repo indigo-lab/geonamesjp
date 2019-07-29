@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県伊万里市二里町字大里甲",
+    "表記": "佐賀県伊万里市二里町字大里甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "伊万里市",
+      "町名": "二里町字大里甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297608",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297619",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297629"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225637/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225636/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225637/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225640/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225634/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225633/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225631/105367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225642/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225634/105364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225634/105362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225638/105363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225635/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225635/105362.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県伊万里市二里町字大里甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/伊万里市/二里町字大里甲.json",
+    "name": "二里町字大里甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県伊万里市"
+  }
+]

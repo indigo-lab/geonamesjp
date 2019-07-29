@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市古瀬間町鳥ケ峰",
+    "表記": "愛知県豊田市古瀬間町鳥ケ峰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "古瀬間町鳥ケ峰"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374196"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/103765.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市古瀬間町鳥ケ峰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/古瀬間町鳥ケ峰.json",
+    "name": "古瀬間町鳥ケ峰",
+    "alternateName": [
+      "古瀬間町鳥ヶ峰"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

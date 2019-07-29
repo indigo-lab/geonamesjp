@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡真野町大倉谷",
+    "表記": "新潟県佐渡郡真野町大倉谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "佐渡郡",
+      "市区町村": "真野町",
+      "町名": "大倉谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386292",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386293",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386294",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056387213"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231769/101195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231780/101195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231787/101196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231772/101196.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡真野町大倉谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/佐渡郡/真野町/大倉谷.json",
+    "name": "大倉谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県佐渡郡真野町"
+  }
+]

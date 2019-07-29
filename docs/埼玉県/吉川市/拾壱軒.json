@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県吉川市拾壱軒",
+    "表記": "埼玉県吉川市拾壱軒",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "吉川市",
+      "町名": "拾壱軒"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397607",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397617"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232898/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232898/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232902/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232898/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/103006.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県吉川市拾壱軒",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/吉川市/拾壱軒.json",
+    "name": "拾壱軒",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県吉川市"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市高樋町",
+    "表記": "奈良県奈良市高樋町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "高樋町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292018140"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357658",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357667",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357668",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357659"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229992/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229995/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230002/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229993/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229995/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230001/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230000/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230003/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230002/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/104160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229995/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230004/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230000/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/104160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230000/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230000/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230000/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230001/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229994/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230004/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230006/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230003/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230001/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230001/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230004/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229995/104160.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市高樋町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/高樋町.json",
+    "name": "高樋町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市"
+  }
+]

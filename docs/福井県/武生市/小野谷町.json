@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県武生市小野谷町",
+    "表記": "福井県武生市小野谷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "小野谷町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366154",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366164",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366165"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/103039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/103044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/103046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/103047.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県武生市小野谷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/武生市/小野谷町.json",
+    "name": "小野谷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県武生市"
+  }
+]

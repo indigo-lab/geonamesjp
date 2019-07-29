@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県五所川原市吹畑",
+    "表記": "青森県五所川原市吹畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "五所川原市",
+      "町名": "吹畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401376"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/98472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/98473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233348/98469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/98471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/98471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/98473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/98473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/98472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/98473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/98473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/98469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233348/98471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233348/98470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/98471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/98470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/98470.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県五所川原市吹畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/五所川原市/吹畑.json",
+    "name": "吹畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県五所川原市"
+  }
+]

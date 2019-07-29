@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県西白河郡矢吹町中野目東",
+    "表記": "福島県西白河郡矢吹町中野目東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "西白河郡",
+      "市区町村": "矢吹町",
+      "町名": "中野目東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07466013001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406321"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/101860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/101861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233305/101862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/101864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/101860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/101861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/101861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/101861.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県西白河郡矢吹町中野目東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/西白河郡/矢吹町/中野目東.json",
+    "name": "中野目東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県西白河郡矢吹町"
+  }
+]

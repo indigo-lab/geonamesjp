@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県遠野市遠野町二十七地割",
+    "表記": "岩手県遠野市遠野町二十七地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "遠野市",
+      "町名": "遠野町二十七地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417482",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417492"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/99881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/99880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234133/99881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/99882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/99882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/99885.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県遠野市遠野町二十七地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/遠野市/遠野町二十七地割.json",
+    "name": "遠野町二十七地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県遠野市"
+  }
+]

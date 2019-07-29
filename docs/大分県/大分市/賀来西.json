@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県大分市賀来西",
+    "表記": "大分県大分市賀来西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "大分市",
+      "町名": "賀来西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S442013080"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県大分市賀来西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/大分市/賀来西.json",
+    "name": "賀来西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県大分市",
+    "children": [
+      "https://geonames.jp/resource/大分県大分市賀来西一丁目",
+      "https://geonames.jp/resource/大分県大分市賀来西二丁目"
+    ]
+  }
+]

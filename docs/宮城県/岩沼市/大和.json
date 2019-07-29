@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県岩沼市大和",
+    "表記": "宮城県岩沼市大和",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "岩沼市",
+      "町名": "大和"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401648"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233641/101005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233642/101006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233642/101007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233643/101006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/101007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/101006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233643/101007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/101008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233642/101005.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県岩沼市大和",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/岩沼市/大和.json",
+    "name": "大和",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県岩沼市"
+  }
+]

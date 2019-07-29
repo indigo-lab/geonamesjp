@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水区駒越",
+    "表記": "静岡県静岡市清水区駒越",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "区": "清水区",
+      "町名": "駒越",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S221030960"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383369"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231911/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231910/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231915/103852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231914/103854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231905/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231914/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231907/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231907/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231906/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231910/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231911/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231913/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231915/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231913/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231910/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231908/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231912/103857.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水区駒越",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/清水区/駒越.json",
+    "name": "駒越",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市清水区"
+  }
+]

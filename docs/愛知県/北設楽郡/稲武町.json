@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県北設楽郡稲武町",
+    "表記": "愛知県北設楽郡稲武町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "北設楽郡",
+      "市区町村": "稲武町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C23566-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C23566-20031001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県北設楽郡稲武町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/北設楽郡/稲武町.json",
+    "name": "稲武町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県北設楽郡"
+  }
+]

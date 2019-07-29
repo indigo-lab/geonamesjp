@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県佐久市取出町",
+    "表記": "長野県佐久市取出町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "取出町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S202170200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382356",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382357",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382366"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/102744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231895/102745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231895/102744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231897/102744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/102742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/102741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/102741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231900/102742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231899/102743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231898/102743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231899/102745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231900/102744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231900/102746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/102743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/102744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/102745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/102744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/102742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/102743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/102745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231904/102743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231904/102744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231904/102746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/102748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/102749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/102747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/102749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231904/102747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231905/102746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/102741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231894/102745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231900/102748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/102750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/102748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/102746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/102745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/102746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231900/102747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/102747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231900/102743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/102743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/102746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231905/102747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231905/102744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231904/102745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231905/102745.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県佐久市取出町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/佐久市/取出町.json",
+    "name": "取出町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県佐久市"
+  }
+]

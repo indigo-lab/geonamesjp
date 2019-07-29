@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道檜山郡",
+    "表記": "北海道檜山郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "檜山郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道檜山郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/檜山郡.json",
+    "name": "檜山郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道檜山郡江差町",
+      "https://geonames.jp/resource/北海道檜山郡上ノ国町",
+      "https://geonames.jp/resource/北海道檜山郡厚沢部町",
+      "https://geonames.jp/resource/北海道檜山郡上ノ国村",
+      "https://geonames.jp/resource/北海道檜山郡厚沢部村",
+      "https://geonames.jp/resource/北海道檜山郡泊村"
+    ]
+  }
+]

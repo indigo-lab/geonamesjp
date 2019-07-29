@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県松山市北藤原町六",
+    "表記": "愛媛県松山市北藤原町六",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "松山市",
+      "町名": "北藤原町六"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326600"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227744/104863.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県松山市北藤原町六",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/松山市/北藤原町六.json",
+    "name": "北藤原町六",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県松山市"
+  }
+]

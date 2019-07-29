@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県草津市上笠",
+    "表記": "滋賀県草津市上笠",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "草津市",
+      "町名": "上笠",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252060540"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県草津市上笠",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/草津市/上笠.json",
+    "name": "上笠",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県草津市",
+    "children": [
+      "https://geonames.jp/resource/滋賀県草津市上笠一丁目",
+      "https://geonames.jp/resource/滋賀県草津市上笠二丁目",
+      "https://geonames.jp/resource/滋賀県草津市上笠三丁目",
+      "https://geonames.jp/resource/滋賀県草津市上笠四丁目",
+      "https://geonames.jp/resource/滋賀県草津市上笠五丁目"
+    ]
+  }
+]

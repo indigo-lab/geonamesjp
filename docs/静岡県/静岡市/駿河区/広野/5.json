@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市駿河区広野五丁目",
+    "表記": "静岡県静岡市駿河区広野五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "区": "駿河区",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S22102069005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383209",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383219",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383310"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231831/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231833/103899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231833/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231831/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231830/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231830/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231829/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231829/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231828/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231830/103902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231834/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231833/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231831/103902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231830/103903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231829/103902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/103899.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市駿河区広野五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/駿河区/広野/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市駿河区広野"
+  }
+]

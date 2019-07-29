@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市桜町",
+    "表記": "熊本県熊本市桜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "桜町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301556",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301566"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226247/105763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226245/105764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226247/105764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226245/105765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105763.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市桜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/桜町.json",
+    "name": "桜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市"
+  }
+]

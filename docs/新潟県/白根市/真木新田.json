@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県白根市真木新田",
+    "表記": "新潟県白根市真木新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "白根市",
+      "町名": "真木新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394042",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394051",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394052"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232308/101387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232308/101385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232308/101384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232308/101386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232308/101388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232307/101388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232309/101386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232307/101387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232306/101382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232303/101380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232305/101383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232303/101382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232308/101383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232309/101389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232309/101390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232304/101384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232302/101383.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県白根市真木新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/白根市/真木新田.json",
+    "name": "真木新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県白根市"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都町田市鶴間四丁目",
+    "表記": "東京都町田市鶴間四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "町田市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392307"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232630/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232631/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232632/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232633/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232631/103381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232631/103383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232630/103383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232632/103383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232630/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232631/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232630/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232629/103386.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都町田市鶴間四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/町田市/鶴間/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都町田市鶴間"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県糟屋郡粕屋町甲仲原",
+    "表記": "福岡県糟屋郡粕屋町甲仲原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "糟屋郡",
+      "市区町村": "粕屋町",
+      "町名": "甲仲原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S403490140"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県糟屋郡粕屋町甲仲原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/糟屋郡/粕屋町/甲仲原.json",
+    "name": "甲仲原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県糟屋郡粕屋町",
+    "children": [
+      "https://geonames.jp/resource/福岡県糟屋郡粕屋町甲仲原一丁目",
+      "https://geonames.jp/resource/福岡県糟屋郡粕屋町甲仲原二丁目",
+      "https://geonames.jp/resource/福岡県糟屋郡粕屋町甲仲原三丁目",
+      "https://geonames.jp/resource/福岡県糟屋郡粕屋町甲仲原四丁目"
+    ]
+  }
+]

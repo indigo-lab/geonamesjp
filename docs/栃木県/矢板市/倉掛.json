@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県矢板市倉掛",
+    "表記": "栃木県矢板市倉掛",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "矢板市",
+      "町名": "倉掛",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092110150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055391740",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055391649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055391750"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/102226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232926/102231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232934/102222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/102221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232929/102223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232934/102227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232925/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/102231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232929/102228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232928/102231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232921/102226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232927/102226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/102228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232925/102221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232924/102224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232927/102220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232923/102228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232929/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232928/102219.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県矢板市倉掛",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/矢板市/倉掛.json",
+    "name": "倉掛",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県矢板市"
+  }
+]

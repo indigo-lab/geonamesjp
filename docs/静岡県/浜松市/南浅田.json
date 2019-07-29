@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市南浅田",
+    "表記": "静岡県浜松市南浅田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜松市",
+      "町名": "南浅田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市南浅田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/南浅田.json",
+    "name": "南浅田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市",
+    "children": [
+      "https://geonames.jp/resource/静岡県浜松市南浅田一丁目",
+      "https://geonames.jp/resource/静岡県浜松市南浅田二丁目"
+    ]
+  }
+]

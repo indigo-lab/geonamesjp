@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府熊野郡",
+    "表記": "京都府熊野郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "熊野郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C26520-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C26520-20040401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府熊野郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/熊野郡.json",
+    "name": "熊野郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府",
+    "children": [
+      "https://geonames.jp/resource/京都府熊野郡久美浜町",
+      "https://geonames.jp/resource/京都府熊野郡上佐濃村",
+      "https://geonames.jp/resource/京都府熊野郡下佐濃村",
+      "https://geonames.jp/resource/京都府熊野郡久美谷村",
+      "https://geonames.jp/resource/京都府熊野郡川上村",
+      "https://geonames.jp/resource/京都府熊野郡海部村",
+      "https://geonames.jp/resource/京都府熊野郡湊村",
+      "https://geonames.jp/resource/京都府熊野郡田村",
+      "https://geonames.jp/resource/京都府熊野郡神野村",
+      "https://geonames.jp/resource/京都府熊野郡佐濃村"
+    ]
+  }
+]

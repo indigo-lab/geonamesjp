@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県宇部市大字西沖の山",
+    "表記": "山口県宇部市大字西沖の山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "宇部市",
+      "町名": "大字西沖の山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352020200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317146",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317135",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317145",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317136"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226614/104759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226615/104759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226607/104763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226605/104758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226611/104760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226607/104765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226608/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226609/104766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226609/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226614/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226615/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226616/104757.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県宇部市大字西沖の山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/宇部市/大字西沖の山.json",
+    "name": "大字西沖の山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県宇部市"
+  }
+]

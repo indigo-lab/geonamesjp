@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県坂出市笠指町",
+    "表記": "香川県坂出市笠指町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "笠指町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S372030290"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333668",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333678"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228542/104447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228542/104448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228543/104448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228543/104447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228544/104446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228544/104448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228544/104447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228542/104446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228543/104446.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県坂出市笠指町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/坂出市/笠指町.json",
+    "name": "笠指町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県坂出市"
+  }
+]

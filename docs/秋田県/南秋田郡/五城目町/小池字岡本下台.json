@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県南秋田郡五城目町小池字岡本下台",
+    "表記": "秋田県南秋田郡五城目町小池字岡本下台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "南秋田郡",
+      "市区町村": "五城目町",
+      "町名": "小池字岡本下台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059407038",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059407048"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233096/99291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/99287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/99289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/99290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233096/99292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233096/99289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/99292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/99291.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県南秋田郡五城目町小池字岡本下台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/南秋田郡/五城目町/小池字岡本下台.json",
+    "name": "小池字岡本下台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県南秋田郡五城目町"
+  }
+]

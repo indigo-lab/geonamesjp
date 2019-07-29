@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県三好市池田町松尾大申",
+    "表記": "徳島県三好市池田町松尾大申",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "三好市",
+      "町名": "池田町松尾大申"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337642"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228491/104757.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県三好市池田町松尾大申",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/三好市/池田町松尾大申.json",
+    "name": "池田町松尾大申",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県三好市"
+  }
+]

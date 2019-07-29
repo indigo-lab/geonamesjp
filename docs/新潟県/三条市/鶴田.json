@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市鶴田",
+    "表記": "新潟県三条市鶴田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三条市",
+      "町名": "鶴田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市鶴田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/鶴田.json",
+    "name": "鶴田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市",
+    "children": [
+      "https://geonames.jp/resource/新潟県三条市鶴田（丁目なし）",
+      "https://geonames.jp/resource/新潟県三条市鶴田一丁目",
+      "https://geonames.jp/resource/新潟県三条市鶴田二丁目",
+      "https://geonames.jp/resource/新潟県三条市鶴田三丁目",
+      "https://geonames.jp/resource/新潟県三条市鶴田四丁目"
+    ]
+  }
+]

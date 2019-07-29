@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県飽海郡八幡町北仁田",
+    "表記": "山形県飽海郡八幡町北仁田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "郡": "飽海郡",
+      "市区町村": "八幡町",
+      "町名": "北仁田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058393764"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/100211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/100211.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県飽海郡八幡町北仁田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/飽海郡/八幡町/北仁田.json",
+    "name": "北仁田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県飽海郡八幡町"
+  }
+]

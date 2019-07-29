@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県小県郡東部町新屋",
+    "表記": "長野県小県郡東部町新屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "小県郡",
+      "市区町村": "東部町",
+      "町名": "新屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384236",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384237",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384247"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231802/102610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231803/102610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231803/102611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231804/102608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231804/102612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231804/102610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231807/102610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231805/102611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231805/102609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231806/102608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231806/102611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231809/102610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231808/102611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231809/102609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231810/102608.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県小県郡東部町新屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/小県郡/東部町/新屋.json",
+    "name": "新屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県小県郡東部町"
+  }
+]

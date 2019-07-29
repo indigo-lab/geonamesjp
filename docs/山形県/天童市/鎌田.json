@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県天童市鎌田",
+    "表記": "山形県天童市鎌田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "天童市",
+      "町名": "鎌田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062100320"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県天童市鎌田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/天童市/鎌田.json",
+    "name": "鎌田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県天童市",
+    "children": [
+      "https://geonames.jp/resource/山形県天童市鎌田一丁目",
+      "https://geonames.jp/resource/山形県天童市鎌田二丁目"
+    ]
+  }
+]

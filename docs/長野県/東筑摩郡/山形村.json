@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県東筑摩郡山形村",
+    "表記": "長野県東筑摩郡山形村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "東筑摩郡",
+      "市区町村": "山形村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20450-19980930",
+        "http://data.e-stat.go.jp/lod/sac/C20450-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C20450-19710810",
+        "http://data.e-stat.go.jp/lod/sac/C20450-19841225"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県東筑摩郡山形村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/東筑摩郡/山形村.json",
+    "name": "山形村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県東筑摩郡",
+    "children": [
+      "https://geonames.jp/resource/長野県東筑摩郡山形村上竹田",
+      "https://geonames.jp/resource/長野県東筑摩郡山形村上大池",
+      "https://geonames.jp/resource/長野県東筑摩郡山形村下竹田",
+      "https://geonames.jp/resource/長野県東筑摩郡山形村小坂",
+      "https://geonames.jp/resource/長野県東筑摩郡山形村下大池",
+      "https://geonames.jp/resource/長野県東筑摩郡山形村中大池",
+      "https://geonames.jp/resource/長野県東筑摩郡山形村下本郷",
+      "https://geonames.jp/resource/長野県東筑摩郡山形村清水高原",
+      "https://geonames.jp/resource/長野県東筑摩郡山形村東原"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1348998"
+    ]
+  }
+]

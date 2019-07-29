@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県安中市土塩",
+    "表記": "群馬県安中市土塩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "安中市",
+      "町名": "土塩"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383691",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383692",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384600",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384602",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384610"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232130/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/102630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232122/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232126/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232125/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232129/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/102639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232125/102643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/102644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232111/102632.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県安中市土塩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/安中市/土塩.json",
+    "name": "土塩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県安中市"
+  }
+]

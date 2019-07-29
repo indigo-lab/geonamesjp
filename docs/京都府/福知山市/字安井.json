@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市字安井",
+    "表記": "京都府福知山市字安井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "字安井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350009",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350110",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350100"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229460/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229460/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229468/103528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229468/103531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229459/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229460/103532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229458/103532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229459/103532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229471/103528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229465/103532.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市字安井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/字安井.json",
+    "name": "字安井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

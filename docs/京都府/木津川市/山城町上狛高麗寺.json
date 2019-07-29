@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府木津川市山城町上狛高麗寺",
+    "表記": "京都府木津川市山城町上狛高麗寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "木津川市",
+      "町名": "山城町上狛高麗寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350696"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229977/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229979/104056.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府木津川市山城町上狛高麗寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/木津川市/山城町上狛高麗寺.json",
+    "name": "山城町上狛高麗寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府木津川市"
+  }
+]

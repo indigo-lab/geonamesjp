@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市下山田",
+    "表記": "富山県高岡市下山田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "高岡市",
+      "町名": "下山田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162021270"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377093",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377092",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370003"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/102340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230860/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230858/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230858/102342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/102342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230860/102341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/102341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230860/102340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/102338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230860/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230858/102341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/102340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230860/102338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/102342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/102336.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市下山田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/下山田.json",
+    "name": "下山田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

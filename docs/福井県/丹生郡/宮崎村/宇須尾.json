@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県丹生郡宮崎村宇須尾",
+    "表記": "福井県丹生郡宮崎村宇須尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "丹生郡",
+      "市区町村": "宮崎村",
+      "町名": "宇須尾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367029",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367110",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367120"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230194/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230193/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230195/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230192/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230189/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230194/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230192/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230195/102998.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県丹生郡宮崎村宇須尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/丹生郡/宮崎村/宇須尾.json",
+    "name": "宇須尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県丹生郡宮崎村"
+  }
+]

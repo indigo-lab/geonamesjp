@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県岩沼市早股字板橋",
+    "表記": "宮城県岩沼市早股字板橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "岩沼市",
+      "町名": "早股字板橋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401712"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/101029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/101030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/101030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/101031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/101027.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県岩沼市早股字板橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/岩沼市/早股字板橋.json",
+    "name": "早股字板橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県岩沼市"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道川上郡",
+    "表記": "北海道川上郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "川上郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道川上郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/川上郡.json",
+    "name": "川上郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道川上郡弟子屈町",
+      "https://geonames.jp/resource/北海道川上郡標茶町",
+      "https://geonames.jp/resource/北海道川上郡塘路村",
+      "https://geonames.jp/resource/北海道川上郡虹別村",
+      "https://geonames.jp/resource/北海道川上郡標茶村"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県大牟田市健老町",
+    "表記": "福岡県大牟田市健老町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "健老町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402021130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304354",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304355",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304353"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226056/105549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/105549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226058/105549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226056/105550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226056/105551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/105551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/105553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226050/105550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226046/105550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226053/105552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226047/105550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226053/105550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226044/105549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226050/105549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226052/105551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226056/105552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/105550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/105552.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県大牟田市健老町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/大牟田市/健老町.json",
+    "name": "健老町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県大牟田市"
+  }
+]

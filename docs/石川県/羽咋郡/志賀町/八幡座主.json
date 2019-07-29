@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡志賀町八幡座主",
+    "表記": "石川県羽咋郡志賀町八幡座主",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "羽咋郡",
+      "市区町村": "志賀町",
+      "町名": "八幡座主"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365588",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365589"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/101900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/101897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/101895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/101896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/101900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/101896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/101895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/101897.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡志賀町八幡座主",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/羽咋郡/志賀町/八幡座主.json",
+    "name": "八幡座主",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県羽咋郡志賀町"
+  }
+]

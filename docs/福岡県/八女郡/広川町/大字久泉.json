@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県八女郡広川町大字久泉",
+    "表記": "福岡県八女郡広川町大字久泉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "八女郡",
+      "市区町村": "広川町",
+      "町名": "大字久泉",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S405440070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306494",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306484",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306485",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306495"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226145/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226145/105378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226139/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226139/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226139/105379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226140/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/105379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/105378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/105377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226145/105377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226140/105379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226145/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226145/105382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226147/105376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226147/105378.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県八女郡広川町大字久泉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/八女郡/広川町/大字久泉.json",
+    "name": "大字久泉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県八女郡広川町"
+  }
+]

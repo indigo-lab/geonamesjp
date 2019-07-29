@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市芳養松原",
+    "表記": "和歌山県田辺市芳養松原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "田辺市",
+      "町名": "芳養松原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S302068810"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市芳養松原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/田辺市/芳養松原.json",
+    "name": "芳養松原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県田辺市",
+    "children": [
+      "https://geonames.jp/resource/和歌山県田辺市芳養松原一丁目",
+      "https://geonames.jp/resource/和歌山県田辺市芳養松原二丁目"
+    ]
+  }
+]

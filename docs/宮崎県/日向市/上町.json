@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県日向市上町",
+    "表記": "宮崎県日向市上町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "上町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048315409",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048315419",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048315500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048315510"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226920/106089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226919/106089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226918/106089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226917/106089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226917/106088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226918/106088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226919/106088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226920/106088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226920/106090.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県日向市上町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/日向市/上町.json",
+    "name": "上町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県日向市"
+  }
+]

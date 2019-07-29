@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県天竜市渡ヶ島",
+    "表記": "静岡県天竜市渡ヶ島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "天竜市",
+      "町名": "渡ヶ島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372623",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372633",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372634",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372644"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231410/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231409/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231409/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231411/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231417/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/103963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/103953.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県天竜市渡ヶ島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/天竜市/渡ヶ島.json",
+    "name": "渡ヶ島",
+    "alternateName": [
+      "渡ケ島"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県天竜市"
+  }
+]

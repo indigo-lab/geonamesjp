@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原市若柳字川南川原",
+    "表記": "宮城県栗原市若柳字川南川原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "栗原市",
+      "町名": "若柳字川南川原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04213042031"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411110",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411100"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233842/100410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233843/100412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233843/100411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233842/100412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233842/100409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100409.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原市若柳字川南川原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原市/若柳字川南川原.json",
+    "name": "若柳字川南川原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原市"
+  }
+]

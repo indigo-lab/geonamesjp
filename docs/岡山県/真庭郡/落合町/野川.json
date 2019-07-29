@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県真庭郡落合町野川",
+    "表記": "岡山県真庭郡落合町野川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "真庭郡",
+      "市区町村": "落合町",
+      "町名": "野川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334650",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334660"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228470/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228471/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228468/103787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228470/103792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228470/103787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228470/103790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228471/103791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228470/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228471/103789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228471/103785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228471/103788.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228471/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228471/103790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228472/103790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228472/103788.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228471/103787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228472/103793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228473/103789.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県真庭郡落合町野川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/真庭郡/落合町/野川.json",
+    "name": "野川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県真庭郡落合町"
+  }
+]

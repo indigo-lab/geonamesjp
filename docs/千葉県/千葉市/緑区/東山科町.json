@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県千葉市緑区東山科町",
+    "表記": "千葉県千葉市緑区東山科町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "千葉市",
+      "区": "緑区",
+      "町名": "東山科町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S121050240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403105",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403104"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233154/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233153/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233156/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233155/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233157/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233153/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233155/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233156/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233155/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233156/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233154/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233156/103312.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県千葉市緑区東山科町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/千葉市/緑区/東山科町.json",
+    "name": "東山科町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県千葉市緑区"
+  }
+]

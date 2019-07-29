@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県袖ケ浦市蔵波台",
+    "表記": "千葉県袖ケ浦市蔵波台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "袖ケ浦市",
+      "町名": "蔵波台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122290161"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県袖ケ浦市蔵波台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/袖ケ浦市/蔵波台.json",
+    "name": "蔵波台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県袖ケ浦市",
+    "children": [
+      "https://geonames.jp/resource/千葉県袖ケ浦市蔵波台一丁目",
+      "https://geonames.jp/resource/千葉県袖ケ浦市蔵波台二丁目",
+      "https://geonames.jp/resource/千葉県袖ケ浦市蔵波台三丁目",
+      "https://geonames.jp/resource/千葉県袖ケ浦市蔵波台四丁目",
+      "https://geonames.jp/resource/千葉県袖ケ浦市蔵波台五丁目",
+      "https://geonames.jp/resource/千葉県袖ケ浦市蔵波台六丁目",
+      "https://geonames.jp/resource/千葉県袖ケ浦市蔵波台七丁目"
+    ]
+  }
+]

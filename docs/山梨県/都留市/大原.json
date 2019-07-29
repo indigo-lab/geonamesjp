@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県都留市大原",
+    "表記": "山梨県都留市大原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "都留市",
+      "町名": "大原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053382794",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232239/103315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232238/103315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232237/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232236/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232236/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232237/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232238/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232240/103315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232239/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232238/103311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232239/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232241/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232241/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232239/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232240/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232241/103313.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県都留市大原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/都留市/大原.json",
+    "name": "大原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県都留市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市大宮町",
+    "表記": "長崎県佐世保市大宮町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "大宮町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422020920"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049295589",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049295599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049295588"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225545/105455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225544/105454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225544/105453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225545/105453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225545/105454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225546/105454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225546/105453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225547/105454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225547/105455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225548/105455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225548/105454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225548/105453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225544/105455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225543/105454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225547/105453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225549/105453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225546/105455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225549/105454.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市大宮町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/佐世保市/大宮町.json",
+    "name": "大宮町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県佐世保市"
+  }
+]

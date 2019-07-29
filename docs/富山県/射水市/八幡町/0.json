@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県射水市八幡町（丁目なし）",
+    "表記": "富山県射水市八幡町（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "八幡町",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162110091",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162110092"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県射水市八幡町（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/射水市/八幡町/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県射水市八幡町"
+  }
+]

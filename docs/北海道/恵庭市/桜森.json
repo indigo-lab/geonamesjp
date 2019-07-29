@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道恵庭市桜森",
+    "表記": "北海道恵庭市桜森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "恵庭市",
+      "町名": "桜森",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012310310"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064412369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064412473",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064412484",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064412368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064412493"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234108/96438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234147/96419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234142/96429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234097/96437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234097/96438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234097/96439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234140/96410.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道恵庭市桜森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/恵庭市/桜森.json",
+    "name": "桜森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道恵庭市"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県郡上市鮎立",
+    "表記": "岐阜県郡上市鮎立",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "郡上市",
+      "町名": "鮎立",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21219073001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21219073002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212190730",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21219073003"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県郡上市鮎立",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/郡上市/鮎立.json",
+    "name": "鮎立",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県郡上市"
+  }
+]

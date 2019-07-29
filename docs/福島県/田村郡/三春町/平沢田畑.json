@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町平沢田畑",
+    "表記": "福島県田村郡三春町平沢田畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "田村郡",
+      "市区町村": "三春町",
+      "町名": "平沢田畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401347"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233361/101621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233361/101622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/101621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233360/101622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233360/101621.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町平沢田畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村郡/三春町/平沢田畑.json",
+    "name": "平沢田畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県田村郡三春町"
+  }
+]

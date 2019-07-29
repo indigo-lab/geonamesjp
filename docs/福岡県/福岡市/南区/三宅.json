@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市南区三宅",
+    "表記": "福岡県福岡市南区三宅",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "南区",
+      "町名": "三宅",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401340320"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市南区三宅",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/南区/三宅.json",
+    "name": "三宅",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市南区",
+    "children": [
+      "https://geonames.jp/resource/福岡県福岡市南区三宅一丁目",
+      "https://geonames.jp/resource/福岡県福岡市南区三宅二丁目",
+      "https://geonames.jp/resource/福岡県福岡市南区三宅三丁目"
+    ]
+  }
+]

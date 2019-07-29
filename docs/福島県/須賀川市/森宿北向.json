@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県須賀川市森宿北向",
+    "表記": "福島県須賀川市森宿北向",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "須賀川市",
+      "町名": "森宿北向"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407269",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407278",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407279"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/101750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/101748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/101749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/101751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/101752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/101750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/101748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/101751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/101752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/101749.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県須賀川市森宿北向",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/須賀川市/森宿北向.json",
+    "name": "森宿北向",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県須賀川市"
+  }
+]

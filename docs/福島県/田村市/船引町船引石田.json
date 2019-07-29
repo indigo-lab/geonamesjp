@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村市船引町船引石田",
+    "表記": "福島県田村市船引町船引石田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "田村市",
+      "町名": "船引町船引石田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401425",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401415"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233431/101633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/101634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/101634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/101636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233428/101636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/101639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/101635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/101635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/101636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/101640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/101639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/101641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233431/101639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/101638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/101638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/101637.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村市船引町船引石田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村市/船引町船引石田.json",
+    "name": "船引町船引石田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県田村市"
+  }
+]

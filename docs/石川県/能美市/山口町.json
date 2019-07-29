@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県能美市山口町",
+    "表記": "石川県能美市山口町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "山口町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172110370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365314",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365315",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365324",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365325"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230420/102552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230417/102554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230422/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230421/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230421/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230422/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230424/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230419/102552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230420/102551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230420/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230419/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230420/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230420/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230421/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230421/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230422/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230424/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230421/102551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230422/102551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230418/102553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230421/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230419/102553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230422/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230424/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230424/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230417/102552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230422/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230422/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230424/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230418/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230418/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230418/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230418/102554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230418/102552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230419/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230419/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230424/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230425/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230425/102547.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県能美市山口町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/能美市/山口町.json",
+    "name": "山口町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県能美市"
+  }
+]

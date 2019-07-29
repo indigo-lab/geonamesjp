@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県上新川郡大山町桑原",
+    "表記": "富山県上新川郡大山町桑原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "上新川郡",
+      "市区町村": "大山町",
+      "町名": "桑原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377231",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377241"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/102385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/102380.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県上新川郡大山町桑原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/上新川郡/大山町/桑原.json",
+    "name": "桑原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県上新川郡大山町"
+  }
+]

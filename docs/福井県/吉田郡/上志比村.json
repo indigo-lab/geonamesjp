@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県吉田郡上志比村",
+    "表記": "福井県吉田郡上志比村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "吉田郡",
+      "市区町村": "上志比村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C18323-19951128",
+        "http://data.e-stat.go.jp/lod/sac/C18323-20060213",
+        "http://data.e-stat.go.jp/lod/sac/C18323-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県吉田郡上志比村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/吉田郡/上志比村.json",
+    "name": "上志比村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県吉田郡"
+  }
+]

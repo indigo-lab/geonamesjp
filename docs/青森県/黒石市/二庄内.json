@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県黒石市二庄内",
+    "表記": "青森県黒石市二庄内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "黒石市",
+      "町名": "二庄内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406586",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406595",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407505",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407506",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407515"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/98686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233528/98678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/98682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/98673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233526/98694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/98687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/98689.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県黒石市二庄内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/黒石市/二庄内.json",
+    "name": "二庄内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県黒石市"
+  }
+]

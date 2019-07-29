@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県栃尾市入塩川",
+    "表記": "新潟県栃尾市入塩川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "栃尾市",
+      "町名": "入塩川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391052",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391062",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391063"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232310/101601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232313/101608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232316/101602.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県栃尾市入塩川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/栃尾市/入塩川.json",
+    "name": "入塩川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県栃尾市"
+  }
+]

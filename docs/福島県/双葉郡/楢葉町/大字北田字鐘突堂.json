@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県双葉郡楢葉町大字北田字鐘突堂",
+    "表記": "福島県双葉郡楢葉町大字北田字鐘突堂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "双葉郡",
+      "市区町村": "楢葉町",
+      "町名": "大字北田字鐘突堂",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07542003001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07542003002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407739"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233740/101776.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県双葉郡楢葉町大字北田字鐘突堂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/双葉郡/楢葉町/大字北田字鐘突堂.json",
+    "name": "大字北田字鐘突堂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県双葉郡楢葉町"
+  }
+]

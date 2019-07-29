@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県砺波市宮森新",
+    "表記": "富山県砺波市宮森新",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "砺波市",
+      "町名": "宮森新",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162080800"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377072",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377071",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377082"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230851/102353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230850/102353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230850/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230851/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/102355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230850/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230851/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230852/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230852/102353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230852/102355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230853/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230854/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230854/102356.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県砺波市宮森新",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/砺波市/宮森新.json",
+    "name": "宮森新",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県砺波市"
+  }
+]

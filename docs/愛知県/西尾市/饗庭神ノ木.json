@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西尾市饗庭神ノ木",
+    "表記": "愛知県西尾市饗庭神ノ木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "西尾市",
+      "町名": "饗庭神ノ木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371065"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230882/104007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230882/104006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230883/104007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230883/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230883/104006.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西尾市饗庭神ノ木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西尾市/饗庭神ノ木.json",
+    "name": "饗庭神ノ木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県西尾市"
+  }
+]

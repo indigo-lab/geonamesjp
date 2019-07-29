@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市東三里塚",
+    "表記": "千葉県成田市東三里塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "東三里塚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404381",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404391",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405301",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405302",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404380"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/103172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/103173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/103172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/103172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/103165.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市東三里塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/東三里塚.json",
+    "name": "東三里塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市"
+  }
+]

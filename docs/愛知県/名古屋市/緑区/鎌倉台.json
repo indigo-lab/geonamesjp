@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区鎌倉台",
+    "表記": "愛知県名古屋市緑区鎌倉台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "緑区",
+      "町名": "鎌倉台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S231141160"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区鎌倉台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/緑区/鎌倉台.json",
+    "name": "鎌倉台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市緑区",
+    "children": [
+      "https://geonames.jp/resource/愛知県名古屋市緑区鎌倉台一丁目",
+      "https://geonames.jp/resource/愛知県名古屋市緑区鎌倉台二丁目"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道常呂郡留辺蘂町豊金",
+    "表記": "北海道常呂郡留辺蘂町豊金",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "常呂郡",
+      "市区町村": "留辺蘂町",
+      "町名": "豊金"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435448",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435449",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435458",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435459"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235640/95530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235644/95533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235645/95532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235646/95532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235646/95531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235647/95530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235647/95532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235646/95529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235648/95533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235642/95530.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道常呂郡留辺蘂町豊金",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/常呂郡/留辺蘂町/豊金.json",
+    "name": "豊金",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道常呂郡留辺蘂町"
+  }
+]

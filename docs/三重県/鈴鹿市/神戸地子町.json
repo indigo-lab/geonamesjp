@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市神戸地子町",
+    "表記": "三重県鈴鹿市神戸地子町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "神戸地子町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362446",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362455",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362447"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230531/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230528/103944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230531/103946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230522/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230521/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230525/103944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230522/103944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230531/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230532/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230531/103945.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市神戸地子町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/鈴鹿市/神戸地子町.json",
+    "name": "神戸地子町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県鈴鹿市"
+  }
+]

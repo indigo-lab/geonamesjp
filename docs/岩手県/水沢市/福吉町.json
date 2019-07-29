@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県水沢市福吉町",
+    "表記": "岩手県水沢市福吉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "福吉町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415150"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233842/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233842/100063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/100062.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県水沢市福吉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/水沢市/福吉町.json",
+    "name": "福吉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県水沢市"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県川内市楠元町",
+    "表記": "鹿児島県川内市楠元町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "楠元町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306206",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306216",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306217",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306227"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/106584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/106582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225984/106582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/106590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225981/106587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225981/106590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225983/106588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225979/106586.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県川内市楠元町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/川内市/楠元町.json",
+    "name": "楠元町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県川内市"
+  }
+]

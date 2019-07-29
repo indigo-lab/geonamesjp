@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市松ケ鼻",
+    "表記": "兵庫県篠山市松ケ鼻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "篠山市",
+      "町名": "松ケ鼻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355204"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229600/103754.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市松ケ鼻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/篠山市/松ケ鼻.json",
+    "name": "松ケ鼻",
+    "alternateName": [
+      "松ヶ鼻"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県篠山市"
+  }
+]

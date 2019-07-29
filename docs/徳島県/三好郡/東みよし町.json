@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県三好郡東みよし町",
+    "表記": "徳島県三好郡東みよし町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "三好郡",
+      "市区町村": "東みよし町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C36489-20060301"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県三好郡東みよし町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/三好郡/東みよし町.json",
+    "name": "東みよし町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県三好郡",
+    "children": [
+      "https://geonames.jp/resource/徳島県三好郡東みよし町東山",
+      "https://geonames.jp/resource/徳島県三好郡東みよし町毛田",
+      "https://geonames.jp/resource/徳島県三好郡東みよし町足代",
+      "https://geonames.jp/resource/徳島県三好郡東みよし町西庄",
+      "https://geonames.jp/resource/徳島県三好郡東みよし町中庄",
+      "https://geonames.jp/resource/徳島県三好郡東みよし町昼間",
+      "https://geonames.jp/resource/徳島県三好郡東みよし町加茂"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1206006"
+    ]
+  }
+]

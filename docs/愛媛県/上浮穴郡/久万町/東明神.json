@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県上浮穴郡久万町東明神",
+    "表記": "愛媛県上浮穴郡久万町東明神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "上浮穴郡",
+      "市区町村": "久万町",
+      "町名": "東明神"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050324701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050324710",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050324711"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227840/105003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227840/105002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227839/105002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227839/105001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227838/105001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227838/105002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227836/105000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227837/105001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227838/105000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227840/105000.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県上浮穴郡久万町東明神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/上浮穴郡/久万町/東明神.json",
+    "name": "東明神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県上浮穴郡久万町"
+  }
+]

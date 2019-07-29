@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県甲府市酒折三丁目",
+    "表記": "山梨県甲府市酒折三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "甲府市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S19201032103"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383497",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383488",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383498"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231994/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231995/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231995/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231995/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232000/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231994/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103245.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県甲府市酒折三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/甲府市/酒折/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山梨県甲府市酒折"
+  }
+]

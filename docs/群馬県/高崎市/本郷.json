@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県高崎市本郷",
+    "表記": "群馬県高崎市本郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "高崎市",
+      "町名": "本郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384734",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384735",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384736",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384744",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384745"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232243/102615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232238/102609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232239/102609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232243/102611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/102615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/102612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232248/102612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/102611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232242/102609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/102609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/102610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/102609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/102610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232249/102611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/102607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232250/102611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/102611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/102616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/102617.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県高崎市本郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/高崎市/本郷.json",
+    "name": "本郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県高崎市"
+  }
+]

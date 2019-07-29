@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都足立区島根",
+    "表記": "東京都足立区島根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "足立区",
+      "町名": "島根",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131210280"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都足立区島根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/足立区/島根.json",
+    "name": "島根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都足立区",
+    "children": [
+      "https://geonames.jp/resource/東京都足立区島根一丁目",
+      "https://geonames.jp/resource/東京都足立区島根二丁目",
+      "https://geonames.jp/resource/東京都足立区島根三丁目",
+      "https://geonames.jp/resource/東京都足立区島根四丁目"
+    ]
+  }
+]

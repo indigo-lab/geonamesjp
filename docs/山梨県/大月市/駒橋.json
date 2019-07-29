@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県大月市駒橋",
+    "表記": "山梨県大月市駒橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "大月市",
+      "町名": "駒橋"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県大月市駒橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/大月市/駒橋.json",
+    "name": "駒橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県大月市",
+    "children": [
+      "https://geonames.jp/resource/山梨県大月市駒橋（丁目なし）",
+      "https://geonames.jp/resource/山梨県大月市駒橋一丁目",
+      "https://geonames.jp/resource/山梨県大月市駒橋二丁目",
+      "https://geonames.jp/resource/山梨県大月市駒橋三丁目"
+    ]
+  }
+]

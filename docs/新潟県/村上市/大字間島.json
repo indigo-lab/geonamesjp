@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県村上市大字間島",
+    "表記": "新潟県村上市大字間島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "村上市",
+      "町名": "大字間島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393336",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393325",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393335"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/100861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232615/100864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232624/100859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/100862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/100861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232617/100859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/100858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/100860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/100859.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県村上市大字間島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/村上市/大字間島.json",
+    "name": "大字間島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県村上市"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県上新川郡大沢野町八木山",
+    "表記": "富山県上新川郡大沢野町八木山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "上新川郡",
+      "市区町村": "大沢野町",
+      "町名": "八木山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376196",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377106",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377107"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/102410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/102411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/102411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/102411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230983/102417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230983/102416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230983/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/102413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230983/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/102413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/102415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/102420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/102406.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県上新川郡大沢野町八木山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/上新川郡/大沢野町/八木山.json",
+    "name": "八木山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県上新川郡大沢野町"
+  }
+]

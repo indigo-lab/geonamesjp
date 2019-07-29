@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡甲南町希望ヶ丘本町十丁目",
+    "表記": "滋賀県甲賀郡甲南町希望ヶ丘本町十丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "甲賀郡",
+      "市区町村": "甲南町",
+      "町名": "十丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363124"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103888.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡甲南町希望ヶ丘本町十丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀郡/甲南町/希望ヶ丘本町/10.json",
+    "name": "十丁目",
+    "alternateName": [
+      "10",
+      "10丁目",
+      "１０",
+      "１０丁目",
+      "十"
+    ],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀郡甲南町希望ヶ丘本町"
+  }
+]

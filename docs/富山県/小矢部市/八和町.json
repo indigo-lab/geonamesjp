@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県小矢部市八和町",
+    "表記": "富山県小矢部市八和町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "八和町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162090020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360619",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360629"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/102325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/102327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/102326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230735/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230734/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230735/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230735/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/102327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230735/102326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230734/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230735/102325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/102325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230734/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/102324.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県小矢部市八和町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/小矢部市/八和町.json",
+    "name": "八和町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県小矢部市"
+  }
+]

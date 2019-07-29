@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府大阪市鶴見区焼野",
+    "表記": "大阪府大阪市鶴見区焼野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "大阪市",
+      "区": "鶴見区",
+      "町名": "焼野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S271240110"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府大阪市鶴見区焼野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/大阪市/鶴見区/焼野.json",
+    "name": "焼野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府大阪市鶴見区",
+    "children": [
+      "https://geonames.jp/resource/大阪府大阪市鶴見区焼野一丁目",
+      "https://geonames.jp/resource/大阪府大阪市鶴見区焼野二丁目",
+      "https://geonames.jp/resource/大阪府大阪市鶴見区焼野三丁目"
+    ]
+  }
+]

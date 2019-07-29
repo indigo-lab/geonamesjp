@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市北島町字北島",
+    "表記": "愛知県豊橋市北島町字北島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "北島町字北島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371229",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371320",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371330"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231110/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231106/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231109/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231107/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231109/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231108/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231108/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231107/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231106/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231105/104032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231107/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231108/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231104/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231107/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231106/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231106/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231106/104032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231105/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231105/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231109/104034.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市北島町字北島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/北島町字北島.json",
+    "name": "北島町字北島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

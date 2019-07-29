@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府木津川市梅美台五丁目",
+    "表記": "京都府木津川市梅美台五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "木津川市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S26214020005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350657"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229990/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229990/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229991/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229990/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229992/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229991/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229992/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229991/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229991/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229992/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229993/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229993/104087.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府木津川市梅美台五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/木津川市/梅美台/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/京都府木津川市梅美台"
+  }
+]

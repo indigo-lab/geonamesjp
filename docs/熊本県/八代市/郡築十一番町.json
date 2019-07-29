@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県八代市郡築十一番町",
+    "表記": "熊本県八代市郡築十一番町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "郡築十一番町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S432021070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306457",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306465",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306466"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226152/105978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226154/105979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226157/105981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226160/105982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226161/105983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226162/105985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226163/105984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226165/105986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226167/105986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226168/105985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226165/105984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226169/105986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226159/105982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226155/105980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226158/105982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226164/105985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226166/105986.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県八代市郡築十一番町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/八代市/郡築十一番町.json",
+    "name": "郡築十一番町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県八代市"
+  }
+]

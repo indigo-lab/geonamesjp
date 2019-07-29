@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県珠洲市若山町鈴内",
+    "表記": "石川県珠洲市若山町鈴内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "珠洲市",
+      "町名": "若山町鈴内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056371240",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056371250",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056371251",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056371169"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/101612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/101611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/101611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/101614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/101614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/101615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/101613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/101611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/101616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/101614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/101613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/101616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/101614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/101611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231012/101603.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県珠洲市若山町鈴内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/珠洲市/若山町鈴内.json",
+    "name": "若山町鈴内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県珠洲市"
+  }
+]

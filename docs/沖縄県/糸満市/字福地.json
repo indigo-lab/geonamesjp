@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県糸満市字福地",
+    "表記": "沖縄県糸満市字福地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "糸満市",
+      "町名": "字福地",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S472100280"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039271513",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039271514",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039271504"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224041/111375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224044/111376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224044/111377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224043/111377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224043/111376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224043/111375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224042/111376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224042/111375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224043/111378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224042/111374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224041/111376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224037/111378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224039/111377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224041/111377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224040/111379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224040/111375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224042/111377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224043/111380.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県糸満市字福地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/糸満市/字福地.json",
+    "name": "字福地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県糸満市"
+  }
+]

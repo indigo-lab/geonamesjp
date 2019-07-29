@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高岡郡窪川町大向",
+    "表記": "高知県高岡郡窪川町大向",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "高岡郡",
+      "市区町村": "窪川町",
+      "町名": "大向"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336017",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336027",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336028"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227992/105429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227992/105431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227990/105434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227991/105433.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高岡郡窪川町大向",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高岡郡/窪川町/大向.json",
+    "name": "大向",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高岡郡窪川町"
+  }
+]

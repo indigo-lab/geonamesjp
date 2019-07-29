@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道石狩郡当別町材木沢",
+    "表記": "北海道石狩郡当別町材木沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "石狩郡",
+      "市区町村": "当別町",
+      "町名": "材木沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416348",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416358",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416368"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234096/96111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234097/96121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234096/96106.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道石狩郡当別町材木沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/石狩郡/当別町/材木沢.json",
+    "name": "材木沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道石狩郡当別町"
+  }
+]

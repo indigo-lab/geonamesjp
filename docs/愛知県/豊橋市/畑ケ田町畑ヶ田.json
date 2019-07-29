@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市畑ケ田町畑ヶ田",
+    "表記": "愛知県豊橋市畑ケ田町畑ヶ田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "畑ケ田町畑ヶ田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370341",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370351"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231118/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231119/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231120/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231120/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231120/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231121/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231121/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231121/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231122/104096.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市畑ケ田町畑ヶ田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/畑ケ田町畑ヶ田.json",
+    "name": "畑ケ田町畑ヶ田",
+    "alternateName": [
+      "畑ヶ田町畑ヶ田",
+      "畑ケ田町畑ケ田"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

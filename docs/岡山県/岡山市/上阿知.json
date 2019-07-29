@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市上阿知",
+    "表記": "岡山県岡山市上阿知",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "上阿知"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347058",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347047"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228720/104169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228721/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228727/104170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228728/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228727/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228727/104171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228728/104171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228726/104170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228721/104169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228720/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228719/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228722/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228721/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228722/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228721/104170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228724/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228728/104162.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市上阿知",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/上阿知.json",
+    "name": "上阿知",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

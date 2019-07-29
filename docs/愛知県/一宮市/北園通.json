@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県一宮市北園通",
+    "表記": "愛知県一宮市北園通",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "一宮市",
+      "町名": "北園通",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232030290"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県一宮市北園通",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/一宮市/北園通.json",
+    "name": "北園通",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県一宮市",
+    "children": [
+      "https://geonames.jp/resource/愛知県一宮市北園通一丁目",
+      "https://geonames.jp/resource/愛知県一宮市北園通二丁目",
+      "https://geonames.jp/resource/愛知県一宮市北園通三丁目",
+      "https://geonames.jp/resource/愛知県一宮市北園通四丁目",
+      "https://geonames.jp/resource/愛知県一宮市北園通五丁目",
+      "https://geonames.jp/resource/愛知県一宮市北園通六丁目",
+      "https://geonames.jp/resource/愛知県一宮市北園通七丁目"
+    ]
+  }
+]

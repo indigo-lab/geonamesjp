@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県龍野市末政",
+    "表記": "兵庫県龍野市末政",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "龍野市",
+      "町名": "末政"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342425",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342434",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342435",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342445"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229060/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229062/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229061/103954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229061/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229057/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229059/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229056/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229057/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229057/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229058/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229058/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229058/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229058/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229059/103959.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県龍野市末政",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/龍野市/末政.json",
+    "name": "末政",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県龍野市"
+  }
+]

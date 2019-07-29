@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県湖西市坊瀬",
+    "表記": "静岡県湖西市坊瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "湖西市",
+      "町名": "坊瀬",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222210080"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370441"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231209/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231209/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231208/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231208/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231209/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231207/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231207/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231206/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231208/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231214/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231212/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231207/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231208/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231209/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231209/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231209/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231212/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231207/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/104100.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県湖西市坊瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/湖西市/坊瀬.json",
+    "name": "坊瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県湖西市"
+  }
+]

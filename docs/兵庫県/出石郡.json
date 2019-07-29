@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県出石郡",
+    "表記": "兵庫県出石郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "出石郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C28560-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C28560-20050401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県出石郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/出石郡.json",
+    "name": "出石郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県",
+    "children": [
+      "https://geonames.jp/resource/兵庫県出石郡出石町",
+      "https://geonames.jp/resource/兵庫県出石郡但東町",
+      "https://geonames.jp/resource/兵庫県出石郡合橋村",
+      "https://geonames.jp/resource/兵庫県出石郡室埴村",
+      "https://geonames.jp/resource/兵庫県出石郡小坂村",
+      "https://geonames.jp/resource/兵庫県出石郡神美村",
+      "https://geonames.jp/resource/兵庫県出石郡資母村",
+      "https://geonames.jp/resource/兵庫県出石郡高橋村"
+    ]
+  }
+]

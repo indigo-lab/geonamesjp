@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市頭川",
+    "表記": "富山県高岡市頭川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "高岡市",
+      "町名": "頭川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162021670"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361726",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361727",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361736"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230801/102245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230795/102241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230801/102242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/102240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/102245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/102247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230805/102244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/102244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230800/102241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230800/102239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/102247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230797/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230795/102240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/102243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/102243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/102240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/102245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230800/102244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/102243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/102243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/102245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/102244.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市頭川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/頭川.json",
+    "name": "頭川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

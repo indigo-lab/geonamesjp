@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県海部郡弥富町富浜",
+    "表記": "愛知県海部郡弥富町富浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "海部郡",
+      "市区町村": "弥富町",
+      "町名": "富浜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364622",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364623",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364632",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364642"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230675/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230674/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230671/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230679/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230673/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230672/103811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230669/103806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230676/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230674/103814.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県海部郡弥富町富浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/海部郡/弥富町/富浜.json",
+    "name": "富浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県海部郡弥富町"
+  }
+]

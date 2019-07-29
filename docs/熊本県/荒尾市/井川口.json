@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市井川口",
+    "表記": "熊本県荒尾市井川口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "荒尾市",
+      "町名": "井川口"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303388"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226085/105607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226085/105611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226081/105609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226081/105607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226081/105606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105610.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市井川口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/荒尾市/井川口.json",
+    "name": "井川口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県荒尾市"
+  }
+]

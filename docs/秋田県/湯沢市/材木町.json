@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市材木町",
+    "表記": "秋田県湯沢市材木町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "材木町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052070160"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市材木町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/湯沢市/材木町.json",
+    "name": "材木町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県湯沢市",
+    "children": [
+      "https://geonames.jp/resource/秋田県湯沢市材木町一丁目",
+      "https://geonames.jp/resource/秋田県湯沢市材木町二丁目"
+    ]
+  }
+]

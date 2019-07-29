@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県八日市市栄町",
+    "表記": "滋賀県八日市市栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "栄町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365125",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365135"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/103736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230244/103737.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県八日市市栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/八日市市/栄町.json",
+    "name": "栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県八日市市"
+  }
+]

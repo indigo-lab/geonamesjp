@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県山口市阿知須字小古郷東区",
+    "表記": "山口県山口市阿知須字小古郷東区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "山口市",
+      "区": "阿知須字小古郷東区"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310208"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226726/104714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226726/104715.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県山口市阿知須字小古郷東区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/山口市/阿知須字小古郷東区.json",
+    "name": "阿知須字小古郷東区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県山口市"
+  }
+]

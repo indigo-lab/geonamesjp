@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市津島町岩松字甲",
+    "表記": "愛媛県宇和島市津島町岩松字甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "宇和島市",
+      "町名": "津島町岩松字甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049325441",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049325451"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227571/105485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227570/105482.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市津島町岩松字甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/宇和島市/津島町岩松字甲.json",
+    "name": "津島町岩松字甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県宇和島市"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県小松島市和田島町字東浜手",
+    "表記": "徳島県小松島市和田島町字東浜手",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "小松島市",
+      "町名": "和田島町字東浜手"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347581",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347582",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347591"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229122/104730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229121/104729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229119/104723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229121/104726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229120/104725.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県小松島市和田島町字東浜手",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/小松島市/和田島町字東浜手.json",
+    "name": "和田島町字東浜手",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県小松島市"
+  }
+]

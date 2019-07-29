@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡水口町宇川",
+    "表記": "滋賀県甲賀郡水口町宇川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "甲賀郡",
+      "市区町村": "水口町",
+      "町名": "宇川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363150",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363160"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230210/103866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/103870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/103869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/103868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/103869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/103868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/103866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/103865.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡水口町宇川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀郡/水口町/宇川.json",
+    "name": "宇川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀郡水口町"
+  }
+]

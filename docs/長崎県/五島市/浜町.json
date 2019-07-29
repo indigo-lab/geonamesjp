@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県五島市浜町",
+    "表記": "長崎県五島市浜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "浜町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422110280"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048287685",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048287674",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048287684",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048280352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048287675"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224870/105893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224873/105889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224874/105889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224870/105895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224870/105894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224869/105892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224871/105893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224871/105894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224870/105892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224870/105891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224871/105892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224871/105891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224872/105889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224572/106414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224871/105889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224872/105893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224874/105888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224869/105894.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県五島市浜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/五島市/浜町.json",
+    "name": "浜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県五島市"
+  }
+]

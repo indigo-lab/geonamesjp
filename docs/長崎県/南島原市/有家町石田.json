@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県南島原市有家町石田",
+    "表記": "長崎県南島原市有家町石田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "南島原市",
+      "町名": "有家町石田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049300206",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048307296",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049300205",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049300215"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225975/105877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225974/105878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225974/105873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225973/105882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225973/105881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225969/105877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225972/105876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225968/105872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225974/105876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225969/105872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225970/105872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225971/105871.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県南島原市有家町石田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/南島原市/有家町石田.json",
+    "name": "有家町石田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県南島原市"
+  }
+]

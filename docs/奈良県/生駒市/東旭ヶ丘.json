@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県生駒市東旭ヶ丘",
+    "表記": "奈良県生駒市東旭ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "生駒市",
+      "町名": "東旭ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350525",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350526"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229885/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229885/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229887/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229887/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229887/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229885/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229888/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229887/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/104109.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県生駒市東旭ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/生駒市/東旭ヶ丘.json",
+    "name": "東旭ヶ丘",
+    "alternateName": [
+      "東旭ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県生駒市"
+  }
+]

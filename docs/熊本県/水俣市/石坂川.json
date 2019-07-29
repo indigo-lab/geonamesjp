@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県水俣市石坂川",
+    "表記": "熊本県水俣市石坂川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "水俣市",
+      "町名": "石坂川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S432050520"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048301369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048301388",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048301480",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048301490",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302308",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048301389",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048301399",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302318"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226093/106337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226093/106334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226099/106323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/106322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226088/106311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226104/106317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226094/106324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226091/106313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226104/106318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226085/106304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226093/106323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226096/106313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226096/106321.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県水俣市石坂川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/水俣市/石坂川.json",
+    "name": "石坂川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県水俣市"
+  }
+]

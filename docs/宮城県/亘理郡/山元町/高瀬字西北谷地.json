@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡山元町高瀬字西北谷地",
+    "表記": "宮城県亘理郡山元町高瀬字西北谷地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "亘理郡",
+      "市区町村": "山元町",
+      "町名": "高瀬字西北谷地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056407752"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/101150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233675/101150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233675/101151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233675/101149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233677/101149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233676/101150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233676/101151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233678/101151.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡山元町高瀬字西北谷地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/亘理郡/山元町/高瀬字西北谷地.json",
+    "name": "高瀬字西北谷地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県亘理郡山元町"
+  }
+]

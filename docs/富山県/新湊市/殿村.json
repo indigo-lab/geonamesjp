@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県新湊市殿村",
+    "表記": "富山県新湊市殿村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "殿村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370097"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230897/102264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/102264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230898/102265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230898/102266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/102265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230900/102264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/102264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/102266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230900/102266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/102266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230900/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230898/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/102268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230897/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230898/102268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230903/102265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230904/102265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230896/102266.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県新湊市殿村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/新湊市/殿村.json",
+    "name": "殿村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県新湊市"
+  }
+]

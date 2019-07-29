@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県栗東市坊袋",
+    "表記": "滋賀県栗東市坊袋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "栗東市",
+      "町名": "坊袋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252080040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354728"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230094/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230093/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230093/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230093/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230094/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230093/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230091/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230091/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230092/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230091/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230092/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230092/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230091/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230090/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230093/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230092/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230092/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230090/103814.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県栗東市坊袋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/栗東市/坊袋.json",
+    "name": "坊袋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県栗東市"
+  }
+]

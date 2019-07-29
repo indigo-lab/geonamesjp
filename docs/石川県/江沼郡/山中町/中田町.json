@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県江沼郡山中町中田町",
+    "表記": "石川県江沼郡山中町中田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "江沼郡",
+      "市区町村": "山中町",
+      "町名": "中田町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363228"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230363/102694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230362/102693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230362/102696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230362/102698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230362/102692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230363/102696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230362/102695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230362/102699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230361/102693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230362/102694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230361/102695.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県江沼郡山中町中田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/江沼郡/山中町/中田町.json",
+    "name": "中田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県江沼郡山中町"
+  }
+]

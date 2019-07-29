@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県東村山郡山辺町大字三河",
+    "表記": "山形県東村山郡山辺町大字三河",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "郡": "東村山郡",
+      "市区町村": "山辺町",
+      "町名": "大字三河"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403231",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403241"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233213/100851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/100854.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県東村山郡山辺町大字三河",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/東村山郡/山辺町/大字三河.json",
+    "name": "大字三河",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県東村山郡山辺町"
+  }
+]

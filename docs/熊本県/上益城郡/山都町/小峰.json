@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県上益城郡山都町小峰",
+    "表記": "熊本県上益城郡山都町小峰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "上益城郡",
+      "市区町村": "山都町",
+      "町名": "小峰"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049310005"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226515/105876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226515/105875.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県上益城郡山都町小峰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/上益城郡/山都町/小峰.json",
+    "name": "小峰",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県上益城郡山都町"
+  }
+]

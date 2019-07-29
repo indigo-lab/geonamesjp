@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県宿毛市四季の丘",
+    "表記": "高知県宿毛市四季の丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "宿毛市",
+      "町名": "四季の丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S392080231"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県宿毛市四季の丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/宿毛市/四季の丘.json",
+    "name": "四季の丘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県宿毛市",
+    "children": [
+      "https://geonames.jp/resource/高知県宿毛市四季の丘一丁目",
+      "https://geonames.jp/resource/高知県宿毛市四季の丘二丁目"
+    ]
+  }
+]

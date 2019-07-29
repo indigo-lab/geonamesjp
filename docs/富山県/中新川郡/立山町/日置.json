@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町日置",
+    "表記": "富山県中新川郡立山町日置",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "中新川郡",
+      "市区町村": "立山町",
+      "町名": "日置"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370203",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377293",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370202"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231041/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231041/102334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231042/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231042/102334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231042/102335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231044/102335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231043/102334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231043/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231044/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231042/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231045/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231045/102331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231043/102338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231041/102331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231043/102332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231043/102331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231043/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231044/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231042/102332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231044/102332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231044/102336.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町日置",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/中新川郡/立山町/日置.json",
+    "name": "日置",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県中新川郡立山町"
+  }
+]

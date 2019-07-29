@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県仙北市角館町雲然荒屋敷",
+    "表記": "秋田県仙北市角館町雲然荒屋敷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "仙北市",
+      "町名": "角館町雲然荒屋敷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S05215041001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059403404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059403403",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059403414",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059403413"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/99629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233415/99629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/99630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/99630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/99630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/99632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/99628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/99627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99628.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県仙北市角館町雲然荒屋敷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/仙北市/角館町雲然荒屋敷.json",
+    "name": "角館町雲然荒屋敷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県仙北市"
+  }
+]

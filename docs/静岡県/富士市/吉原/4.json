@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士市吉原四丁目",
+    "表記": "静岡県富士市吉原四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "富士市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S22210004004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385594",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052386504"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232058/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232058/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232057/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232058/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232059/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232057/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232057/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232058/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232060/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232060/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232059/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232058/103685.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士市吉原四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士市/吉原/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士市吉原"
+  }
+]

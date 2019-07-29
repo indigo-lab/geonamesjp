@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県高島郡高島町",
+    "表記": "滋賀県高島郡高島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "高島郡",
+      "市区町村": "高島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C25525-20050101",
+        "http://data.e-stat.go.jp/lod/sac/C25525-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C25525-19880328",
+        "http://data.e-stat.go.jp/lod/sac/C25525-19920220"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県高島郡高島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/高島郡/高島町.json",
+    "name": "高島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県高島郡",
+    "children": [
+      "https://geonames.jp/resource/滋賀県高島郡高島町鴨川平",
+      "https://geonames.jp/resource/滋賀県高島郡高島町鵜川",
+      "https://geonames.jp/resource/滋賀県高島郡高島町永田",
+      "https://geonames.jp/resource/滋賀県高島郡高島町音羽",
+      "https://geonames.jp/resource/滋賀県高島郡高島町鴨",
+      "https://geonames.jp/resource/滋賀県高島郡高島町宮野",
+      "https://geonames.jp/resource/滋賀県高島郡高島町高島",
+      "https://geonames.jp/resource/滋賀県高島郡高島町勝野",
+      "https://geonames.jp/resource/滋賀県高島郡高島町城山台",
+      "https://geonames.jp/resource/滋賀県高島郡高島町拝戸",
+      "https://geonames.jp/resource/滋賀県高島郡高島町武曽横山",
+      "https://geonames.jp/resource/滋賀県高島郡高島町野田"
+    ]
+  }
+]

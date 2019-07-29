@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県草津市野路九丁目",
+    "表記": "滋賀県草津市野路九丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "草津市",
+      "町名": "九丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25206043609"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353795",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353796"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230066/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230066/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230065/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230065/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230066/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230067/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230068/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230067/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230066/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230066/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230065/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230065/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230067/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230066/103837.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県草津市野路九丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/草津市/野路/9.json",
+    "name": "九丁目",
+    "alternateName": [
+      "9",
+      "9丁目",
+      "９",
+      "９丁目",
+      "九"
+    ],
+    "parentFeature": "https://geonames.jp/resource/滋賀県草津市野路"
+  }
+]

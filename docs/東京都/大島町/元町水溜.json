@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都大島町元町水溜",
+    "表記": "東京都大島町元町水溜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "大島町",
+      "町名": "元町水溜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052391218"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232544/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232544/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232544/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232545/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232546/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232545/104043.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都大島町元町水溜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/大島町/元町水溜.json",
+    "name": "元町水溜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都大島町"
+  }
+]

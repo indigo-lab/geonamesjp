@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県大島郡東和町",
+    "表記": "山口県大島郡東和町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "郡": "大島郡",
+      "市区町村": "東和町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C35303-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C35303-20041001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県大島郡東和町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/大島郡/東和町.json",
+    "name": "東和町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県大島郡",
+    "children": [
+      "https://geonames.jp/resource/山口県大島郡東和町外入",
+      "https://geonames.jp/resource/山口県大島郡東和町森",
+      "https://geonames.jp/resource/山口県大島郡東和町西方",
+      "https://geonames.jp/resource/山口県大島郡東和町平野",
+      "https://geonames.jp/resource/山口県大島郡東和町和佐",
+      "https://geonames.jp/resource/山口県大島郡東和町地家室"
+    ]
+  }
+]

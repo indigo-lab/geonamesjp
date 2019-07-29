@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県益田市栄町",
+    "表記": "島根県益田市栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "栄町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322040160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052310606",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052310616"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227070/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227071/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227070/104118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227069/104118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227071/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227070/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227069/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227070/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227070/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227069/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227070/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227072/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227069/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227068/104118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227068/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227070/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227070/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227071/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227072/104126.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県益田市栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/益田市/栄町.json",
+    "name": "栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県益田市"
+  }
+]

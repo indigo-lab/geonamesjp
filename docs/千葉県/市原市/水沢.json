@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市原市水沢",
+    "表記": "千葉県市原市水沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "市原市",
+      "町名": "水沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122192240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400145",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400165"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233158/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233159/103494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233160/103492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233157/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233158/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233160/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233157/103502.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市原市水沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市原市/水沢.json",
+    "name": "水沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県市原市"
+  }
+]

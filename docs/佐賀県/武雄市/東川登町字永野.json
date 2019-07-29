@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県武雄市東川登町字永野",
+    "表記": "佐賀県武雄市東川登町字永野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "武雄市",
+      "町名": "東川登町字永野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305090",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305091",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306000"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225739/105451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225750/105449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225741/105441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225736/105450.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県武雄市東川登町字永野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/武雄市/東川登町字永野.json",
+    "name": "東川登町字永野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県武雄市"
+  }
+]

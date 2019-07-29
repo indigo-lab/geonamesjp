@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市豊洲",
+    "表記": "青森県八戸市豊洲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "豊洲",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022030730"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416441",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416440",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416442",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416452"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234120/98730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234115/98728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234118/98731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234125/98727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234126/98734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234120/98729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/98727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234119/98729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234118/98725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234115/98726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234117/98728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234116/98727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234120/98726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234121/98731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/98722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234125/98734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234127/98729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/98731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/98728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234129/98730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/98729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234123/98732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234116/98729.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市豊洲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/豊洲.json",
+    "name": "豊洲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市"
+  }
+]

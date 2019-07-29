@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県仙北市田沢湖生保内字町田",
+    "表記": "秋田県仙北市田沢湖生保内字町田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "仙北市",
+      "町名": "田沢湖生保内字町田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404588",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404589"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233545/99497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233543/99499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233543/99498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233545/99494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233540/99499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233542/99498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233560/99489.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県仙北市田沢湖生保内字町田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/仙北市/田沢湖生保内字町田.json",
+    "name": "田沢湖生保内字町田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県仙北市"
+  }
+]

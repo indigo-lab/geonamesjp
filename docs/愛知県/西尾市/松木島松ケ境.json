@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西尾市松木島松ケ境",
+    "表記": "愛知県西尾市松木島松ケ境",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "西尾市",
+      "町名": "松木島松ケ境"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371042",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371052"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230857/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230858/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230858/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/104019.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西尾市松木島松ケ境",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西尾市/松木島松ケ境.json",
+    "name": "松木島松ケ境",
+    "alternateName": [
+      "松木島松ヶ境"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県西尾市"
+  }
+]

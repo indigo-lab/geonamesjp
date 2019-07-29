@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府綾部市田野町",
+    "表記": "京都府綾部市田野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "田野町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357240",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357139",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357230",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357129",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357159",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357220"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229554/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229562/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229562/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229552/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229556/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229561/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229562/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229564/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229564/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229555/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229561/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229555/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229556/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229560/103585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229554/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229554/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229555/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229556/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229555/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229556/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229556/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229559/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229560/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229559/103585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229560/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229563/103586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229565/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229556/103592.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府綾部市田野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/綾部市/田野町.json",
+    "name": "田野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府綾部市"
+  }
+]

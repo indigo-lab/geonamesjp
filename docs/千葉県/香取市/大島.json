@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県香取市大島",
+    "表記": "千葉県香取市大島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "香取市",
+      "町名": "大島",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122360660"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407440",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407430",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407432",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407441"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233388/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233386/102980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233389/102981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233389/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233386/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233392/102990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233391/102992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233388/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/102980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233388/102980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/102991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233389/102984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233389/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233390/102980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233390/102984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233390/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233390/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/102987.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県香取市大島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/香取市/大島.json",
+    "name": "大島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県香取市"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市東区弓削町",
+    "表記": "熊本県熊本市東区弓削町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "区": "東区",
+      "町名": "弓削町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S431020440"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302613"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226311/105722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226308/105723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226309/105725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226312/105723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226313/105723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226310/105723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226311/105724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226313/105724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226310/105724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226310/105725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226313/105725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226314/105725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226308/105726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226309/105726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226313/105722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226314/105723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226313/105721.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市東区弓削町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/東区/弓削町.json",
+    "name": "弓削町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市東区"
+  }
+]

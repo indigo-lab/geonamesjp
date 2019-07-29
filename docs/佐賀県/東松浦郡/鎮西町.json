@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県東松浦郡鎮西町",
+    "表記": "佐賀県東松浦郡鎮西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "東松浦郡",
+      "市区町村": "鎮西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C41388-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C41388-20050101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県東松浦郡鎮西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/東松浦郡/鎮西町.json",
+    "name": "鎮西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県東松浦郡"
+  }
+]

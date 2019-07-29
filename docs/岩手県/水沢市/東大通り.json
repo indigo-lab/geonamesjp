@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県水沢市東大通り",
+    "表記": "岩手県水沢市東大通り",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "水沢市",
+      "町名": "東大通り"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県水沢市東大通り",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/水沢市/東大通り.json",
+    "name": "東大通り",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県水沢市",
+    "children": [
+      "https://geonames.jp/resource/岩手県水沢市東大通り一丁目",
+      "https://geonames.jp/resource/岩手県水沢市東大通り二丁目",
+      "https://geonames.jp/resource/岩手県水沢市東大通り三丁目"
+    ]
+  }
+]

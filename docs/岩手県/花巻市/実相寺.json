@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県花巻市実相寺",
+    "表記": "岩手県花巻市実相寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "花巻市",
+      "町名": "実相寺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032050450"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410049"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233825/99840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/99838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/99839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/99840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233829/99838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233829/99839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233825/99839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233829/99841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/99840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/99839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/99841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233825/99838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/99839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/99838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/99838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233829/99837.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県花巻市実相寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/花巻市/実相寺.json",
+    "name": "実相寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県花巻市"
+  }
+]

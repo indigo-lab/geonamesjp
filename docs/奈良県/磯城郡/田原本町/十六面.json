@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県磯城郡田原本町十六面",
+    "表記": "奈良県磯城郡田原本町十六面",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "磯城郡",
+      "市区町村": "田原本町",
+      "町名": "十六面"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356652",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356661",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356662"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229942/104228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229939/104226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229940/104229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229943/104229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229939/104230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229940/104230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229941/104230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229942/104234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229941/104231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229941/104229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229942/104232.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県磯城郡田原本町十六面",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/磯城郡/田原本町/十六面.json",
+    "name": "十六面",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県磯城郡田原本町"
+  }
+]

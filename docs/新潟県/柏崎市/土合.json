@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市土合",
+    "表記": "新潟県柏崎市土合",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "柏崎市",
+      "町名": "土合"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380467",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380477",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380478"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231994/101673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/101671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/101672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/101672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232001/101672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231995/101673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231995/101674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/101676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/101674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/101673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/101674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/101675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/101674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/101673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232000/101674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/101673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/101673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232000/101673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232002/101673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232000/101672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232001/101673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/101674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/101672.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市土合",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/柏崎市/土合.json",
+    "name": "土合",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県柏崎市"
+  }
+]

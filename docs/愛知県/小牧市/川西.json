@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市川西",
+    "表記": "愛知県小牧市川西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "川西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232190870"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市川西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/川西.json",
+    "name": "川西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市",
+    "children": [
+      "https://geonames.jp/resource/愛知県小牧市川西一丁目",
+      "https://geonames.jp/resource/愛知県小牧市川西二丁目",
+      "https://geonames.jp/resource/愛知県小牧市川西三丁目"
+    ]
+  }
+]

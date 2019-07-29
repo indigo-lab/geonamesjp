@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県松山市末町",
+    "表記": "愛媛県松山市末町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "末町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382012150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326635",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326646",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326636",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326655"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227792/104829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227788/104836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227792/104828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227787/104838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227788/104835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227786/104837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227786/104838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227787/104837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227792/104836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227788/104838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227790/104827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227788/104837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227789/104837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227790/104835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227791/104835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227791/104832.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県松山市末町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/松山市/末町.json",
+    "name": "末町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県松山市"
+  }
+]

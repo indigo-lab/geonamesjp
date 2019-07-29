@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県津市高茶屋",
+    "表記": "三重県津市高茶屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "津市",
+      "町名": "高茶屋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242011400"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県津市高茶屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/津市/高茶屋.json",
+    "name": "高茶屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県津市",
+    "children": [
+      "https://geonames.jp/resource/三重県津市高茶屋一丁目",
+      "https://geonames.jp/resource/三重県津市高茶屋二丁目",
+      "https://geonames.jp/resource/三重県津市高茶屋三丁目",
+      "https://geonames.jp/resource/三重県津市高茶屋四丁目",
+      "https://geonames.jp/resource/三重県津市高茶屋五丁目",
+      "https://geonames.jp/resource/三重県津市高茶屋六丁目",
+      "https://geonames.jp/resource/三重県津市高茶屋七丁目"
+    ]
+  }
+]

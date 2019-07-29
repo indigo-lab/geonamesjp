@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県北松浦郡佐々町古川免",
+    "表記": "長崎県北松浦郡佐々町古川免",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "郡": "北松浦郡",
+      "市区町村": "佐々町",
+      "町名": "古川免"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296581",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296591",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296592"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225475/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225474/105387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225482/105376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225472/105377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225478/105383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225479/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225472/105386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225473/105388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225478/105379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225471/105375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225476/105378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225480/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225477/105379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225477/105384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225473/105387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225479/105382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225483/105375.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県北松浦郡佐々町古川免",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/北松浦郡/佐々町/古川免.json",
+    "name": "古川免",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県北松浦郡佐々町"
+  }
+]

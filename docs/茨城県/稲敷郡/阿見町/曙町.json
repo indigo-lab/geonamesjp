@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡阿見町曙町",
+    "表記": "茨城県稲敷郡阿見町曙町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "稲敷郡",
+      "市区町村": "阿見町",
+      "町名": "曙町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400147",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400148"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/102905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/102905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/102905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/102904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/102905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/102903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/102904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/102904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/102904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/102903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/102903.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡阿見町曙町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/稲敷郡/阿見町/曙町.json",
+    "name": "曙町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県稲敷郡阿見町"
+  }
+]

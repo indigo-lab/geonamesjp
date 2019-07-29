@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県三沢市南山",
+    "表記": "青森県三沢市南山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "三沢市",
+      "町名": "南山"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県三沢市南山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/三沢市/南山.json",
+    "name": "南山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県三沢市",
+    "children": [
+      "https://geonames.jp/resource/青森県三沢市南山（丁目なし）",
+      "https://geonames.jp/resource/青森県三沢市南山一丁目",
+      "https://geonames.jp/resource/青森県三沢市南山二丁目",
+      "https://geonames.jp/resource/青森県三沢市南山三丁目",
+      "https://geonames.jp/resource/青森県三沢市南山四丁目"
+    ]
+  }
+]

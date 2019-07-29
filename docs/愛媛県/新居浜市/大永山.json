@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市大永山",
+    "表記": "愛媛県新居浜市大永山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "新居浜市",
+      "町名": "大永山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382050980"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337202",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337204",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336292",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336293",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336282",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336283",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337203",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336243",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336291"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228124/104791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228123/104791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228138/104790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228127/104796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228130/104794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228120/104794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228130/104800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228120/104805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228136/104790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228120/104795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228124/104792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228136/104828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228120/104799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228119/104794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228123/104792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228125/104793.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市大永山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/新居浜市/大永山.json",
+    "name": "大永山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県新居浜市"
+  }
+]

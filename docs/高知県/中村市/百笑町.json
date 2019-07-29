@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県中村市百笑町",
+    "表記": "高知県中村市百笑町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "百笑町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323794"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227867/105596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227867/105597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227865/105595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227864/105594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227867/105598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227866/105596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227866/105595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227864/105595.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県中村市百笑町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/中村市/百笑町.json",
+    "name": "百笑町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県中村市"
+  }
+]

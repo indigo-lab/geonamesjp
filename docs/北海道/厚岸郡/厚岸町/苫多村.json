@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道厚岸郡厚岸町苫多村",
+    "表記": "北海道厚岸郡厚岸町苫多村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "厚岸郡",
+      "市区町村": "厚岸町",
+      "町名": "苫多村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064444662"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236494/96271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236496/96270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236497/96269.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道厚岸郡厚岸町苫多村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/厚岸郡/厚岸町/苫多村.json",
+    "name": "苫多村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道厚岸郡厚岸町"
+  }
+]

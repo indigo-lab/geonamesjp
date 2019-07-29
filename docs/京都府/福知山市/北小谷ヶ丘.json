@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市北小谷ヶ丘",
+    "表記": "京都府福知山市北小谷ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "北小谷ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357140"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229469/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229469/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229468/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229468/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229468/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229469/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229470/103578.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市北小谷ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/北小谷ヶ丘.json",
+    "name": "北小谷ヶ丘",
+    "alternateName": [
+      "北小谷ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

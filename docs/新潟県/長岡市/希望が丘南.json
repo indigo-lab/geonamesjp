@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市希望が丘南",
+    "表記": "新潟県長岡市希望が丘南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "長岡市",
+      "町名": "希望が丘南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152022510"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市希望が丘南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/希望が丘南.json",
+    "name": "希望が丘南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市",
+    "children": [
+      "https://geonames.jp/resource/新潟県長岡市希望が丘南五丁目",
+      "https://geonames.jp/resource/新潟県長岡市希望が丘南六丁目"
+    ]
+  }
+]

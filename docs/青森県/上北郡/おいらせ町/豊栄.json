@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県上北郡おいらせ町豊栄",
+    "表記": "青森県上北郡おいらせ町豊栄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "上北郡",
+      "市区町村": "おいらせ町",
+      "町名": "豊栄",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S024120010"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県上北郡おいらせ町豊栄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/上北郡/おいらせ町/豊栄.json",
+    "name": "豊栄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県上北郡おいらせ町",
+    "children": [
+      "https://geonames.jp/resource/青森県上北郡おいらせ町豊栄一丁目",
+      "https://geonames.jp/resource/青森県上北郡おいらせ町豊栄二丁目"
+    ]
+  }
+]

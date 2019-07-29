@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市高岡町東浦",
+    "表記": "愛知県豊田市高岡町東浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "高岡町東浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374047",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374057",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374058"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230906/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230902/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/103793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230904/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/103794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230903/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230902/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230903/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230903/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230902/103798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230906/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230902/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230904/103794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230906/103794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/103794.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市高岡町東浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/高岡町東浦.json",
+    "name": "高岡町東浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

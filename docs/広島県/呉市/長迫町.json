@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県呉市長迫町",
+    "表記": "広島県呉市長迫町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "長迫町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342020170"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051322496"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227611/104499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227610/104498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227612/104499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227611/104500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227612/104500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227611/104498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227612/104498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227610/104499.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県呉市長迫町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/呉市/長迫町.json",
+    "name": "長迫町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県呉市"
+  }
+]

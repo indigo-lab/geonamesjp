@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡日高町上石",
+    "表記": "兵庫県城崎郡日高町上石",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "城崎郡",
+      "市区町村": "日高町",
+      "町名": "上石"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341693",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341694",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342604"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229230/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229227/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229229/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229229/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229229/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229229/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229230/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229230/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229230/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229230/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229230/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229231/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229231/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229232/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229232/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229233/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229233/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229234/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229230/103385.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡日高町上石",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/城崎郡/日高町/上石.json",
+    "name": "上石",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県城崎郡日高町"
+  }
+]

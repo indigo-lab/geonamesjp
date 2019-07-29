@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都豊島区下落合",
+    "表記": "東京都豊島区下落合",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "豊島区",
+      "町名": "下落合"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都豊島区下落合",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/豊島区/下落合.json",
+    "name": "下落合",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都豊島区",
+    "children": [
+      "https://geonames.jp/resource/東京都豊島区下落合四丁目"
+    ]
+  }
+]

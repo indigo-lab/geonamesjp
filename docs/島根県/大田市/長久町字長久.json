@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県大田市長久町字長久",
+    "表記": "島根県大田市長久町字長久",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "大田市",
+      "町名": "長久町字長久"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326338",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326339",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326348",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326349"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227547/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227546/103652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227546/103650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227543/103658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227542/103657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227543/103655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227542/103656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227542/103655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227545/103658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227549/103662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227547/103659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227545/103661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227548/103659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227542/103659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227545/103659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227551/103655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227552/103655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227546/103654.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県大田市長久町字長久",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/大田市/長久町字長久.json",
+    "name": "長久町字長久",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県大田市"
+  }
+]

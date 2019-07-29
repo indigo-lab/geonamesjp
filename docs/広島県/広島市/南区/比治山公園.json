@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市南区比治山公園",
+    "表記": "広島県広島市南区比治山公園",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "南区",
+      "町名": "比治山公園",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S341030270"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324357",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324358",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324367"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227537/104383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227537/104377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227534/104380.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市南区比治山公園",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/南区/比治山公園.json",
+    "name": "比治山公園",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市南区"
+  }
+]

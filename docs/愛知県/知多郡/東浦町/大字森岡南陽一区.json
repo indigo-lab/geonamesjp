@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知多郡東浦町大字森岡南陽一区",
+    "表記": "愛知県知多郡東浦町大字森岡南陽一区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "知多郡",
+      "市区町村": "東浦町",
+      "町名": "大字森岡南陽一区"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363785",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363786",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363796"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230795/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230797/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/103843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230800/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230801/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230801/103843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103841.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知多郡東浦町大字森岡南陽一区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知多郡/東浦町/大字森岡南陽一区.json",
+    "name": "大字森岡南陽一区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知多郡東浦町"
+  }
+]

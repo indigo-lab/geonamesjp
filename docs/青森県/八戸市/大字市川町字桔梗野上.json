@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市大字市川町字桔梗野上",
+    "表記": "青森県八戸市大字市川町字桔梗野上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "大字市川町字桔梗野上",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S02203078015"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416375"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234072/98710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234072/98709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234071/98709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234069/98711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234069/98710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234070/98711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234070/98713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234069/98712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234068/98710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234072/98716.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市大字市川町字桔梗野上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/大字市川町字桔梗野上.json",
+    "name": "大字市川町字桔梗野上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市"
+  }
+]

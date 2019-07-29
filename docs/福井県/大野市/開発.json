@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県大野市開発",
+    "表記": "福井県大野市開発",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "大野市",
+      "町名": "開発",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182050640"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367442",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367452"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230489/102978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230489/102979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230489/102977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230489/102976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102975.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県大野市開発",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/大野市/開発.json",
+    "name": "開発",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県大野市"
+  }
+]

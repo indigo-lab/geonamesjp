@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須郡那須町豊原字乙",
+    "表記": "栃木県那須郡那須町豊原字乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "那須郡",
+      "市区町村": "那須町",
+      "町名": "豊原字乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404079",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404099",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404190",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405027",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405029"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/101964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233089/101939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/101941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/101964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/101977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/101990.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須郡那須町豊原字乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須郡/那須町/豊原字乙.json",
+    "name": "豊原字乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須郡那須町"
+  }
+]

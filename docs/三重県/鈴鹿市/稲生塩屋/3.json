@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市稲生塩屋三丁目",
+    "表記": "三重県鈴鹿市稲生塩屋三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "鈴鹿市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S24207049003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362405"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230514/103981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230513/103979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230514/103979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230513/103981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230514/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230517/103981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230514/103980.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市稲生塩屋三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/鈴鹿市/稲生塩屋/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/三重県鈴鹿市稲生塩屋"
+  }
+]

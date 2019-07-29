@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県久米郡久米町桑上",
+    "表記": "岡山県久米郡久米町桑上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "久米郡",
+      "市区町村": "久米町",
+      "町名": "桑上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334713",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228586/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228585/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228586/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228585/103811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228587/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228587/103811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228587/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228587/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228583/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228582/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228584/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228582/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228584/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228584/103811.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県久米郡久米町桑上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/久米郡/久米町/桑上.json",
+    "name": "桑上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県久米郡久米町"
+  }
+]

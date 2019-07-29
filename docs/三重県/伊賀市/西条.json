@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県伊賀市西条",
+    "表記": "三重県伊賀市西条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "伊賀市",
+      "町名": "西条"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361141",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361142",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361172",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361161",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361162"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/104015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230211/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230211/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230210/104014.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県伊賀市西条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/伊賀市/西条.json",
+    "name": "西条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県伊賀市"
+  }
+]

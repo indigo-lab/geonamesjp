@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高知市横浜新町四丁目",
+    "表記": "高知県高知市横浜新町四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "横浜新町",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S39201214004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332412",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332413",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332422",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332423"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228308/105139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228309/105139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228309/105140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228311/105139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228311/105140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228311/105141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228310/105141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228310/105140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228310/105142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228309/105142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228309/105141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228310/105139.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高知市横浜新町四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高知市/横浜新町/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/高知県高知市横浜新町"
+  }
+]

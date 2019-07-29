@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市早潟",
+    "表記": "新潟県新潟市早潟",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "早潟"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385792",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386703"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/101276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/101275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101273.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市早潟",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/早潟.json",
+    "name": "早潟",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

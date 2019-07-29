@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市清武町岡一丁目",
+    "表記": "宮崎県宮崎市清武町岡一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "宮崎市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047316321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047316311"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226747/106583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226746/106583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226749/106583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226747/106581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226748/106582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226747/106582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226748/106583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226748/106584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226747/106584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226746/106584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226749/106582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226747/106585.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市清武町岡一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/宮崎市/清武町岡/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮崎県宮崎市清武町岡"
+  }
+]

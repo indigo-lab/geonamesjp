@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡下北山村大字上桑原",
+    "表記": "奈良県吉野郡下北山村大字上桑原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "吉野郡",
+      "市区町村": "下北山村",
+      "町名": "大字上桑原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051350708"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230091/104713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230090/104717.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡下北山村大字上桑原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/吉野郡/下北山村/大字上桑原.json",
+    "name": "大字上桑原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県吉野郡下北山村"
+  }
+]

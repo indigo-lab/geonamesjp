@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市小八木町",
+    "表記": "滋賀県東近江市小八木町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "小八木町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252131600"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365280",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365270",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365281"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230291/103694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230294/103696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230290/103697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230290/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230291/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230289/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230289/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230294/103695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230289/103697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230292/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230290/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230291/103695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230296/103697.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市小八木町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/東近江市/小八木町.json",
+    "name": "小八木町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県東近江市"
+  }
+]

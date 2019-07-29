@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県上山市金生西二丁目",
+    "表記": "山形県上山市金生西二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "上山市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06207025202"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401272",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401262"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/100984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/100982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/100982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/100983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/100982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/100984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/100983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/100983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/100985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/100985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/100985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/100984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/100982.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県上山市金生西二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/上山市/金生西/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山形県上山市金生西"
+  }
+]

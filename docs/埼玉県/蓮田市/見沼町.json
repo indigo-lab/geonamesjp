@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県蓮田市見沼町",
+    "表記": "埼玉県蓮田市見沼町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "見沼町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112380040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397581",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397571",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397572"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/102953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/102955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/102955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/102955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/102955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/102954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/102954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/102953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/102953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/102954.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県蓮田市見沼町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/蓮田市/見沼町.json",
+    "name": "見沼町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県蓮田市"
+  }
+]

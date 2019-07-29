@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村北ノ又沢",
+    "表記": "新潟県北魚沼郡湯之谷村北ノ又沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北魚沼郡",
+      "市区町村": "湯之谷村",
+      "町名": "北ノ又沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055395142",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055395154",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055395161",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055395162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055395163"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232392/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232393/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232412/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232399/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232406/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232418/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232404/101921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232411/101911.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村北ノ又沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北魚沼郡/湯之谷村/北ノ又沢.json",
+    "name": "北ノ又沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村"
+  }
+]

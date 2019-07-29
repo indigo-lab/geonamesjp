@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡角館町岩瀬下川原",
+    "表記": "秋田県仙北郡角館町岩瀬下川原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "仙北郡",
+      "市区町村": "角館町",
+      "町名": "岩瀬下川原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059403416",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059403417",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059403427"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/99625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/99624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233446/99624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/99622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233446/99621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233447/99620.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡角館町岩瀬下川原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/仙北郡/角館町/岩瀬下川原.json",
+    "name": "岩瀬下川原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県仙北郡角館町"
+  }
+]

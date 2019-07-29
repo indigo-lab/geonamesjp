@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道室蘭市沢町",
+    "表記": "北海道室蘭市沢町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "沢町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012050090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063403787",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063403786"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/96995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/96995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233721/96995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/96995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/96996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/96997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/96995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/96996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/96996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/96997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/96994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/96994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/96996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/96996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/96995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/96997.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道室蘭市沢町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/室蘭市/沢町.json",
+    "name": "沢町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道室蘭市"
+  }
+]

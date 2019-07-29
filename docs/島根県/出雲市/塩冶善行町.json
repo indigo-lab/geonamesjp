@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県出雲市塩冶善行町",
+    "表記": "島根県出雲市塩冶善行町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "塩冶善行町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322031510"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320630",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320620"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227741/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227739/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227740/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227741/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227740/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227739/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227739/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227738/103513.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県出雲市塩冶善行町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/出雲市/塩冶善行町.json",
+    "name": "塩冶善行町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県出雲市"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県福山市春日台",
+    "表記": "広島県福山市春日台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "福山市",
+      "町名": "春日台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342070160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336313",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336314"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228231/104268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228230/104268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228230/104269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228229/104269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228229/104268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228231/104269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228228/104268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228228/104269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228230/104267.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県福山市春日台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/福山市/春日台.json",
+    "name": "春日台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県福山市"
+  }
+]

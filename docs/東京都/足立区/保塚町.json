@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都足立区保塚町",
+    "表記": "東京都足立区保塚町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "保塚町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131210770"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395644"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232878/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/103133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/103133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/103133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/103133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/103133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232878/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232878/103130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/103131.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都足立区保塚町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/足立区/保塚町.json",
+    "name": "保塚町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都足立区"
+  }
+]

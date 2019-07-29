@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県米沢市東大通三丁目",
+    "表記": "山形県米沢市東大通三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "米沢市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06202006003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406170",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406180"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/101209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/101206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/101206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/101205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/101206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/101207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/101207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/101209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/101208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/101210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/101211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/101212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/101207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/101210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/101209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/101212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/101207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/101205.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県米沢市東大通三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/米沢市/東大通/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山形県米沢市東大通"
+  }
+]

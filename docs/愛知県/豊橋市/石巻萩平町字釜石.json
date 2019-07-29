@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市石巻萩平町字釜石",
+    "表記": "愛知県豊橋市石巻萩平町字釜石",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "石巻萩平町字釜石"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372308",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372318"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231183/103974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231184/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231185/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231185/103973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231185/103974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231184/103974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231183/103975.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市石巻萩平町字釜石",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/石巻萩平町字釜石.json",
+    "name": "石巻萩平町字釜石",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

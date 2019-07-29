@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道川上郡標茶町字中オソツベツ",
+    "表記": "北海道川上郡標茶町字中オソツベツ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "川上郡",
+      "市区町村": "標茶町",
+      "町名": "字中オソツベツ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064447398",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064447470"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236276/95996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236299/96016.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道川上郡標茶町字中オソツベツ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/川上郡/標茶町/字中オソツベツ.json",
+    "name": "字中オソツベツ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道川上郡標茶町"
+  }
+]

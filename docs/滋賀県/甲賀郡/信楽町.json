@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡信楽町",
+    "表記": "滋賀県甲賀郡信楽町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "甲賀郡",
+      "市区町村": "信楽町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C25367-20041001",
+        "http://data.e-stat.go.jp/lod/sac/C25367-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡信楽町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀郡/信楽町.json",
+    "name": "信楽町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀郡",
+    "children": [
+      "https://geonames.jp/resource/滋賀県甲賀郡信楽町江田",
+      "https://geonames.jp/resource/滋賀県甲賀郡信楽町小川出",
+      "https://geonames.jp/resource/滋賀県甲賀郡信楽町神山",
+      "https://geonames.jp/resource/滋賀県甲賀郡信楽町西",
+      "https://geonames.jp/resource/滋賀県甲賀郡信楽町長野",
+      "https://geonames.jp/resource/滋賀県甲賀郡信楽町勅旨"
+    ]
+  }
+]

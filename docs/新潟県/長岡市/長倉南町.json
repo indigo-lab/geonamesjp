@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市長倉南町",
+    "表記": "新潟県長岡市長倉南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "長倉南町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152025780"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381619",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381629"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232192/101639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232191/101638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232192/101638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232194/101639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232192/101637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232193/101638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232193/101639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232191/101639.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市長倉南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/長倉南町.json",
+    "name": "長倉南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県豊後大野市三重町管生",
+    "表記": "大分県豊後大野市三重町管生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "豊後大野市",
+      "町名": "三重町管生"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049314409",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049314418",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049314419"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226913/105593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226912/105592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226908/105581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226910/105585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226910/105586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226911/105580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226913/105581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226914/105579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226912/105579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226910/105582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226914/105581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226909/105582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226907/105583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226910/105580.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県豊後大野市三重町管生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/豊後大野市/三重町管生.json",
+    "name": "三重町管生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県豊後大野市"
+  }
+]

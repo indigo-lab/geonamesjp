@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市西公文名",
+    "表記": "富山県富山市西公文名",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "西公文名"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370118"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230999/102326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231000/102326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231000/102325.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市西公文名",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/西公文名.json",
+    "name": "西公文名",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

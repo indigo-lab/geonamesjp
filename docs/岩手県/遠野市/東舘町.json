@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県遠野市東舘町",
+    "表記": "岩手県遠野市東舘町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "東舘町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032080060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417492",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417482"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234133/99879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/99877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234129/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/99881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/99881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/99879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/99882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/99880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/99879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234133/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234133/99877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234134/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234134/99879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234135/99879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/99878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/99877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/99880.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県遠野市東舘町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/遠野市/東舘町.json",
+    "name": "東舘町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県遠野市"
+  }
+]

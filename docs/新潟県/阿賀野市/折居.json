@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市折居",
+    "表記": "新潟県阿賀野市折居",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "阿賀野市",
+      "町名": "折居",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152231010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396225",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396234",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396235"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232515/101248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232520/101249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232515/101251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232513/101250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232513/101249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232514/101250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232514/101249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232515/101250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232515/101249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232516/101249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232511/101246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232524/101246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232517/101250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232510/101247.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市折居",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/阿賀野市/折居.json",
+    "name": "折居",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県阿賀野市"
+  }
+]

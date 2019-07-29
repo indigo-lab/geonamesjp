@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡城崎町",
+    "表記": "兵庫県城崎郡城崎町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "城崎郡",
+      "市区町村": "城崎町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C28541-20050401",
+        "http://data.e-stat.go.jp/lod/sac/C28541-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡城崎町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/城崎郡/城崎町.json",
+    "name": "城崎町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県城崎郡",
+    "children": [
+      "https://geonames.jp/resource/兵庫県城崎郡城崎町楽々浦",
+      "https://geonames.jp/resource/兵庫県城崎郡城崎町結",
+      "https://geonames.jp/resource/兵庫県城崎郡城崎町戸島",
+      "https://geonames.jp/resource/兵庫県城崎郡城崎町今津",
+      "https://geonames.jp/resource/兵庫県城崎郡城崎町上山",
+      "https://geonames.jp/resource/兵庫県城崎郡城崎町桃島",
+      "https://geonames.jp/resource/兵庫県城崎郡城崎町湯島",
+      "https://geonames.jp/resource/兵庫県城崎郡城崎町飯谷",
+      "https://geonames.jp/resource/兵庫県城崎郡城崎町来日"
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県日田市夜明",
+    "表記": "大分県日田市夜明",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "日田市",
+      "町名": "夜明"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307699",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300609",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300700",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307790"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226374/105298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226371/105299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226372/105295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226369/105300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226368/105307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226370/105306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226368/105309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226372/105302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226368/105306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226370/105305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226370/105295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226371/105300.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県日田市夜明",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/日田市/夜明.json",
+    "name": "夜明",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県日田市"
+  }
+]

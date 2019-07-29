@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀市水口町高山",
+    "表記": "滋賀県甲賀市水口町高山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "甲賀市",
+      "町名": "水口町高山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363141",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363140"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/103873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/103873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/103878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/103872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/103872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/103876.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀市水口町高山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀市/水口町高山.json",
+    "name": "水口町高山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県渥美郡",
+    "表記": "愛知県渥美郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "渥美郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C23620-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C23620-20051001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県渥美郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/渥美郡.json",
+    "name": "渥美郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県",
+    "children": [
+      "https://geonames.jp/resource/愛知県渥美郡赤羽根町",
+      "https://geonames.jp/resource/愛知県渥美郡田原町",
+      "https://geonames.jp/resource/愛知県渥美郡渥美町",
+      "https://geonames.jp/resource/愛知県渥美郡二川町",
+      "https://geonames.jp/resource/愛知県渥美郡伊良湖岬村",
+      "https://geonames.jp/resource/愛知県渥美郡杉山村",
+      "https://geonames.jp/resource/愛知県渥美郡泉村",
+      "https://geonames.jp/resource/愛知県渥美郡牟呂吉田村",
+      "https://geonames.jp/resource/愛知県渥美郡神戸村",
+      "https://geonames.jp/resource/愛知県渥美郡福江町",
+      "https://geonames.jp/resource/愛知県渥美郡老津村",
+      "https://geonames.jp/resource/愛知県渥美郡赤羽根村",
+      "https://geonames.jp/resource/愛知県渥美郡野田村",
+      "https://geonames.jp/resource/愛知県渥美郡高師村",
+      "https://geonames.jp/resource/愛知県渥美郡高豊村"
+    ]
+  }
+]

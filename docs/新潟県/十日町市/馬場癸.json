@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県十日町市馬場癸",
+    "表記": "新潟県十日町市馬場癸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "十日町市",
+      "町名": "馬場癸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384558",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384549",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384559",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384680"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232097/101990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232095/101984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232092/101994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232094/101991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232094/101992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232094/101993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232094/101995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232095/101993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232107/101973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232098/101993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232099/102002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232103/101993.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県十日町市馬場癸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/十日町市/馬場癸.json",
+    "name": "馬場癸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県十日町市"
+  }
+]

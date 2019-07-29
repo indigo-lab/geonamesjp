@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県新湊市七美中野",
+    "表記": "富山県新湊市七美中野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "新湊市",
+      "町名": "七美中野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371100",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371101",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371110",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371111"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230933/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230932/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230930/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230930/102250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230930/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230931/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230931/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230932/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230933/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230933/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230932/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230932/102253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230931/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230931/102253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230930/102253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230930/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230932/102255.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県新湊市七美中野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/新湊市/七美中野.json",
+    "name": "七美中野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県新湊市"
+  }
+]

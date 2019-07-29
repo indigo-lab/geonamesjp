@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下関市大字椋野",
+    "表記": "山口県下関市大字椋野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "下関市",
+      "町名": "大字椋野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352010800"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307785",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307766"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226423/104732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226424/104732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226422/104732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226432/104740.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下関市大字椋野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下関市/大字椋野.json",
+    "name": "大字椋野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下関市"
+  }
+]

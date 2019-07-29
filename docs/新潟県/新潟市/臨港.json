@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市臨港",
+    "表記": "新潟県新潟市臨港",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "臨港"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市臨港",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/臨港.json",
+    "name": "臨港",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市",
+    "children": [
+      "https://geonames.jp/resource/新潟県新潟市臨港一丁目"
+    ]
+  }
+]

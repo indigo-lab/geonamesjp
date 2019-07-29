@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市大字堤内",
+    "表記": "宮崎県宮崎市大字堤内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "宮崎市",
+      "町名": "大字堤内",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S452011620"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317267",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317277",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317278"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226717/106479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226715/106476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226714/106477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226713/106477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226713/106479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226714/106478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226715/106477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226715/106482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226715/106480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226714/106482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226713/106478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226712/106477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226713/106476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226716/106477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226717/106474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226719/106475.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市大字堤内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/宮崎市/大字堤内.json",
+    "name": "大字堤内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県宮崎市"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町関場",
+    "表記": "福島県相馬郡小高町関場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "小高町",
+      "町名": "関場"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町関場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/小高町/関場.json",
+    "name": "関場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡小高町",
+    "children": [
+      "https://geonames.jp/resource/福島県相馬郡小高町関場一丁目",
+      "https://geonames.jp/resource/福島県相馬郡小高町関場二丁目"
+    ]
+  }
+]

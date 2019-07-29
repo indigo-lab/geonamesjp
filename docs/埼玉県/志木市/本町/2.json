@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県志木市本町二丁目",
+    "表記": "埼玉県志木市本町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "本町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11228001002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395496",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396406"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/103090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232713/103089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/103088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/103089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/103089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/103088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/103090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232713/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232713/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/103090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232713/103090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103090.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県志木市本町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/志木市/本町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県志木市本町"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市松ヶ丘",
+    "表記": "和歌山県和歌山市松ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "和歌山市",
+      "町名": "松ヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市松ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/和歌山市/松ヶ丘.json",
+    "name": "松ヶ丘",
+    "alternateName": [
+      "松ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/和歌山県和歌山市",
+    "children": [
+      "https://geonames.jp/resource/和歌山県和歌山市松ヶ丘一丁目",
+      "https://geonames.jp/resource/和歌山県和歌山市松ヶ丘二丁目",
+      "https://geonames.jp/resource/和歌山県和歌山市松ヶ丘三丁目"
+    ]
+  }
+]

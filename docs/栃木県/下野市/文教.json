@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県下野市文教",
+    "表記": "栃木県下野市文教",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "下野市",
+      "町名": "文教"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県下野市文教",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/下野市/文教.json",
+    "name": "文教",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県下野市",
+    "children": [
+      "https://geonames.jp/resource/栃木県下野市文教（丁目なし）",
+      "https://geonames.jp/resource/栃木県下野市文教一丁目",
+      "https://geonames.jp/resource/栃木県下野市文教二丁目",
+      "https://geonames.jp/resource/栃木県下野市文教三丁目"
+    ]
+  }
+]

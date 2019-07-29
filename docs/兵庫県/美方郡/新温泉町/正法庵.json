@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県美方郡新温泉町正法庵",
+    "表記": "兵庫県美方郡新温泉町正法庵",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "美方郡",
+      "市区町村": "新温泉町",
+      "町名": "正法庵",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S285860210"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343430",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343420",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343421"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229015/103291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229013/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229015/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229015/103290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229013/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229016/103292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229016/103299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229018/103298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229017/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229021/103292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229016/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229014/103290.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県美方郡新温泉町正法庵",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/美方郡/新温泉町/正法庵.json",
+    "name": "正法庵",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県美方郡新温泉町"
+  }
+]

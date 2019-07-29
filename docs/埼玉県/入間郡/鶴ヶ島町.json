@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡鶴ヶ島町",
+    "表記": "埼玉県入間郡鶴ヶ島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "入間郡",
+      "市区町村": "鶴ヶ島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C11328-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C11328-19790701",
+        "http://data.e-stat.go.jp/lod/sac/C11328-19750501",
+        "http://data.e-stat.go.jp/lod/sac/C11328-19711201",
+        "http://data.e-stat.go.jp/lod/sac/C11328-19830201",
+        "http://data.e-stat.go.jp/lod/sac/C11328-19820201",
+        "http://data.e-stat.go.jp/lod/sac/C11328-19910901"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡鶴ヶ島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/入間郡/鶴ヶ島町.json",
+    "name": "鶴ヶ島町",
+    "alternateName": [
+      "鶴ケ島町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県入間郡"
+  }
+]

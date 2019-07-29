@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県西牟婁郡日置川町日置",
+    "表記": "和歌山県西牟婁郡日置川町日置",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "西牟婁郡",
+      "市区町村": "日置川町",
+      "町名": "日置"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050352375",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050352385",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050352386",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050352395"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/105095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229702/105102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229702/105093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229701/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/105089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/105095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229697/105088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229699/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229706/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229698/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229699/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229701/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229701/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229701/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229699/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229697/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/105093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229694/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229694/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229696/105097.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県西牟婁郡日置川町日置",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/西牟婁郡/日置川町/日置.json",
+    "name": "日置",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県西牟婁郡日置川町"
+  }
+]

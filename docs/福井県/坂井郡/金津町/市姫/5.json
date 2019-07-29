@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井郡金津町市姫五丁目",
+    "表記": "福井県坂井郡金津町市姫五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "坂井郡",
+      "市区町村": "金津町",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362138",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362148"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/102754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/102757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/102756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/102759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/102760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/102760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/102761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/102761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/102754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/102756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/102755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/102757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/102758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/102758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/102761.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井郡金津町市姫五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井郡/金津町/市姫/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井郡金津町市姫"
+  }
+]

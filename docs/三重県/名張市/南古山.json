@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県名張市南古山",
+    "表記": "三重県名張市南古山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "名張市",
+      "町名": "南古山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242080610"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360009",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360019",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360029"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230192/104115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/104113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/104115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/104116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230187/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230194/104117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230192/104116.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県名張市南古山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/名張市/南古山.json",
+    "name": "南古山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県名張市"
+  }
+]

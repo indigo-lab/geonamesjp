@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県結城郡石下町栗山新田",
+    "表記": "茨城県結城郡石下町栗山新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "結城郡",
+      "市区町村": "石下町",
+      "町名": "栗山新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391733",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391743"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232958/102833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232958/102834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232959/102837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232959/102836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232958/102836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232957/102835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232957/102836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232958/102837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232959/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/102839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/102840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232959/102840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232955/102844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232956/102845.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県結城郡石下町栗山新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/結城郡/石下町/栗山新田.json",
+    "name": "栗山新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県結城郡石下町"
+  }
+]

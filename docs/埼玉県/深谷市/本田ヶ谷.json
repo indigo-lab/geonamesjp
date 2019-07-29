@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県深谷市本田ヶ谷",
+    "表記": "埼玉県深谷市本田ヶ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "深谷市",
+      "町名": "本田ヶ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392256"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/102751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/102751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/102752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/102751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/102750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/102752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/102752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/102749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/102749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/102749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/102750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/102755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/102750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232532/102749.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県深谷市本田ヶ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/深谷市/本田ヶ谷.json",
+    "name": "本田ヶ谷",
+    "alternateName": [
+      "本田ケ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県深谷市"
+  }
+]

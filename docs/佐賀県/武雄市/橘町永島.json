@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県武雄市橘町永島",
+    "表記": "佐賀県武雄市橘町永島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "武雄市",
+      "町名": "橘町永島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305093",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305094",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306003",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306013"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225767/105437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225765/105446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225772/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225775/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225773/105445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225772/105445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225772/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225770/105445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225771/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225770/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225764/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225765/105445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225768/105446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225768/105445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225767/105445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225771/105445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225771/105446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225770/105446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225770/105448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225773/105448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225767/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225764/105449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225762/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225764/105443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225763/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225767/105441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225766/105443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225768/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225768/105437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225770/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225769/105445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225770/105443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225771/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225771/105443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225773/105446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225774/105446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225776/105448.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県武雄市橘町永島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/武雄市/橘町永島.json",
+    "name": "橘町永島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県武雄市"
+  }
+]

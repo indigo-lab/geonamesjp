@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市岩清水",
+    "表記": "岩手県盛岡市岩清水",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "岩清水",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032010680"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414163"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/99505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/99507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233860/99507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/99506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233861/99507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/99506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/99508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/99505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/99506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/99507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/99508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233861/99508.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市岩清水",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/岩清水.json",
+    "name": "岩清水",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

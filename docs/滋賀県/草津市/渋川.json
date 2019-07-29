@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県草津市渋川",
+    "表記": "滋賀県草津市渋川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "草津市",
+      "町名": "渋川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252060380"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県草津市渋川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/草津市/渋川.json",
+    "name": "渋川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県草津市",
+    "children": [
+      "https://geonames.jp/resource/滋賀県草津市渋川一丁目",
+      "https://geonames.jp/resource/滋賀県草津市渋川二丁目"
+    ]
+  }
+]

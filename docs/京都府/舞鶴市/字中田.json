@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字中田",
+    "表記": "京都府舞鶴市字中田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "字中田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352311",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352312",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352322"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229669/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229671/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229666/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229665/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229664/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229667/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229665/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229664/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229670/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229669/103373.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字中田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/字中田.json",
+    "name": "字中田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

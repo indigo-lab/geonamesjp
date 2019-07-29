@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県五條市湯谷市塚町",
+    "表記": "奈良県五條市湯谷市塚町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "湯谷市塚町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292070810"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354610",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354519",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354529"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229929/104414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/104412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229928/104412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229930/104413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229927/104412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/104410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/104411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229928/104413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229929/104415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229929/104412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229931/104411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229929/104413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229930/104412.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県五條市湯谷市塚町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/五條市/湯谷市塚町.json",
+    "name": "湯谷市塚町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県五條市"
+  }
+]

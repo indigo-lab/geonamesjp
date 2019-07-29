@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県山陽小野田市丸河内",
+    "表記": "山口県山陽小野田市丸河内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "山陽小野田市",
+      "町名": "丸河内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317174",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317175"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226598/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226600/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226600/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226600/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226598/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226599/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226597/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226597/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226598/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226596/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226596/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226599/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226598/104734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226599/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226599/104736.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県山陽小野田市丸河内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/山陽小野田市/丸河内.json",
+    "name": "丸河内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県山陽小野田市"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県能代市字臥竜山",
+    "表記": "秋田県能代市字臥竜山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "能代市",
+      "町名": "字臥竜山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402021",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402020"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233027/99062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233025/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233025/99062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233026/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233029/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233029/99063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233028/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233026/99062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233027/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233028/99062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233024/99060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233029/99062.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県能代市字臥竜山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/能代市/字臥竜山.json",
+    "name": "字臥竜山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県能代市"
+  }
+]

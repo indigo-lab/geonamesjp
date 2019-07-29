@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県氷見市磯辺",
+    "表記": "富山県氷見市磯辺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "氷見市",
+      "町名": "磯辺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162050940"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055363706",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055363705",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055363716"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230796/102104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/102109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/102114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/102112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230797/102112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/102112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/102111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230794/102106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230800/102108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230796/102103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/102107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230801/102113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230801/102112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230795/102104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230797/102099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230796/102108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/102115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230797/102108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/102107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/102106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/102117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/102110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/102111.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県氷見市磯辺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/氷見市/磯辺.json",
+    "name": "磯辺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県氷見市"
+  }
+]

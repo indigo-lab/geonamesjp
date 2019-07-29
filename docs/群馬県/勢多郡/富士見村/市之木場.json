@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県勢多郡富士見村市之木場",
+    "表記": "群馬県勢多郡富士見村市之木場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "勢多郡",
+      "市区町村": "富士見村",
+      "町名": "市之木場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054395065",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054395066",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054395075"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/102513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/102517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/102516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/102515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/102515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/102513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/102512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/102513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/102513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/102512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/102513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/102512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/102509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/102509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/102511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/102507.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県勢多郡富士見村市之木場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/勢多郡/富士見村/市之木場.json",
+    "name": "市之木場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県勢多郡富士見村"
+  }
+]

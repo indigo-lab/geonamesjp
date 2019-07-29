@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市東千田",
+    "表記": "福島県白河市東千田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "東千田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405206",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405216"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/101955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233254/101951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/101951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/101949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/101954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/101955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233261/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/101947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/101947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233256/101947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233256/101955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/101952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/101949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/101953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233261/101949.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市東千田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/東千田.json",
+    "name": "東千田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

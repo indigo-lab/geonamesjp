@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西頸城郡能生町平",
+    "表記": "新潟県西頸城郡能生町平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西頸城郡",
+      "市区町村": "能生町",
+      "町名": "平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384081",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384091",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385001"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231577/101956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231577/101957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231576/101967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231577/101963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231574/101964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231574/101966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231575/101966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231575/101963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231575/101965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231575/101964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231576/101964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231576/101963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231576/101962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231577/101960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231578/101966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231578/101959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231576/101965.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西頸城郡能生町平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西頸城郡/能生町/平.json",
+    "name": "平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西頸城郡能生町"
+  }
+]

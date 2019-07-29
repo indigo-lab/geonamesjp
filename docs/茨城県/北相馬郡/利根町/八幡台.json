@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県北相馬郡利根町八幡台",
+    "表記": "茨城県北相馬郡利根町八幡台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "北相馬郡",
+      "市区町村": "利根町",
+      "町名": "八幡台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406131",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406121"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/103067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/103067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/103067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/103066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/103066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/103065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233118/103067.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県北相馬郡利根町八幡台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/北相馬郡/利根町/八幡台.json",
+    "name": "八幡台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県北相馬郡利根町"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県最上郡大蔵村",
+    "表記": "山形県最上郡大蔵村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "郡": "最上郡",
+      "市区町村": "大蔵村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C06365-20110309",
+        "http://data.e-stat.go.jp/lod/sac/C06365-20021111",
+        "http://data.e-stat.go.jp/lod/sac/C06365-19760901",
+        "http://data.e-stat.go.jp/lod/sac/C06365-19910817",
+        "http://data.e-stat.go.jp/lod/sac/C06365-19890401",
+        "http://data.e-stat.go.jp/lod/sac/C06365-19740901",
+        "http://data.e-stat.go.jp/lod/sac/C06365-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C06365-19790901"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県最上郡大蔵村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/最上郡/大蔵村.json",
+    "name": "大蔵村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県最上郡",
+    "children": [
+      "https://geonames.jp/resource/山形県最上郡大蔵村大字南山",
+      "https://geonames.jp/resource/山形県最上郡大蔵村大字清水",
+      "https://geonames.jp/resource/山形県最上郡大蔵村大字合海",
+      "https://geonames.jp/resource/山形県最上郡大蔵村大字赤松"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1347371"
+    ]
+  }
+]

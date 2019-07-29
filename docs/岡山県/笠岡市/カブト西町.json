@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県笠岡市カブト西町",
+    "表記": "岡山県笠岡市カブト西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "カブト西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332050930"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335359",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335387"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228267/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228261/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228265/104289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228261/104289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228262/104288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228263/104288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228269/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228271/104298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228268/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228270/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228275/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228274/104309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228275/104304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228280/104311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228265/104286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228269/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228273/104298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228277/104311.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県笠岡市カブト西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/笠岡市/カブト西町.json",
+    "name": "カブト西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県笠岡市"
+  }
+]

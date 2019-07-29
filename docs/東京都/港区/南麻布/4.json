@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都港区南麻布四丁目",
+    "表記": "東京都港区南麻布四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "港区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13103014004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393588"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232818/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232818/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232819/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232818/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232818/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232819/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232818/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232819/103255.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都港区南麻布四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/港区/南麻布/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都港区南麻布"
+  }
+]

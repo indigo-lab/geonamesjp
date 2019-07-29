@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県北杜市白州町鳥原",
+    "表記": "山梨県北杜市白州町鳥原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "北杜市",
+      "町名": "白州町鳥原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S192090530"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053385294",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053385167"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/103115.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県北杜市白州町鳥原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/北杜市/白州町鳥原.json",
+    "name": "白州町鳥原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県北杜市"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県三好市東祖谷今井",
+    "表記": "徳島県三好市東祖谷今井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "三好市",
+      "町名": "東祖谷今井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336658"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228544/104827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228543/104824.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県三好市東祖谷今井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/三好市/東祖谷今井.json",
+    "name": "東祖谷今井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県三好市"
+  }
+]

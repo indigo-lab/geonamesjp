@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市南栗山",
+    "表記": "富山県富山市南栗山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "南栗山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162013970"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377146"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/102379.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市南栗山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/南栗山.json",
+    "name": "南栗山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

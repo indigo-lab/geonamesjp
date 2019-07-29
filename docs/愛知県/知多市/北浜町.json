@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知多市北浜町",
+    "表記": "愛知県知多市北浜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "北浜町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232240120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363687",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364608",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363698",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364609"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230731/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230723/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230722/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230721/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230727/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230724/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230725/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230723/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230726/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230723/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230732/103832.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知多市北浜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知多市/北浜町.json",
+    "name": "北浜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知多市"
+  }
+]

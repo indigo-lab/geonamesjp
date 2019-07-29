@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県伊佐市大口鳥巣字西中水流",
+    "表記": "鹿児島県伊佐市大口鳥巣字西中水流",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "伊佐市",
+      "町名": "大口鳥巣字西中水流"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300467"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226171/106408.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県伊佐市大口鳥巣字西中水流",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/伊佐市/大口鳥巣字西中水流.json",
+    "name": "大口鳥巣字西中水流",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県伊佐市"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市矢馳字上矢馳",
+    "表記": "山形県鶴岡市矢馳字上矢馳",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "鶴岡市",
+      "町名": "矢馳字上矢馳",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06203076051"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058390671",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058390672"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/100438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/100438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/100438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/100439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/100438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/100438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232850/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/100439.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市矢馳字上矢馳",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/鶴岡市/矢馳字上矢馳.json",
+    "name": "矢馳字上矢馳",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県鶴岡市"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡茎崎町泊崎",
+    "表記": "茨城県稲敷郡茎崎町泊崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "稲敷郡",
+      "市区町村": "茎崎町",
+      "町名": "泊崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407039",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407049",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407058",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407059"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233097/102976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233097/102977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233098/102978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233096/102981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233098/102979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233098/102981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/102981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/102979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233103/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233101/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/102977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/102986.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡茎崎町泊崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/稲敷郡/茎崎町/泊崎.json",
+    "name": "泊崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県稲敷郡茎崎町"
+  }
+]

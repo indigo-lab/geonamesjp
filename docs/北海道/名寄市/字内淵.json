@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道名寄市字内淵",
+    "表記": "北海道名寄市字内淵",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "名寄市",
+      "町名": "字内淵"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2066424355",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066424354",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066424344",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066424394"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234793/94935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234790/94935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234793/94936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234793/94939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234786/94935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234789/94942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234790/94905.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道名寄市字内淵",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/名寄市/字内淵.json",
+    "name": "字内淵",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道名寄市"
+  }
+]

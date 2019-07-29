@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市平清水町",
+    "表記": "奈良県奈良市平清水町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "平清水町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292018510"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350731",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350741"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230027/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230027/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230027/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230027/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230026/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230026/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230026/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230027/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230029/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230028/104100.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市平清水町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/平清水町.json",
+    "name": "平清水町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市"
+  }
+]

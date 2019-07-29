@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡入広瀬村大白川新田",
+    "表記": "新潟県北魚沼郡入広瀬村大白川新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北魚沼郡",
+      "市区町村": "入広瀬村",
+      "町名": "大白川新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390008",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390009",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390017",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390019",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390027",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390100"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232360/101712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232361/101716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232371/101715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232373/101722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232380/101723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232364/101725.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡入広瀬村大白川新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北魚沼郡/入広瀬村/大白川新田.json",
+    "name": "大白川新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北魚沼郡入広瀬村"
+  }
+]

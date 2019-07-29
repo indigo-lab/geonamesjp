@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市下津井田之浦（丁目なし）",
+    "表記": "岡山県倉敷市下津井田之浦（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "倉敷市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33202157000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335614",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335634"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228511/104337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228510/104335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228507/104332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/104328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228509/104335.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市下津井田之浦（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/倉敷市/下津井田之浦/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県倉敷市下津井田之浦"
+  }
+]

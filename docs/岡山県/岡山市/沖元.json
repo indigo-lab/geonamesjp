@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市沖元",
+    "表記": "岡山県岡山市沖元",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "沖元"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337738",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337739",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337758",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337768",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337778"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228636/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228636/104148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228634/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228635/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228635/104148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228637/104178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228635/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228632/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228632/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228633/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228634/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228635/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228635/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228634/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228632/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228630/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228632/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228631/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228632/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228643/104177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228633/104157.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市沖元",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/沖元.json",
+    "name": "沖元",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

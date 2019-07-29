@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県鹿島郡鹿西町",
+    "表記": "石川県鹿島郡鹿西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "鹿島郡",
+      "市区町村": "鹿西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C17406-20040801",
+        "http://data.e-stat.go.jp/lod/sac/C17406-19720501",
+        "http://data.e-stat.go.jp/lod/sac/C17406-19961001",
+        "http://data.e-stat.go.jp/lod/sac/C17406-20050301",
+        "http://data.e-stat.go.jp/lod/sac/C17406-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C17406-19940501",
+        "http://data.e-stat.go.jp/lod/sac/C17406-20040201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県鹿島郡鹿西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/鹿島郡/鹿西町.json",
+    "name": "鹿西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県鹿島郡"
+  }
+]

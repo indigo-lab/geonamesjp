@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県平田市",
+    "表記": "島根県平田市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "平田市",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32208-19960919",
+        "http://data.e-stat.go.jp/lod/sac/C32208-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C32208-20050322"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県平田市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/平田市.json",
+    "name": "平田市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県",
+    "children": [
+      "https://geonames.jp/resource/島根県平田市国富町",
+      "https://geonames.jp/resource/島根県平田市西郷町",
+      "https://geonames.jp/resource/島根県平田市西代町",
+      "https://geonames.jp/resource/島根県平田市西平田町",
+      "https://geonames.jp/resource/島根県平田市島村町",
+      "https://geonames.jp/resource/島根県平田市灘分町",
+      "https://geonames.jp/resource/島根県平田市東郷町",
+      "https://geonames.jp/resource/島根県平田市東福町",
+      "https://geonames.jp/resource/島根県平田市美談町",
+      "https://geonames.jp/resource/島根県平田市久多見町",
+      "https://geonames.jp/resource/島根県平田市野石谷町",
+      "https://geonames.jp/resource/島根県平田市園町",
+      "https://geonames.jp/resource/島根県平田市平田町",
+      "https://geonames.jp/resource/島根県平田市口宇賀町"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路郡釧路町釧望台",
+    "表記": "北海道釧路郡釧路町釧望台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "釧路郡",
+      "市区町村": "釧路町",
+      "町名": "釧望台"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路郡釧路町釧望台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路郡/釧路町/釧望台.json",
+    "name": "釧望台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路郡釧路町",
+    "children": [
+      "https://geonames.jp/resource/北海道釧路郡釧路町釧望台（丁目なし）",
+      "https://geonames.jp/resource/北海道釧路郡釧路町釧望台一丁目",
+      "https://geonames.jp/resource/北海道釧路郡釧路町釧望台二丁目"
+    ]
+  }
+]

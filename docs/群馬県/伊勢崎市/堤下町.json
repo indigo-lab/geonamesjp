@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県伊勢崎市堤下町",
+    "表記": "群馬県伊勢崎市堤下町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "堤下町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394105"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232431/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232430/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232430/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232430/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232431/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232431/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232432/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232432/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232432/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232431/102636.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県伊勢崎市堤下町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/伊勢崎市/堤下町.json",
+    "name": "堤下町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県伊勢崎市"
+  }
+]

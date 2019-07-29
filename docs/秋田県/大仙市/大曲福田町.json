@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大仙市大曲福田町",
+    "表記": "秋田県大仙市大曲福田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大曲福田町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059401358",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059401368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059401369"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/99746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/99747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/99747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/99746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/99745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/99744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/99744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/99743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/99742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/99743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/99743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/99742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/99744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/99745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/99745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/99742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/99741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233368/99744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/99744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233368/99741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/99742.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大仙市大曲福田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大仙市/大曲福田町.json",
+    "name": "大曲福田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大仙市"
+  }
+]

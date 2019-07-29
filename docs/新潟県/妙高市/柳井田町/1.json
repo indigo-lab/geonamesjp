@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県妙高市柳井田町一丁目",
+    "表記": "新潟県妙高市柳井田町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "柳井田町",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S15217092101"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384260",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384250"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231746/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231746/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231746/101985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231745/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101989.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県妙高市柳井田町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/妙高市/柳井田町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県妙高市柳井田町"
+  }
+]

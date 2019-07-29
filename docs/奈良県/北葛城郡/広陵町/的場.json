@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡広陵町的場",
+    "表記": "奈良県北葛城郡広陵町的場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "北葛城郡",
+      "市区町村": "広陵町",
+      "町名": "的場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356670",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356681"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229924/104217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229924/104218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229927/104216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/104218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229924/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229925/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229926/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229925/104221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229925/104220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229931/104218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229930/104217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229928/104217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229926/104220.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡広陵町的場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/北葛城郡/広陵町/的場.json",
+    "name": "的場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県北葛城郡広陵町"
+  }
+]

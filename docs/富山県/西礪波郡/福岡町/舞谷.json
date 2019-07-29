@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県西礪波郡福岡町舞谷",
+    "表記": "富山県西礪波郡福岡町舞谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "西礪波郡",
+      "市区町村": "福岡町",
+      "町名": "舞谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360774",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360783",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360784",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360793"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/102274.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県西礪波郡福岡町舞谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/西礪波郡/福岡町/舞谷.json",
+    "name": "舞谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県西礪波郡福岡町"
+  }
+]

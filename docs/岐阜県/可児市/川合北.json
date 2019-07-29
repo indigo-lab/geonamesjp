@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県可児市川合北",
+    "表記": "岐阜県可児市川合北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "可児市",
+      "町名": "川合北",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212140520"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県可児市川合北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/可児市/川合北.json",
+    "name": "川合北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県可児市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県可児市川合北一丁目",
+      "https://geonames.jp/resource/岐阜県可児市川合北二丁目",
+      "https://geonames.jp/resource/岐阜県可児市川合北三丁目"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県渋川市赤城町棚下",
+    "表記": "群馬県渋川市赤城町棚下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "渋川市",
+      "町名": "赤城町棚下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054396084",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054396094",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054396085",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054396095",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054397004"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/102421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232333/102420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232326/102420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/102418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232326/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/102421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/102420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232332/102420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232334/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/102421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/102418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/102418.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県渋川市赤城町棚下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/渋川市/赤城町棚下.json",
+    "name": "赤城町棚下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県渋川市"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県新城市市川",
+    "表記": "愛知県新城市市川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "新城市",
+      "町名": "市川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232210260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372484",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372485",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372494",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372495"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231242/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231237/103919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231241/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231242/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231238/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231240/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231242/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231243/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231240/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231242/103913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231243/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231241/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231241/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231242/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231233/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231237/103914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231236/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231239/103921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231237/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231240/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231241/103917.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県新城市市川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/新城市/市川.json",
+    "name": "市川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県新城市"
+  }
+]

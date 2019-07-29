@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市東柳田",
+    "表記": "新潟県柏崎市東柳田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "柏崎市",
+      "町名": "東柳田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152051730"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380456"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/101689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/101684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231983/101689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231983/101687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/101686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231984/101690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231984/101689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/101687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/101690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231983/101688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231984/101686.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市東柳田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/柏崎市/東柳田.json",
+    "name": "東柳田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県柏崎市"
+  }
+]

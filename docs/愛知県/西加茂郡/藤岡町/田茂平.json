@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西加茂郡藤岡町田茂平",
+    "表記": "愛知県西加茂郡藤岡町田茂平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "西加茂郡",
+      "市区町村": "藤岡町",
+      "町名": "田茂平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376106",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376107",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376117"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230987/103685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103681.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西加茂郡藤岡町田茂平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西加茂郡/藤岡町/田茂平.json",
+    "name": "田茂平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県西加茂郡藤岡町"
+  }
+]

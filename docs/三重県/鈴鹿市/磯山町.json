@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市磯山町",
+    "表記": "三重県鈴鹿市磯山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "磯山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242071160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361474",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361475",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361485"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230513/103998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230512/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230514/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230517/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230517/103996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230511/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230514/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230514/103998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103995.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市磯山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/鈴鹿市/磯山町.json",
+    "name": "磯山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県鈴鹿市"
+  }
+]

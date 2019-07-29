@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県駒ヶ根市赤穂字市場割",
+    "表記": "長野県駒ヶ根市赤穂字市場割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "駒ヶ根市",
+      "町名": "赤穂字市場割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053374745",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053374755"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231518/103199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231517/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231518/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231519/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231516/103203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231518/103203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231516/103204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231519/103203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231517/103204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231519/103204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231517/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231518/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231515/103199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231520/103200.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県駒ヶ根市赤穂字市場割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/駒ヶ根市/赤穂字市場割.json",
+    "name": "赤穂字市場割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県駒ヶ根市"
+  }
+]

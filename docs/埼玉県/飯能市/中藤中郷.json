@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市中藤中郷",
+    "表記": "埼玉県飯能市中藤中郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "飯能市",
+      "町名": "中藤中郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396158",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396168",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396157"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232458/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232461/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232456/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232460/103046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232457/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232454/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232454/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232455/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232457/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232459/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232451/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232455/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/103049.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市中藤中郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/飯能市/中藤中郷.json",
+    "name": "中藤中郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県飯能市"
+  }
+]

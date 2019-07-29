@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市浪館前田",
+    "表記": "青森県青森市浪館前田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "浪館前田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022011260"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市浪館前田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/浪館前田.json",
+    "name": "浪館前田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市",
+    "children": [
+      "https://geonames.jp/resource/青森県青森市浪館前田一丁目",
+      "https://geonames.jp/resource/青森県青森市浪館前田二丁目",
+      "https://geonames.jp/resource/青森県青森市浪館前田三丁目",
+      "https://geonames.jp/resource/青森県青森市浪館前田四丁目"
+    ]
+  }
+]

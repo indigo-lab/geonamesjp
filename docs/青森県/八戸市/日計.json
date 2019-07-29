@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市日計",
+    "表記": "青森県八戸市日計",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "日計",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022030694"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市日計",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/日計.json",
+    "name": "日計",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市",
+    "children": [
+      "https://geonames.jp/resource/青森県八戸市日計一丁目",
+      "https://geonames.jp/resource/青森県八戸市日計二丁目",
+      "https://geonames.jp/resource/青森県八戸市日計三丁目",
+      "https://geonames.jp/resource/青森県八戸市日計四丁目",
+      "https://geonames.jp/resource/青森県八戸市日計五丁目"
+    ]
+  }
+]

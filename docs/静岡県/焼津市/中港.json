@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県焼津市中港",
+    "表記": "静岡県焼津市中港",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "焼津市",
+      "町名": "中港",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222120130"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県焼津市中港",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/焼津市/中港.json",
+    "name": "中港",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県焼津市",
+    "children": [
+      "https://geonames.jp/resource/静岡県焼津市中港一丁目",
+      "https://geonames.jp/resource/静岡県焼津市中港二丁目",
+      "https://geonames.jp/resource/静岡県焼津市中港三丁目",
+      "https://geonames.jp/resource/静岡県焼津市中港四丁目",
+      "https://geonames.jp/resource/静岡県焼津市中港五丁目",
+      "https://geonames.jp/resource/静岡県焼津市中港六丁目"
+    ]
+  }
+]

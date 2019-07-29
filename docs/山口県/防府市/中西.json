@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県防府市中西",
+    "表記": "山口県防府市中西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "防府市",
+      "町名": "中西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352060910"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310477",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310478"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226900/104662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226899/104664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/104664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/104662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/104665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226900/104664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226900/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226900/104661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/104661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/104662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/104661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/104664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/104664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226899/104663.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県防府市中西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/防府市/中西.json",
+    "name": "中西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県防府市"
+  }
+]

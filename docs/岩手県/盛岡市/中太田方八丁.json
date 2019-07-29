@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市中太田方八丁",
+    "表記": "岩手県盛岡市中太田方八丁",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "中太田方八丁",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S03201202001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414027",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414028"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233820/99538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233817/99540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233819/99540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233815/99540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233819/99538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233819/99537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233821/99538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233822/99540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233823/99539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233823/99538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233824/99538.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市中太田方八丁",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/中太田方八丁.json",
+    "name": "中太田方八丁",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

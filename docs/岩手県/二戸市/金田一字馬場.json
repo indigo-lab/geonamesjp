@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県二戸市金田一字馬場",
+    "表記": "岩手県二戸市金田一字馬場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "二戸市",
+      "町名": "金田一字馬場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060413284",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060413274"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233968/98939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233968/98938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233970/98937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233969/98938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233969/98939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233968/98940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/98941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/98942.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県二戸市金田一字馬場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/二戸市/金田一字馬場.json",
+    "name": "金田一字馬場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県二戸市"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県八日市場市大保里",
+    "表記": "千葉県八日市場市大保里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "八日市場市",
+      "町名": "大保里"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404480",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404490"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/103174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/103175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/103173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/103174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233386/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/103173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233388/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233388/103173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/103172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233386/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/103171.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県八日市場市大保里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/八日市場市/大保里.json",
+    "name": "大保里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県八日市場市"
+  }
+]

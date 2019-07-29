@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県東牟婁郡串本町出雲",
+    "表記": "和歌山県東牟婁郡串本町出雲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "東牟婁郡",
+      "市区町村": "串本町",
+      "町名": "出雲",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S304280120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050351643",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050351632"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229953/105198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229948/105200.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県東牟婁郡串本町出雲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/東牟婁郡/串本町/出雲.json",
+    "name": "出雲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県東牟婁郡串本町"
+  }
+]

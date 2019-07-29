@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町萩沢鬼ヶ崎",
+    "表記": "宮城県栗原郡築館町萩沢鬼ヶ崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "栗原郡",
+      "市区町村": "築館町",
+      "町名": "萩沢鬼ヶ崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410084"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233786/100433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233789/100434.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町萩沢鬼ヶ崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原郡/築館町/萩沢鬼ヶ崎.json",
+    "name": "萩沢鬼ヶ崎",
+    "alternateName": [
+      "萩沢鬼ケ崎"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原郡築館町"
+  }
+]

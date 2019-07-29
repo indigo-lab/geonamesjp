@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市垂水区上高丸",
+    "表記": "兵庫県神戸市垂水区上高丸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "神戸市",
+      "区": "垂水区",
+      "町名": "上高丸",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S281080380"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市垂水区上高丸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/神戸市/垂水区/上高丸.json",
+    "name": "上高丸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県神戸市垂水区",
+    "children": [
+      "https://geonames.jp/resource/兵庫県神戸市垂水区上高丸一丁目",
+      "https://geonames.jp/resource/兵庫県神戸市垂水区上高丸二丁目",
+      "https://geonames.jp/resource/兵庫県神戸市垂水区上高丸三丁目"
+    ]
+  }
+]

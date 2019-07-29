@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市寺山三丁目",
+    "表記": "新潟県新潟市寺山三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397008",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396099",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397009"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232370/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232368/101186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232369/101187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232370/101186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232370/101187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232370/101188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232369/101188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232368/101188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232369/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232369/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232370/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232369/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232370/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232371/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232371/101192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232370/101192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232370/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232371/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232372/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232368/101187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232369/101186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232372/101192.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市寺山三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/寺山/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市寺山"
+  }
+]

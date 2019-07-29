@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府泉南市樽井六丁目",
+    "表記": "大阪府泉南市樽井六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "泉南市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S27228016006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354240",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354241",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354250"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229570/104392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229569/104392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229569/104393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/104392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229569/104391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/104391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229567/104391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/104390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229569/104390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/104389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229567/104389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229567/104390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229567/104388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229566/104389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229566/104388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/104393.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府泉南市樽井六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/泉南市/樽井/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大阪府泉南市樽井"
+  }
+]

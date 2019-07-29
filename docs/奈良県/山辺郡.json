@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県山辺郡",
+    "表記": "奈良県山辺郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "山辺郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C29320-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県山辺郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/山辺郡.json",
+    "name": "山辺郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県",
+    "children": [
+      "https://geonames.jp/resource/奈良県山辺郡山添村",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村",
+      "https://geonames.jp/resource/奈良県山辺郡丹波市町",
+      "https://geonames.jp/resource/奈良県山辺郡二階堂村",
+      "https://geonames.jp/resource/奈良県山辺郡朝和村",
+      "https://geonames.jp/resource/奈良県山辺郡東里村",
+      "https://geonames.jp/resource/奈良県山辺郡波多野村",
+      "https://geonames.jp/resource/奈良県山辺郡福住村",
+      "https://geonames.jp/resource/奈良県山辺郡豊原村",
+      "https://geonames.jp/resource/奈良県山辺郡都介野村",
+      "https://geonames.jp/resource/奈良県山辺郡針ケ別所村"
+    ]
+  }
+]

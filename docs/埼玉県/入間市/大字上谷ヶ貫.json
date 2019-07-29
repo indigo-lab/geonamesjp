@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県入間市大字上谷ヶ貫",
+    "表記": "埼玉県入間市大字上谷ヶ貫",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "入間市",
+      "町名": "大字上谷ヶ貫"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395277"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232539/103111.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県入間市大字上谷ヶ貫",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/入間市/大字上谷ヶ貫.json",
+    "name": "大字上谷ヶ貫",
+    "alternateName": [
+      "大字上谷ケ貫"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県入間市"
+  }
+]

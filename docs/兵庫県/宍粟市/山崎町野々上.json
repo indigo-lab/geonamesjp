@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市山崎町野々上",
+    "表記": "兵庫県宍粟市山崎町野々上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "宍粟市",
+      "町名": "山崎町野々上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344455",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344445",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344446"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229064/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229061/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229060/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229061/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229062/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229061/103798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229062/103798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229062/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229063/103798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229062/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229063/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229063/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229064/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229068/103799.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市山崎町野々上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/宍粟市/山崎町野々上.json",
+    "name": "山崎町野々上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県宍粟市"
+  }
+]

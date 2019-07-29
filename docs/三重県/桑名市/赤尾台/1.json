@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名市赤尾台一丁目",
+    "表記": "三重県桑名市赤尾台一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "桑名市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S24205141001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364469",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364560"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/103787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/103788.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/103788.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/103789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/103790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/103790.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名市赤尾台一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名市/赤尾台/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名市赤尾台"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県薩摩郡さつま町白男川",
+    "表記": "鹿児島県薩摩郡さつま町白男川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "薩摩郡",
+      "市区町村": "さつま町",
+      "町名": "白男川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S463920120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306384",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306374",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306392"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226046/106538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226048/106542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226047/106540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226048/106539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226047/106538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226046/106539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226047/106539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226030/106526.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県薩摩郡さつま町白男川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/薩摩郡/さつま町/白男川.json",
+    "name": "白男川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県薩摩郡さつま町"
+  }
+]

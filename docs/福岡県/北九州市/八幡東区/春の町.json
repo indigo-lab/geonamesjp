@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市八幡東区春の町",
+    "表記": "福岡県北九州市八幡東区春の町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "八幡東区",
+      "町名": "春の町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401080450"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市八幡東区春の町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/八幡東区/春の町.json",
+    "name": "春の町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市八幡東区",
+    "children": [
+      "https://geonames.jp/resource/福岡県北九州市八幡東区春の町一丁目",
+      "https://geonames.jp/resource/福岡県北九州市八幡東区春の町二丁目",
+      "https://geonames.jp/resource/福岡県北九州市八幡東区春の町三丁目",
+      "https://geonames.jp/resource/福岡県北九州市八幡東区春の町四丁目",
+      "https://geonames.jp/resource/福岡県北九州市八幡東区春の町五丁目"
+    ]
+  }
+]

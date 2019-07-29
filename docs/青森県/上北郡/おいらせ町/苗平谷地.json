@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県上北郡おいらせ町苗平谷地",
+    "表記": "青森県上北郡おいらせ町苗平谷地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "上北郡",
+      "市区町村": "おいらせ町",
+      "町名": "苗平谷地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417314",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417324"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234060/98669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234061/98669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234061/98670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234062/98670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234061/98668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234060/98670.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県上北郡おいらせ町苗平谷地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/上北郡/おいらせ町/苗平谷地.json",
+    "name": "苗平谷地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県上北郡おいらせ町"
+  }
+]

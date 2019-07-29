@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県山口市吉敷赤田",
+    "表記": "山口県山口市吉敷赤田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "山口市",
+      "町名": "吉敷赤田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352030841"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県山口市吉敷赤田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/山口市/吉敷赤田.json",
+    "name": "吉敷赤田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県山口市",
+    "children": [
+      "https://geonames.jp/resource/山口県山口市吉敷赤田一丁目",
+      "https://geonames.jp/resource/山口県山口市吉敷赤田二丁目",
+      "https://geonames.jp/resource/山口県山口市吉敷赤田三丁目",
+      "https://geonames.jp/resource/山口県山口市吉敷赤田四丁目",
+      "https://geonames.jp/resource/山口県山口市吉敷赤田五丁目"
+    ]
+  }
+]

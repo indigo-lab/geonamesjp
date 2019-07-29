@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県薩摩川内市中郷三丁目",
+    "表記": "鹿児島県薩摩川内市中郷三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "薩摩川内市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S46215060003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306205"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225965/106596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225964/106597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225964/106596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225963/106596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225963/106595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225963/106594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225965/106597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225964/106594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225965/106595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225965/106594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225964/106595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225964/106593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225965/106593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225965/106592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225966/106596.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県薩摩川内市中郷三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/薩摩川内市/中郷/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県薩摩川内市中郷"
+  }
+]

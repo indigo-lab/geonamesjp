@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道紋別郡滝上町字上渚滑原野",
+    "表記": "北海道紋別郡滝上町字上渚滑原野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "紋別郡",
+      "市区町村": "滝上町",
+      "町名": "字上渚滑原野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2066432140",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066432036",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066432037",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066432047",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066432048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066432089"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235294/95109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235271/95118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235274/95116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235271/95117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235273/95117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235262/95120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235272/95118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235285/95077.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道紋別郡滝上町字上渚滑原野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/紋別郡/滝上町/字上渚滑原野.json",
+    "name": "字上渚滑原野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道紋別郡滝上町"
+  }
+]

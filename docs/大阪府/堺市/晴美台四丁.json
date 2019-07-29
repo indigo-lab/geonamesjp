@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府堺市晴美台四丁",
+    "表記": "大阪府堺市晴美台四丁",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "堺市",
+      "町名": "晴美台四丁"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355482",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355492"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229765/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229764/104289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229764/104288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229764/104285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229763/104285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229764/104284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229765/104284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229763/104284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229764/104283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229763/104287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229763/104289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229763/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229764/104290.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府堺市晴美台四丁",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/堺市/晴美台四丁.json",
+    "name": "晴美台四丁",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府堺市"
+  }
+]

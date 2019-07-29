@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村飛鳥",
+    "表記": "奈良県高市郡明日香村飛鳥",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "高市郡",
+      "市区町村": "明日香村",
+      "町名": "飛鳥"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355675"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229975/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229972/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229973/104297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229975/104297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229972/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229974/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229975/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229973/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229971/104297.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村飛鳥",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/高市郡/明日香村/飛鳥.json",
+    "name": "飛鳥",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県高市郡明日香村"
+  }
+]

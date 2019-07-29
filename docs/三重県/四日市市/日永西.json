@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県四日市市日永西",
+    "表記": "三重県四日市市日永西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "四日市市",
+      "町名": "日永西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242020710"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県四日市市日永西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/四日市市/日永西.json",
+    "name": "日永西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県四日市市",
+    "children": [
+      "https://geonames.jp/resource/三重県四日市市日永西一丁目",
+      "https://geonames.jp/resource/三重県四日市市日永西二丁目",
+      "https://geonames.jp/resource/三重県四日市市日永西三丁目",
+      "https://geonames.jp/resource/三重県四日市市日永西四丁目",
+      "https://geonames.jp/resource/三重県四日市市日永西五丁目"
+    ]
+  }
+]

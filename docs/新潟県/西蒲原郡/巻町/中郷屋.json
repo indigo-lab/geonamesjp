@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町中郷屋",
+    "表記": "新潟県西蒲原郡巻町中郷屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "巻町",
+      "町名": "中郷屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385722"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232210/101326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232211/101325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232209/101328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232210/101327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232210/101328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232211/101324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232211/101326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/101327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232215/101327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/101326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232216/101328.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町中郷屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/巻町/中郷屋.json",
+    "name": "中郷屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡巻町"
+  }
+]

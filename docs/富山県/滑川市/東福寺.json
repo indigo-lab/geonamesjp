@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県滑川市東福寺",
+    "表記": "富山県滑川市東福寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "滑川市",
+      "町名": "東福寺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162061080"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370373",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370381",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370382",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370383",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370372",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370380",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370374"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231133/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231119/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231129/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231134/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231134/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231136/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231135/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231132/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231112/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231144/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231118/102276.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県滑川市東福寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/滑川市/東福寺.json",
+    "name": "東福寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県滑川市"
+  }
+]

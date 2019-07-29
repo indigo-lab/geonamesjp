@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県宇部市松島町",
+    "表記": "山口県宇部市松島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "松島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352020770"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317149"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226642/104757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226643/104757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226642/104756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226641/104757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226641/104756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226641/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226640/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226640/104756.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県宇部市松島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/宇部市/松島町.json",
+    "name": "松島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県宇部市"
+  }
+]

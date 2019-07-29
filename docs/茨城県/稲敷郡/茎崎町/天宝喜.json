@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡茎崎町天宝喜",
+    "表記": "茨城県稲敷郡茎崎町天宝喜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "稲敷郡",
+      "市区町村": "茎崎町",
+      "町名": "天宝喜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407089",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407170",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407180"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/102949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233105/102950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/102953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/102951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/102950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/102951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/102951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/102953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/102953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/102954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/102955.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡茎崎町天宝喜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/稲敷郡/茎崎町/天宝喜.json",
+    "name": "天宝喜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県稲敷郡茎崎町"
+  }
+]

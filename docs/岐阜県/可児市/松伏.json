@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県可児市松伏",
+    "表記": "岐阜県可児市松伏",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "可児市",
+      "町名": "松伏",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212140063"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県可児市松伏",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/可児市/松伏.json",
+    "name": "松伏",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県可児市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県可児市松伏一丁目",
+      "https://geonames.jp/resource/岐阜県可児市松伏二丁目",
+      "https://geonames.jp/resource/岐阜県可児市松伏三丁目",
+      "https://geonames.jp/resource/岐阜県可児市松伏四丁目",
+      "https://geonames.jp/resource/岐阜県可児市松伏五丁目"
+    ]
+  }
+]

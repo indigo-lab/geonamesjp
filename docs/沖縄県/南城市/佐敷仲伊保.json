@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県南城市佐敷仲伊保",
+    "表記": "沖縄県南城市佐敷仲伊保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "南城市",
+      "町名": "佐敷仲伊保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272613",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272614",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272623"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224127/111308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224128/111307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224130/111304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224127/111309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224128/111309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224128/111306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224128/111308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224129/111308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224129/111306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224129/111305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224129/111307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224130/111306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224130/111308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224130/111305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224131/111308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224130/111307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224131/111304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224131/111306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224132/111305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224131/111307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224132/111307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224132/111308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224133/111306.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県南城市佐敷仲伊保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/南城市/佐敷仲伊保.json",
+    "name": "佐敷仲伊保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県南城市"
+  }
+]

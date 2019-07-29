@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県銚子市豊里台",
+    "表記": "千葉県銚子市豊里台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "銚子市",
+      "町名": "豊里台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122020990"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県銚子市豊里台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/銚子市/豊里台.json",
+    "name": "豊里台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県銚子市",
+    "children": [
+      "https://geonames.jp/resource/千葉県銚子市豊里台一丁目",
+      "https://geonames.jp/resource/千葉県銚子市豊里台二丁目",
+      "https://geonames.jp/resource/千葉県銚子市豊里台三丁目"
+    ]
+  }
+]

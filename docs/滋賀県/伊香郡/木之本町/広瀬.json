@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県伊香郡木之本町広瀬",
+    "表記": "滋賀県伊香郡木之本町広瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "伊香郡",
+      "市区町村": "木之本町",
+      "町名": "広瀬"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361197",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362108"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103389.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県伊香郡木之本町広瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/伊香郡/木之本町/広瀬.json",
+    "name": "広瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県伊香郡木之本町"
+  }
+]

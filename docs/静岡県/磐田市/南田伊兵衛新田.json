@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県磐田市南田伊兵衛新田",
+    "表記": "静岡県磐田市南田伊兵衛新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "磐田市",
+      "町名": "南田伊兵衛新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370608",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370609"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231459/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231456/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231458/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231458/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231460/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231461/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231460/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231460/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231461/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231461/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231460/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231459/104128.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県磐田市南田伊兵衛新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/磐田市/南田伊兵衛新田.json",
+    "name": "南田伊兵衛新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県磐田市"
+  }
+]

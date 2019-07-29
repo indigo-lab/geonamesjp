@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県水海道市亀岡町",
+    "表記": "茨城県水海道市亀岡町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "亀岡町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390728"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233006/102923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233005/102923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233006/102922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233007/102922.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県水海道市亀岡町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/水海道市/亀岡町.json",
+    "name": "亀岡町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県水海道市"
+  }
+]

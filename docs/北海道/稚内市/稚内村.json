@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道稚内市稚内村",
+    "表記": "北海道稚内市稚内村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "稚内村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410551",
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410552",
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410561",
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410571",
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410580"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234219/93907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234217/93905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234220/93911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234210/93891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234210/93896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234215/93905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234210/93894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234216/93906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234207/93882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234212/93899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234209/93881.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道稚内市稚内村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/稚内市/稚内村.json",
+    "name": "稚内村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道稚内市"
+  }
+]

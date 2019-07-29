@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県能代市字大森山",
+    "表記": "秋田県能代市字大森山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "能代市",
+      "町名": "字大森山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402030",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060392739",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060392749",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060392729",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060392738"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233019/99052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/99051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/99048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233009/99057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/99047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/99055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233013/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/99045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233007/99059.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県能代市字大森山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/能代市/字大森山.json",
+    "name": "字大森山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県能代市"
+  }
+]

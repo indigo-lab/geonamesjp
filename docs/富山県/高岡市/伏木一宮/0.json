@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市伏木一宮（丁目なし）",
+    "表記": "富山県高岡市伏木一宮（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "高岡市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162022561",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162022562"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371053",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371052",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371063"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/102218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/102216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230857/102221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230857/102219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230867/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/102222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230860/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/102215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/102222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230866/102214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/102219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/102221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230865/102215.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市伏木一宮（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/伏木一宮/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市伏木一宮"
+  }
+]

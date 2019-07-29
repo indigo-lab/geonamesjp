@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原市志波姫大門南",
+    "表記": "宮城県栗原市志波姫大門南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "栗原市",
+      "町名": "志波姫大門南"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411005",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411016",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411006"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/100413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233803/100410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233796/100414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/100413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233801/100412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233797/100414.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原市志波姫大門南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原市/志波姫大門南.json",
+    "name": "志波姫大門南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原市"
+  }
+]

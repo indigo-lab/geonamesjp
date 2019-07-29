@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高岡郡四万十町若井",
+    "表記": "高知県高岡郡四万十町若井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "高岡郡",
+      "市区町村": "四万十町",
+      "町名": "若井",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S394120120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336028",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336018",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336029",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336038"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227997/105426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/105428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227997/105428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227997/105429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/105429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227997/105427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227998/105427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/105430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/105431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228000/105434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/105432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228002/105428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227998/105426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227995/105430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227995/105429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227999/105424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227997/105430.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高岡郡四万十町若井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高岡郡/四万十町/若井.json",
+    "name": "若井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高岡郡四万十町"
+  }
+]

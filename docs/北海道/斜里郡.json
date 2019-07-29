@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道斜里郡",
+    "表記": "北海道斜里郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "斜里郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道斜里郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/斜里郡.json",
+    "name": "斜里郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道斜里郡清里町",
+      "https://geonames.jp/resource/北海道斜里郡小清水町",
+      "https://geonames.jp/resource/北海道斜里郡斜里町",
+      "https://geonames.jp/resource/北海道斜里郡小清水村",
+      "https://geonames.jp/resource/北海道斜里郡斜里村",
+      "https://geonames.jp/resource/北海道斜里郡上斜里村"
+    ]
+  }
+]

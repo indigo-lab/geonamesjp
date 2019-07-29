@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県八束郡宍道町",
+    "表記": "島根県八束郡宍道町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "八束郡",
+      "市区町村": "宍道町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32307-20030131",
+        "http://data.e-stat.go.jp/lod/sac/C32307-19960919",
+        "http://data.e-stat.go.jp/lod/sac/C32307-20050331",
+        "http://data.e-stat.go.jp/lod/sac/C32307-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県八束郡宍道町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/八束郡/宍道町.json",
+    "name": "宍道町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県八束郡",
+    "children": [
+      "https://geonames.jp/resource/島根県八束郡宍道町昭和新田",
+      "https://geonames.jp/resource/島根県八束郡宍道町昭和",
+      "https://geonames.jp/resource/島根県八束郡宍道町西来待",
+      "https://geonames.jp/resource/島根県八束郡宍道町佐々布",
+      "https://geonames.jp/resource/島根県八束郡宍道町宍道",
+      "https://geonames.jp/resource/島根県八束郡宍道町上来待",
+      "https://geonames.jp/resource/島根県八束郡宍道町白石",
+      "https://geonames.jp/resource/島根県八束郡宍道町東来待",
+      "https://geonames.jp/resource/島根県八束郡宍道町伊志見"
+    ]
+  }
+]

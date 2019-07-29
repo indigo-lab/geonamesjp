@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府船井郡丹波町市森",
+    "表記": "京都府船井郡丹波町市森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "船井郡",
+      "市区町村": "丹波町",
+      "町名": "市森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355374",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355375"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229693/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229694/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/103704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229696/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229696/103704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229697/103704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229697/103705.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府船井郡丹波町市森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/船井郡/丹波町/市森.json",
+    "name": "市森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府船井郡丹波町"
+  }
+]

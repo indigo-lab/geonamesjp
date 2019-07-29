@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県上北郡六ヶ所村泊字村ノ内",
+    "表記": "青森県上北郡六ヶ所村泊字村ノ内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "上北郡",
+      "市区町村": "六ヶ所村",
+      "町名": "泊字村ノ内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061415301",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061415311"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234033/98195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234033/98193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234033/98196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234032/98196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234031/98197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234034/98189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234031/98199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234032/98198.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県上北郡六ヶ所村泊字村ノ内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/上北郡/六ヶ所村/泊字村ノ内.json",
+    "name": "泊字村ノ内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県上北郡六ヶ所村"
+  }
+]

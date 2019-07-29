@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県柳井市神代",
+    "表記": "山口県柳井市神代",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "柳井市",
+      "町名": "神代",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352120230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327165",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327173",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327174",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327184",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327183"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227328/104740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227314/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227325/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227320/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227318/104726.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県柳井市神代",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/柳井市/神代.json",
+    "name": "神代",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県柳井市"
+  }
+]

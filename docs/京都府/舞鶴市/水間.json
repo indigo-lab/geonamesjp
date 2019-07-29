@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市水間",
+    "表記": "京都府舞鶴市水間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "水間"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351262",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351263",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351272"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229585/103417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229580/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229583/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229582/103411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229582/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229585/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229587/103411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229587/103412.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市水間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/水間.json",
+    "name": "水間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

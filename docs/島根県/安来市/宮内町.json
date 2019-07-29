@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県安来市宮内町",
+    "表記": "島根県安来市宮内町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "宮内町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322060040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331109"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228101/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228100/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228099/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228099/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/103464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/103464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228100/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228099/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/103466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228100/103464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228100/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228100/103458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228100/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228100/103457.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県安来市宮内町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/安来市/宮内町.json",
+    "name": "宮内町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県安来市"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市口阪本",
+    "表記": "兵庫県篠山市口阪本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "篠山市",
+      "町名": "口阪本",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282212000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355105",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354194"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229510/103759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229513/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229513/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229512/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229512/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229511/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229511/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229512/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229511/103759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229512/103759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229507/103759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229507/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229511/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229510/103758.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市口阪本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/篠山市/口阪本.json",
+    "name": "口阪本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県篠山市"
+  }
+]

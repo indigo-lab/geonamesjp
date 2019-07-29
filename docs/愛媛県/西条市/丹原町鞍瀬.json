@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西条市丹原町鞍瀬",
+    "表記": "愛媛県西条市丹原町鞍瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "西条市",
+      "町名": "丹原町鞍瀬",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382061130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335081",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336010",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335061",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336020"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227932/104872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227925/104850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227937/104889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227924/104848.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西条市丹原町鞍瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西条市/丹原町鞍瀬.json",
+    "name": "丹原町鞍瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西条市"
+  }
+]

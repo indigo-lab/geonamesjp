@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県伊豆の国市花坂",
+    "表記": "静岡県伊豆の国市花坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "伊豆の国市",
+      "町名": "花坂",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222250010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384743",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384733",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384742"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232232/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/103802.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県伊豆の国市花坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/伊豆の国市/花坂.json",
+    "name": "花坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県伊豆の国市"
+  }
+]

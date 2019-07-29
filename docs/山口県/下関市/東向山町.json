@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下関市東向山町",
+    "表記": "山口県下関市東向山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "東向山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352010420"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307754",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307764"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226409/104748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226409/104749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226410/104748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226410/104749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226410/104747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226411/104747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226411/104746.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下関市東向山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下関市/東向山町.json",
+    "name": "東向山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下関市"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県大沼郡会津本郷町大石左下り",
+    "表記": "福島県大沼郡会津本郷町大石左下り",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "大沼郡",
+      "市区町村": "会津本郷町",
+      "町名": "大石左下り"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391711"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232939/101646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232936/101643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232938/101645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232937/101645.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県大沼郡会津本郷町大石左下り",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/大沼郡/会津本郷町/大石左下り.json",
+    "name": "大石左下り",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県大沼郡会津本郷町"
+  }
+]

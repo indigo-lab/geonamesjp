@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県川越市寺井",
+    "表記": "埼玉県川越市寺井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "川越市",
+      "町名": "寺井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397420",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397319",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397410"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232656/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232655/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232656/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232655/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232654/103001.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県川越市寺井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/川越市/寺井.json",
+    "name": "寺井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県川越市"
+  }
+]

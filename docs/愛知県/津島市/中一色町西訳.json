@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県津島市中一色町西訳",
+    "表記": "愛知県津島市中一色町西訳",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "津島市",
+      "町名": "中一色町西訳"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365670",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365680"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230654/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230655/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230655/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230656/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230656/103702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230656/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230654/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230654/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230655/103702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230655/103699.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県津島市中一色町西訳",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/津島市/中一色町西訳.json",
+    "name": "中一色町西訳",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県津島市"
+  }
+]

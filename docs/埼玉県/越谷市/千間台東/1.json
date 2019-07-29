@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市千間台東一丁目",
+    "表記": "埼玉県越谷市千間台東一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "越谷市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11222083001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397622",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397612",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397621"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/102998.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市千間台東一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/越谷市/千間台東/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県越谷市千間台東"
+  }
+]

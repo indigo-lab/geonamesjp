@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県犬山市塔野地",
+    "表記": "愛知県犬山市塔野地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "犬山市",
+      "町名": "塔野地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360757",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360758"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230818/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230810/103493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230819/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230820/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230809/103494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230808/103494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230817/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230809/103495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230810/103494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230817/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230818/103496.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県犬山市塔野地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/犬山市/塔野地.json",
+    "name": "塔野地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県犬山市"
+  }
+]

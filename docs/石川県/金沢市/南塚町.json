@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市南塚町",
+    "表記": "石川県金沢市南塚町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "南塚町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172013820"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366487",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366477"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230541/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230540/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230539/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230538/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230537/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230536/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230536/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230536/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230538/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230537/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230535/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230540/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230535/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230539/102427.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市南塚町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/南塚町.json",
+    "name": "南塚町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

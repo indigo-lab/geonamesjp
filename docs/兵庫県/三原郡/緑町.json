@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県三原郡緑町",
+    "表記": "兵庫県三原郡緑町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "三原郡",
+      "市区町村": "緑町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C28701-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C28701-19740501",
+        "http://data.e-stat.go.jp/lod/sac/C28701-20050111"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県三原郡緑町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/三原郡/緑町.json",
+    "name": "緑町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県三原郡",
+    "children": [
+      "https://geonames.jp/resource/兵庫県三原郡緑町広田広田",
+      "https://geonames.jp/resource/兵庫県三原郡緑町広田中筋",
+      "https://geonames.jp/resource/兵庫県三原郡緑町山添",
+      "https://geonames.jp/resource/兵庫県三原郡緑町中条広田",
+      "https://geonames.jp/resource/兵庫県三原郡緑町中条中筋",
+      "https://geonames.jp/resource/兵庫県三原郡緑町中条徳原",
+      "https://geonames.jp/resource/兵庫県三原郡緑町倭文安住寺",
+      "https://geonames.jp/resource/兵庫県三原郡緑町倭文庄田",
+      "https://geonames.jp/resource/兵庫県三原郡緑町倭文神道",
+      "https://geonames.jp/resource/兵庫県三原郡緑町倭文長田",
+      "https://geonames.jp/resource/兵庫県三原郡緑町倭文土井"
+    ]
+  }
+]

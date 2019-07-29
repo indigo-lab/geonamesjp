@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下松市温見",
+    "表記": "山口県下松市温見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "下松市",
+      "町名": "温見"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310782",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310791",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310792"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227120/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227123/104658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227124/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227124/104657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227118/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227122/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227121/104647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227125/104648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227116/104646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227119/104645.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下松市温見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下松市/温見.json",
+    "name": "温見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下松市"
+  }
+]

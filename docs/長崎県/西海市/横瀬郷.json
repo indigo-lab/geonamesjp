@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県西海市横瀬郷",
+    "表記": "長崎県西海市横瀬郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "西海市",
+      "町名": "横瀬郷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42212040022",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42212040020",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42212040019",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42212040017",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42212040021",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422120400",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42212040016",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42212040014",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42212040015",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42212040018"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049294596"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225520/105524.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県西海市横瀬郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/西海市/横瀬郷.json",
+    "name": "横瀬郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県西海市"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県西宮市宝生ヶ丘",
+    "表記": "兵庫県西宮市宝生ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "西宮市",
+      "町名": "宝生ヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県西宮市宝生ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/西宮市/宝生ヶ丘.json",
+    "name": "宝生ヶ丘",
+    "alternateName": [
+      "宝生ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県西宮市",
+    "children": [
+      "https://geonames.jp/resource/兵庫県西宮市宝生ヶ丘一丁目",
+      "https://geonames.jp/resource/兵庫県西宮市宝生ヶ丘二丁目"
+    ]
+  }
+]

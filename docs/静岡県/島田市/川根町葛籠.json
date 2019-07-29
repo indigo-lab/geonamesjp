@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県島田市川根町葛籠",
+    "表記": "静岡県島田市川根町葛籠",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "島田市",
+      "町名": "川根町葛籠"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383075"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231612/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231607/103850.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県島田市川根町葛籠",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/島田市/川根町葛籠.json",
+    "name": "川根町葛籠",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県島田市"
+  }
+]

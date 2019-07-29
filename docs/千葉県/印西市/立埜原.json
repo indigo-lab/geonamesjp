@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県印西市立埜原",
+    "表記": "千葉県印西市立埜原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "印西市",
+      "町名": "立埜原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405188"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233178/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/103099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233176/103101.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県印西市立埜原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/印西市/立埜原.json",
+    "name": "立埜原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県印西市"
+  }
+]

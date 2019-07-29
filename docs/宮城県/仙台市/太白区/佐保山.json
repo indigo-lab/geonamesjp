@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市太白区佐保山",
+    "表記": "宮城県仙台市太白区佐保山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "太白区",
+      "町名": "佐保山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S041040240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402685",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402675"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/100899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233616/100900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233617/100900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/100898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/100900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/100897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/100896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233612/100895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/100895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233616/100899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233612/100894.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市太白区佐保山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/太白区/佐保山.json",
+    "name": "佐保山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市太白区"
+  }
+]

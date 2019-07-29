@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡大井町東久保",
+    "表記": "埼玉県入間郡大井町東久保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "入間郡",
+      "市区町村": "大井町",
+      "町名": "東久保"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡大井町東久保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/入間郡/大井町/東久保.json",
+    "name": "東久保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県入間郡大井町",
+    "children": [
+      "https://geonames.jp/resource/埼玉県入間郡大井町東久保一丁目"
+    ]
+  }
+]

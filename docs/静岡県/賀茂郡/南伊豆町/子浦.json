@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県賀茂郡南伊豆町子浦",
+    "表記": "静岡県賀茂郡南伊豆町子浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "賀茂郡",
+      "市区町村": "南伊豆町",
+      "町名": "子浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380602",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380613",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380603",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380612"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232131/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232138/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232139/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232134/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232132/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232130/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232130/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232130/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232132/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232133/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232134/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232135/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232136/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232129/104123.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県賀茂郡南伊豆町子浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/賀茂郡/南伊豆町/子浦.json",
+    "name": "子浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県賀茂郡南伊豆町"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市上屋敷町",
+    "表記": "和歌山県田辺市上屋敷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "上屋敷町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050354279",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050354370"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/104953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/104954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/104955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229645/104955.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市上屋敷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/田辺市/上屋敷町.json",
+    "name": "上屋敷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県田辺市"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市小牧二丁目",
+    "表記": "愛知県小牧市小牧二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23219033002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367744",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367753",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367754"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103572.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市小牧二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/小牧/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市小牧"
+  }
+]

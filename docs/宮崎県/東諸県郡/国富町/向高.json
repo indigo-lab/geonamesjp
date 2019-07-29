@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県東諸県郡国富町向高",
+    "表記": "宮崎県東諸県郡国富町向高",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "郡": "東諸県郡",
+      "市区町村": "国富町",
+      "町名": "向高"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317283",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317284",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317282"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226681/106464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226671/106462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226669/106465.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県東諸県郡国富町向高",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/東諸県郡/国富町/向高.json",
+    "name": "向高",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県東諸県郡国富町"
+  }
+]

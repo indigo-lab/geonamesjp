@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡茂木町下菅又",
+    "表記": "栃木県芳賀郡茂木町下菅又",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "芳賀郡",
+      "市区町村": "茂木町",
+      "町名": "下菅又"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406141",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406142",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406151"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/102451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/102452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233127/102454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233128/102451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/102452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/102450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/102451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/102450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/102449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233130/102452.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡茂木町下菅又",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/芳賀郡/茂木町/下菅又.json",
+    "name": "下菅又",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県芳賀郡茂木町"
+  }
+]

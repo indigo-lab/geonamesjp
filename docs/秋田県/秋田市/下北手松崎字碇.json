@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県秋田市下北手松崎字碇",
+    "表記": "秋田県秋田市下北手松崎字碇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "秋田市",
+      "町名": "下北手松崎字碇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404162"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/99504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/99505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/99504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/99505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233130/99506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/99506.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県秋田市下北手松崎字碇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/秋田市/下北手松崎字碇.json",
+    "name": "下北手松崎字碇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県秋田市"
+  }
+]

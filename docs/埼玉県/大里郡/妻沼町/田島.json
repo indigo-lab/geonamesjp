@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡妻沼町田島",
+    "表記": "埼玉県大里郡妻沼町田島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "大里郡",
+      "市区町村": "妻沼町",
+      "町名": "田島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392249",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392330",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392340"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/102757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/102758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232564/102758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/102757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232564/102757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232564/102756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232565/102757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232565/102758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232566/102756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232566/102757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232567/102757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232568/102756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232568/102757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/102759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/102759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/102760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/102760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232565/102761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232565/102760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232565/102759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/102755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/102756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/102756.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡妻沼町田島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/大里郡/妻沼町/田島.json",
+    "name": "田島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県大里郡妻沼町"
+  }
+]

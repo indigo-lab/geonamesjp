@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県川口市差間",
+    "表記": "埼玉県川口市差間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "川口市",
+      "町名": "差間"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県川口市差間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/川口市/差間.json",
+    "name": "差間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県川口市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県川口市差間（丁目なし）",
+      "https://geonames.jp/resource/埼玉県川口市差間一丁目",
+      "https://geonames.jp/resource/埼玉県川口市差間二丁目",
+      "https://geonames.jp/resource/埼玉県川口市差間三丁目"
+    ]
+  }
+]

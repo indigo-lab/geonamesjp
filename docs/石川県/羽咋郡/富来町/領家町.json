@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡富来町領家町",
+    "表記": "石川県羽咋郡富来町領家町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "羽咋郡",
+      "市区町村": "富来町",
+      "町名": "領家町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365578"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230632/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/101903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/101903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/101902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230632/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/101904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/101904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/101901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/101901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/101901.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡富来町領家町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/羽咋郡/富来町/領家町.json",
+    "name": "領家町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県羽咋郡富来町"
+  }
+]

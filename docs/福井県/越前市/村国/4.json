@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県越前市村国四丁目",
+    "表記": "福井県越前市村国四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "越前市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S18209095004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366194",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367104"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/103017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/103015.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県越前市村国四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/越前市/村国/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福井県越前市村国"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町北ノ川内丙",
+    "表記": "佐賀県西松浦郡有田町北ノ川内丙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "西松浦郡",
+      "市区町村": "有田町",
+      "町名": "北ノ川内丙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296636",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296637",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296638"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225623/105421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225623/105419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225625/105421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225624/105422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225612/105422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225611/105418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225625/105420.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町北ノ川内丙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/西松浦郡/有田町/北ノ川内丙.json",
+    "name": "北ノ川内丙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県西松浦郡有田町"
+  }
+]

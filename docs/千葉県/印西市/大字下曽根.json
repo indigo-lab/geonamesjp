@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県印西市大字下曽根",
+    "表記": "千葉県印西市大字下曽根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "印西市",
+      "町名": "大字下曽根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405187"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233176/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233168/103107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233169/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233171/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233171/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233175/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233176/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233178/103104.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県印西市大字下曽根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/印西市/大字下曽根.json",
+    "name": "大字下曽根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県印西市"
+  }
+]

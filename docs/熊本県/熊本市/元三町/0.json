@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市元三町（丁目なし）",
+    "表記": "熊本県熊本市元三町（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "元三町",
+      "町名": "（丁目なし）"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049300595",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049300596",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301505"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226241/105810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226241/105808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226242/105808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226243/105808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226243/105810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226245/105810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226245/105808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226243/105806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105810.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市元三町（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/元三町/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市元三町"
+  }
+]

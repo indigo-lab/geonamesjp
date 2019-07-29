@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県佐伯市本匠三股",
+    "表記": "大分県佐伯市本匠三股",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "佐伯市",
+      "町名": "本匠三股"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313633"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227041/105635.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県佐伯市本匠三股",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/佐伯市/本匠三股.json",
+    "name": "本匠三股",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県佐伯市"
+  }
+]

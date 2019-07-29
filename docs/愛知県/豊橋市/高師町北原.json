@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市高師町北原",
+    "表記": "愛知県豊橋市高師町北原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "高師町北原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370370",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370380",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370381",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370382",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370383",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370392"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231111/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231110/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231111/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231112/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231113/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231132/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231132/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231133/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231133/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231132/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231134/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231134/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231110/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231111/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231112/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231115/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231114/104071.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市高師町北原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/高師町北原.json",
+    "name": "高師町北原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

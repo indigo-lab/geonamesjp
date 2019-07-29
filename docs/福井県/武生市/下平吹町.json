@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県武生市下平吹町",
+    "表記": "福井県武生市下平吹町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "下平吹町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366133",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366143",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366144"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230231/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230229/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230228/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230228/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230229/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/103056.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県武生市下平吹町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/武生市/下平吹町.json",
+    "name": "下平吹町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県武生市"
+  }
+]

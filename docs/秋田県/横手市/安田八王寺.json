@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県横手市安田八王寺",
+    "表記": "秋田県横手市安田八王寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "横手市",
+      "町名": "安田八王寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407454"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/99909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/99908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/99910.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県横手市安田八王寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/横手市/安田八王寺.json",
+    "name": "安田八王寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県横手市"
+  }
+]

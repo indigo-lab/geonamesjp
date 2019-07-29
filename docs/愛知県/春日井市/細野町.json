@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県春日井市細野町",
+    "表記": "愛知県春日井市細野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "細野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232061320"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377054",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377064",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377065"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230883/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230882/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230881/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230880/103571.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県春日井市細野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/春日井市/細野町.json",
+    "name": "細野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県春日井市"
+  }
+]

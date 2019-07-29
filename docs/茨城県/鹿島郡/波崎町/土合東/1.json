@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡波崎町土合東一丁目",
+    "表記": "茨城県鹿島郡波崎町土合東一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "鹿島郡",
+      "市区町村": "波崎町",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405642"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233584/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233585/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233584/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233583/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233584/103133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233585/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233585/103133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233586/103133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233585/103134.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡波崎町土合東一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/鹿島郡/波崎町/土合東/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県鹿島郡波崎町土合東"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐南区上安町",
+    "表記": "広島県広島市安佐南区上安町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "安佐南区",
+      "町名": "上安町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S341058720"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325385",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325386",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325394",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325395"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227518/104287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227524/104287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227527/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227517/104289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227518/104289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227511/104284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227506/104284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227513/104290.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐南区上安町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/安佐南区/上安町.json",
+    "name": "上安町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市安佐南区"
+  }
+]

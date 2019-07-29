@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡益子町生田目",
+    "表記": "栃木県芳賀郡益子町生田目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "芳賀郡",
+      "市区町村": "益子町",
+      "町名": "生田目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054405036",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054405046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054405047"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233083/102532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233078/102534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/102534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/102532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/102534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/102530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/102530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233078/102539.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡益子町生田目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/芳賀郡/益子町/生田目.json",
+    "name": "生田目",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県芳賀郡益子町"
+  }
+]

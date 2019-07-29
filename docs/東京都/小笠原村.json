@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都小笠原村",
+    "表記": "東京都小笠原村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "小笠原村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C13421-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都小笠原村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/小笠原村.json",
+    "name": "小笠原村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都",
+    "children": [
+      "https://geonames.jp/resource/東京都小笠原村父島字西町",
+      "https://geonames.jp/resource/東京都小笠原村父島",
+      "https://geonames.jp/resource/東京都小笠原村母島",
+      "https://geonames.jp/resource/東京都小笠原村沖ノ鳥島",
+      "https://geonames.jp/resource/東京都小笠原村硫黄島",
+      "https://geonames.jp/resource/東京都小笠原村聟島",
+      "https://geonames.jp/resource/東京都小笠原村南鳥島",
+      "https://geonames.jp/resource/東京都小笠原村父島字奥村",
+      "https://geonames.jp/resource/東京都小笠原村西之島"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1022925"
+    ]
+  }
+]

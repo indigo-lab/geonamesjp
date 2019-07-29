@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県弥富市又八十一丁目",
+    "表記": "愛知県弥富市又八十一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "弥富市",
+      "町名": "八十一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365559",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365640",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365549"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230646/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230651/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230650/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230649/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230649/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230649/103726.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県弥富市又八十一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/弥富市/又/81.json",
+    "name": "八十一丁目",
+    "alternateName": [
+      "81",
+      "81丁目",
+      "８１",
+      "８１丁目",
+      "八十一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県弥富市又"
+  }
+]

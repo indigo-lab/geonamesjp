@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県塩谷郡喜連川町小入",
+    "表記": "栃木県塩谷郡喜連川町小入",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "塩谷郡",
+      "市区町村": "喜連川町",
+      "町名": "小入"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390769",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390778",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390779",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390788"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233012/102284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233009/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233010/102284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233008/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233012/102279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233006/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233004/102276.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県塩谷郡喜連川町小入",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/塩谷郡/喜連川町/小入.json",
+    "name": "小入",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県塩谷郡喜連川町"
+  }
+]

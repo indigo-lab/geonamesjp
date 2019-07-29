@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県徳島市大松町榎原外",
+    "表記": "徳島県徳島市大松町榎原外",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "徳島市",
+      "町名": "大松町榎原外"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340424",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340434"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229050/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229052/104698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229051/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229052/104696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229052/104699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229050/104694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229051/104694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229052/104697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229051/104696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229052/104700.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県徳島市大松町榎原外",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/徳島市/大松町榎原外.json",
+    "name": "大松町榎原外",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県徳島市"
+  }
+]

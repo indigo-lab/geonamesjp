@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県春日井市十三塚町十三塚",
+    "表記": "愛知県春日井市十三塚町十三塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "春日井市",
+      "町名": "十三塚町十三塚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367719"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230827/103599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230827/103600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/103598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/103600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/103599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/103599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230827/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/103597.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県春日井市十三塚町十三塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/春日井市/十三塚町十三塚.json",
+    "name": "十三塚町十三塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県春日井市"
+  }
+]

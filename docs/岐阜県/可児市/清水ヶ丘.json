@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県可児市清水ヶ丘",
+    "表記": "岐阜県可児市清水ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "可児市",
+      "町名": "清水ヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県可児市清水ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/可児市/清水ヶ丘.json",
+    "name": "清水ヶ丘",
+    "alternateName": [
+      "清水ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県可児市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県可児市清水ヶ丘三丁目",
+      "https://geonames.jp/resource/岐阜県可児市清水ヶ丘四丁目",
+      "https://geonames.jp/resource/岐阜県可児市清水ヶ丘五丁目",
+      "https://geonames.jp/resource/岐阜県可児市清水ヶ丘六丁目"
+    ]
+  }
+]

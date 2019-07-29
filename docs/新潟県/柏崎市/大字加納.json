@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市大字加納",
+    "表記": "新潟県柏崎市大字加納",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "柏崎市",
+      "町名": "大字加納",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152051410"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387479",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380409",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387489"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232015/101745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232013/101729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232014/101733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232015/101734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232012/101734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232014/101731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232012/101732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232012/101729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232013/101730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232007/101743.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市大字加納",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/柏崎市/大字加納.json",
+    "name": "大字加納",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県柏崎市"
+  }
+]

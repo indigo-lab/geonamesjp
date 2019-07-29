@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県邇摩郡温泉津町",
+    "表記": "島根県邇摩郡温泉津町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "邇摩郡",
+      "市区町村": "温泉津町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32421-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C32421-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県邇摩郡温泉津町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/邇摩郡/温泉津町.json",
+    "name": "温泉津町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県邇摩郡",
+    "children": [
+      "https://geonames.jp/resource/島根県邇摩郡温泉津町湯里大字湯里",
+      "https://geonames.jp/resource/島根県邇摩郡温泉津町温泉津",
+      "https://geonames.jp/resource/島根県邇摩郡温泉津町温泉津大字小浜",
+      "https://geonames.jp/resource/島根県邇摩郡温泉津町温泉津大字上村",
+      "https://geonames.jp/resource/島根県邇摩郡温泉津町福波大字今浦",
+      "https://geonames.jp/resource/島根県邇摩郡温泉津町福波大字福光"
+    ]
+  }
+]

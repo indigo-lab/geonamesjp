@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県周南市大字富田",
+    "表記": "山口県周南市大字富田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "周南市",
+      "町名": "大字富田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35215133016",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35215133014",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35215133021",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35215133011",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352151330"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310549",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310690",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310691",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310692",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311601",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310640"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227012/104647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227030/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227001/104687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227020/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227016/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227017/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227017/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227016/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227014/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227014/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227014/104651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227014/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227014/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227014/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/104651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227016/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227016/104651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227016/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227017/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227017/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227017/104651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227017/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227017/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227019/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227018/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227019/104639.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県周南市大字富田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/周南市/大字富田.json",
+    "name": "大字富田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県周南市"
+  }
+]

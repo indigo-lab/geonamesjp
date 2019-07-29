@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県妙高市広島",
+    "表記": "新潟県妙高市広島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "妙高市",
+      "町名": "広島"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県妙高市広島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/妙高市/広島.json",
+    "name": "広島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県妙高市",
+    "children": [
+      "https://geonames.jp/resource/新潟県妙高市広島（丁目なし）",
+      "https://geonames.jp/resource/新潟県妙高市広島一丁目",
+      "https://geonames.jp/resource/新潟県妙高市広島二丁目",
+      "https://geonames.jp/resource/新潟県妙高市広島三丁目"
+    ]
+  }
+]

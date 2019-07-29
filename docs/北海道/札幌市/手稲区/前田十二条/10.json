@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道札幌市手稲区前田十二条十丁目",
+    "表記": "北海道札幌市手稲区前田十二条十丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "札幌市",
+      "区": "手稲区",
+      "町名": "十丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415261",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415251"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233940/96190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233941/96192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233940/96192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233940/96191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233941/96191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233939/96191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233939/96190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233939/96189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233942/96192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233942/96191.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道札幌市手稲区前田十二条十丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/札幌市/手稲区/前田十二条/10.json",
+    "name": "十丁目",
+    "alternateName": [
+      "10",
+      "10丁目",
+      "１０",
+      "１０丁目",
+      "十"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道札幌市手稲区前田十二条"
+  }
+]

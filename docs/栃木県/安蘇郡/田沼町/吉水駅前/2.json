@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県安蘇郡田沼町吉水駅前二丁目",
+    "表記": "栃木県安蘇郡田沼町吉水駅前二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "安蘇郡",
+      "市区町村": "田沼町",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394406",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394416"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232707/102632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232707/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/102629.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県安蘇郡田沼町吉水駅前二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/安蘇郡/田沼町/吉水駅前/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/栃木県安蘇郡田沼町吉水駅前"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡津幡町字能瀬ウ",
+    "表記": "石川県河北郡津幡町字能瀬ウ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "津幡町",
+      "町名": "字能瀬ウ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360527",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360528",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360537",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360538"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230632/102315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230632/102314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230631/102313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230631/102312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230630/102312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230631/102314.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡津幡町字能瀬ウ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/津幡町/字能瀬ウ.json",
+    "name": "字能瀬ウ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡津幡町"
+  }
+]

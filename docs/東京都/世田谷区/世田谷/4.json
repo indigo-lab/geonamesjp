@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都世田谷区世田谷四丁目",
+    "表記": "東京都世田谷区世田谷四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "世田谷区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13112006004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393572"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232765/103261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232765/103260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/103260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/103258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103255.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都世田谷区世田谷四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/世田谷区/世田谷/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都世田谷区世田谷"
+  }
+]

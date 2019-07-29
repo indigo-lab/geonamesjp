@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡伊集院町寺脇",
+    "表記": "鹿児島県日置郡伊集院町寺脇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "日置郡",
+      "市区町村": "伊集院町",
+      "町名": "寺脇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303259",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303269",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303360"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226011/106763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/106763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/106767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226015/106763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/106770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226006/106766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226006/106767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/106762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226004/106763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226004/106762.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡伊集院町寺脇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/日置郡/伊集院町/寺脇.json",
+    "name": "寺脇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県日置郡伊集院町"
+  }
+]

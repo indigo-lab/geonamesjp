@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市栄町",
+    "表記": "宮城県気仙沼市栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "栄町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S042050570"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412496"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234166/100267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234165/100269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234166/100268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234165/100267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234166/100269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234165/100268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234166/100266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234163/100268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234164/100268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234165/100270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234164/100269.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/気仙沼市/栄町.json",
+    "name": "栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県気仙沼市"
+  }
+]

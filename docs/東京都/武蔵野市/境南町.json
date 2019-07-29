@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都武蔵野市境南町",
+    "表記": "東京都武蔵野市境南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "境南町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S132030120"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都武蔵野市境南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/武蔵野市/境南町.json",
+    "name": "境南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都武蔵野市",
+    "children": [
+      "https://geonames.jp/resource/東京都武蔵野市境南町一丁目",
+      "https://geonames.jp/resource/東京都武蔵野市境南町二丁目",
+      "https://geonames.jp/resource/東京都武蔵野市境南町三丁目",
+      "https://geonames.jp/resource/東京都武蔵野市境南町四丁目",
+      "https://geonames.jp/resource/東京都武蔵野市境南町五丁目"
+    ]
+  }
+]

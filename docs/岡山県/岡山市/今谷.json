@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市今谷",
+    "表記": "岡山県岡山市今谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "今谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330708"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228632/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228630/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228631/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228632/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228633/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228632/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228633/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228634/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228635/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228636/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228635/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228634/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228635/104131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228633/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228633/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228632/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228636/104128.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市今谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/今谷.json",
+    "name": "今谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

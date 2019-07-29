@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県双三郡三良坂町岡田",
+    "表記": "広島県双三郡三良坂町岡田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "双三郡",
+      "市区町村": "三良坂町",
+      "町名": "岡田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052321714",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052321724",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052321725"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227867/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227868/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227868/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227869/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227872/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227869/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227870/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227872/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227873/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227872/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227873/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227872/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227873/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227873/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227875/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227874/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227875/104040.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県双三郡三良坂町岡田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/双三郡/三良坂町/岡田.json",
+    "name": "岡田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県双三郡三良坂町"
+  }
+]

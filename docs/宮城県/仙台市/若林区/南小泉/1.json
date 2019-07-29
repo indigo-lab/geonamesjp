@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市若林区南小泉一丁目",
+    "表記": "宮城県仙台市若林区南小泉一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "若林区",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04103063001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402792",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402782",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402791"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/100891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/100892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/100890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100890.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市若林区南小泉一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/若林区/南小泉/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市若林区南小泉"
+  }
+]

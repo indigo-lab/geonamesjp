@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県宮古郡城辺町",
+    "表記": "沖縄県宮古郡城辺町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "宮古郡",
+      "市区町村": "城辺町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C47361-19720515",
+        "http://data.e-stat.go.jp/lod/sac/C47371-19720607",
+        "http://data.e-stat.go.jp/lod/sac/C47371-20051001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県宮古郡城辺町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/宮古郡/城辺町.json",
+    "name": "城辺町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県宮古郡",
+    "children": [
+      "https://geonames.jp/resource/沖縄県宮古郡城辺町下里添",
+      "https://geonames.jp/resource/沖縄県宮古郡城辺町砂川",
+      "https://geonames.jp/resource/沖縄県宮古郡城辺町新城",
+      "https://geonames.jp/resource/沖縄県宮古郡城辺町西里添",
+      "https://geonames.jp/resource/沖縄県宮古郡城辺町長間",
+      "https://geonames.jp/resource/沖縄県宮古郡城辺町比嘉",
+      "https://geonames.jp/resource/沖縄県宮古郡城辺町福里",
+      "https://geonames.jp/resource/沖縄県宮古郡城辺町保良",
+      "https://geonames.jp/resource/沖縄県宮古郡城辺町友利"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1206086"
+    ]
+  }
+]

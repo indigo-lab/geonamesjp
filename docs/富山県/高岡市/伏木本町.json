@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市伏木本町",
+    "表記": "富山県高岡市伏木本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "伏木本町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162022680"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371054",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371064"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/102220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/102219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/102219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/102218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/102218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/102218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/102216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/102218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/102216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/102216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/102216.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市伏木本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/伏木本町.json",
+    "name": "伏木本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県栃尾市金町",
+    "表記": "新潟県栃尾市金町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "金町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県栃尾市金町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/栃尾市/金町.json",
+    "name": "金町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県栃尾市",
+    "children": [
+      "https://geonames.jp/resource/新潟県栃尾市金町一丁目",
+      "https://geonames.jp/resource/新潟県栃尾市金町二丁目"
+    ]
+  }
+]

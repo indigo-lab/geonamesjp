@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県結城郡石下町山口",
+    "表記": "茨城県結城郡石下町山口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "結城郡",
+      "市区町村": "石下町",
+      "町名": "山口"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391717",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391718",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391727",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391728"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232998/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232999/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232999/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233000/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232999/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232998/102849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232998/102848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233000/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233001/102853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233000/102853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232999/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232997/102848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232997/102849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233002/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233000/102849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233000/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232996/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232997/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232996/102849.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県結城郡石下町山口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/結城郡/石下町/山口.json",
+    "name": "山口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県結城郡石下町"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県福井市串野町",
+    "表記": "福井県福井市串野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "串野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182011220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361160",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361170"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/102814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/102811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/102811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/102809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/102813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/102809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/102812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/102815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/102811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/102814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/102816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/102812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/102813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/102812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/102813.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県福井市串野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/福井市/串野町.json",
+    "name": "串野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県福井市"
+  }
+]

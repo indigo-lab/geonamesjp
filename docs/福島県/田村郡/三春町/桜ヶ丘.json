@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町桜ヶ丘",
+    "表記": "福島県田村郡三春町桜ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "田村郡",
+      "市区町村": "三春町",
+      "町名": "桜ヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町桜ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村郡/三春町/桜ヶ丘.json",
+    "name": "桜ヶ丘",
+    "alternateName": [
+      "桜ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県田村郡三春町",
+    "children": [
+      "https://geonames.jp/resource/福島県田村郡三春町桜ヶ丘一丁目",
+      "https://geonames.jp/resource/福島県田村郡三春町桜ヶ丘二丁目",
+      "https://geonames.jp/resource/福島県田村郡三春町桜ヶ丘三丁目",
+      "https://geonames.jp/resource/福島県田村郡三春町桜ヶ丘四丁目"
+    ]
+  }
+]

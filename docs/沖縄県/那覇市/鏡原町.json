@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県那覇市鏡原町",
+    "表記": "沖縄県那覇市鏡原町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "鏡原町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S472010520"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272534",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272544"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224042/111291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224043/111291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224044/111290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224044/111291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224042/111292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224043/111292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224044/111292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224043/111293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224042/111293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224044/111293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224043/111294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224044/111294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224046/111294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224046/111293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224046/111296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224046/111295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111295.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県那覇市鏡原町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/那覇市/鏡原町.json",
+    "name": "鏡原町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県那覇市"
+  }
+]

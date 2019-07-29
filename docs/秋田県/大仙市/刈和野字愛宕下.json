@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大仙市刈和野字愛宕下",
+    "表記": "秋田県大仙市刈和野字愛宕下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大仙市",
+      "町名": "刈和野字愛宕下",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S05212066013",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S05212066018"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059402259",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059402350"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233290/99674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233290/99675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233290/99673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/99674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/99673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233290/99672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/99671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233288/99672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/99670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233286/99671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/99671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233288/99671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233286/99672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/99672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/99672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/99672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/99671.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大仙市刈和野字愛宕下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大仙市/刈和野字愛宕下.json",
+    "name": "刈和野字愛宕下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大仙市"
+  }
+]

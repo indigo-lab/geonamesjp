@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市国府町玉鉾",
+    "表記": "鳥取県鳥取市国府町玉鉾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "鳥取市",
+      "町名": "国府町玉鉾",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312013060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341253",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341252"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228860/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228862/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228862/103421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228863/103421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228860/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228860/103421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228857/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228855/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228859/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228859/103424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228856/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228857/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228857/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228859/103421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228858/103421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228861/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228861/103421.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市国府町玉鉾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/鳥取市/国府町玉鉾.json",
+    "name": "国府町玉鉾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県鳥取市"
+  }
+]

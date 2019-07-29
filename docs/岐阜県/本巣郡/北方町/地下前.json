@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県本巣郡北方町地下前",
+    "表記": "岐阜県本巣郡北方町地下前",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "本巣郡",
+      "市区町村": "北方町",
+      "町名": "地下前"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361525"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230608/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230607/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230607/103447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230608/103447.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県本巣郡北方町地下前",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/本巣郡/北方町/地下前.json",
+    "name": "地下前",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県本巣郡北方町"
+  }
+]

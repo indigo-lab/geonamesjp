@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県赤磐市桜が丘東",
+    "表記": "岡山県赤磐市桜が丘東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "赤磐市",
+      "町名": "桜が丘東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332130740"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県赤磐市桜が丘東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/赤磐市/桜が丘東.json",
+    "name": "桜が丘東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県赤磐市",
+    "children": [
+      "https://geonames.jp/resource/岡山県赤磐市桜が丘東一丁目",
+      "https://geonames.jp/resource/岡山県赤磐市桜が丘東二丁目",
+      "https://geonames.jp/resource/岡山県赤磐市桜が丘東三丁目",
+      "https://geonames.jp/resource/岡山県赤磐市桜が丘東四丁目",
+      "https://geonames.jp/resource/岡山県赤磐市桜が丘東五丁目",
+      "https://geonames.jp/resource/岡山県赤磐市桜が丘東六丁目"
+    ]
+  }
+]

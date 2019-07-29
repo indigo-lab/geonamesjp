@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上高井郡小布施町山王島",
+    "表記": "長野県上高井郡小布施町山王島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "上高井郡",
+      "市区町村": "小布施町",
+      "町名": "山王島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055380234",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055380243",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055380244",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055380254"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231780/102307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231779/102307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231778/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231780/102306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231781/102306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231779/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231779/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231779/102303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231781/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231783/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/102303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231781/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231784/102300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231781/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231783/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231785/102299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231786/102299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231780/102305.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上高井郡小布施町山王島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上高井郡/小布施町/山王島.json",
+    "name": "山王島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上高井郡小布施町"
+  }
+]

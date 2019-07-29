@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県燕市吉田本所",
+    "表記": "新潟県燕市吉田本所",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "燕市",
+      "町名": "吉田本所",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152131300"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384730",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384639"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232200/101396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232198/101397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232199/101397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232199/101396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232203/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232201/101395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232198/101396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232197/101395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232198/101395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232200/101395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232199/101395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232199/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232199/101394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232200/101394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232201/101394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232201/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232197/101396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232202/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232199/101398.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県燕市吉田本所",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/燕市/吉田本所.json",
+    "name": "吉田本所",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県燕市"
+  }
+]

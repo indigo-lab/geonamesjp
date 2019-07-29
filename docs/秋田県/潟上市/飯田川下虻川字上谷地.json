@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県潟上市飯田川下虻川字上谷地",
+    "表記": "秋田県潟上市飯田川下虻川字上谷地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "潟上市",
+      "町名": "飯田川下虻川字上谷地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059406045"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233068/99364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233067/99367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233068/99366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233066/99366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233067/99366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233069/99363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233067/99364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233070/99361.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県潟上市飯田川下虻川字上谷地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/潟上市/飯田川下虻川字上谷地.json",
+    "name": "飯田川下虻川字上谷地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県潟上市"
+  }
+]

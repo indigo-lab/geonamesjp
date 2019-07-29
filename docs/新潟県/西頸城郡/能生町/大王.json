@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西頸城郡能生町大王",
+    "表記": "新潟県西頸城郡能生町大王",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西頸城郡",
+      "市区町村": "能生町",
+      "町名": "大王"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055375719",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385000",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385010"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231567/101944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231561/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231560/101951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231559/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231560/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231563/101948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231562/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231564/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231565/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231564/101949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231565/101949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231567/101948.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西頸城郡能生町大王",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西頸城郡/能生町/大王.json",
+    "name": "大王",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西頸城郡能生町"
+  }
+]

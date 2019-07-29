@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市浜北区堀谷",
+    "表記": "静岡県浜松市浜北区堀谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜松市",
+      "区": "浜北区",
+      "町名": "堀谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S221360350"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372631",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372630",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372640",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372641"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231384/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231383/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231390/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/103954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/103952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231384/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231390/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231390/103954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231386/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231383/103946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231383/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/103955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231389/103952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231390/103949.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市浜北区堀谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/浜北区/堀谷.json",
+    "name": "堀谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市浜北区"
+  }
+]

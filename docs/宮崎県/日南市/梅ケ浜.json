@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県日南市梅ケ浜",
+    "表記": "宮崎県日南市梅ケ浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "日南市",
+      "町名": "梅ケ浜"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県日南市梅ケ浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/日南市/梅ケ浜.json",
+    "name": "梅ケ浜",
+    "alternateName": [
+      "梅ヶ浜"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮崎県日南市",
+    "children": [
+      "https://geonames.jp/resource/宮崎県日南市梅ケ浜一丁目",
+      "https://geonames.jp/resource/宮崎県日南市梅ケ浜二丁目",
+      "https://geonames.jp/resource/宮崎県日南市梅ケ浜三丁目"
+    ]
+  }
+]

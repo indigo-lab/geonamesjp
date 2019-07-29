@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県日光市嘉多蔵",
+    "表記": "栃木県日光市嘉多蔵",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "日光市",
+      "町名": "嘉多蔵",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092061170"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390653",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390654",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390664"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232870/102296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232870/102295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232878/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232878/102292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232875/102292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232870/102294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232867/102294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232871/102298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232868/102296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232869/102295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232871/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232870/102297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232871/102295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/102293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232876/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232874/102296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232865/102295.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県日光市嘉多蔵",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/日光市/嘉多蔵.json",
+    "name": "嘉多蔵",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県日光市"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県吉野川市鴨島町喜来乙",
+    "表記": "徳島県吉野川市鴨島町喜来乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "吉野川市",
+      "町名": "鴨島町喜来乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340299",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340298"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228917/104648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228918/104648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228907/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228909/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228910/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228913/104648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228919/104648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228908/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228911/104649.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県吉野川市鴨島町喜来乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/吉野川市/鴨島町喜来乙.json",
+    "name": "鴨島町喜来乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県吉野川市"
+  }
+]

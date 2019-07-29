@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県一関市千厩町磐清水字新谷",
+    "表記": "岩手県一関市千厩町磐清水字新谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "一関市",
+      "町名": "千厩町磐清水字新谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413215"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233973/100252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233974/100251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233974/100252.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県一関市千厩町磐清水字新谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/一関市/千厩町磐清水字新谷.json",
+    "name": "千厩町磐清水字新谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県一関市"
+  }
+]

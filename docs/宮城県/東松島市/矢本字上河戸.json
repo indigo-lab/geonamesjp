@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県東松島市矢本字上河戸",
+    "表記": "宮城県東松島市矢本字上河戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "東松島市",
+      "町名": "矢本字上河戸",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04214001008",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04214001009",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04214001089",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04214001007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415106",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415116"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233897/100724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233898/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233898/100724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233898/100725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233896/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233897/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233897/100723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233895/100726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233896/100723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233895/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233896/100724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233896/100725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233895/100723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233895/100724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233895/100725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/100725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233893/100724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/100724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233893/100723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/100723.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県東松島市矢本字上河戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/東松島市/矢本字上河戸.json",
+    "name": "矢本字上河戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県東松島市"
+  }
+]

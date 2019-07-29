@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名市長島町大倉",
+    "表記": "三重県桑名市長島町大倉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "桑名市",
+      "町名": "長島町大倉",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242051910"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365526",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365525",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365536"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230618/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230614/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230614/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230614/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230614/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230614/103742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103740.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名市長島町大倉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名市/長島町大倉.json",
+    "name": "長島町大倉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名市"
+  }
+]

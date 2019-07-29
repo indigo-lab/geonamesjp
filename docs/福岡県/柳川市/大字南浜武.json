@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県柳川市大字南浜武",
+    "表記": "福岡県柳川市大字南浜武",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "柳川市",
+      "町名": "大字南浜武",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40207051002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402070510",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40207051003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40207051004",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40207051001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県柳川市大字南浜武",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/柳川市/大字南浜武.json",
+    "name": "大字南浜武",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県柳川市"
+  }
+]

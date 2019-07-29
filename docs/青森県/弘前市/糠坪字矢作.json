@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県弘前市糠坪字矢作",
+    "表記": "青森県弘前市糠坪字矢作",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "弘前市",
+      "町名": "糠坪字矢作"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400305",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400314"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233335/98595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/98597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233334/98590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233334/98595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233334/98596.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県弘前市糠坪字矢作",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/弘前市/糠坪字矢作.json",
+    "name": "糠坪字矢作",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県弘前市"
+  }
+]

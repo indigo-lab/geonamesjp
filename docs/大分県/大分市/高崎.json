@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県大分市高崎",
+    "表記": "大分県大分市高崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "大分市",
+      "町名": "高崎"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県大分市高崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/大分市/高崎.json",
+    "name": "高崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県大分市",
+    "children": [
+      "https://geonames.jp/resource/大分県大分市高崎（丁目なし）",
+      "https://geonames.jp/resource/大分県大分市高崎一丁目",
+      "https://geonames.jp/resource/大分県大分市高崎二丁目",
+      "https://geonames.jp/resource/大分県大分市高崎三丁目",
+      "https://geonames.jp/resource/大分県大分市高崎四丁目"
+    ]
+  }
+]

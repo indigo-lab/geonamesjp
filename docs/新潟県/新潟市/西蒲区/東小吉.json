@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市西蒲区東小吉",
+    "表記": "新潟県新潟市西蒲区東小吉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "西蒲区",
+      "町名": "東小吉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384758",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384757"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232270/101378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/101382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/101383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/101384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/101383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/101381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/101380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/101381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/101380.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市西蒲区東小吉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/西蒲区/東小吉.json",
+    "name": "東小吉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市西蒲区"
+  }
+]

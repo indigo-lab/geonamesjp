@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県米子市美吉",
+    "表記": "鳥取県米子市美吉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "米子市",
+      "町名": "美吉",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312020740"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330297",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331207"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228169/103464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228170/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228169/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228168/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228169/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228170/103458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228168/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228168/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228169/103458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228168/103458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228168/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228170/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228167/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228169/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228170/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228170/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228171/103458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228171/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228171/103459.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県米子市美吉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/米子市/美吉.json",
+    "name": "美吉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県米子市"
+  }
+]

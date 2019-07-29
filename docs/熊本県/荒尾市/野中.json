@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市野中",
+    "表記": "熊本県荒尾市野中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "荒尾市",
+      "町名": "野中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303388",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303398"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226081/105599.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市野中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/荒尾市/野中.json",
+    "name": "野中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県荒尾市"
+  }
+]

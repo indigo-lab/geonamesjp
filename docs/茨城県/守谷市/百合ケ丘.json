@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県守谷市百合ケ丘",
+    "表記": "茨城県守谷市百合ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "守谷市",
+      "町名": "百合ケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県守谷市百合ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/守谷市/百合ケ丘.json",
+    "name": "百合ケ丘",
+    "alternateName": [
+      "百合ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県守谷市",
+    "children": [
+      "https://geonames.jp/resource/茨城県守谷市百合ケ丘一丁目",
+      "https://geonames.jp/resource/茨城県守谷市百合ケ丘二丁目",
+      "https://geonames.jp/resource/茨城県守谷市百合ケ丘三丁目"
+    ]
+  }
+]

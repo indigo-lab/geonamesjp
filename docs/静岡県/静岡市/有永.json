@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市有永",
+    "表記": "静岡県静岡市有永",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "町名": "有永"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384330",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384331"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/103808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/103811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/103808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/103808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/103809.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市有永",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/有永.json",
+    "name": "有永",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市"
+  }
+]

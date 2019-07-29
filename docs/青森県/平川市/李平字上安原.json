@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県平川市李平字上安原",
+    "表記": "青森県平川市李平字上安原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "平川市",
+      "町名": "李平字上安原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407437"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233451/98655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233448/98655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233447/98655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233452/98657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233447/98654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/98654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233449/98654.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県平川市李平字上安原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/平川市/李平字上安原.json",
+    "name": "李平字上安原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県平川市"
+  }
+]

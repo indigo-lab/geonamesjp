@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県境港市誠道町",
+    "表記": "鳥取県境港市誠道町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "誠道町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312040370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053332118",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053332128"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228090/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228091/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228089/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228091/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228090/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228089/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228089/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228090/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228091/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228089/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228092/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228092/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228090/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228091/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228091/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228090/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228091/103372.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県境港市誠道町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/境港市/誠道町.json",
+    "name": "誠道町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県境港市"
+  }
+]

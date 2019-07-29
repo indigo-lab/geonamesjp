@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県松山市祝谷六丁目",
+    "表記": "愛媛県松山市祝谷六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "松山市",
+      "町名": "六丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326631",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326632",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326642"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227755/104837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227758/104840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227755/104841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227757/104839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227757/104840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227755/104840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227755/104839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227755/104838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227755/104835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227753/104836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104834.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県松山市祝谷六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/松山市/祝谷/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛媛県松山市祝谷"
+  }
+]

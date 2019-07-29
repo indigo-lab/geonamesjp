@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県八束郡玉湯町",
+    "表記": "島根県八束郡玉湯町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "八束郡",
+      "市区町村": "玉湯町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32306-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C32306-19960919",
+        "http://data.e-stat.go.jp/lod/sac/C32306-20050331"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県八束郡玉湯町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/八束郡/玉湯町.json",
+    "name": "玉湯町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県八束郡",
+    "children": [
+      "https://geonames.jp/resource/島根県八束郡玉湯町湯町",
+      "https://geonames.jp/resource/島根県八束郡玉湯町玉造",
+      "https://geonames.jp/resource/島根県八束郡玉湯町林村",
+      "https://geonames.jp/resource/島根県八束郡玉湯町布志名"
+    ]
+  }
+]

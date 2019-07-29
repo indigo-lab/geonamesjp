@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県北名古屋市鍜治ケ一色字村内西",
+    "表記": "愛知県北名古屋市鍜治ケ一色字村内西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "北名古屋市",
+      "町名": "鍜治ケ一色字村内西"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367618"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230727/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230726/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230725/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230727/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230725/103602.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県北名古屋市鍜治ケ一色字村内西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/北名古屋市/鍜治ケ一色字村内西.json",
+    "name": "鍜治ケ一色字村内西",
+    "alternateName": [
+      "鍜治ヶ一色字村内西"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県北名古屋市"
+  }
+]

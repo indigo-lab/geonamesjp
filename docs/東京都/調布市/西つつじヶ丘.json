@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都調布市西つつじヶ丘",
+    "表記": "東京都調布市西つつじヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "調布市",
+      "町名": "西つつじヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都調布市西つつじヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/調布市/西つつじヶ丘.json",
+    "name": "西つつじヶ丘",
+    "alternateName": [
+      "西つつじケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都調布市",
+    "children": [
+      "https://geonames.jp/resource/東京都調布市西つつじヶ丘一丁目",
+      "https://geonames.jp/resource/東京都調布市西つつじヶ丘二丁目",
+      "https://geonames.jp/resource/東京都調布市西つつじヶ丘三丁目",
+      "https://geonames.jp/resource/東京都調布市西つつじヶ丘四丁目"
+    ]
+  }
+]

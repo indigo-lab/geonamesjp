@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県名取郡秋保町",
+    "表記": "宮城県名取郡秋保町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "名取郡",
+      "市区町村": "秋保町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C04382-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C04382-19880301"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県名取郡秋保町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/名取郡/秋保町.json",
+    "name": "秋保町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県名取郡"
+  }
+]

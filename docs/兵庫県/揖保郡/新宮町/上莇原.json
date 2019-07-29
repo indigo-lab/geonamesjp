@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡新宮町上莇原",
+    "表記": "兵庫県揖保郡新宮町上莇原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "揖保郡",
+      "市区町村": "新宮町",
+      "町名": "上莇原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343335",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343336",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343345",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343346"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228982/103878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228974/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228975/103881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228973/103881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228973/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228974/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228976/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228980/103872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228979/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228979/103881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228980/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228980/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228978/103881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228977/103882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228980/103883.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡新宮町上莇原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/揖保郡/新宮町/上莇原.json",
+    "name": "上莇原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県揖保郡新宮町"
+  }
+]

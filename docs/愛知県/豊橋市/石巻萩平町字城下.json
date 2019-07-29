@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市石巻萩平町字城下",
+    "表記": "愛知県豊橋市石巻萩平町字城下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "石巻萩平町字城下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371397"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231177/103987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231176/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231178/103987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231176/103987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231177/103986.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市石巻萩平町字城下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/石巻萩平町字城下.json",
+    "name": "石巻萩平町字城下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

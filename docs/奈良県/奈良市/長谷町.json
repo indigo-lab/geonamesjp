@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市長谷町",
+    "表記": "奈良県奈良市長谷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "長谷町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292018190"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357762",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357763",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357764",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357752",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357753"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230046/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230037/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230050/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230038/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230041/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230035/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230036/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230037/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230039/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230039/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230041/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230041/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230041/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230042/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230043/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230046/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230047/104158.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市長谷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/長谷町.json",
+    "name": "長谷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市"
+  }
+]

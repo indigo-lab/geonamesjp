@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡涌谷町小蓋谷地",
+    "表記": "宮城県遠田郡涌谷町小蓋谷地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "遠田郡",
+      "市区町村": "涌谷町",
+      "町名": "小蓋谷地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416056"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/100611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/100610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/100609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/100611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233800/100608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233800/100609.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡涌谷町小蓋谷地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/遠田郡/涌谷町/小蓋谷地.json",
+    "name": "小蓋谷地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県遠田郡涌谷町"
+  }
+]

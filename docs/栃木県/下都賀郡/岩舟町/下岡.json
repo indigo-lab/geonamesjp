@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県下都賀郡岩舟町下岡",
+    "表記": "栃木県下都賀郡岩舟町下岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "下都賀郡",
+      "市区町村": "岩舟町",
+      "町名": "下岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394501"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232748/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232748/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/102633.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県下都賀郡岩舟町下岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/下都賀郡/岩舟町/下岡.json",
+    "name": "下岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県下都賀郡岩舟町"
+  }
+]

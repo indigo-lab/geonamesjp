@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市守山区大字中志段味字湿ケ",
+    "表記": "愛知県名古屋市守山区大字中志段味字湿ケ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "守山区",
+      "町名": "大字中志段味字湿ケ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376091"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/103614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/103614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/103615.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市守山区大字中志段味字湿ケ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/守山区/大字中志段味字湿ケ.json",
+    "name": "大字中志段味字湿ケ",
+    "alternateName": [
+      "大字中志段味字湿ヶ"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市守山区"
+  }
+]

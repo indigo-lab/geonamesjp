@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県伊予三島市紙屋町",
+    "表記": "愛媛県伊予三島市紙屋町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "紙屋町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337483",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337484",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337494"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228320/104729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228321/104729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228323/104727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228324/104727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228324/104726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228320/104728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228320/104727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228322/104726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228318/104727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228318/104726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228319/104726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228320/104726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228319/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228320/104724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228321/104723.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県伊予三島市紙屋町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/伊予三島市/紙屋町.json",
+    "name": "紙屋町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県伊予三島市"
+  }
+]

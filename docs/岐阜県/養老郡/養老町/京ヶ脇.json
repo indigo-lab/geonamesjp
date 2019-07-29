@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県養老郡養老町京ヶ脇",
+    "表記": "岐阜県養老郡養老町京ヶ脇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "養老郡",
+      "市区町村": "養老町",
+      "町名": "京ヶ脇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367433",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367434"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230503/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230502/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230504/103586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230505/103584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230506/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230506/103584.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県養老郡養老町京ヶ脇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/養老郡/養老町/京ヶ脇.json",
+    "name": "京ヶ脇",
+    "alternateName": [
+      "京ケ脇"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県養老郡養老町"
+  }
+]

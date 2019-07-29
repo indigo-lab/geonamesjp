@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市木田",
+    "表記": "新潟県上越市木田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "木田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市木田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/木田.json",
+    "name": "木田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市",
+    "children": [
+      "https://geonames.jp/resource/新潟県上越市木田（丁目なし）",
+      "https://geonames.jp/resource/新潟県上越市木田一丁目",
+      "https://geonames.jp/resource/新潟県上越市木田二丁目",
+      "https://geonames.jp/resource/新潟県上越市木田三丁目"
+    ]
+  }
+]

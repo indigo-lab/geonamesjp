@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市和田",
+    "表記": "千葉県成田市和田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "和田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122110760"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405256",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405266",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405267"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/103121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233256/103121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/103121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233256/103119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233254/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/103120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/103120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/103122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/103121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/103119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233256/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/103121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/103119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/103119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233260/103120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233255/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/103117.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市和田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/和田.json",
+    "name": "和田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県陸前高田市矢作町字越戸内",
+    "表記": "岩手県陸前高田市矢作町字越戸内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "陸前高田市",
+      "町名": "矢作町字越戸内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058414447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058414438"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234181/100154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234184/100155.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県陸前高田市矢作町字越戸内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/陸前高田市/矢作町字越戸内.json",
+    "name": "矢作町字越戸内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県陸前高田市"
+  }
+]

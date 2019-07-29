@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県前橋市三俣町二丁目",
+    "表記": "群馬県前橋市三俣町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "三俣町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S10201099002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394076",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394077"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232351/102580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232349/102580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232349/102581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232350/102580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232352/102580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232353/102580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232353/102581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232352/102581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232351/102581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232350/102581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232349/102582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232350/102582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232351/102582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232352/102582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232353/102582.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県前橋市三俣町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/前橋市/三俣町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/群馬県前橋市三俣町"
+  }
+]

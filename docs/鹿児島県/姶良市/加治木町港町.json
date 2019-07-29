@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良市加治木町港町",
+    "表記": "鹿児島県姶良市加治木町港町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "加治木町港町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304573",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304583",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304572"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/106684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226218/106682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/106682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226220/106682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/106683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226218/106683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226218/106685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226218/106684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/106685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226217/106685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/106687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226218/106686.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良市加治木町港町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/姶良市/加治木町港町.json",
+    "name": "加治木町港町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県姶良市"
+  }
+]

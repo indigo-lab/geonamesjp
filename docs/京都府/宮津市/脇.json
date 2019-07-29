@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府宮津市脇",
+    "表記": "京都府宮津市脇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "宮津市",
+      "町名": "脇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352129",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352139",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352230"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229550/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229552/103357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229554/103357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229553/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229555/103370.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府宮津市脇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/宮津市/脇.json",
+    "name": "脇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府宮津市"
+  }
+]

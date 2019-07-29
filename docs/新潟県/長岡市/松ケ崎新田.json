@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市松ケ崎新田",
+    "表記": "新潟県長岡市松ケ崎新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "長岡市",
+      "町名": "松ケ崎新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056382686",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056382676"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101512.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市松ケ崎新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/松ケ崎新田.json",
+    "name": "松ケ崎新田",
+    "alternateName": [
+      "松ヶ崎新田"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市"
+  }
+]

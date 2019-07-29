@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県今立郡今立町東庄境",
+    "表記": "福井県今立郡今立町東庄境",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "今立郡",
+      "市区町村": "今立町",
+      "町名": "東庄境"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367129",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367210",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367220"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/102994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230289/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230289/103000.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県今立郡今立町東庄境",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/今立郡/今立町/東庄境.json",
+    "name": "東庄境",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県今立郡今立町"
+  }
+]

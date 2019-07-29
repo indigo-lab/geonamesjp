@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市荻島",
+    "表記": "新潟県阿賀野市荻島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "阿賀野市",
+      "町名": "荻島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396139",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396129"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232463/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/101245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/101244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232463/101247.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市荻島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/阿賀野市/荻島.json",
+    "name": "荻島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県阿賀野市"
+  }
+]

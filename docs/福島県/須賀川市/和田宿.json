@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県須賀川市和田宿",
+    "表記": "福島県須賀川市和田宿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "須賀川市",
+      "町名": "和田宿"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407332"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/101779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/101779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/101780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/101781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/101781.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県須賀川市和田宿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/須賀川市/和田宿.json",
+    "name": "和田宿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県須賀川市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市藤岡飯野町五釜",
+    "表記": "愛知県豊田市藤岡飯野町五釜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "藤岡飯野町五釜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376126",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376136",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376137"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/103670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/103665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/103664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230987/103663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/103668.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市藤岡飯野町五釜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/藤岡飯野町五釜.json",
+    "name": "藤岡飯野町五釜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

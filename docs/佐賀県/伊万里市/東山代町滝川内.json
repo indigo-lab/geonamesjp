@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県伊万里市東山代町滝川内",
+    "表記": "佐賀県伊万里市東山代町滝川内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "伊万里市",
+      "町名": "東山代町滝川内",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S41205011013"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297625",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297634",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297635",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297613",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297615"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225598/105350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225600/105353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225598/105347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225598/105352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225597/105351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225596/105348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225598/105349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225597/105347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225593/105348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225595/105348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225596/105346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225588/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225603/105366.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県伊万里市東山代町滝川内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/伊万里市/東山代町滝川内.json",
+    "name": "東山代町滝川内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県伊万里市"
+  }
+]

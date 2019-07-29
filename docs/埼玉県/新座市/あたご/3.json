@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県新座市あたご三丁目",
+    "表記": "埼玉県新座市あたご三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "新座市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11230013003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395453",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395443"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232684/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232683/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232684/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232683/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232683/103127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232683/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232682/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232682/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232682/103127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232682/103128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232680/103127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232683/103129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/103128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232684/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232685/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/103127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232682/103124.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県新座市あたご三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/新座市/あたご/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県新座市あたご"
+  }
+]

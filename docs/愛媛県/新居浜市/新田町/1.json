@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市新田町一丁目",
+    "表記": "愛媛県新居浜市新田町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "新田町",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38205046001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337240",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337241",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337250",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337251"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228114/104752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228113/104752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228112/104753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228113/104753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228112/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228112/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228113/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228111/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228110/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228111/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228111/104753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228110/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228114/104753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228112/104756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228109/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228110/104756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228111/104756.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市新田町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/新居浜市/新田町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛媛県新居浜市新田町"
+  }
+]

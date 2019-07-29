@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県海部郡弥富町鯏浦",
+    "表記": "愛知県海部郡弥富町鯏浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "海部郡",
+      "市区町村": "弥富町",
+      "町名": "鯏浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365538",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365539",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365547",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230643/103732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230644/103733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/103731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230631/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/103730.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県海部郡弥富町鯏浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/海部郡/弥富町/鯏浦.json",
+    "name": "鯏浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県海部郡弥富町"
+  }
+]

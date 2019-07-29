@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県磐田市長森",
+    "表記": "静岡県磐田市長森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "磐田市",
+      "町名": "長森",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222112090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370665",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370664",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370675"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231424/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231425/104078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231424/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231424/104078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231425/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231425/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231424/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231425/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231425/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231424/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231423/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231423/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231423/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231422/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231422/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231424/104083.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県磐田市長森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/磐田市/長森.json",
+    "name": "長森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県磐田市"
+  }
+]

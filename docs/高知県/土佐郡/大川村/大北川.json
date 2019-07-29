@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県土佐郡大川村大北川",
+    "表記": "高知県土佐郡大川村大北川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "土佐郡",
+      "市区町村": "大川村",
+      "町名": "大北川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S393640040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335375",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335384"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228241/104882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228234/104878.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県土佐郡大川村大北川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/土佐郡/大川村/大北川.json",
+    "name": "大北川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県土佐郡大川村"
+  }
+]

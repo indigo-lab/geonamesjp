@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県佐伯市王子丸",
+    "表記": "大分県佐伯市王子丸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "佐伯市",
+      "町名": "王子丸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313760",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313669",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313761",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313771"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227102/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227106/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227107/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227105/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227107/105615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227106/105616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227109/105612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227104/105616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227105/105616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227106/105615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227104/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227108/105618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227111/105615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227100/105618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227108/105615.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県佐伯市王子丸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/佐伯市/王子丸.json",
+    "name": "王子丸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県佐伯市"
+  }
+]

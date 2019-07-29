@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県鹿角市花輪字鎌倉平",
+    "表記": "秋田県鹿角市花輪字鎌倉平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "鹿角市",
+      "町名": "花輪字鎌倉平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402662",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402672"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233588/99029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233588/99028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233587/99031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233587/99027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233587/99030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233589/99029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233589/99031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233587/99028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233588/99030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233587/99029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233586/99030.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県鹿角市花輪字鎌倉平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/鹿角市/花輪字鎌倉平.json",
+    "name": "花輪字鎌倉平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県鹿角市"
+  }
+]

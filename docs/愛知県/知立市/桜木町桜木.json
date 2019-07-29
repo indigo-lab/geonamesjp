@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知立市桜木町桜木",
+    "表記": "愛知県知立市桜木町桜木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "知立市",
+      "町名": "桜木町桜木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374013"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/103824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103824.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知立市桜木町桜木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知立市/桜木町桜木.json",
+    "name": "桜木町桜木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知立市"
+  }
+]

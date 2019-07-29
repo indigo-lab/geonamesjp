@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市原市岩",
+    "表記": "千葉県市原市岩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "市原市",
+      "町名": "岩",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122192130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400140",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400141"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/103495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/103495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/103496.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市原市岩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市原市/岩.json",
+    "name": "岩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県市原市"
+  }
+]

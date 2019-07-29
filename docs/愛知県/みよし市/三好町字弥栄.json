@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県みよし市三好町字弥栄",
+    "表記": "愛知県みよし市三好町字弥栄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "みよし市",
+      "町名": "三好町字弥栄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374096",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375006"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230893/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230893/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230892/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230892/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230892/103759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230893/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230893/103759.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県みよし市三好町字弥栄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/みよし市/三好町字弥栄.json",
+    "name": "三好町字弥栄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県みよし市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道紋別郡雄武町雄武東浜町",
+    "表記": "北海道紋別郡雄武町雄武東浜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "紋別郡",
+      "市区町村": "雄武町",
+      "町名": "雄武東浜町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2066426787",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066426788",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066426797"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235183/94738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235181/94735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235180/94735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235180/94733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235179/94732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235178/94731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235180/94734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235179/94733.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道紋別郡雄武町雄武東浜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/紋別郡/雄武町/雄武東浜町.json",
+    "name": "雄武東浜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道紋別郡雄武町"
+  }
+]

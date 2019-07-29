@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県酒田市浜中字村東",
+    "表記": "山形県酒田市浜中字村東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "酒田市",
+      "町名": "浜中字村東"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391683",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391692",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391693",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391673",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391682"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232863/100351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232861/100348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232862/100347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232861/100355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232867/100349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232865/100347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232867/100347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232866/100355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232867/100358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232863/100345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232866/100345.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県酒田市浜中字村東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/酒田市/浜中字村東.json",
+    "name": "浜中字村東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県酒田市"
+  }
+]

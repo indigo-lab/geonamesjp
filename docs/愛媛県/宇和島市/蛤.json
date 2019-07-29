@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市蛤",
+    "表記": "愛媛県宇和島市蛤",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "宇和島市",
+      "町名": "蛤",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38203053104",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38203053103",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382030531"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049326462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049326472"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227579/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227579/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227578/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227578/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227578/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227579/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227574/105389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227573/105389.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市蛤",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/宇和島市/蛤.json",
+    "name": "蛤",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県宇和島市"
+  }
+]

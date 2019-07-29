@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県糸島市大字香力",
+    "表記": "福岡県糸島市大字香力",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "糸島市",
+      "町名": "大字香力"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302137",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302127",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302146",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302147"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225894/105127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225891/105135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225895/105129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225894/105130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225894/105129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225895/105128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225891/105128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225895/105126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225894/105126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225893/105125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225892/105123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225889/105126.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県糸島市大字香力",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/糸島市/大字香力.json",
+    "name": "大字香力",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県糸島市"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県朝倉市甘水",
+    "表記": "福岡県朝倉市甘水",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "朝倉市",
+      "町名": "甘水",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402280100"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301553",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301573",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301593",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301594",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301583",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301543"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226224/105191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226225/105191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226224/105188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226221/105174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226220/105189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226217/105174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226223/105162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226226/105162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226225/105170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226220/105176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226221/105173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226223/105189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226224/105192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226225/105193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226225/105190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226226/105192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226225/105189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226226/105190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226226/105191.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県朝倉市甘水",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/朝倉市/甘水.json",
+    "name": "甘水",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県朝倉市"
+  }
+]

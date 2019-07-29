@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市平田町",
+    "表記": "宮崎県延岡市平田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "平田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S452031230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048316488",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048316498",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048317408",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048317418"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226904/105959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226906/105957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/105958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/105955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226904/105955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/105954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/105953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226905/105958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226905/105957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/105957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/105956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226904/105957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/105948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226904/105954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/105947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/105955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/105956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/105947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226906/105959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/105943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/105954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/105952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226905/105959.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市平田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/延岡市/平田町.json",
+    "name": "平田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県延岡市"
+  }
+]

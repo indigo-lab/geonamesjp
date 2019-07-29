@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県常滑市千代ヶ丘",
+    "表記": "愛知県常滑市千代ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "常滑市",
+      "町名": "千代ヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県常滑市千代ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/常滑市/千代ヶ丘.json",
+    "name": "千代ヶ丘",
+    "alternateName": [
+      "千代ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県常滑市",
+    "children": [
+      "https://geonames.jp/resource/愛知県常滑市千代ヶ丘二丁目",
+      "https://geonames.jp/resource/愛知県常滑市千代ヶ丘五丁目"
+    ]
+  }
+]

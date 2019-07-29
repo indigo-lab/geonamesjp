@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県吾妻郡東吾妻町大字須賀尾",
+    "表記": "群馬県吾妻郡東吾妻町大字須賀尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "吾妻郡",
+      "市区町村": "東吾妻町",
+      "町名": "大字須賀尾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054386504",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054385582"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232059/102483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232038/102499.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県吾妻郡東吾妻町大字須賀尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/吾妻郡/東吾妻町/大字須賀尾.json",
+    "name": "大字須賀尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県吾妻郡東吾妻町"
+  }
+]

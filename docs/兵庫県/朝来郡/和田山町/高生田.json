@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県朝来郡和田山町高生田",
+    "表記": "兵庫県朝来郡和田山町高生田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "朝来郡",
+      "市区町村": "和田山町",
+      "町名": "高生田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340637",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340638",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340639",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340648"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229269/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229268/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229269/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229270/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229272/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229272/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229272/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229273/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229273/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229273/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229274/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229274/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229265/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229266/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229266/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229267/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229267/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229270/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229271/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229276/103508.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県朝来郡和田山町高生田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/朝来郡/和田山町/高生田.json",
+    "name": "高生田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県朝来郡和田山町"
+  }
+]

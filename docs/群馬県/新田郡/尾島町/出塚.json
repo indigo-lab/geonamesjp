@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県新田郡尾島町出塚",
+    "表記": "群馬県新田郡尾島町出塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "新田郡",
+      "市区町村": "尾島町",
+      "町名": "出塚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393203",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393213"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232501/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232501/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/102706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/102705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232501/102706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232501/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232501/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/102700.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県新田郡尾島町出塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/新田郡/尾島町/出塚.json",
+    "name": "出塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県新田郡尾島町"
+  }
+]

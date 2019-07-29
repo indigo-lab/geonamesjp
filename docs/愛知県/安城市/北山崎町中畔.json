@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県安城市北山崎町中畔",
+    "表記": "愛知県安城市北山崎町中畔",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "安城市",
+      "町名": "北山崎町中畔"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373058",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373068"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230909/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230910/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230911/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230911/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230910/103865.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県安城市北山崎町中畔",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/安城市/北山崎町中畔.json",
+    "name": "北山崎町中畔",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県安城市"
+  }
+]

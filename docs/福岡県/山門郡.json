@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県山門郡",
+    "表記": "福岡県山門郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "山門郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C40560-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C40560-20070129"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県山門郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/山門郡.json",
+    "name": "山門郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県",
+    "children": [
+      "https://geonames.jp/resource/福岡県山門郡瀬高町",
+      "https://geonames.jp/resource/福岡県山門郡大和町",
+      "https://geonames.jp/resource/福岡県山門郡山川町",
+      "https://geonames.jp/resource/福岡県山門郡三橋町",
+      "https://geonames.jp/resource/福岡県山門郡三橋村",
+      "https://geonames.jp/resource/福岡県山門郡両開村",
+      "https://geonames.jp/resource/福岡県山門郡城内村",
+      "https://geonames.jp/resource/福岡県山門郡大和村",
+      "https://geonames.jp/resource/福岡県山門郡山川村",
+      "https://geonames.jp/resource/福岡県山門郡東宮永村",
+      "https://geonames.jp/resource/福岡県山門郡東山村",
+      "https://geonames.jp/resource/福岡県山門郡柳河町",
+      "https://geonames.jp/resource/福岡県山門郡沖端村",
+      "https://geonames.jp/resource/福岡県山門郡西宮永村"
+    ]
+  }
+]

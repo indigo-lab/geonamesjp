@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県三原市糸崎南",
+    "表記": "広島県三原市糸崎南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "三原市",
+      "町名": "糸崎南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342040870"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県三原市糸崎南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/三原市/糸崎南.json",
+    "name": "糸崎南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県三原市",
+    "children": [
+      "https://geonames.jp/resource/広島県三原市糸崎南一丁目",
+      "https://geonames.jp/resource/広島県三原市糸崎南二丁目"
+    ]
+  }
+]

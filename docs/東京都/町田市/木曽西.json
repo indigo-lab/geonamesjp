@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都町田市木曽西",
+    "表記": "東京都町田市木曽西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "町田市",
+      "町名": "木曽西"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都町田市木曽西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/町田市/木曽西.json",
+    "name": "木曽西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都町田市",
+    "children": [
+      "https://geonames.jp/resource/東京都町田市木曽西（丁目なし）",
+      "https://geonames.jp/resource/東京都町田市木曽西一丁目",
+      "https://geonames.jp/resource/東京都町田市木曽西二丁目",
+      "https://geonames.jp/resource/東京都町田市木曽西三丁目",
+      "https://geonames.jp/resource/東京都町田市木曽西四丁目",
+      "https://geonames.jp/resource/東京都町田市木曽西五丁目"
+    ]
+  }
+]

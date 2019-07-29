@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県恵那郡明智町",
+    "表記": "岐阜県恵那郡明智町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "恵那郡",
+      "市区町村": "明智町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C21569-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C21569-20041025"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県恵那郡明智町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/恵那郡/明智町.json",
+    "name": "明智町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県恵那郡"
+  }
+]

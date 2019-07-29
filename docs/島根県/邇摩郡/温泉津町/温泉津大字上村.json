@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県邇摩郡温泉津町温泉津大字上村",
+    "表記": "島根県邇摩郡温泉津町温泉津大字上村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "邇摩郡",
+      "市区町村": "温泉津町",
+      "町名": "温泉津大字上村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052324288",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052324298"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227450/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227453/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227449/103770.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県邇摩郡温泉津町温泉津大字上村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/邇摩郡/温泉津町/温泉津大字上村.json",
+    "name": "温泉津大字上村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県邇摩郡温泉津町"
+  }
+]

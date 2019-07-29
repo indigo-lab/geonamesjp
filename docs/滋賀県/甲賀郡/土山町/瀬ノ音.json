@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡土山町瀬ノ音",
+    "表記": "滋賀県甲賀郡土山町瀬ノ音",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "甲賀郡",
+      "市区町村": "土山町",
+      "町名": "瀬ノ音"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363242",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363243",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363251",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363252"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230306/103873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230305/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230317/103873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230304/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230304/103866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230307/103872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230309/103873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230305/103866.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡土山町瀬ノ音",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀郡/土山町/瀬ノ音.json",
+    "name": "瀬ノ音",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀郡土山町"
+  }
+]

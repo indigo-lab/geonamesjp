@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市如法寺",
+    "表記": "新潟県三条市如法寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三条市",
+      "町名": "如法寺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152040770"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383727",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383728"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232270/101482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232267/101478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232270/101484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232269/101483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101484.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市如法寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/如法寺.json",
+    "name": "如法寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市"
+  }
+]

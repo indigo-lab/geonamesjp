@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県大津市坂本",
+    "表記": "滋賀県大津市坂本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "大津市",
+      "町名": "坂本",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252010720"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県大津市坂本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/大津市/坂本.json",
+    "name": "坂本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県大津市",
+    "children": [
+      "https://geonames.jp/resource/滋賀県大津市坂本一丁目",
+      "https://geonames.jp/resource/滋賀県大津市坂本二丁目",
+      "https://geonames.jp/resource/滋賀県大津市坂本三丁目",
+      "https://geonames.jp/resource/滋賀県大津市坂本四丁目",
+      "https://geonames.jp/resource/滋賀県大津市坂本五丁目",
+      "https://geonames.jp/resource/滋賀県大津市坂本六丁目",
+      "https://geonames.jp/resource/滋賀県大津市坂本七丁目",
+      "https://geonames.jp/resource/滋賀県大津市坂本八丁目"
+    ]
+  }
+]

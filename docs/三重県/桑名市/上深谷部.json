@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名市上深谷部",
+    "表記": "三重県桑名市上深谷部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "桑名市",
+      "町名": "上深谷部"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365532",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365522",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365521"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230582/103733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230583/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230585/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230584/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230581/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230585/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230582/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230582/103734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230583/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230582/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230583/103736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230583/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230582/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230582/103742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103741.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名市上深谷部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名市/上深谷部.json",
+    "name": "上深谷部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名市"
+  }
+]

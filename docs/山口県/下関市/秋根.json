@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下関市秋根",
+    "表記": "山口県下関市秋根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "下関市",
+      "町名": "秋根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300706",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300717"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226433/104708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226430/104710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226431/104709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226434/104710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226431/104711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226431/104710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226432/104711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/104707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226437/104706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226431/104707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226431/104708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226438/104706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/104708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226437/104707.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下関市秋根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下関市/秋根.json",
+    "name": "秋根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下関市"
+  }
+]

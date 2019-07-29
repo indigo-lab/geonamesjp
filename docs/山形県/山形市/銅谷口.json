@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市銅谷口",
+    "表記": "山形県山形市銅谷口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "銅谷口"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403254",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403264"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/100839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/100840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/100841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/100842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233240/100837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/100838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233240/100838.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市銅谷口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/銅谷口.json",
+    "name": "銅谷口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

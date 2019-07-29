@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町河井",
+    "表記": "新潟県西蒲原郡巻町河井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "巻町",
+      "町名": "河井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384792",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385702"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/101346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232218/101343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232219/101344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232220/101345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/101345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/101347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/101348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101345.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町河井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/巻町/河井.json",
+    "name": "河井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡巻町"
+  }
+]

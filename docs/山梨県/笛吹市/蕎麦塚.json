@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県笛吹市蕎麦塚",
+    "表記": "山梨県笛吹市蕎麦塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "笛吹市",
+      "町名": "蕎麦塚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383533",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383542",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383543"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232044/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232045/103284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232044/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232046/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232046/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232045/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232044/103280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232044/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232045/103280.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県笛吹市蕎麦塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/笛吹市/蕎麦塚.json",
+    "name": "蕎麦塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県笛吹市"
+  }
+]

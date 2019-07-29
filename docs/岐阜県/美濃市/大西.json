@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市大西",
+    "表記": "岐阜県美濃市大西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "美濃市",
+      "町名": "大西"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362790",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053363609",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053363700"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230743/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230744/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230744/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230745/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230743/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230747/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/103311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/103312.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市大西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/美濃市/大西.json",
+    "name": "大西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県美濃市"
+  }
+]

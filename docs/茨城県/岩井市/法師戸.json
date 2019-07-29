@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県岩井市法師戸",
+    "表記": "茨城県岩井市法師戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "岩井市",
+      "町名": "法師戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397763",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397783",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397773"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232957/102948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232957/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232956/102949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232956/102950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232955/102949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232955/102950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232954/102949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232959/102965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232958/102955.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県岩井市法師戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/岩井市/法師戸.json",
+    "name": "法師戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県岩井市"
+  }
+]

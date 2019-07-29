@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区大字名子",
+    "表記": "福岡県福岡市東区大字名子",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "東区",
+      "町名": "大字名子",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401310220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303377",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303378"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/105025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226080/105025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105039.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区大字名子",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/東区/大字名子.json",
+    "name": "大字名子",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市東区"
+  }
+]

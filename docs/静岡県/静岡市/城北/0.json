@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市城北（丁目なし）",
+    "表記": "静岡県静岡市城北（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "町名": "（丁目なし）"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383391",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384301"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231848/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231849/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231849/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231849/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231848/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231850/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/103831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231849/103831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231848/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231848/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231851/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231849/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231848/103828.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市城北（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/城北/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市城北"
+  }
+]

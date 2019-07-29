@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県米沢市八幡原（丁目なし）",
+    "表記": "山形県米沢市八幡原（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "米沢市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062021200",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062020540",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062021170",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062021180",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062021190"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県米沢市八幡原（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/米沢市/八幡原/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県米沢市八幡原"
+  }
+]

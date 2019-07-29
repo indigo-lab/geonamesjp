@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県恵那市長島町字中野",
+    "表記": "岐阜県恵那市長島町字中野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "恵那市",
+      "町名": "長島町字中野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053371332",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053371341",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053371342"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231128/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231128/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231127/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231128/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231118/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231130/103436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231130/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231132/103436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231129/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231131/103436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231132/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231131/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231130/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231129/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/103432.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県恵那市長島町字中野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/恵那市/長島町字中野.json",
+    "name": "長島町字中野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県恵那市"
+  }
+]

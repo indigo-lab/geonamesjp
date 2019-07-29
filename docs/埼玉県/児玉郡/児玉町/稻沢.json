@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県児玉郡児玉町稻沢",
+    "表記": "埼玉県児玉郡児玉町稻沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "児玉郡",
+      "市区町村": "児玉町",
+      "町名": "稻沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391097",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391096"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232353/102790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232358/102790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232350/102790.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県児玉郡児玉町稻沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/児玉郡/児玉町/稻沢.json",
+    "name": "稻沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県児玉郡児玉町"
+  }
+]

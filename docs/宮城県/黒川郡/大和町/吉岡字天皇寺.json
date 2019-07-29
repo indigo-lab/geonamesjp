@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県黒川郡大和町吉岡字天皇寺",
+    "表記": "宮城県黒川郡大和町吉岡字天皇寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "黒川郡",
+      "市区町村": "大和町",
+      "町名": "吉岡字天皇寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405730",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405731"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233661/100705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233661/100706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/100706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/100706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/100707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233661/100708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100707.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県黒川郡大和町吉岡字天皇寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/黒川郡/大和町/吉岡字天皇寺.json",
+    "name": "吉岡字天皇寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県黒川郡大和町"
+  }
+]

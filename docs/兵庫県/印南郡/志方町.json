@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県印南郡志方町",
+    "表記": "兵庫県印南郡志方町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "印南郡",
+      "市区町村": "志方町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C28401-19790201",
+        "http://data.e-stat.go.jp/lod/sac/C28401-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県印南郡志方町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/印南郡/志方町.json",
+    "name": "志方町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県印南郡"
+  }
+]

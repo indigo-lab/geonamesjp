@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市居多",
+    "表記": "新潟県上越市居多",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "居多"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385196",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386107",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386106"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231713/101883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231714/101883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231716/101880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231716/101881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231715/101883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231716/101882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231714/101882.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市居多",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/居多.json",
+    "name": "居多",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

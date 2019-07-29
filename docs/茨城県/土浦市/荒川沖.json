@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県土浦市荒川沖",
+    "表記": "茨城県土浦市荒川沖",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "土浦市",
+      "町名": "荒川沖"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400132",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400112",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400122",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400142"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233130/102923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/102920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233128/102920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/102918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233130/102916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/102921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/102922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102922.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県土浦市荒川沖",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/土浦市/荒川沖.json",
+    "name": "荒川沖",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県土浦市"
+  }
+]

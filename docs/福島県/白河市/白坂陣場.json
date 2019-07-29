@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市白坂陣場",
+    "表記": "福島県白河市白坂陣場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "白坂陣場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405105"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/101954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233144/101954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233152/101954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233149/101951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/101956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233149/101953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233155/101958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233151/101954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233152/101953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/101957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233150/101958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233149/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233150/101955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233146/101954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233152/101952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233154/101957.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市白坂陣場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/白坂陣場.json",
+    "name": "白坂陣場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

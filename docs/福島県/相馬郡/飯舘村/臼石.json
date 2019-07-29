@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡飯舘村臼石",
+    "表記": "福島県相馬郡飯舘村臼石",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "飯舘村",
+      "町名": "臼石"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404535"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/101394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/101396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/101399.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡飯舘村臼石",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/飯舘村/臼石.json",
+    "name": "臼石",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡飯舘村"
+  }
+]

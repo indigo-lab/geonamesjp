@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県三次市甲奴町抜湯",
+    "表記": "広島県三次市甲奴町抜湯",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "三次市",
+      "町名": "甲奴町抜湯",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342091050"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052331005"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227974/104054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227973/104055.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県三次市甲奴町抜湯",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/三次市/甲奴町抜湯.json",
+    "name": "甲奴町抜湯",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県三次市"
+  }
+]

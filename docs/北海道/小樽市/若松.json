@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道小樽市若松",
+    "表記": "北海道小樽市若松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "小樽市",
+      "町名": "若松",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012030150"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道小樽市若松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/小樽市/若松.json",
+    "name": "若松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道小樽市",
+    "children": [
+      "https://geonames.jp/resource/北海道小樽市若松一丁目",
+      "https://geonames.jp/resource/北海道小樽市若松二丁目"
+    ]
+  }
+]

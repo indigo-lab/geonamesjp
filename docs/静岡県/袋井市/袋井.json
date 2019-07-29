@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県袋井市袋井",
+    "表記": "静岡県袋井市袋井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "袋井市",
+      "町名": "袋井",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222160040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370794"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231503/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231503/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231502/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231501/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231502/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231503/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231502/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231506/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231506/104058.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県袋井市袋井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/袋井市/袋井.json",
+    "name": "袋井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県袋井市"
+  }
+]

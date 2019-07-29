@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県うるま市石川楚南",
+    "表記": "沖縄県うるま市石川楚南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "うるま市",
+      "町名": "石川楚南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S472130370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039274685",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039274674",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039274695",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039274684",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039274675"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224143/111127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224147/111123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224136/111131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224147/111121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224143/111124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224142/111128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224137/111128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224136/111136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224139/111127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224141/111126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224143/111125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224146/111129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224146/111126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224148/111125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224147/111128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224148/111127.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県うるま市石川楚南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/うるま市/石川楚南.json",
+    "name": "石川楚南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県うるま市"
+  }
+]

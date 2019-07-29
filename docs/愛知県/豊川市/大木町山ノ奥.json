@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊川市大木町山ノ奥",
+    "表記": "愛知県豊川市大木町山ノ奥",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊川市",
+      "町名": "大木町山ノ奥"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372330",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372331",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372320"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231115/103963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231115/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231114/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231114/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231113/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231115/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231111/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231113/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231113/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231115/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231115/103967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231114/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231117/103967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231116/103957.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊川市大木町山ノ奥",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊川市/大木町山ノ奥.json",
+    "name": "大木町山ノ奥",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊川市"
+  }
+]

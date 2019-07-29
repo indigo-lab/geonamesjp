@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県いなべ市本郷",
+    "表記": "三重県いなべ市本郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "いなべ市",
+      "町名": "本郷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242140740",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242140770"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県いなべ市本郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/いなべ市/本郷.json",
+    "name": "本郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県いなべ市"
+  }
+]

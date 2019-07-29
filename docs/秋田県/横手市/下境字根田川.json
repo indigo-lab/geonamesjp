@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県横手市下境字根田川",
+    "表記": "秋田県横手市下境字根田川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "横手市",
+      "町名": "下境字根田川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400410",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400400"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/99864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/99862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/99863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/99865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/99865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233386/99866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/99863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233387/99868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/99863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/99862.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県横手市下境字根田川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/横手市/下境字根田川.json",
+    "name": "下境字根田川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県横手市"
+  }
+]

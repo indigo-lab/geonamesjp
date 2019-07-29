@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県安芸郡音戸町波多見十一丁目",
+    "表記": "広島県安芸郡音戸町波多見十一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "安芸郡",
+      "市区町村": "音戸町",
+      "町名": "十一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051322403",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051321493"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227585/104568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227586/104568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227585/104569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227583/104571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227583/104570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227583/104569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104572.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県安芸郡音戸町波多見十一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/安芸郡/音戸町/波多見/11.json",
+    "name": "十一丁目",
+    "alternateName": [
+      "11",
+      "11丁目",
+      "１１",
+      "１１丁目",
+      "十一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県安芸郡音戸町波多見"
+  }
+]

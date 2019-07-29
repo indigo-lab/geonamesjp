@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県気高郡青谷町亀尻",
+    "表記": "鳥取県気高郡青谷町亀尻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "気高郡",
+      "市区町村": "青谷町",
+      "町名": "亀尻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053332708",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053332709"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228640/103383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228637/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228637/103386.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県気高郡青谷町亀尻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/気高郡/青谷町/亀尻.json",
+    "name": "亀尻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県気高郡青谷町"
+  }
+]

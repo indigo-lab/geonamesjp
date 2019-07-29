@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県南秋田郡五城目町野田",
+    "表記": "秋田県南秋田郡五城目町野田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "南秋田郡",
+      "市区町村": "五城目町",
+      "町名": "野田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S053610100"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059407037",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059407038",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059407047",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059407048"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233092/99289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233086/99290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233088/99287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/99291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/99289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/99288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233086/99293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233089/99289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233088/99289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233089/99291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233088/99288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233087/99291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/99290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/99289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233086/99291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233088/99290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/99289.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県南秋田郡五城目町野田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/南秋田郡/五城目町/野田.json",
+    "name": "野田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県南秋田郡五城目町"
+  }
+]

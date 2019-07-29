@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県氷上郡市島町",
+    "表記": "兵庫県氷上郡市島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "氷上郡",
+      "市区町村": "市島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C28646-19741201",
+        "http://data.e-stat.go.jp/lod/sac/C28646-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C28646-20041101",
+        "http://data.e-stat.go.jp/lod/sac/C28646-19860201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県氷上郡市島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/氷上郡/市島町.json",
+    "name": "市島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県氷上郡"
+  }
+]

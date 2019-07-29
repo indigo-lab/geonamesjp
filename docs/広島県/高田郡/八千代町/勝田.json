@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県高田郡八千代町勝田",
+    "表記": "広島県高田郡八千代町勝田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "高田郡",
+      "市区町村": "八千代町",
+      "町名": "勝田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051327439",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051327459",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051327469",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051327560"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227637/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227647/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227643/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227649/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227647/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227643/104160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227646/104176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227644/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227644/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227641/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227640/104164.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県高田郡八千代町勝田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/高田郡/八千代町/勝田.json",
+    "name": "勝田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県高田郡八千代町"
+  }
+]

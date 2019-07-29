@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区曽根新田",
+    "表記": "福岡県北九州市小倉南区曽根新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "小倉南区",
+      "町名": "曽根新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306707",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305786"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226441/104861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/104885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226435/104885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226433/104874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/104881.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区曽根新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/小倉南区/曽根新田.json",
+    "name": "曽根新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市小倉南区"
+  }
+]

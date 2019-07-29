@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県清須市春日夢の森",
+    "表記": "愛知県清須市春日夢の森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "清須市",
+      "町名": "春日夢の森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366687"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/103625.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県清須市春日夢の森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/清須市/春日夢の森.json",
+    "name": "春日夢の森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県清須市"
+  }
+]

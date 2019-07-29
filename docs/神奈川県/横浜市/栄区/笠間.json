@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市栄区笠間",
+    "表記": "神奈川県横浜市栄区笠間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "栄区",
+      "町名": "笠間"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市栄区笠間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/栄区/笠間.json",
+    "name": "笠間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市栄区",
+    "children": [
+      "https://geonames.jp/resource/神奈川県横浜市栄区笠間一丁目",
+      "https://geonames.jp/resource/神奈川県横浜市栄区笠間二丁目",
+      "https://geonames.jp/resource/神奈川県横浜市栄区笠間三丁目",
+      "https://geonames.jp/resource/神奈川県横浜市栄区笠間四丁目",
+      "https://geonames.jp/resource/神奈川県横浜市栄区笠間五丁目"
+    ]
+  }
+]

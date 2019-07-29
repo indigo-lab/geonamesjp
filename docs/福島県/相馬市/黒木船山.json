@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬市黒木船山",
+    "表記": "福島県相馬市黒木船山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "相馬市",
+      "町名": "黒木船山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405760",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405761"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233659/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/101295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/101297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/101295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/101296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/101295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233667/101293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/101293.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬市黒木船山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬市/黒木船山.json",
+    "name": "黒木船山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬市"
+  }
+]

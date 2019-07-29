@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市馬瀬町",
+    "表記": "岐阜県大垣市馬瀬町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "馬瀬町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360501"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230572/103532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230569/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230568/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230566/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230568/103533.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市馬瀬町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/大垣市/馬瀬町.json",
+    "name": "馬瀬町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県大垣市"
+  }
+]

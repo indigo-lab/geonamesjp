@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市四ツ屋",
+    "表記": "新潟県糸魚川市四ツ屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "糸魚川市",
+      "町名": "四ツ屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374724",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374734",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374743",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374744"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/102006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231507/102007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/102013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/102012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/102013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/102012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231502/102001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/102005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/102007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231507/102008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231506/102007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/102003.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市四ツ屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/糸魚川市/四ツ屋.json",
+    "name": "四ツ屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県糸魚川市"
+  }
+]

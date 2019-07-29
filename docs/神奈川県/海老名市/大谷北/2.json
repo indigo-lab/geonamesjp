@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県海老名市大谷北二丁目",
+    "表記": "神奈川県海老名市大谷北二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "海老名市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14215002202"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391331",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391332"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/103438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/103438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/103438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/103439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/103439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/103439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/103439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/103438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/103437.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県海老名市大谷北二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/海老名市/大谷北/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県海老名市大谷北"
+  }
+]

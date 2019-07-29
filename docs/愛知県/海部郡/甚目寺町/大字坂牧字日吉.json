@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県海部郡甚目寺町大字坂牧字日吉",
+    "表記": "愛知県海部郡甚目寺町大字坂牧字日吉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "海部郡",
+      "市区町村": "甚目寺町",
+      "町名": "大字坂牧字日吉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366615",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366616"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230705/103671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230704/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230705/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230704/103673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230705/103673.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県海部郡甚目寺町大字坂牧字日吉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/海部郡/甚目寺町/大字坂牧字日吉.json",
+    "name": "大字坂牧字日吉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県海部郡甚目寺町"
+  }
+]

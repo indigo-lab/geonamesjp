@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市春日",
+    "表記": "富山県富山市春日",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "春日",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162016490"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376176"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230978/102429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230978/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/102429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/102429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/102433.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市春日",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/春日.json",
+    "name": "春日",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字中浜",
+    "表記": "新潟県糸魚川市大字中浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "糸魚川市",
+      "町名": "大字中浜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374775",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374784",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374773",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374774"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231515/101978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/101973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/101969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/101969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/101971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/101972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231507/101971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231517/101979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/101972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231506/101972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/101974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231502/101975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231506/101973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/101971.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字中浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/糸魚川市/大字中浜.json",
+    "name": "大字中浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県糸魚川市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町山上",
+    "表記": "鳥取県八頭郡河原町山上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "八頭郡",
+      "市区町村": "河原町",
+      "町名": "山上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340133"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228766/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228767/103510.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町山上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/八頭郡/河原町/山上.json",
+    "name": "山上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県八頭郡河原町"
+  }
+]

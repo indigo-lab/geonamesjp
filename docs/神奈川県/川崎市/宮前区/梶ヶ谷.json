@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市宮前区梶ヶ谷",
+    "表記": "神奈川県川崎市宮前区梶ヶ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "川崎市",
+      "区": "宮前区",
+      "町名": "梶ヶ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392498",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393408"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232728/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232727/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232727/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232727/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232730/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232730/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232729/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232730/103318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232731/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232728/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232727/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232727/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232728/103316.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市宮前区梶ヶ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/川崎市/宮前区/梶ヶ谷.json",
+    "name": "梶ヶ谷",
+    "alternateName": [
+      "梶ケ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県川崎市宮前区"
+  }
+]

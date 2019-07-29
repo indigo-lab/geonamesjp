@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県登米市迫町佐沼字光ケ丘",
+    "表記": "宮城県登米市迫町佐沼字光ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "登米市",
+      "町名": "迫町佐沼字光ケ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410126"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/100480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233891/100479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233892/100480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233893/100481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/100481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/100482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233893/100480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233892/100479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233893/100478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233893/100479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/100479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/100478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/100477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233895/100478.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県登米市迫町佐沼字光ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/登米市/迫町佐沼字光ケ丘.json",
+    "name": "迫町佐沼字光ケ丘",
+    "alternateName": [
+      "迫町佐沼字光ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県登米市"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町貝山柳作",
+    "表記": "福島県田村郡三春町貝山柳作",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "田村郡",
+      "市区町村": "三春町",
+      "町名": "貝山柳作"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401309",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401308"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/101646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/101646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/101647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/101647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/101647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/101648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233374/101647.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町貝山柳作",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村郡/三春町/貝山柳作.json",
+    "name": "貝山柳作",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県田村郡三春町"
+  }
+]

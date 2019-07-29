@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道札幌市東区北十六条東十西丁目",
+    "表記": "北海道札幌市東区北十六条東十西丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "札幌市",
+      "区": "東区",
+      "町名": "北十六条東十西丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414299",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415209"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234015/96241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234016/96241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234015/96242.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道札幌市東区北十六条東十西丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/札幌市/東区/北十六条東十西丁目.json",
+    "name": "北十六条東十西丁目",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道札幌市東区"
+  }
+]

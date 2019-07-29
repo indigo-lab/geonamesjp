@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県座間市座間入谷",
+    "表記": "神奈川県座間市座間入谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "座間市",
+      "町名": "座間入谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391380",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391289"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/103398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/103400.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県座間市座間入谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/座間市/座間入谷.json",
+    "name": "座間入谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県座間市"
+  }
+]

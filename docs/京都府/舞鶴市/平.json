@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市平",
+    "表記": "京都府舞鶴市平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352301",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352310",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352311",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352312",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352320",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352321"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229662/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229661/103370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229664/103379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229657/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229658/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229658/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229659/103371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229660/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229660/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229660/103371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229662/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229663/103370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229663/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229664/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229667/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229669/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229656/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229656/103374.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/平.json",
+    "name": "平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

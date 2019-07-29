@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県相模原市中央区南橋本三丁目",
+    "表記": "神奈川県相模原市中央区南橋本三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "相模原市",
+      "区": "中央区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14152021003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392297",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392298",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393207"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232543/103318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232544/103319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232542/103318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232544/103318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232543/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232544/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232543/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232542/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232541/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232541/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232540/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232542/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232544/103320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232542/103319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232541/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232540/103313.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県相模原市中央区南橋本三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/相模原市/中央区/南橋本/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県相模原市中央区南橋本"
+  }
+]

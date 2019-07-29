@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県五條市上之町",
+    "表記": "奈良県五條市上之町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "上之町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292070370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354543",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354544",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354553",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354554"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229872/104388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229871/104387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229869/104388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229870/104385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229871/104386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229868/104383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229865/104387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229866/104392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229867/104385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229872/104387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229863/104388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229866/104384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229863/104389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229865/104386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229866/104393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229872/104386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229872/104389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229872/104391.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県五條市上之町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/五條市/上之町.json",
+    "name": "上之町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県五條市"
+  }
+]

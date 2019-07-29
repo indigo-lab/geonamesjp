@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県御所市大字伏見",
+    "表記": "奈良県御所市大字伏見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "御所市",
+      "町名": "大字伏見",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292080510"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354596",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354595",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354594"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229888/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/104352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229879/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/104353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229887/104353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/104352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229875/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229883/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229888/104352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/104353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/104352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/104351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229885/104352.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県御所市大字伏見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/御所市/大字伏見.json",
+    "name": "大字伏見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県御所市"
+  }
+]

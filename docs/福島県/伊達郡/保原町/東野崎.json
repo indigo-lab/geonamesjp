@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県伊達郡保原町東野崎",
+    "表記": "福島県伊達郡保原町東野崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "伊達郡",
+      "市区町村": "保原町",
+      "町名": "東野崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405464",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405474",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405484"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/101285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233422/101286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233422/101287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/101289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/101287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/101293.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県伊達郡保原町東野崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/伊達郡/保原町/東野崎.json",
+    "name": "東野崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県伊達郡保原町"
+  }
+]

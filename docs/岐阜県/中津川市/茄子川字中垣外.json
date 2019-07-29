@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県中津川市茄子川字中垣外",
+    "表記": "岐阜県中津川市茄子川字中垣外",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "中津川市",
+      "町名": "茄子川字中垣外"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053371356"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231166/103420.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県中津川市茄子川字中垣外",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/中津川市/茄子川字中垣外.json",
+    "name": "茄子川字中垣外",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県中津川市"
+  }
+]

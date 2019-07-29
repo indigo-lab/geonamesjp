@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県尾鷲市北浦町",
+    "表記": "三重県尾鷲市北浦町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "北浦町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242090150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051360195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051360196"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230250/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/104648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230250/104649.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県尾鷲市北浦町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/尾鷲市/北浦町.json",
+    "name": "北浦町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県尾鷲市"
+  }
+]

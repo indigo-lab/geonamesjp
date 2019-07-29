@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県吉野川市鴨島町樋山地",
+    "表記": "徳島県吉野川市鴨島町樋山地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "吉野川市",
+      "町名": "鴨島町樋山地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340256",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340247"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228893/104686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228893/104679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228892/104685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228892/104677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228892/104683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228891/104685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228892/104678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228894/104686.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県吉野川市鴨島町樋山地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/吉野川市/鴨島町樋山地.json",
+    "name": "鴨島町樋山地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県吉野川市"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市しじま台",
+    "表記": "石川県金沢市しじま台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "しじま台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172012350"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市しじま台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/しじま台.json",
+    "name": "しじま台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市",
+    "children": [
+      "https://geonames.jp/resource/石川県金沢市しじま台一丁目",
+      "https://geonames.jp/resource/石川県金沢市しじま台二丁目"
+    ]
+  }
+]

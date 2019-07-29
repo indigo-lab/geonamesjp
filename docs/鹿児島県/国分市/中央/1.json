@@ -1,0 +1,66 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県国分市中央一丁目",
+    "表記": "鹿児島県国分市中央一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "国分市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304681",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304691"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226291/106674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226294/106673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226294/106671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226296/106670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226297/106671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226297/106673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226299/106673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226298/106674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226298/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226296/106674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226295/106674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226295/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226297/106676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226296/106677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226295/106676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226295/106677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226294/106677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226292/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226292/106674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226293/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226294/106676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226293/106677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226294/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226294/106674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226294/106672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226294/106670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226296/106671.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県国分市中央一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/国分市/中央/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県国分市中央"
+  }
+]

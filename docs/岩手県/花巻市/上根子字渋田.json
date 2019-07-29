@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県花巻市上根子字渋田",
+    "表記": "岩手県花巻市上根子字渋田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "花巻市",
+      "町名": "上根子字渋田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410065"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233795/99826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233795/99825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233797/99826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233797/99827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233793/99826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233793/99827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233796/99827.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県花巻市上根子字渋田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/花巻市/上根子字渋田.json",
+    "name": "上根子字渋田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県花巻市"
+  }
+]

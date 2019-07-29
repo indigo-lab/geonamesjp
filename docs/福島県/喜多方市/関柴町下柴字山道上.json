@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県喜多方市関柴町下柴字山道上",
+    "表記": "福島県喜多方市関柴町下柴字山道上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "喜多方市",
+      "町名": "関柴町下柴字山道上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393793"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232956/101429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232955/101429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232957/101429.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県喜多方市関柴町下柴字山道上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/喜多方市/関柴町下柴字山道上.json",
+    "name": "関柴町下柴字山道上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県喜多方市"
+  }
+]

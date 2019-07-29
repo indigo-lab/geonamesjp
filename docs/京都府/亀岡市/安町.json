@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府亀岡市安町",
+    "表記": "京都府亀岡市安町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "安町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S262060260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354415",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354416",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354425",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354426"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229794/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229793/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229793/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229794/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229792/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229790/103822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229790/103823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229791/103824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229791/103822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229792/103822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229792/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229793/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229792/103823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229793/103823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229794/103822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229793/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229793/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229793/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229794/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229794/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229795/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229793/103822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229791/103823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229789/103822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229789/103823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229791/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229795/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229795/103821.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府亀岡市安町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/亀岡市/安町.json",
+    "name": "安町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府亀岡市"
+  }
+]

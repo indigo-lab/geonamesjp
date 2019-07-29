@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県熊谷市銀座七丁目",
+    "表記": "埼玉県熊谷市銀座七丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "熊谷市",
+      "町名": "七丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11202009007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391361",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391362"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/102815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/102816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/102817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/102817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/102816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/102817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/102817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/102816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/102818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/102818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102818.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県熊谷市銀座七丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/熊谷市/銀座/7.json",
+    "name": "七丁目",
+    "alternateName": [
+      "7",
+      "7丁目",
+      "７",
+      "７丁目",
+      "七"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県熊谷市銀座"
+  }
+]

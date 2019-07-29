@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市井栗",
+    "表記": "新潟県三条市井栗",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三条市",
+      "町名": "井栗"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市井栗",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/井栗.json",
+    "name": "井栗",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市",
+    "children": [
+      "https://geonames.jp/resource/新潟県三条市井栗（丁目なし）",
+      "https://geonames.jp/resource/新潟県三条市井栗一丁目",
+      "https://geonames.jp/resource/新潟県三条市井栗二丁目",
+      "https://geonames.jp/resource/新潟県三条市井栗三丁目"
+    ]
+  }
+]

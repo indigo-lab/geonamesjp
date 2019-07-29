@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県邑楽郡板倉町大曲",
+    "表記": "群馬県邑楽郡板倉町大曲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "邑楽郡",
+      "市区町村": "板倉町",
+      "町名": "大曲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392497",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392498",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393407",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393408"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/102710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232728/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/102712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/102712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/102712.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県邑楽郡板倉町大曲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/邑楽郡/板倉町/大曲.json",
+    "name": "大曲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県邑楽郡板倉町"
+  }
+]

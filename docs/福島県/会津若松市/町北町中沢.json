@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市町北町中沢",
+    "表記": "福島県会津若松市町北町中沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "会津若松市",
+      "町名": "町北町中沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392712",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392731",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392732"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232947/101561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/101559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232947/101552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/101561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/101554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/101555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/101561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/101560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/101549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/101561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/101560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/101552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/101547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232947/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232947/101558.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市町北町中沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/町北町中沢.json",
+    "name": "町北町中沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市"
+  }
+]

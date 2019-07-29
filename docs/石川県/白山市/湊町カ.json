@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県白山市湊町カ",
+    "表記": "石川県白山市湊町カ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "白山市",
+      "町名": "湊町カ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365378"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/102512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/102511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230452/102511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230452/102510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/102510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230452/102509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/102509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230450/102512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230450/102513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230450/102515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230450/102514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/102513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230449/102514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230449/102516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230448/102517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230449/102515.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県白山市湊町カ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/白山市/湊町カ.json",
+    "name": "湊町カ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県白山市"
+  }
+]

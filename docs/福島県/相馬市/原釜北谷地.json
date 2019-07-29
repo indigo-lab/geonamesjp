@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬市原釜北谷地",
+    "表記": "福島県相馬市原釜北谷地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "相馬市",
+      "町名": "原釜北谷地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406706"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233709/101265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233710/101269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233711/101270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233713/101272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233711/101271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101272.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬市原釜北谷地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬市/原釜北谷地.json",
+    "name": "原釜北谷地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬市"
+  }
+]

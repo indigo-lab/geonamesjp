@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県長崎市春日町",
+    "表記": "長崎県長崎市春日町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "春日町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422011000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290785",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290795",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290786"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225698/105812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225700/105809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225702/105814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225698/105815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225696/105814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225697/105815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225697/105816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225700/105811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225701/105812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225699/105817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225700/105818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225698/105817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225699/105813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225696/105815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225701/105813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225697/105814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225698/105814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225698/105816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225699/105809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225699/105816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225699/105808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225700/105808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225700/105810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225701/105815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225700/105812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225701/105814.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県長崎市春日町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/長崎市/春日町.json",
+    "name": "春日町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県長崎市"
+  }
+]

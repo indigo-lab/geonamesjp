@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市天神",
+    "表記": "佐賀県佐賀市天神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "佐賀市",
+      "町名": "天神",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S412010120"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市天神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/佐賀市/天神.json",
+    "name": "天神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県佐賀市",
+    "children": [
+      "https://geonames.jp/resource/佐賀県佐賀市天神一丁目",
+      "https://geonames.jp/resource/佐賀県佐賀市天神二丁目",
+      "https://geonames.jp/resource/佐賀県佐賀市天神三丁目"
+    ]
+  }
+]

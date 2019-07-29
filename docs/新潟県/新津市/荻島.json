@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新津市荻島",
+    "表記": "新潟県新津市荻島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新津市",
+      "町名": "荻島"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新津市荻島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新津市/荻島.json",
+    "name": "荻島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新津市",
+    "children": [
+      "https://geonames.jp/resource/新潟県新津市荻島（丁目なし）",
+      "https://geonames.jp/resource/新潟県新津市荻島一丁目",
+      "https://geonames.jp/resource/新潟県新津市荻島二丁目",
+      "https://geonames.jp/resource/新潟県新津市荻島三丁目"
+    ]
+  }
+]

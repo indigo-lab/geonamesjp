@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県西牟婁郡大塔村",
+    "表記": "和歌山県西牟婁郡大塔村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "西牟婁郡",
+      "市区町村": "大塔村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C30403-20050501",
+        "http://data.e-stat.go.jp/lod/sac/C30403-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県西牟婁郡大塔村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/西牟婁郡/大塔村.json",
+    "name": "大塔村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県西牟婁郡"
+  }
+]

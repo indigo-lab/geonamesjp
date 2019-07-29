@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府堺市美原町北余部西四丁目",
+    "表記": "大阪府堺市美原町北余部西四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "堺市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356443"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/104243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/104243.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府堺市美原町北余部西四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/堺市/美原町北余部西/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大阪府堺市美原町北余部西"
+  }
+]

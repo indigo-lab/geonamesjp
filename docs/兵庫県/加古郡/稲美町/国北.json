@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県加古郡稲美町国北",
+    "表記": "兵庫県加古郡稲美町国北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "加古郡",
+      "市区町村": "稲美町",
+      "町名": "国北"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県加古郡稲美町国北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/加古郡/稲美町/国北.json",
+    "name": "国北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県加古郡稲美町",
+    "children": [
+      "https://geonames.jp/resource/兵庫県加古郡稲美町国北一丁目",
+      "https://geonames.jp/resource/兵庫県加古郡稲美町国北二丁目"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県双葉郡楢葉町井出字浄光西",
+    "表記": "福島県双葉郡楢葉町井出字浄光西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "双葉郡",
+      "市区町村": "楢葉町",
+      "町名": "井出字浄光西"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407749",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407759"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233741/101764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233742/101764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233742/101765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/101765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233743/101766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233742/101766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233743/101767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/101768.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県双葉郡楢葉町井出字浄光西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/双葉郡/楢葉町/井出字浄光西.json",
+    "name": "井出字浄光西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県双葉郡楢葉町"
+  }
+]

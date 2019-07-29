@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市大多羅町",
+    "表記": "岡山県岡山市大多羅町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "大多羅町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347090",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340000"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228651/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228653/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228653/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228652/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228652/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228652/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228650/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228650/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228650/104135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228649/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228649/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228649/104135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228651/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228651/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228650/104131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228652/104131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228651/104131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228651/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228652/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228653/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228653/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228652/104128.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市大多羅町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/大多羅町.json",
+    "name": "大多羅町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

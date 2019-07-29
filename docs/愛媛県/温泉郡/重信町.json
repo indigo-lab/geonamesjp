@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県温泉郡重信町",
+    "表記": "愛媛県温泉郡重信町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "温泉郡",
+      "市区町村": "重信町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C38361-20040921",
+        "http://data.e-stat.go.jp/lod/sac/C38361-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県温泉郡重信町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/温泉郡/重信町.json",
+    "name": "重信町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県温泉郡",
+    "children": [
+      "https://geonames.jp/resource/愛媛県温泉郡重信町横河原",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町下林",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町牛渕",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町見奈良",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町志津川",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町上村",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町西岡",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町田窪",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町南野田",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町樋口",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町北野田",
+      "https://geonames.jp/resource/愛媛県温泉郡重信町野田"
+    ]
+  }
+]

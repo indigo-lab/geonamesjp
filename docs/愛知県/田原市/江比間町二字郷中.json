@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県田原市江比間町二字郷中",
+    "表記": "愛知県田原市江比間町二字郷中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "田原市",
+      "町名": "江比間町二字郷中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051377172",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051377182"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/104143.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県田原市江比間町二字郷中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/田原市/江比間町二字郷中.json",
+    "name": "江比間町二字郷中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県田原市"
+  }
+]

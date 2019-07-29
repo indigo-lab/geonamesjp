@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県君津市鹿野山",
+    "表記": "千葉県君津市鹿野山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "君津市",
+      "町名": "鹿野山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122250830"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397707",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397706",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397717",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397718",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397716"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232993/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233000/103599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232990/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233001/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233004/103603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233002/103603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233002/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233003/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233004/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233002/103598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232985/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232993/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232987/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232988/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232988/103609.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県君津市鹿野山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/君津市/鹿野山.json",
+    "name": "鹿野山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県君津市"
+  }
+]

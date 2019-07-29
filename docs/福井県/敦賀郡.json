@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県敦賀郡",
+    "表記": "福井県敦賀郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "敦賀郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県敦賀郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/敦賀郡.json",
+    "name": "敦賀郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県",
+    "children": [
+      "https://geonames.jp/resource/福井県敦賀郡中郷村",
+      "https://geonames.jp/resource/福井県敦賀郡愛発村",
+      "https://geonames.jp/resource/福井県敦賀郡敦賀町",
+      "https://geonames.jp/resource/福井県敦賀郡東浦村",
+      "https://geonames.jp/resource/福井県敦賀郡東郷村",
+      "https://geonames.jp/resource/福井県敦賀郡松原村",
+      "https://geonames.jp/resource/福井県敦賀郡粟野村"
+    ]
+  }
+]

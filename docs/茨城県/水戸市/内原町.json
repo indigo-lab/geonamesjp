@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県水戸市内原町",
+    "表記": "茨城県水戸市内原町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "内原町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県水戸市内原町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/水戸市/内原町.json",
+    "name": "内原町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県水戸市",
+    "children": [
+      "https://geonames.jp/resource/茨城県水戸市内原町（丁目なし）",
+      "https://geonames.jp/resource/茨城県水戸市内原町一丁目",
+      "https://geonames.jp/resource/茨城県水戸市内原町二丁目"
+    ]
+  }
+]

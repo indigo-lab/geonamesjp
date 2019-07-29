@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県加美郡色麻町四竃字田中",
+    "表記": "宮城県加美郡色麻町四竃字田中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "加美郡",
+      "市区町村": "色麻町",
+      "町名": "四竃字田中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406657"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233630/100610.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県加美郡色麻町四竃字田中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/加美郡/色麻町/四竃字田中.json",
+    "name": "四竃字田中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県加美郡色麻町"
+  }
+]

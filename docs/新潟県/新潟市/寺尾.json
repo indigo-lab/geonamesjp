@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市寺尾",
+    "表記": "新潟県新潟市寺尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "寺尾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386759",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386757",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386758"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/101224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/101225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232270/101229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232270/101228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232270/101227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101229.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市寺尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/寺尾.json",
+    "name": "寺尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

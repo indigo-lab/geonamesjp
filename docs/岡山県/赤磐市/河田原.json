@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県赤磐市河田原",
+    "表記": "岡山県赤磐市河田原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "赤磐市",
+      "町名": "河田原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332130660"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341048"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228722/104026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228722/104025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228722/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228722/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228721/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228724/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228724/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228724/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104026.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県赤磐市河田原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/赤磐市/河田原.json",
+    "name": "河田原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県赤磐市"
+  }
+]

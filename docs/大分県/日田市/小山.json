@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県日田市小山",
+    "表記": "大分県日田市小山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "日田市",
+      "町名": "小山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307752",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307762",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307763",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307741",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307751"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226399/105327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226394/105324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226396/105329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226397/105327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226398/105336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226395/105336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226392/105332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226390/105334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226396/105334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226395/105324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226395/105325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226396/105328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226394/105336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226386/105341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226390/105335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226387/105336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226391/105339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226387/105333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226387/105330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226391/105334.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県日田市小山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/日田市/小山.json",
+    "name": "小山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県日田市"
+  }
+]

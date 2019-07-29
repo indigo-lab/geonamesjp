@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県高崎市飯玉町",
+    "表記": "群馬県高崎市飯玉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "飯玉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S102022010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394001"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232299/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232298/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232298/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232299/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232300/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232299/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232300/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232299/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232300/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232298/102634.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県高崎市飯玉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/高崎市/飯玉町.json",
+    "name": "飯玉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県高崎市"
+  }
+]

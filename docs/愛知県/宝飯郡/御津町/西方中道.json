@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県宝飯郡御津町西方中道",
+    "表記": "愛知県宝飯郡御津町西方中道",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "宝飯郡",
+      "市区町村": "御津町",
+      "町名": "西方中道"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371275"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/103998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/103999.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県宝飯郡御津町西方中道",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/宝飯郡/御津町/西方中道.json",
+    "name": "西方中道",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県宝飯郡御津町"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市西蒲区新保",
+    "表記": "新潟県新潟市西蒲区新保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "西蒲区",
+      "町名": "新保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385760",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385750"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232201/101298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232200/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232200/101301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232201/101301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232199/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232201/101299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232202/101298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232200/101299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232200/101298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232202/101299.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市西蒲区新保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/西蒲区/新保.json",
+    "name": "新保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市西蒲区"
+  }
+]

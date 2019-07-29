@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡永源寺町",
+    "表記": "滋賀県神崎郡永源寺町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "神崎郡",
+      "市区町村": "永源寺町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C25401-19880328",
+        "http://data.e-stat.go.jp/lod/sac/C25401-19920220",
+        "http://data.e-stat.go.jp/lod/sac/C25401-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C25401-20050211",
+        "http://data.e-stat.go.jp/lod/sac/C25401-19751110"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡永源寺町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/神崎郡/永源寺町.json",
+    "name": "永源寺町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県神崎郡"
+  }
+]

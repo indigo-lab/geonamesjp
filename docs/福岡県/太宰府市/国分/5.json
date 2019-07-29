@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県太宰府市国分五丁目",
+    "表記": "福岡県太宰府市国分五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "太宰府市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40221015105"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302420",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302430"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226103/105136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226103/105137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226104/105136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226105/105136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226104/105135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226106/105134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226105/105134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226105/105133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226104/105133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226104/105134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226103/105135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226103/105134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226103/105133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/105134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/105133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/105137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/105136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226105/105135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/105135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226106/105135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226107/105133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226107/105134.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県太宰府市国分五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/太宰府市/国分/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県太宰府市国分"
+  }
+]

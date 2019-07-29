@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県鳩ケ谷市",
+    "表記": "埼玉県鳩ケ谷市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "鳩ケ谷市",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C11226-19710401",
+        "http://data.e-stat.go.jp/lod/sac/C11226-20111011",
+        "http://data.e-stat.go.jp/lod/sac/C11226-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県鳩ケ谷市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/鳩ケ谷市.json",
+    "name": "鳩ケ谷市",
+    "alternateName": [
+      "鳩ヶ谷市"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県",
+    "children": [
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市坂下町",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市桜町",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市三ツ和",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市大字前田",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市大字辻",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市南",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市八幡木",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市本町",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市大字里",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市緑町",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市前田",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市辻",
+      "https://geonames.jp/resource/埼玉県鳩ケ谷市里"
+    ]
+  }
+]

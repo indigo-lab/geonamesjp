@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡柿崎町竹鼻",
+    "表記": "新潟県中頸城郡柿崎町竹鼻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中頸城郡",
+      "市区町村": "柿崎町",
+      "町名": "竹鼻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387342",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387343",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387353",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387354",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387363"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231863/101757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231858/101761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231857/101766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231862/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231861/101769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231864/101765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231865/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/101767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231871/101762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231852/101768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231854/101767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231857/101764.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡柿崎町竹鼻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中頸城郡/柿崎町/竹鼻.json",
+    "name": "竹鼻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中頸城郡柿崎町"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県小松市立明寺町",
+    "表記": "石川県小松市立明寺町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "立明寺町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172032040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364481",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364482"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230484/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230483/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230484/102576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230483/102576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102576.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県小松市立明寺町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/小松市/立明寺町.json",
+    "name": "立明寺町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県小松市"
+  }
+]

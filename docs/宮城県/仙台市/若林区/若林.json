@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市若林区若林",
+    "表記": "宮城県仙台市若林区若林",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "若林区",
+      "町名": "若林",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S041030780"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市若林区若林",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/若林区/若林.json",
+    "name": "若林",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市若林区",
+    "children": [
+      "https://geonames.jp/resource/宮城県仙台市若林区若林一丁目",
+      "https://geonames.jp/resource/宮城県仙台市若林区若林二丁目",
+      "https://geonames.jp/resource/宮城県仙台市若林区若林三丁目",
+      "https://geonames.jp/resource/宮城県仙台市若林区若林四丁目",
+      "https://geonames.jp/resource/宮城県仙台市若林区若林五丁目",
+      "https://geonames.jp/resource/宮城県仙台市若林区若林六丁目",
+      "https://geonames.jp/resource/宮城県仙台市若林区若林七丁目"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県可児市美里ヶ丘一丁目",
+    "表記": "岐阜県可児市美里ヶ丘一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "可児市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370073",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370082",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370083"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/103473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/103472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230860/103473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103479.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県可児市美里ヶ丘一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/可児市/美里ヶ丘/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県可児市美里ヶ丘"
+  }
+]

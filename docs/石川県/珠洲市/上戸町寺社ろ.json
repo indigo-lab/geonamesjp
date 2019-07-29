@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県珠洲市上戸町寺社ろ",
+    "表記": "石川県珠洲市上戸町寺社ろ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "珠洲市",
+      "町名": "上戸町寺社ろ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056371119"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231012/101644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231013/101644.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県珠洲市上戸町寺社ろ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/珠洲市/上戸町寺社ろ.json",
+    "name": "上戸町寺社ろ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県珠洲市"
+  }
+]

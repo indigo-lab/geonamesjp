@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県長野市中御所",
+    "表記": "長野県長野市中御所",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "長野市",
+      "町名": "中御所"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県長野市中御所",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/長野市/中御所.json",
+    "name": "中御所",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県長野市",
+    "children": [
+      "https://geonames.jp/resource/長野県長野市中御所（丁目なし）",
+      "https://geonames.jp/resource/長野県長野市中御所一丁目",
+      "https://geonames.jp/resource/長野県長野市中御所二丁目",
+      "https://geonames.jp/resource/長野県長野市中御所三丁目",
+      "https://geonames.jp/resource/長野県長野市中御所四丁目",
+      "https://geonames.jp/resource/長野県長野市中御所五丁目"
+    ]
+  }
+]

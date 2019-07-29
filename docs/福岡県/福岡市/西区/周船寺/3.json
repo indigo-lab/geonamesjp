@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市西区周船寺三丁目",
+    "表記": "福岡県福岡市西区周船寺三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "西区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40135046003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302280",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302290"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225916/105092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225917/105092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225916/105091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225916/105090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225917/105090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225917/105091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225917/105089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225917/105088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225918/105087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225918/105089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225918/105088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225919/105088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225919/105089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225915/105092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225918/105090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225916/105088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225919/105087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225920/105088.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市西区周船寺三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/西区/周船寺/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市西区周船寺"
+  }
+]

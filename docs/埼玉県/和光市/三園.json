@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県和光市三園",
+    "表記": "埼玉県和光市三園",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "和光市",
+      "町名": "三園"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県和光市三園",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/和光市/三園.json",
+    "name": "三園",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県和光市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県和光市三園二丁目"
+    ]
+  }
+]

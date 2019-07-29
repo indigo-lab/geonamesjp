@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市高岡町浦之名",
+    "表記": "宮崎県宮崎市高岡町浦之名",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "宮崎市",
+      "町名": "高岡町浦之名"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317232",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317233",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317242",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317231",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317241",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317138"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226636/106494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226665/106498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226670/106497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226670/106495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226673/106498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226672/106497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226672/106499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226662/106499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226663/106497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226663/106495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226630/106498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226663/106498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226666/106498.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市高岡町浦之名",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/宮崎市/高岡町浦之名.json",
+    "name": "高岡町浦之名",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県宮崎市"
+  }
+]

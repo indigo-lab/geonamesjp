@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県英田郡美作町吉",
+    "表記": "岡山県英田郡美作町吉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "英田郡",
+      "市区町村": "美作町",
+      "町名": "吉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344143",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344144"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228772/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228775/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228774/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228774/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228775/103801.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県英田郡美作町吉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/英田郡/美作町/吉.json",
+    "name": "吉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県英田郡美作町"
+  }
+]

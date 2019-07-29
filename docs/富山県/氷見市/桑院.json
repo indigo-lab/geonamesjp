@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県氷見市桑院",
+    "表記": "富山県氷見市桑院",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "氷見市",
+      "町名": "桑院",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162050790"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361770",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361771",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361772"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230752/102200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/102203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/102202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/102198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230762/102204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230751/102204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230751/102201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230752/102197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/102202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/102200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/102202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/102199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/102200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/102200.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県氷見市桑院",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/氷見市/桑院.json",
+    "name": "桑院",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県氷見市"
+  }
+]

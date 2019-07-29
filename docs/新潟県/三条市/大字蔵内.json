@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市大字蔵内",
+    "表記": "新潟県三条市大字蔵内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三条市",
+      "町名": "大字蔵内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056382795",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383705"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232248/101501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/101497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/101504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232245/101504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/101503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/101501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/101502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/101503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/101502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/101501.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市大字蔵内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/大字蔵内.json",
+    "name": "大字蔵内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市"
+  }
+]

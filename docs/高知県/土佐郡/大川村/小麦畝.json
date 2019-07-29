@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県土佐郡大川村小麦畝",
+    "表記": "高知県土佐郡大川村小麦畝",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "土佐郡",
+      "市区町村": "大川村",
+      "町名": "小麦畝",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S393640090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335278",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335287"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228181/104885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228173/104877.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県土佐郡大川村小麦畝",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/土佐郡/大川村/小麦畝.json",
+    "name": "小麦畝",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県土佐郡大川村"
+  }
+]

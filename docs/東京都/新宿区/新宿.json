@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都新宿区新宿",
+    "表記": "東京都新宿区新宿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "新宿区",
+      "町名": "新宿",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131040170"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都新宿区新宿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/新宿区/新宿.json",
+    "name": "新宿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都新宿区",
+    "children": [
+      "https://geonames.jp/resource/東京都新宿区新宿一丁目",
+      "https://geonames.jp/resource/東京都新宿区新宿二丁目",
+      "https://geonames.jp/resource/東京都新宿区新宿三丁目",
+      "https://geonames.jp/resource/東京都新宿区新宿四丁目",
+      "https://geonames.jp/resource/東京都新宿区新宿五丁目",
+      "https://geonames.jp/resource/東京都新宿区新宿六丁目",
+      "https://geonames.jp/resource/東京都新宿区新宿七丁目"
+    ]
+  }
+]

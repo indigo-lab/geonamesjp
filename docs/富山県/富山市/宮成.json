@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市宮成",
+    "表記": "富山県富山市宮成",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "宮成",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162012520"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370271",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370261",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370272"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/102284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/102280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231028/102285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231028/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231031/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231032/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/102286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231028/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231031/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/102285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231028/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231028/102286.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市宮成",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/宮成.json",
+    "name": "宮成",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

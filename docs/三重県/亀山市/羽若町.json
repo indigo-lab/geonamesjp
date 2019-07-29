@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県亀山市羽若町",
+    "表記": "三重県亀山市羽若町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "羽若町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242100260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362335",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362336",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362345"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/103954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/103955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230439/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230438/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/103954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/103954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/103955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230435/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230435/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/103955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/103954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230426/103955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230426/103954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230426/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230426/103952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230426/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230428/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230428/103952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230429/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230425/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230425/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230426/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230428/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230429/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/103955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230435/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/103950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230435/103955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230436/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/103954.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県亀山市羽若町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/亀山市/羽若町.json",
+    "name": "羽若町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県亀山市"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村上折立",
+    "表記": "新潟県北魚沼郡湯之谷村上折立",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北魚沼郡",
+      "市区町村": "湯之谷村",
+      "町名": "上折立"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396026",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396036",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396045",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396047"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232351/101857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232347/101856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232348/101865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232348/101857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232350/101864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232353/101850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101848.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村上折立",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北魚沼郡/湯之谷村/上折立.json",
+    "name": "上折立",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村"
+  }
+]

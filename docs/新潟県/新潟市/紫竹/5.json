@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市紫竹五丁目",
+    "表記": "新潟県新潟市紫竹五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396086"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/101204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/101206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/101205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/101204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/101205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/101204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/101203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232347/101203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232347/101204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232348/101202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/101203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/101205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232348/101203.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市紫竹五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/紫竹/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市紫竹"
+  }
+]

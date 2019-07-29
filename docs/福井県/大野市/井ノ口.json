@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県大野市井ノ口",
+    "表記": "福井県大野市井ノ口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "大野市",
+      "町名": "井ノ口",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182051150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367471",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367472"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230484/102956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230489/102960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230490/102960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230489/102959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230490/102959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102959.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県大野市井ノ口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/大野市/井ノ口.json",
+    "name": "井ノ口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県大野市"
+  }
+]

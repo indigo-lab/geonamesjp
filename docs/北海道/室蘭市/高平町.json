@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道室蘭市高平町",
+    "表記": "北海道室蘭市高平町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "高平町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012050430"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063404729",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063414040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063404739",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063414020"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233743/96962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233741/96962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233743/96964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233739/96961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233740/96961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/96951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/96950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/96945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233750/96945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233742/96962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233740/96960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233740/96964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/96964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233739/96960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/96962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/96963.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道室蘭市高平町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/室蘭市/高平町.json",
+    "name": "高平町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道室蘭市"
+  }
+]

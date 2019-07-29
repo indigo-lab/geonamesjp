@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県橋本市紀見ヶ丘一丁目",
+    "表記": "和歌山県橋本市紀見ヶ丘一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "橋本市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354438",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354448"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/104397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229818/104396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229818/104400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229818/104399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229818/104397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229818/104394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229818/104395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/104395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/104394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/104393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/104398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/104396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229820/104393.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県橋本市紀見ヶ丘一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/橋本市/紀見ヶ丘/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/和歌山県橋本市紀見ヶ丘"
+  }
+]

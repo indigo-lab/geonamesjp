@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区大高町字寅新田",
+    "表記": "愛知県名古屋市緑区大高町字寅新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "緑区",
+      "町名": "大高町字寅新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364773",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364783"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103778.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区大高町字寅新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/緑区/大高町字寅新田.json",
+    "name": "大高町字寅新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市緑区"
+  }
+]

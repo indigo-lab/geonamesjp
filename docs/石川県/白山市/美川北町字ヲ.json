@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県白山市美川北町字ヲ",
+    "表記": "石川県白山市美川北町字ヲ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "白山市",
+      "町名": "美川北町字ヲ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365388"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230455/102500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230456/102500.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県白山市美川北町字ヲ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/白山市/美川北町字ヲ.json",
+    "name": "美川北町字ヲ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県白山市"
+  }
+]

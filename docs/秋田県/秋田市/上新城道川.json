@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県秋田市上新城道川",
+    "表記": "秋田県秋田市上新城道川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "秋田市",
+      "町名": "上新城道川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052011110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405039",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405049",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405130",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405131",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405140",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405142",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405038",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405141"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/99448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233116/99452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/99454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/99447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233116/99450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/99450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/99450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/99448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/99450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/99447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/99450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/99451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/99441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233097/99451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233097/99450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/99446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/99448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/99446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/99447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/99448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/99447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/99448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233117/99450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/99450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/99450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/99454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/99451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233118/99449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/99444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233117/99448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233127/99446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/99448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/99445.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県秋田市上新城道川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/秋田市/上新城道川.json",
+    "name": "上新城道川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県秋田市"
+  }
+]

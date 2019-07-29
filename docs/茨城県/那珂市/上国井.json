@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県那珂市上国井",
+    "表記": "茨城県那珂市上国井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "那珂市",
+      "町名": "上国井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054405345"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233339/102532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/102533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233337/102533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233338/102533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233339/102533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233340/102533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/102533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/102532.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県那珂市上国井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/那珂市/上国井.json",
+    "name": "上国井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県那珂市"
+  }
+]

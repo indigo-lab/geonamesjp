@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県米子市淀江町西尾原",
+    "表記": "鳥取県米子市淀江町西尾原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "米子市",
+      "町名": "淀江町西尾原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312021280"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331324",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331314"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228231/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228234/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228233/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228232/103449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228230/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228232/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228231/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228233/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228234/103454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228236/103451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228233/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228232/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228237/103450.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県米子市淀江町西尾原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/米子市/淀江町西尾原.json",
+    "name": "淀江町西尾原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県米子市"
+  }
+]

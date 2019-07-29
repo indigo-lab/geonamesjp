@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県宇土郡不知火町",
+    "表記": "熊本県宇土郡不知火町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "宇土郡",
+      "市区町村": "不知火町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43322-20050115",
+        "http://data.e-stat.go.jp/lod/sac/C43322-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県宇土郡不知火町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/宇土郡/不知火町.json",
+    "name": "不知火町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県宇土郡",
+    "children": [
+      "https://geonames.jp/resource/熊本県宇土郡不知火町浦上",
+      "https://geonames.jp/resource/熊本県宇土郡不知火町亀松",
+      "https://geonames.jp/resource/熊本県宇土郡不知火町御領",
+      "https://geonames.jp/resource/熊本県宇土郡不知火町高良",
+      "https://geonames.jp/resource/熊本県宇土郡不知火町小曽部",
+      "https://geonames.jp/resource/熊本県宇土郡不知火町長崎",
+      "https://geonames.jp/resource/熊本県宇土郡不知火町柏原"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県釜石市甲子町第二地割",
+    "表記": "岩手県釜石市甲子町第二地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "釜石市",
+      "町名": "甲子町第二地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417518",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417528",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417527"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234278/99935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234276/99939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234277/99941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234277/99940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234265/99933.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県釜石市甲子町第二地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/釜石市/甲子町第二地割.json",
+    "name": "甲子町第二地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県釜石市"
+  }
+]

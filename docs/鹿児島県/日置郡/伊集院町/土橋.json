@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡伊集院町土橋",
+    "表記": "鹿児島県日置郡伊集院町土橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "日置郡",
+      "市区町村": "伊集院町",
+      "町名": "土橋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303354",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303355",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303364",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303365"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226050/106769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226052/106762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/106771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226061/106770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/106763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226048/106767.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡伊集院町土橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/日置郡/伊集院町/土橋.json",
+    "name": "土橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県日置郡伊集院町"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県菊池郡合志町",
+    "表記": "熊本県菊池郡合志町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "菊池郡",
+      "市区町村": "合志町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43405-19830301",
+        "http://data.e-stat.go.jp/lod/sac/C43405-20060227",
+        "http://data.e-stat.go.jp/lod/sac/C43405-19990901",
+        "http://data.e-stat.go.jp/lod/sac/C43405-19720501",
+        "http://data.e-stat.go.jp/lod/sac/C43405-19840601",
+        "http://data.e-stat.go.jp/lod/sac/C43405-19730901",
+        "http://data.e-stat.go.jp/lod/sac/C43405-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県菊池郡合志町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/菊池郡/合志町.json",
+    "name": "合志町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県菊池郡",
+    "children": [
+      "https://geonames.jp/resource/熊本県菊池郡合志町上庄",
+      "https://geonames.jp/resource/熊本県菊池郡合志町竹迫",
+      "https://geonames.jp/resource/熊本県菊池郡合志町豊岡",
+      "https://geonames.jp/resource/熊本県菊池郡合志町栄",
+      "https://geonames.jp/resource/熊本県菊池郡合志町福原",
+      "https://geonames.jp/resource/熊本県菊池郡合志町幾久富"
+    ]
+  }
+]

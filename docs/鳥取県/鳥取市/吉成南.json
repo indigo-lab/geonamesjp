@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市吉成南",
+    "表記": "鳥取県鳥取市吉成南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "鳥取市",
+      "町名": "吉成南"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市吉成南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/鳥取市/吉成南.json",
+    "name": "吉成南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県鳥取市",
+    "children": [
+      "https://geonames.jp/resource/鳥取県鳥取市吉成南一丁目",
+      "https://geonames.jp/resource/鳥取県鳥取市吉成南二丁目"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市旭ケ丘三丁目",
+    "表記": "青森県八戸市旭ケ丘三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S02203087003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060415492"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234133/98766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234134/98766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/98766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/98765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/98767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234133/98765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234134/98765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234135/98766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234135/98765.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市旭ケ丘三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/旭ケ丘/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市旭ケ丘"
+  }
+]

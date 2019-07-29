@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県宮古郡伊良部村",
+    "表記": "沖縄県宮古郡伊良部村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "宮古郡",
+      "市区町村": "伊良部村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C47374-19720607",
+        "http://data.e-stat.go.jp/lod/sac/C47364-19720515"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県宮古郡伊良部村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/宮古郡/伊良部村.json",
+    "name": "伊良部村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県宮古郡"
+  }
+]

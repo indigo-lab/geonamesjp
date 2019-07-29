@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市表蔵王",
+    "表記": "山形県山形市表蔵王",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "表蔵王"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402225",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402235"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/100938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/100939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/100942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/100943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/100941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/100942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/100940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/100941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/100937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/100940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/100939.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市表蔵王",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/表蔵王.json",
+    "name": "表蔵王",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

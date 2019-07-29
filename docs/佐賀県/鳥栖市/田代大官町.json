@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県鳥栖市田代大官町",
+    "表記": "佐賀県鳥栖市田代大官町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "田代大官町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S412030220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300471"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226111/105249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226111/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226112/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/105253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226112/105253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226110/105253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226111/105254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226110/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226111/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226111/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226113/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226112/105254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226111/105253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226112/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226113/105254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226112/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226110/105249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226113/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226113/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/105252.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県鳥栖市田代大官町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/鳥栖市/田代大官町.json",
+    "name": "田代大官町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県鳥栖市"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県綾歌郡綾上町",
+    "表記": "香川県綾歌郡綾上町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "綾歌郡",
+      "市区町村": "綾上町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C37381-19840301",
+        "http://data.e-stat.go.jp/lod/sac/C37381-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C37381-20060321"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県綾歌郡綾上町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/綾歌郡/綾上町.json",
+    "name": "綾上町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県綾歌郡"
+  }
+]

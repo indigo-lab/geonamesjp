@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県美馬市脇町字段",
+    "表記": "徳島県美馬市脇町字段",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "美馬市",
+      "町名": "脇町字段",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S36207013008"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340191",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341102"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228754/104645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228757/104642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228757/104646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228756/104646.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県美馬市脇町字段",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/美馬市/脇町字段.json",
+    "name": "脇町字段",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県美馬市"
+  }
+]

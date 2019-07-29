@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県山武市矢部",
+    "表記": "千葉県山武市矢部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "山武市",
+      "町名": "矢部",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122370450"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403330",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403340"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233290/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/103284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/103280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/103279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103284.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県山武市矢部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/山武市/矢部.json",
+    "name": "矢部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県山武市"
+  }
+]

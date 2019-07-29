@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県松阪市山下町",
+    "表記": "三重県松阪市山下町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "山下町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242041590"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051366445",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051366446",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051366455",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051366456"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230519/104238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230518/104241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230521/104240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230520/104241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230523/104237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230524/104239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230523/104240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230523/104241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230522/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230524/104238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230522/104240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230522/104239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230522/104238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230522/104237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230521/104239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230518/104242.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県松阪市山下町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/松阪市/山下町.json",
+    "name": "山下町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県松阪市"
+  }
+]

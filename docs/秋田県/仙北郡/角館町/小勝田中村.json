@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡角館町小勝田中村",
+    "表記": "秋田県仙北郡角館町小勝田中村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "仙北郡",
+      "市区町村": "角館町",
+      "町名": "小勝田中村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059403424",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059403434"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/99615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99613.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡角館町小勝田中村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/仙北郡/角館町/小勝田中村.json",
+    "name": "小勝田中村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県仙北郡角館町"
+  }
+]

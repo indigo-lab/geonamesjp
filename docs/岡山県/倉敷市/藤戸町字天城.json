@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市藤戸町字天城",
+    "表記": "岡山県倉敷市藤戸町字天城",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "倉敷市",
+      "町名": "藤戸町字天城"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336674",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336675",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336685",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336694"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228511/104216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228511/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228508/104221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228515/104221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228512/104220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228512/104223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228510/104210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228507/104209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228506/104210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228506/104209.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市藤戸町字天城",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/倉敷市/藤戸町字天城.json",
+    "name": "藤戸町字天城",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県倉敷市"
+  }
+]

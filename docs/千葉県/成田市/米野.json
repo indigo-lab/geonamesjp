@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市米野",
+    "表記": "千葉県成田市米野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "米野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122110720"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405243",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405233"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233232/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/103135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233233/103134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233233/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/103130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/103134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/103136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/103133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233233/103130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/103132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233232/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233234/103131.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市米野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/米野.json",
+    "name": "米野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市"
+  }
+]

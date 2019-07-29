@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県磐田郡浅羽町新堀",
+    "表記": "静岡県磐田郡浅羽町新堀",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "磐田郡",
+      "市区町村": "浅羽町",
+      "町名": "新堀"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370734",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370744"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231513/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/104104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231513/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/104104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231514/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231507/104104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/104104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/104104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/104106.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県磐田郡浅羽町新堀",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/磐田郡/浅羽町/新堀.json",
+    "name": "新堀",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県磐田郡浅羽町"
+  }
+]

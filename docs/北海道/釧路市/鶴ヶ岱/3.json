@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路市鶴ヶ岱三丁目",
+    "表記": "北海道釧路市鶴ヶ岱三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "釧路市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443372",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443373"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236223/96344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236224/96345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236230/96344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236224/96342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236225/96342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236226/96342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236226/96343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236226/96344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236227/96345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236226/96345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236228/96344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236228/96345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236225/96343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236225/96345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236227/96344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236227/96343.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路市鶴ヶ岱三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路市/鶴ヶ岱/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路市鶴ヶ岱"
+  }
+]

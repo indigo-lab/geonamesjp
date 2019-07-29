@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道沙流郡門別町",
+    "表記": "北海道沙流郡門別町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "沙流郡",
+      "市区町村": "門別町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C01603-20060301",
+        "http://data.e-stat.go.jp/lod/sac/C01603-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道沙流郡門別町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/沙流郡/門別町.json",
+    "name": "門別町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道沙流郡",
+    "children": [
+      "https://geonames.jp/resource/北海道沙流郡門別町旭町",
+      "https://geonames.jp/resource/北海道沙流郡門別町幾千世",
+      "https://geonames.jp/resource/北海道沙流郡門別町庫富",
+      "https://geonames.jp/resource/北海道沙流郡門別町富川駒丘",
+      "https://geonames.jp/resource/北海道沙流郡門別町富川西",
+      "https://geonames.jp/resource/北海道沙流郡門別町富川東",
+      "https://geonames.jp/resource/北海道沙流郡門別町富川南",
+      "https://geonames.jp/resource/北海道沙流郡門別町富川北",
+      "https://geonames.jp/resource/北海道沙流郡門別町富浜",
+      "https://geonames.jp/resource/北海道沙流郡門別町福満",
+      "https://geonames.jp/resource/北海道沙流郡門別町平賀",
+      "https://geonames.jp/resource/北海道沙流郡門別町豊郷",
+      "https://geonames.jp/resource/北海道沙流郡門別町本町",
+      "https://geonames.jp/resource/北海道沙流郡門別町緑町"
+    ]
+  }
+]

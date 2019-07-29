@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市字正後寺",
+    "表記": "京都府福知山市字正後寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "字正後寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052356196",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357106"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229524/103615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229525/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229526/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229523/103616.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市字正後寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/字正後寺.json",
+    "name": "字正後寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

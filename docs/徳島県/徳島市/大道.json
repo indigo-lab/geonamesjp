@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県徳島市大道",
+    "表記": "徳島県徳島市大道",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "徳島市",
+      "町名": "大道"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県徳島市大道",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/徳島市/大道.json",
+    "name": "大道",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県徳島市",
+    "children": [
+      "https://geonames.jp/resource/徳島県徳島市大道（丁目なし）",
+      "https://geonames.jp/resource/徳島県徳島市大道一丁目",
+      "https://geonames.jp/resource/徳島県徳島市大道二丁目",
+      "https://geonames.jp/resource/徳島県徳島市大道三丁目",
+      "https://geonames.jp/resource/徳島県徳島市大道四丁目"
+    ]
+  }
+]

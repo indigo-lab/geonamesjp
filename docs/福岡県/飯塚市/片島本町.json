@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県飯塚市片島本町",
+    "表記": "福岡県飯塚市片島本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "片島本町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303574",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303584"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226233/105022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226233/105023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226233/105024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226233/105028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226233/105027.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県飯塚市片島本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/飯塚市/片島本町.json",
+    "name": "片島本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県飯塚市"
+  }
+]

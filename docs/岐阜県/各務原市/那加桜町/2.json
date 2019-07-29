@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県各務原市那加桜町二丁目",
+    "表記": "岐阜県各務原市那加桜町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "那加桜町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21213170002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360677",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360687",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360688"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230721/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230722/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230722/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230723/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230723/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230721/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230722/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230721/103476.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県各務原市那加桜町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/各務原市/那加桜町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県各務原市那加桜町"
+  }
+]

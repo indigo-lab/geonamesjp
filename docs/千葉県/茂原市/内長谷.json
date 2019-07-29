@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県茂原市内長谷",
+    "表記": "千葉県茂原市内長谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "茂原市",
+      "町名": "内長谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122100100"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401221",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401222"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233216/103444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233216/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/103441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233218/103441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233218/103442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233219/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233219/103441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233220/103441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/103442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233214/103444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/103444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/103442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233216/103442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/103445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233218/103444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233218/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233218/103445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233219/103444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233220/103442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233220/103444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233220/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233219/103442.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県茂原市内長谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/茂原市/内長谷.json",
+    "name": "内長谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県茂原市"
+  }
+]

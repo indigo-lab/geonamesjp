@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県四日市市波木が丘町",
+    "表記": "三重県四日市市波木が丘町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "波木が丘町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242021260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363425",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363435"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230517/103885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230517/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230518/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230518/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230519/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230519/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230516/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230520/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230519/103888.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県四日市市波木が丘町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/四日市市/波木が丘町.json",
+    "name": "波木が丘町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県四日市市"
+  }
+]

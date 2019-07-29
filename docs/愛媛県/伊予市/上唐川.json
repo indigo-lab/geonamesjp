@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県伊予市上唐川",
+    "表記": "愛媛県伊予市上唐川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "伊予市",
+      "町名": "上唐川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382100160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050324578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050324579",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050324588",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050324589",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050324558",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050324569"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227724/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227730/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227732/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227729/104951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227729/104964.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県伊予市上唐川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/伊予市/上唐川.json",
+    "name": "上唐川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県伊予市"
+  }
+]

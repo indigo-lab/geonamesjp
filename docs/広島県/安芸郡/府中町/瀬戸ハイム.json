@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県安芸郡府中町瀬戸ハイム",
+    "表記": "広島県安芸郡府中町瀬戸ハイム",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "安芸郡",
+      "市区町村": "府中町",
+      "町名": "瀬戸ハイム",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S343020100"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県安芸郡府中町瀬戸ハイム",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/安芸郡/府中町/瀬戸ハイム.json",
+    "name": "瀬戸ハイム",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県安芸郡府中町",
+    "children": [
+      "https://geonames.jp/resource/広島県安芸郡府中町瀬戸ハイム一丁目",
+      "https://geonames.jp/resource/広島県安芸郡府中町瀬戸ハイム二丁目",
+      "https://geonames.jp/resource/広島県安芸郡府中町瀬戸ハイム三丁目",
+      "https://geonames.jp/resource/広島県安芸郡府中町瀬戸ハイム四丁目"
+    ]
+  }
+]

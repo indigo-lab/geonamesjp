@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県名護市字幸喜",
+    "表記": "沖縄県名護市字幸喜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "名護市",
+      "町名": "字幸喜",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S472090300"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276746",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276726",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276745",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276756",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276736"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224242/111016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224244/111016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224243/111015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224242/111015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224243/111016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224242/111017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224246/111028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224249/111019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224246/111016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224245/111016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224246/111013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224249/111021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224241/111015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224242/111019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224244/111012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224249/111017.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県名護市字幸喜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/名護市/字幸喜.json",
+    "name": "字幸喜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県名護市"
+  }
+]

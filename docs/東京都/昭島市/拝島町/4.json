@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都昭島市拝島町四丁目",
+    "表記": "東京都昭島市拝島町四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "拝島町",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13207017104"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394247",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394237"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232539/103207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232542/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232541/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232540/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232540/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232540/103207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232541/103207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232541/103208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232540/103208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232538/103207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232539/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232539/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232538/103204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232537/103204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232537/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232537/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232536/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232536/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232537/103210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232538/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232537/103208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232542/103207.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都昭島市拝島町四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/昭島市/拝島町/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都昭島市拝島町"
+  }
+]

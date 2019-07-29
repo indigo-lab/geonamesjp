@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市栗山",
+    "表記": "新潟県小千谷市栗山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "小千谷市",
+      "町名": "栗山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386660",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386661"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232119/101833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/101832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232107/101831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/101831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/101833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/101835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232107/101832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232111/101833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/101833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/101834.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市栗山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/小千谷市/栗山.json",
+    "name": "栗山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県小千谷市"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県廿日市市虫所山",
+    "表記": "広島県廿日市市虫所山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "廿日市市",
+      "町名": "虫所山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342130440"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325103"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227307/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227310/104347.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県廿日市市虫所山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/廿日市市/虫所山.json",
+    "name": "虫所山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県廿日市市"
+  }
+]

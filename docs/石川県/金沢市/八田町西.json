@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市八田町西",
+    "表記": "石川県金沢市八田町西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "八田町西"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367554",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367563"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230594/102363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230591/102366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/102369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/102370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/102368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230595/102364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/102368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/102369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/102369.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市八田町西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/八田町西.json",
+    "name": "八田町西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

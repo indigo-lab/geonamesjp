@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県上北郡東北町字千曳下山",
+    "表記": "青森県上北郡東北町字千曳下山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "上北郡",
+      "市区町村": "東北町",
+      "町名": "字千曳下山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061411154",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061411153",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061411155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061411164"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233878/98480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233877/98476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233872/98482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233881/98482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233874/98479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233886/98482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233880/98481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233877/98478.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県上北郡東北町字千曳下山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/上北郡/東北町/字千曳下山.json",
+    "name": "字千曳下山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県上北郡東北町"
+  }
+]

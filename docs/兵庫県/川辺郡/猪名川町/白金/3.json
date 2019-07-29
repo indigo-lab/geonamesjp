@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県川辺郡猪名川町白金三丁目",
+    "表記": "兵庫県川辺郡猪名川町白金三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "川辺郡",
+      "市区町村": "猪名川町",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S28301034003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352278",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352279"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229640/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229641/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229640/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229640/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229639/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229639/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229638/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229638/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229639/103927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229639/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229638/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229638/103927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229636/103927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/103927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229636/103928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/103928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229641/103925.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県川辺郡猪名川町白金三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/川辺郡/猪名川町/白金/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県川辺郡猪名川町白金"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県花巻市不動町一丁目",
+    "表記": "岩手県花巻市不動町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "不動町",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410059",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410058"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/99830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/99829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/99830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/99830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/99831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/99831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/99831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/99829.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県花巻市不動町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/花巻市/不動町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岩手県花巻市不動町"
+  }
+]

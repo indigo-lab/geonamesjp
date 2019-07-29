@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県南宇和郡西海町大成川",
+    "表記": "愛媛県南宇和郡西海町大成川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "南宇和郡",
+      "市区町村": "西海町",
+      "町名": "大成川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323410"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227560/105655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227560/105654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227562/105654.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県南宇和郡西海町大成川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/南宇和郡/西海町/大成川.json",
+    "name": "大成川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県南宇和郡西海町"
+  }
+]

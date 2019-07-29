@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市四倉町駒込馬場",
+    "表記": "福島県いわき市四倉町駒込馬場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "四倉町駒込馬場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405741"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/101924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/101925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/101925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/101926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/101925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/101924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/101926.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市四倉町駒込馬場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/四倉町駒込馬場.json",
+    "name": "四倉町駒込馬場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

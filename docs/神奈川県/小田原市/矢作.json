@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県小田原市矢作",
+    "表記": "神奈川県小田原市矢作",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "小田原市",
+      "町名": "矢作",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S142060720"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397144",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397134",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397143"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232417/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/103584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232419/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232419/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232419/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232419/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232419/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232418/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232418/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232418/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232416/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232417/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232417/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232416/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232416/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232415/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232416/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232417/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/103583.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県小田原市矢作",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/小田原市/矢作.json",
+    "name": "矢作",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県小田原市"
+  }
+]

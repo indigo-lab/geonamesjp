@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新発田市上羽津",
+    "表記": "新潟県新発田市上羽津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新発田市",
+      "町名": "上羽津",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152060690"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397302",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397301",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396391"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/101188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/101195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/101192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/101196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/101186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/101197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232574/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/101188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232575/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/101186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/101199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/101191.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新発田市上羽津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新発田市/上羽津.json",
+    "name": "上羽津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新発田市"
+  }
+]

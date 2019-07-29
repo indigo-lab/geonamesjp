@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県三豊郡仁尾町家の浦",
+    "表記": "香川県三豊郡仁尾町家の浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "三豊郡",
+      "市区町村": "仁尾町",
+      "町名": "家の浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051332550",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051332560"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228379/104526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228377/104527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228376/104527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228379/104527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228378/104529.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県三豊郡仁尾町家の浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/三豊郡/仁尾町/家の浦.json",
+    "name": "家の浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県三豊郡仁尾町"
+  }
+]

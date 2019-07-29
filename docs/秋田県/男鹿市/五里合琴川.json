@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市五里合琴川",
+    "表記": "秋田県男鹿市五里合琴川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "男鹿市",
+      "町名": "五里合琴川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052060340"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397659",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397658",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397668",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397667",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397669"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/99281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232914/99269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232920/99279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/99274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232909/99269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232913/99279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/99275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/99275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232906/99270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232909/99271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/99268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232911/99266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/99277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/99276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232920/99276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/99273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232909/99266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/99270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232911/99270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232912/99268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/99267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/99266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232907/99270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232908/99268.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市五里合琴川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/男鹿市/五里合琴川.json",
+    "name": "五里合琴川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県男鹿市"
+  }
+]

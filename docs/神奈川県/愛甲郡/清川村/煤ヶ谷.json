@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県愛甲郡清川村煤ヶ谷",
+    "表記": "神奈川県愛甲郡清川村煤ヶ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "郡": "愛甲郡",
+      "市区町村": "清川村",
+      "町名": "煤ヶ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391281",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391280"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232480/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232479/103402.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県愛甲郡清川村煤ヶ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/愛甲郡/清川村/煤ヶ谷.json",
+    "name": "煤ヶ谷",
+    "alternateName": [
+      "煤ケ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県愛甲郡清川村"
+  }
+]

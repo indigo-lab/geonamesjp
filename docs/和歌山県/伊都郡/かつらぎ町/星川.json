@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県伊都郡かつらぎ町星川",
+    "表記": "和歌山県伊都郡かつらぎ町星川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "伊都郡",
+      "市区町村": "かつらぎ町",
+      "町名": "星川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353318",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353319",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353328"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229729/104489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229731/104486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229726/104485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229726/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229728/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229726/104487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229724/104485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229724/104484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229727/104484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229723/104484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229725/104483.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県伊都郡かつらぎ町星川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/伊都郡/かつらぎ町/星川.json",
+    "name": "星川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県伊都郡かつらぎ町"
+  }
+]

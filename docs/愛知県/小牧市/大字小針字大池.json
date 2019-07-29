@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市大字小針字大池",
+    "表記": "愛知県小牧市大字小針字大池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "大字小針字大池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230770/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230770/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/103587.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市大字小針字大池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/大字小針字大池.json",
+    "name": "大字小針字大池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市栄原",
+    "表記": "山形県山形市栄原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "栄原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403247"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233266/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233269/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233271/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233271/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/100849.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市栄原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/栄原.json",
+    "name": "栄原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

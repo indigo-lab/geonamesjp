@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県吉田郡松岡町室",
+    "表記": "福井県吉田郡松岡町室",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "吉田郡",
+      "市区町村": "松岡町",
+      "町名": "室"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361202",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361203",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361204",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361212",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361213"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230310/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230313/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230316/102854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230314/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230314/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230315/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230312/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230316/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230319/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230317/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230314/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230326/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230313/102859.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県吉田郡松岡町室",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/吉田郡/松岡町/室.json",
+    "name": "室",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県吉田郡松岡町"
+  }
+]

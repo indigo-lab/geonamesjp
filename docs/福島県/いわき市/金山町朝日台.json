@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市金山町朝日台",
+    "表記": "福島県いわき市金山町朝日台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "金山町朝日台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403615",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403616",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403625"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/102099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/102098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/102100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/102099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/102097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233616/102097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233617/102097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233616/102096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233619/102096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/102096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233617/102094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/102097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/102099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/102097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233616/102098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233618/102096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233619/102097.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市金山町朝日台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/金山町朝日台.json",
+    "name": "金山町朝日台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

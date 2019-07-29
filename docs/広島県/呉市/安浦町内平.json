@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県呉市安浦町内平",
+    "表記": "広島県呉市安浦町内平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "呉市",
+      "町名": "安浦町内平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323526",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323537",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323527"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227707/104478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227713/104476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227713/104475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227715/104474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227711/104479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227714/104474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227713/104477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227714/104475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227715/104473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227716/104474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227718/104476.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県呉市安浦町内平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/呉市/安浦町内平.json",
+    "name": "安浦町内平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県呉市"
+  }
+]

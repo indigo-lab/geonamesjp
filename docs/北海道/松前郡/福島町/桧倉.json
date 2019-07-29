@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道松前郡福島町桧倉",
+    "表記": "北海道松前郡福島町桧倉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "松前郡",
+      "市区町村": "福島町",
+      "町名": "桧倉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062401188",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062401189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062401198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062401199"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233192/97803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233187/97809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233184/97803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233195/97809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233192/97809.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道松前郡福島町桧倉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/松前郡/福島町/桧倉.json",
+    "name": "桧倉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道松前郡福島町"
+  }
+]

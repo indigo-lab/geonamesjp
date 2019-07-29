@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市川市高浜町",
+    "表記": "千葉県市川市高浜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "高浜町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122030520"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394714",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/103231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232969/103231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/103230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/103230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/103229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/103232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/103232.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市川市高浜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市川市/高浜町.json",
+    "name": "高浜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県市川市"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県十日町市伊達辛",
+    "表記": "新潟県十日町市伊達辛",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "十日町市",
+      "町名": "伊達辛"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384630",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384621",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384640",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384650",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384651"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232115/102005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/102004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/101994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/102000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/101999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/102001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/101994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/101995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232116/101993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/101992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/102003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/102003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/102000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/102001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232110/101996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/102005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/102006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/102005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/102004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232121/102013.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県十日町市伊達辛",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/十日町市/伊達辛.json",
+    "name": "伊達辛",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県十日町市"
+  }
+]

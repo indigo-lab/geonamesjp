@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県加美郡小野田町",
+    "表記": "宮城県加美郡小野田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "加美郡",
+      "市区町村": "小野田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C04442-19790901",
+        "http://data.e-stat.go.jp/lod/sac/C04442-19781201",
+        "http://data.e-stat.go.jp/lod/sac/C04442-19821201",
+        "http://data.e-stat.go.jp/lod/sac/C04442-20030401",
+        "http://data.e-stat.go.jp/lod/sac/C04442-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C04442-19761101",
+        "http://data.e-stat.go.jp/lod/sac/C04442-19731110"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県加美郡小野田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/加美郡/小野田町.json",
+    "name": "小野田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県加美郡"
+  }
+]

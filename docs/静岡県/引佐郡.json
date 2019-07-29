@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県引佐郡",
+    "表記": "静岡県引佐郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "引佐郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C22520-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C22520-20050701"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県引佐郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/引佐郡.json",
+    "name": "引佐郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県",
+    "children": [
+      "https://geonames.jp/resource/静岡県引佐郡引佐町",
+      "https://geonames.jp/resource/静岡県引佐郡細江町",
+      "https://geonames.jp/resource/静岡県引佐郡三ケ日町",
+      "https://geonames.jp/resource/静岡県引佐郡中川村",
+      "https://geonames.jp/resource/静岡県引佐郡井伊谷村",
+      "https://geonames.jp/resource/静岡県引佐郡伊平村",
+      "https://geonames.jp/resource/静岡県引佐郡奥山村",
+      "https://geonames.jp/resource/静岡県引佐郡東浜名村",
+      "https://geonames.jp/resource/静岡県引佐郡気賀町",
+      "https://geonames.jp/resource/静岡県引佐郡西浜名村",
+      "https://geonames.jp/resource/静岡県引佐郡都田村",
+      "https://geonames.jp/resource/静岡県引佐郡金指町",
+      "https://geonames.jp/resource/静岡県引佐郡鎮玉村",
+      "https://geonames.jp/resource/静岡県引佐郡麁玉村"
+    ]
+  }
+]

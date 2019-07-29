@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県愛知郡愛知川町平居",
+    "表記": "滋賀県愛知郡愛知川町平居",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "愛知郡",
+      "市区町村": "愛知川町",
+      "町名": "平居"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365188",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365198"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103696.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県愛知郡愛知川町平居",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/愛知郡/愛知川町/平居.json",
+    "name": "平居",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県愛知郡愛知川町"
+  }
+]

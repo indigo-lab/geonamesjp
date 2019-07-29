@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路市鶴ヶ岱二丁目",
+    "表記": "北海道釧路市鶴ヶ岱二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "釧路市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443372"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236221/96346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236222/96344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236223/96344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236221/96347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236222/96346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236221/96345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236222/96345.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路市鶴ヶ岱二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路市/鶴ヶ岱/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路市鶴ヶ岱"
+  }
+]

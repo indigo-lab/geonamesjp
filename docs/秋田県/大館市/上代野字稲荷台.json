@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大館市上代野字稲荷台",
+    "表記": "秋田県大館市上代野字稲荷台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大館市",
+      "町名": "上代野字稲荷台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060403456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060403447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060403457"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233443/98963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233442/98964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/98964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/98963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/98964.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大館市上代野字稲荷台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大館市/上代野字稲荷台.json",
+    "name": "上代野字稲荷台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大館市"
+  }
+]

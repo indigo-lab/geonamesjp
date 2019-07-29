@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県糸島市志摩船越",
+    "表記": "福岡県糸島市志摩船越",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "糸島市",
+      "町名": "志摩船越",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402300920"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302160",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302059",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302069",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302170"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225826/105105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225828/105106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225828/105105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225827/105105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225826/105106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225827/105104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225827/105103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225820/105113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225821/105112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225821/105111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225822/105111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225821/105110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225823/105110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225822/105109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225823/105111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225823/105109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225824/105105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225822/105108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225824/105107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225826/105108.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県糸島市志摩船越",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/糸島市/志摩船越.json",
+    "name": "志摩船越",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県糸島市"
+  }
+]

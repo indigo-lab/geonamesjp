@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県生駒郡平群町西宮",
+    "表記": "奈良県生駒郡平群町西宮",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "生駒郡",
+      "市区町村": "平群町",
+      "町名": "西宮"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県生駒郡平群町西宮",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/生駒郡/平群町/西宮.json",
+    "name": "西宮",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県生駒郡平群町",
+    "children": [
+      "https://geonames.jp/resource/奈良県生駒郡平群町西宮（丁目なし）",
+      "https://geonames.jp/resource/奈良県生駒郡平群町西宮一丁目",
+      "https://geonames.jp/resource/奈良県生駒郡平群町西宮二丁目",
+      "https://geonames.jp/resource/奈良県生駒郡平群町西宮三丁目"
+    ]
+  }
+]

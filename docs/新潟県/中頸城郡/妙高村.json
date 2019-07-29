@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡妙高村",
+    "表記": "新潟県中頸城郡妙高村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中頸城郡",
+      "市区町村": "妙高村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C15547-20050401",
+        "http://data.e-stat.go.jp/lod/sac/C15547-19881001",
+        "http://data.e-stat.go.jp/lod/sac/C15547-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C15547-19891101",
+        "http://data.e-stat.go.jp/lod/sac/C15547-19990501",
+        "http://data.e-stat.go.jp/lod/sac/C15547-19720501"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡妙高村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中頸城郡/妙高村.json",
+    "name": "妙高村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中頸城郡",
+    "children": [
+      "https://geonames.jp/resource/新潟県中頸城郡妙高村桶海",
+      "https://geonames.jp/resource/新潟県中頸城郡妙高村関山",
+      "https://geonames.jp/resource/新潟県中頸城郡妙高村坂口新田",
+      "https://geonames.jp/resource/新潟県中頸城郡妙高村上中村新田",
+      "https://geonames.jp/resource/新潟県中頸城郡妙高村大谷",
+      "https://geonames.jp/resource/新潟県中頸城郡妙高村大字桶海"
+    ]
+  }
+]

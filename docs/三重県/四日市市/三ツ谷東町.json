@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県四日市市三ツ谷東町",
+    "表記": "三重県四日市市三ツ谷東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "三ツ谷東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242023160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363570",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363571"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230563/103852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230562/103852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230563/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230565/103852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230564/103852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230566/103852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230565/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230564/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230565/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230566/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/103852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230568/103852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230564/103851.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県四日市市三ツ谷東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/四日市市/三ツ谷東町.json",
+    "name": "三ツ谷東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県四日市市"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県高田郡美土里町",
+    "表記": "広島県高田郡美土里町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "高田郡",
+      "市区町村": "美土里町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C34383-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C34383-20040301"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県高田郡美土里町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/高田郡/美土里町.json",
+    "name": "美土里町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県高田郡"
+  }
+]

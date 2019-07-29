@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県五所川原市戸沢",
+    "表記": "青森県五所川原市戸沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "五所川原市",
+      "町名": "戸沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401389",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401480",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401482",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401481"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233376/98460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/98453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233377/98460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233378/98459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233381/98458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233389/98458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/98458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233389/98459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233393/98459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233377/98461.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県五所川原市戸沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/五所川原市/戸沢.json",
+    "name": "戸沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県五所川原市"
+  }
+]

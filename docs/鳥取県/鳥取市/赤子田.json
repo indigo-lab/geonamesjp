@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市赤子田",
+    "表記": "鳥取県鳥取市赤子田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "鳥取市",
+      "町名": "赤子田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312011560"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341115",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341105"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228794/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228793/103452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228794/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228795/103452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228793/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228794/103452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228791/103457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228793/103451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228794/103451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228794/103449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228795/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228795/103451.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市赤子田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/鳥取市/赤子田.json",
+    "name": "赤子田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県鳥取市"
+  }
+]

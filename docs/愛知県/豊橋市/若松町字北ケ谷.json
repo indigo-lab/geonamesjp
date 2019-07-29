@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市若松町字北ケ谷",
+    "表記": "愛知県豊橋市若松町字北ケ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "若松町字北ケ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370322",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370332"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231128/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231127/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231123/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231124/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231127/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231127/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231127/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231128/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231129/104107.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市若松町字北ケ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/若松町字北ケ谷.json",
+    "name": "若松町字北ケ谷",
+    "alternateName": [
+      "若松町字北ヶ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

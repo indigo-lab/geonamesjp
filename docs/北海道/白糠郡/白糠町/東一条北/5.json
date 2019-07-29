@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道白糠郡白糠町東一条北五丁目",
+    "表記": "北海道白糠郡白糠町東一条北五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "白糠郡",
+      "市区町村": "白糠町",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443056"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235983/96361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235982/96361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235984/96361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235983/96360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235984/96360.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道白糠郡白糠町東一条北五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/白糠郡/白糠町/東一条北/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道白糠郡白糠町東一条北"
+  }
+]

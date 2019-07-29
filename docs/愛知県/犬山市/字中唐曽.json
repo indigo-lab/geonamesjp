@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県犬山市字中唐曽",
+    "表記": "愛知県犬山市字中唐曽",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "犬山市",
+      "町名": "字中唐曽"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367784",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367794"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/103547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/103546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103544.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県犬山市字中唐曽",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/犬山市/字中唐曽.json",
+    "name": "字中唐曽",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県犬山市"
+  }
+]

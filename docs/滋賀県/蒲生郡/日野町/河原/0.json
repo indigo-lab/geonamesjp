@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡日野町河原（丁目なし）",
+    "表記": "滋賀県蒲生郡日野町河原（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "蒲生郡",
+      "市区町村": "日野町",
+      "町名": "（丁目なし）"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364129",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364220",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364210"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103817.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡日野町河原（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/蒲生郡/日野町/河原/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県蒲生郡日野町河原"
+  }
+]

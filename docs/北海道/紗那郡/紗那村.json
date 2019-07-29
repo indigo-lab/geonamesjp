@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道紗那郡紗那村",
+    "表記": "北海道紗那郡紗那村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "紗那郡",
+      "市区町村": "紗那村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C01699-19830401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道紗那郡紗那村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/紗那郡/紗那村.json",
+    "name": "紗那村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道紗那郡"
+  }
+]

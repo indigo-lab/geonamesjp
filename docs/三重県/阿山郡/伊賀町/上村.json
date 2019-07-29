@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県阿山郡伊賀町上村",
+    "表記": "三重県阿山郡伊賀町上村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "阿山郡",
+      "市区町村": "伊賀町",
+      "町名": "上村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362108"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230274/103984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230275/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230273/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/103988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230273/103983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230274/103989.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県阿山郡伊賀町上村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/阿山郡/伊賀町/上村.json",
+    "name": "上村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県阿山郡伊賀町"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県北津軽郡板柳町深味字西西田",
+    "表記": "青森県北津軽郡板柳町深味字西西田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "北津軽郡",
+      "市区町村": "板柳町",
+      "町名": "深味字西西田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400347",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400357",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400358"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233361/98566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233361/98565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/98563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/98565.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県北津軽郡板柳町深味字西西田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/北津軽郡/板柳町/深味字西西田.json",
+    "name": "深味字西西田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県北津軽郡板柳町"
+  }
+]

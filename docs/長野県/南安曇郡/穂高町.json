@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県南安曇郡穂高町",
+    "表記": "長野県南安曇郡穂高町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "南安曇郡",
+      "市区町村": "穂高町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20462-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C20462-19810901",
+        "http://data.e-stat.go.jp/lod/sac/C20462-19890701",
+        "http://data.e-stat.go.jp/lod/sac/C20462-19930901",
+        "http://data.e-stat.go.jp/lod/sac/C20462-19710810",
+        "http://data.e-stat.go.jp/lod/sac/C20462-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県南安曇郡穂高町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/南安曇郡/穂高町.json",
+    "name": "穂高町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県南安曇郡",
+    "children": [
+      "https://geonames.jp/resource/長野県南安曇郡穂高町柏原",
+      "https://geonames.jp/resource/長野県南安曇郡穂高町穂高",
+      "https://geonames.jp/resource/長野県南安曇郡穂高町北穂高",
+      "https://geonames.jp/resource/長野県南安曇郡穂高町牧",
+      "https://geonames.jp/resource/長野県南安曇郡穂高町有明"
+    ]
+  }
+]

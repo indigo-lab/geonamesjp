@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県宮古市高浜（丁目なし）",
+    "表記": "岩手県宮古市高浜（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "宮古市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032020491",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032020492"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059413725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059413726",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059413735"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234438/99618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234440/99617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234430/99616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234436/99617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234435/99611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234433/99614.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県宮古市高浜（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/宮古市/高浜/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県宮古市高浜"
+  }
+]

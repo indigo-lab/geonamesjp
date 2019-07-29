@@ -1,0 +1,86 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県下新川郡入善町浦山新",
+    "表記": "富山県下新川郡入善町浦山新",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "下新川郡",
+      "市区町村": "入善町",
+      "町名": "浦山新",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S163420360"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372452",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372451",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372453",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372462"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231217/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/102139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231212/102140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231212/102139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/102138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231209/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231211/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231212/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231212/102138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231211/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231213/102141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231214/102140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231213/102139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231214/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231220/102144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231214/102138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231214/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231215/102140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231216/102139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231217/102139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231218/102140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231217/102141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231219/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231218/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231218/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231219/102144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231220/102145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231221/102141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231223/102147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231216/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231216/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231215/102141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231217/102144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231218/102144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231218/102145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231220/102146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231221/102146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231220/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231215/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231210/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231213/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231213/102140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231215/102138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231218/102139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231219/102143.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県下新川郡入善町浦山新",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/下新川郡/入善町/浦山新.json",
+    "name": "浦山新",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県下新川郡入善町"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県美濃加茂市蜂屋町字上蜂屋",
+    "表記": "岐阜県美濃加茂市蜂屋町字上蜂屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "美濃加茂市",
+      "町名": "蜂屋町字上蜂屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053371040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053371041",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053371050",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053371061",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053371071"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/103416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230844/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230838/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230843/103428.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県美濃加茂市蜂屋町字上蜂屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/美濃加茂市/蜂屋町字上蜂屋.json",
+    "name": "蜂屋町字上蜂屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県美濃加茂市"
+  }
+]

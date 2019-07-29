@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市市場",
+    "表記": "岐阜県美濃市市場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "美濃市",
+      "町名": "市場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362639",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362649"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230733/103356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230735/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/103357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/103359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230733/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/103367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230735/103363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230735/103365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/103363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/103365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/103364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/103364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103365.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市市場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/美濃市/市場.json",
+    "name": "市場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県美濃市"
+  }
+]

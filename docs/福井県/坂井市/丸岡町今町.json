@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井市丸岡町今町",
+    "表記": "福井県坂井市丸岡町今町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "丸岡町今町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361272",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361271"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230305/102806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230304/102806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230306/102806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230306/102807.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井市丸岡町今町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井市/丸岡町今町.json",
+    "name": "丸岡町今町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井市"
+  }
+]

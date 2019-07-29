@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市古部町",
+    "表記": "愛知県岡崎市古部町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "古部町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232021580"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373242",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373232",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373243"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231034/103878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231032/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231041/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231034/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231035/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231040/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231034/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231035/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231035/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231034/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231036/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231040/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231038/103873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231047/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231037/103880.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市古部町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/古部町.json",
+    "name": "古部町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県東松山市日吉町",
+    "表記": "埼玉県東松山市日吉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "日吉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112120060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390351"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/102901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/102901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/102901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/102900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/102900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/102900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/102899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/102899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/102898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/102899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/102898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/102899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/102898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232585/102898.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県東松山市日吉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/東松山市/日吉町.json",
+    "name": "日吉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県東松山市"
+  }
+]

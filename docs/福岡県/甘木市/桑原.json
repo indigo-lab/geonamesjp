@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県甘木市桑原",
+    "表記": "福岡県甘木市桑原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "甘木市",
+      "町名": "桑原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300553",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300554",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300563",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300564",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300574"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226224/105257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226225/105259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226225/105257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226225/105255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226226/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226226/105254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226229/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226229/105253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226229/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226229/105254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226233/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226234/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226224/105259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105253.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県甘木市桑原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/甘木市/桑原.json",
+    "name": "桑原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県甘木市"
+  }
+]

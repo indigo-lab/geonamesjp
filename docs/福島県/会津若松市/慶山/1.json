@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市慶山一丁目",
+    "表記": "福島県会津若松市慶山一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "会津若松市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07202140001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391795",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391785"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232977/101583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232978/101581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232978/101583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232978/101582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232979/101583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232977/101580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232979/101580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232979/101582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232979/101584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232977/101582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232977/101581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232979/101581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232980/101581.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市慶山一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/慶山/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市慶山"
+  }
+]

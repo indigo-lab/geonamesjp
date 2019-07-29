@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県各務原市那加西野町",
+    "表記": "岐阜県各務原市那加西野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "那加西野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212131530"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360686"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230709/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230710/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230711/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230711/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230710/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230709/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230710/103480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230709/103480.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県各務原市那加西野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/各務原市/那加西野町.json",
+    "name": "那加西野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県各務原市"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡亘理町逢隈中泉字新一里壇",
+    "表記": "宮城県亘理郡亘理町逢隈中泉字新一里壇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "亘理郡",
+      "市区町村": "亘理町",
+      "町名": "逢隈中泉字新一里壇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401609"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/101035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233648/101036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/101034.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡亘理町逢隈中泉字新一里壇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/亘理郡/亘理町/逢隈中泉字新一里壇.json",
+    "name": "逢隈中泉字新一里壇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県亘理郡亘理町"
+  }
+]

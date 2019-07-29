@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道爾志郡",
+    "表記": "北海道爾志郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "爾志郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道爾志郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/爾志郡.json",
+    "name": "爾志郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道爾志郡熊石町",
+      "https://geonames.jp/resource/北海道爾志郡乙部町",
+      "https://geonames.jp/resource/北海道爾志郡乙部村",
+      "https://geonames.jp/resource/北海道爾志郡熊石村"
+    ]
+  }
+]

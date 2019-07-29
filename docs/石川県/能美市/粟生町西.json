@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県能美市粟生町西",
+    "表記": "石川県能美市粟生町西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "能美市",
+      "町名": "粟生町西"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365349",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365359",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365440",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365450"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230464/102526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/102528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/102527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230468/102527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230471/102527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230464/102529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230465/102524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/102525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/102524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/102524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230468/102525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230467/102525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/102527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/102525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/102523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/102526.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県能美市粟生町西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/能美市/粟生町西.json",
+    "name": "粟生町西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県能美市"
+  }
+]

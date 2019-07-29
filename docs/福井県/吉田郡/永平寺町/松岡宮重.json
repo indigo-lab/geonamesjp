@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県吉田郡永平寺町松岡宮重",
+    "表記": "福井県吉田郡永平寺町松岡宮重",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "吉田郡",
+      "市区町村": "永平寺町",
+      "町名": "松岡宮重"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360283",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360284"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230319/102875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230319/102876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230320/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230324/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230320/102878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230320/102876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230321/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230321/102878.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県吉田郡永平寺町松岡宮重",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/吉田郡/永平寺町/松岡宮重.json",
+    "name": "松岡宮重",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県吉田郡永平寺町"
+  }
+]

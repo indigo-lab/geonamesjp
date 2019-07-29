@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県秋田市中通",
+    "表記": "秋田県秋田市中通",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "秋田市",
+      "町名": "中通",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052010030"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県秋田市中通",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/秋田市/中通.json",
+    "name": "中通",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県秋田市",
+    "children": [
+      "https://geonames.jp/resource/秋田県秋田市中通一丁目",
+      "https://geonames.jp/resource/秋田県秋田市中通二丁目",
+      "https://geonames.jp/resource/秋田県秋田市中通三丁目",
+      "https://geonames.jp/resource/秋田県秋田市中通四丁目",
+      "https://geonames.jp/resource/秋田県秋田市中通五丁目",
+      "https://geonames.jp/resource/秋田県秋田市中通六丁目",
+      "https://geonames.jp/resource/秋田県秋田市中通七丁目"
+    ]
+  }
+]

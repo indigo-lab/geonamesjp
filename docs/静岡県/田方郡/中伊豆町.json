@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県田方郡中伊豆町",
+    "表記": "静岡県田方郡中伊豆町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "田方郡",
+      "市区町村": "中伊豆町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C22329-19850401",
+        "http://data.e-stat.go.jp/lod/sac/C22329-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C22329-20040401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県田方郡中伊豆町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/田方郡/中伊豆町.json",
+    "name": "中伊豆町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県田方郡"
+  }
+]

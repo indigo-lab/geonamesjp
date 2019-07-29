@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県石巻市広渕字窪田",
+    "表記": "宮城県石巻市広渕字窪田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "石巻市",
+      "町名": "広渕字窪田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415167",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415168"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233905/100678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233906/100679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233905/100680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233906/100680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233907/100679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233907/100680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233908/100678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233909/100678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233908/100679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233908/100681.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県石巻市広渕字窪田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/石巻市/広渕字窪田.json",
+    "name": "広渕字窪田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県石巻市"
+  }
+]

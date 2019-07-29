@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県佐原市西部田",
+    "表記": "千葉県佐原市西部田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "佐原市",
+      "町名": "西部田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406364",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406374"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233329/103030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233330/103030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233327/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233329/103032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233329/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233330/103039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233327/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233328/103039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233328/103038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233328/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233327/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233328/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233328/103043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233328/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233329/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233329/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233329/103041.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県佐原市西部田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/佐原市/西部田.json",
+    "name": "西部田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県佐原市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県長浜市飯山町",
+    "表記": "滋賀県長浜市飯山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "飯山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252031150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361226",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361236"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230345/103441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230345/103438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230346/103441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230344/103445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230344/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230345/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230343/103436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230344/103441.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県長浜市飯山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/長浜市/飯山町.json",
+    "name": "飯山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県長浜市"
+  }
+]

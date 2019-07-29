@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市川口",
+    "表記": "岐阜県大垣市川口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "大垣市",
+      "町名": "川口",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212021270"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市川口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/大垣市/川口.json",
+    "name": "川口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県大垣市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県大垣市川口一丁目",
+      "https://geonames.jp/resource/岐阜県大垣市川口二丁目",
+      "https://geonames.jp/resource/岐阜県大垣市川口三丁目",
+      "https://geonames.jp/resource/岐阜県大垣市川口四丁目"
+    ]
+  }
+]

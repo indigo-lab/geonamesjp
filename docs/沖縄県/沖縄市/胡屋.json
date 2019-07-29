@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県沖縄市胡屋",
+    "表記": "沖縄県沖縄市胡屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "沖縄市",
+      "町名": "胡屋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S472110111"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県沖縄市胡屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/沖縄市/胡屋.json",
+    "name": "胡屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県沖縄市",
+    "children": [
+      "https://geonames.jp/resource/沖縄県沖縄市胡屋一丁目",
+      "https://geonames.jp/resource/沖縄県沖縄市胡屋二丁目",
+      "https://geonames.jp/resource/沖縄県沖縄市胡屋三丁目",
+      "https://geonames.jp/resource/沖縄県沖縄市胡屋四丁目",
+      "https://geonames.jp/resource/沖縄県沖縄市胡屋五丁目",
+      "https://geonames.jp/resource/沖縄県沖縄市胡屋六丁目",
+      "https://geonames.jp/resource/沖縄県沖縄市胡屋七丁目"
+    ]
+  }
+]

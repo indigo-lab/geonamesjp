@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市西大寺中野",
+    "表記": "岡山県岡山市西大寺中野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "西大寺中野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347071",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347072",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347081",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347082",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347092"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228668/104135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228668/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228668/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228665/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228668/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228668/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228661/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228661/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228665/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228662/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228661/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228665/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228665/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228661/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228662/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228665/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104143.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市西大寺中野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/西大寺中野.json",
+    "name": "西大寺中野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新津市新栄町",
+    "表記": "新潟県新津市新栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新栄町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395049",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395059"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232376/101308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232376/101311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232376/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232375/101311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232374/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232374/101311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232374/101310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232375/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232373/101310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232373/101311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232373/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232373/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232376/101307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232376/101309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232372/101311.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新津市新栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新津市/新栄町.json",
+    "name": "新栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新津市"
+  }
+]

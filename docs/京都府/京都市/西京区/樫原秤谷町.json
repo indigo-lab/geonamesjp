@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京都市西京区樫原秤谷町",
+    "表記": "京都府京都市西京区樫原秤谷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京都市",
+      "区": "西京区",
+      "町名": "樫原秤谷町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353564",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353565"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229871/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229870/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229872/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229873/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229874/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229874/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229873/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229875/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229876/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229877/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229876/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229875/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229875/103858.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京都市西京区樫原秤谷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京都市/西京区/樫原秤谷町.json",
+    "name": "樫原秤谷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京都市西京区"
+  }
+]

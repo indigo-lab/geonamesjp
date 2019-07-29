@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県別府市中須賀東町",
+    "表記": "大分県別府市中須賀東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "中須賀東町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317379",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317460",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317470"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226825/105321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226824/105321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226824/105322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226824/105324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226825/105322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226826/105323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226825/105323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226826/105322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226827/105324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226828/105322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226828/105323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226827/105323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226830/105325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226824/105325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226824/105323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226825/105324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226826/105324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226829/105322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226829/105323.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県別府市中須賀東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/別府市/中須賀東町.json",
+    "name": "中須賀東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県別府市"
+  }
+]

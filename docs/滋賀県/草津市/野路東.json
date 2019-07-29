@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県草津市野路東",
+    "表記": "滋賀県草津市野路東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "草津市",
+      "町名": "野路東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252060432"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県草津市野路東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/草津市/野路東.json",
+    "name": "野路東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県草津市",
+    "children": [
+      "https://geonames.jp/resource/滋賀県草津市野路東一丁目",
+      "https://geonames.jp/resource/滋賀県草津市野路東二丁目",
+      "https://geonames.jp/resource/滋賀県草津市野路東三丁目",
+      "https://geonames.jp/resource/滋賀県草津市野路東四丁目",
+      "https://geonames.jp/resource/滋賀県草津市野路東五丁目",
+      "https://geonames.jp/resource/滋賀県草津市野路東六丁目",
+      "https://geonames.jp/resource/滋賀県草津市野路東七丁目"
+    ]
+  }
+]

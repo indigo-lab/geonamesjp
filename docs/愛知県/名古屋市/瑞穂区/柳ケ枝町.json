@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市瑞穂区柳ケ枝町",
+    "表記": "愛知県名古屋市瑞穂区柳ケ枝町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "瑞穂区",
+      "町名": "柳ケ枝町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S231081070"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市瑞穂区柳ケ枝町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/瑞穂区/柳ケ枝町.json",
+    "name": "柳ケ枝町",
+    "alternateName": [
+      "柳ヶ枝町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市瑞穂区",
+    "children": [
+      "https://geonames.jp/resource/愛知県名古屋市瑞穂区柳ケ枝町一丁目",
+      "https://geonames.jp/resource/愛知県名古屋市瑞穂区柳ケ枝町二丁目",
+      "https://geonames.jp/resource/愛知県名古屋市瑞穂区柳ケ枝町三丁目"
+    ]
+  }
+]

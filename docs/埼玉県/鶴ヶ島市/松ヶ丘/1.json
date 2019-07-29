@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県鶴ヶ島市松ヶ丘一丁目",
+    "表記": "埼玉県鶴ヶ島市松ヶ丘一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "鶴ヶ島市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397313"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232591/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232592/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232590/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232590/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232591/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232590/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232591/103005.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県鶴ヶ島市松ヶ丘一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/鶴ヶ島市/松ヶ丘/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県鶴ヶ島市松ヶ丘"
+  }
+]

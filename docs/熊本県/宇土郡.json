@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県宇土郡",
+    "表記": "熊本県宇土郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "宇土郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43320-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C43320-20050115"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県宇土郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/宇土郡.json",
+    "name": "宇土郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県",
+    "children": [
+      "https://geonames.jp/resource/熊本県宇土郡三角町",
+      "https://geonames.jp/resource/熊本県宇土郡不知火町",
+      "https://geonames.jp/resource/熊本県宇土郡不知火村",
+      "https://geonames.jp/resource/熊本県宇土郡大嶽村",
+      "https://geonames.jp/resource/熊本県宇土郡宇土町",
+      "https://geonames.jp/resource/熊本県宇土郡戸馳村",
+      "https://geonames.jp/resource/熊本県宇土郡松合町",
+      "https://geonames.jp/resource/熊本県宇土郡網津村",
+      "https://geonames.jp/resource/熊本県宇土郡網田村",
+      "https://geonames.jp/resource/熊本県宇土郡緑川村",
+      "https://geonames.jp/resource/熊本県宇土郡花園村",
+      "https://geonames.jp/resource/熊本県宇土郡轟村",
+      "https://geonames.jp/resource/熊本県宇土郡郡浦村"
+    ]
+  }
+]

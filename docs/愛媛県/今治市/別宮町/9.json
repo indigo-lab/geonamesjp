@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県今治市別宮町九丁目",
+    "表記": "愛媛県今治市別宮町九丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "別宮町",
+      "町名": "九丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38202011009"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320789",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320788"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227912/104657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227911/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227910/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227910/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227911/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227912/104655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227912/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227912/104658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227909/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227910/104654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227913/104656.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県今治市別宮町九丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/今治市/別宮町/9.json",
+    "name": "九丁目",
+    "alternateName": [
+      "9",
+      "9丁目",
+      "９",
+      "９丁目",
+      "九"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛媛県今治市別宮町"
+  }
+]

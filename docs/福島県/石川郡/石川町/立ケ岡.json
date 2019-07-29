@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町立ケ岡",
+    "表記": "福島県石川郡石川町立ケ岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "石川郡",
+      "市区町村": "石川町",
+      "町名": "立ケ岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405355",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405375"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233340/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233337/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233338/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/101904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233344/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233339/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233337/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233340/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233338/101913.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町立ケ岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/石川郡/石川町/立ケ岡.json",
+    "name": "立ケ岡",
+    "alternateName": [
+      "立ヶ岡"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県石川郡石川町"
+  }
+]

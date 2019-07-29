@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市玉山馬場",
+    "表記": "岩手県盛岡市玉山馬場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "玉山馬場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416230",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416146",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416156",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416165"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233920/99364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233928/99374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233892/99357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233894/99354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233884/99352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233883/99356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233893/99365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233889/99350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233891/99356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233888/99358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233885/99350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233885/99351.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市玉山馬場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/玉山馬場.json",
+    "name": "玉山馬場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

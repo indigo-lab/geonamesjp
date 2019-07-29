@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県郡山市田村町金屋杉ノ宮",
+    "表記": "福島県郡山市田村町金屋杉ノ宮",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "郡山市",
+      "町名": "田村町金屋杉ノ宮"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400331",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400332"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233305/101704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/101704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/101706.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県郡山市田村町金屋杉ノ宮",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/郡山市/田村町金屋杉ノ宮.json",
+    "name": "田村町金屋杉ノ宮",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県郡山市"
+  }
+]

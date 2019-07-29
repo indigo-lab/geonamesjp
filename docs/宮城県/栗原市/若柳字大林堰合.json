@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原市若柳字大林堰合",
+    "表記": "宮城県栗原市若柳字大林堰合",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "栗原市",
+      "町名": "若柳字大林堰合"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411047",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411048"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233806/100381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233807/100382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233817/100386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233823/100388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233808/100383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233822/100388.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原市若柳字大林堰合",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原市/若柳字大林堰合.json",
+    "name": "若柳字大林堰合",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原市"
+  }
+]

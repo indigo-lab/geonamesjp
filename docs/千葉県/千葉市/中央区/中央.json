@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県千葉市中央区中央",
+    "表記": "千葉県千葉市中央区中央",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "千葉市",
+      "区": "中央区",
+      "町名": "中央",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S121010350"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県千葉市中央区中央",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/千葉市/中央区/中央.json",
+    "name": "中央",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県千葉市中央区",
+    "children": [
+      "https://geonames.jp/resource/千葉県千葉市中央区中央一丁目",
+      "https://geonames.jp/resource/千葉県千葉市中央区中央二丁目",
+      "https://geonames.jp/resource/千葉県千葉市中央区中央三丁目",
+      "https://geonames.jp/resource/千葉県千葉市中央区中央四丁目"
+    ]
+  }
+]

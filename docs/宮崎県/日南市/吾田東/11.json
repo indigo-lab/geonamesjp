@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県日南市吾田東十一丁目",
+    "表記": "宮崎県日南市吾田東十一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "日南市",
+      "町名": "十一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S45204065011"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047313330"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226739/106786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226739/106785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226739/106784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226738/106785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226738/106784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226738/106783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226737/106784.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県日南市吾田東十一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/日南市/吾田東/11.json",
+    "name": "十一丁目",
+    "alternateName": [
+      "11",
+      "11丁目",
+      "１１",
+      "１１丁目",
+      "十一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮崎県日南市吾田東"
+  }
+]

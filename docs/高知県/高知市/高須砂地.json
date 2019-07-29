@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高知市高須砂地",
+    "表記": "高知県高知市高須砂地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "高知市",
+      "町名": "高須砂地",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S392012400"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332485",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332486"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228335/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228338/105095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228337/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228336/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228334/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228336/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228339/105095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228334/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228335/105096.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高知市高須砂地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高知市/高須砂地.json",
+    "name": "高須砂地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高知市"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市穂積",
+    "表記": "山形県山形市穂積",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "穂積",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062011210"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403238",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403248",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403249"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/100851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/100857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/100855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/100854.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市穂積",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/穂積.json",
+    "name": "穂積",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

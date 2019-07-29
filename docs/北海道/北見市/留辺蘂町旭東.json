@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道北見市留辺蘂町旭東",
+    "表記": "北海道北見市留辺蘂町旭東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "北見市",
+      "町名": "留辺蘂町旭東"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435530",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435540"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235661/95544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235661/95537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235659/95538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235661/95540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235661/95539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235659/95540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235659/95539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235660/95541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235661/95541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235662/95543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235659/95541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235664/95541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235661/95538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235665/95539.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道北見市留辺蘂町旭東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/北見市/留辺蘂町旭東.json",
+    "name": "留辺蘂町旭東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道北見市"
+  }
+]

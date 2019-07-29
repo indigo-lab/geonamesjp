@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡南外村",
+    "表記": "秋田県仙北郡南外村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "仙北郡",
+      "市区町村": "南外村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C05428-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C05428-20050322",
+        "http://data.e-stat.go.jp/lod/sac/C05428-19811101",
+        "http://data.e-stat.go.jp/lod/sac/C05428-19740601",
+        "http://data.e-stat.go.jp/lod/sac/C05428-19831201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡南外村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/仙北郡/南外村.json",
+    "name": "南外村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県仙北郡"
+  }
+]

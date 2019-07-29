@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道浦河郡浦河町栄丘東通",
+    "表記": "北海道浦河郡浦河町栄丘東通",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "浦河郡",
+      "市区町村": "浦河町",
+      "町名": "栄丘東通",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01607008002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063422601"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235033/97144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235033/97142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235035/97143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235032/97143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235034/97142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235033/97143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235032/97144.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道浦河郡浦河町栄丘東通",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/浦河郡/浦河町/栄丘東通.json",
+    "name": "栄丘東通",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道浦河郡浦河町"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県山本郡三種町芦崎字砂間沢",
+    "表記": "秋田県山本郡三種町芦崎字砂間沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "山本郡",
+      "市区町村": "三種町",
+      "町名": "芦崎字砂間沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060390787"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232990/99175.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県山本郡三種町芦崎字砂間沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/山本郡/三種町/芦崎字砂間沢.json",
+    "name": "芦崎字砂間沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県山本郡三種町"
+  }
+]

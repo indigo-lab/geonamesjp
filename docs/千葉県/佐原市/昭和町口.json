@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県佐原市昭和町口",
+    "表記": "千葉県佐原市昭和町口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "佐原市",
+      "町名": "昭和町口"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406385",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406396"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/103019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/103019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/103022.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県佐原市昭和町口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/佐原市/昭和町口.json",
+    "name": "昭和町口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県佐原市"
+  }
+]

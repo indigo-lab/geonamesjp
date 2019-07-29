@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県高砂市阿弥陀町字魚橋",
+    "表記": "兵庫県高砂市阿弥陀町字魚橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "高砂市",
+      "町名": "阿弥陀町字魚橋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341653",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341643"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229225/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229227/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229225/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229226/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229225/104023.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県高砂市阿弥陀町字魚橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/高砂市/阿弥陀町字魚橋.json",
+    "name": "阿弥陀町字魚橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県高砂市"
+  }
+]

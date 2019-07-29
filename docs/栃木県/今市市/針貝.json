@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県今市市針貝",
+    "表記": "栃木県今市市針貝",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "今市市",
+      "町名": "針貝"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390589",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390690"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232829/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232840/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232836/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232838/102266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232841/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232836/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232843/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232843/102265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232843/102269.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県今市市針貝",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/今市市/針貝.json",
+    "name": "針貝",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県今市市"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県守山市今市町",
+    "表記": "滋賀県守山市今市町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "今市町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25207031002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25207031001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252070310"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354799"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230096/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230097/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230098/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230092/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230095/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230094/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230095/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230096/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230093/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230094/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230092/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230093/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230093/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230094/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230095/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230094/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230095/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230097/103764.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県守山市今市町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/守山市/今市町.json",
+    "name": "今市町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県守山市"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡錦町",
+    "表記": "熊本県球磨郡錦町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "球磨郡",
+      "市区町村": "錦町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43501-20050301",
+        "http://data.e-stat.go.jp/lod/sac/C43501-19770405",
+        "http://data.e-stat.go.jp/lod/sac/C43501-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C43501-19860901",
+        "http://data.e-stat.go.jp/lod/sac/C43501-19740901"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡錦町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/球磨郡/錦町.json",
+    "name": "錦町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県球磨郡",
+    "children": [
+      "https://geonames.jp/resource/熊本県球磨郡錦町大字一武",
+      "https://geonames.jp/resource/熊本県球磨郡錦町大字西",
+      "https://geonames.jp/resource/熊本県球磨郡錦町大字木上東",
+      "https://geonames.jp/resource/熊本県球磨郡錦町西",
+      "https://geonames.jp/resource/熊本県球磨郡錦町一武",
+      "https://geonames.jp/resource/熊本県球磨郡錦町木上東",
+      "https://geonames.jp/resource/熊本県球磨郡錦町木上西",
+      "https://geonames.jp/resource/熊本県球磨郡錦町木上南",
+      "https://geonames.jp/resource/熊本県球磨郡錦町木上北",
+      "https://geonames.jp/resource/熊本県球磨郡錦町大字木上北",
+      "https://geonames.jp/resource/熊本県球磨郡錦町大字木上西",
+      "https://geonames.jp/resource/熊本県球磨郡錦町大字木上南"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1184741"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市小田井町",
+    "表記": "兵庫県豊岡市小田井町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "小田井町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342655",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342656",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342665",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342666"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229247/103345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229247/103343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229247/103344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229248/103344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229248/103345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229249/103345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229246/103345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229246/103344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229246/103342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229246/103341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229247/103342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229249/103344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229246/103343.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市小田井町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/豊岡市/小田井町.json",
+    "name": "小田井町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県豊岡市"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県板野郡藍住町笠木西野",
+    "表記": "徳島県板野郡藍住町笠木西野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "板野郡",
+      "市区町村": "藍住町",
+      "町名": "笠木西野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341460"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229010/104598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229010/104600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229012/104599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229011/104598.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県板野郡藍住町笠木西野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/板野郡/藍住町/笠木西野.json",
+    "name": "笠木西野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県板野郡藍住町"
+  }
+]

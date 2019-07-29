@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県二本松市西町",
+    "表記": "福島県二本松市西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "西町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402362",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402372",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402373",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402363"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233317/101522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233317/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/101526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/101528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/101523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/101522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/101526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/101525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/101523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/101521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233317/101523.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県二本松市西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/二本松市/西町.json",
+    "name": "西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県二本松市"
+  }
+]

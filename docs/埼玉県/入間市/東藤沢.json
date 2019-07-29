@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県入間市東藤沢",
+    "表記": "埼玉県入間市東藤沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "入間市",
+      "町名": "東藤沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112250370"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県入間市東藤沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/入間市/東藤沢.json",
+    "name": "東藤沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県入間市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県入間市東藤沢一丁目",
+      "https://geonames.jp/resource/埼玉県入間市東藤沢二丁目",
+      "https://geonames.jp/resource/埼玉県入間市東藤沢三丁目",
+      "https://geonames.jp/resource/埼玉県入間市東藤沢四丁目",
+      "https://geonames.jp/resource/埼玉県入間市東藤沢五丁目",
+      "https://geonames.jp/resource/埼玉県入間市東藤沢六丁目",
+      "https://geonames.jp/resource/埼玉県入間市東藤沢七丁目",
+      "https://geonames.jp/resource/埼玉県入間市東藤沢八丁目"
+    ]
+  }
+]

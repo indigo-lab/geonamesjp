@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県八幡浜市須川",
+    "表記": "愛媛県八幡浜市須川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "八幡浜市",
+      "町名": "須川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38204038002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382040380",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38204038003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38204038001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県八幡浜市須川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/八幡浜市/須川.json",
+    "name": "須川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県八幡浜市"
+  }
+]

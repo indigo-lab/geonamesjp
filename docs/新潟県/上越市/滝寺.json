@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市滝寺",
+    "表記": "新潟県上越市滝寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "滝寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385146",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385147",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385148",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385157",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385158"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231727/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231728/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231713/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231719/101920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231719/101919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231721/101920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231721/101919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231719/101918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231722/101920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/101920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/101919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/101918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/101919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/101918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/101916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231727/101916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231727/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231727/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231727/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231728/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231719/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231721/101921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231722/101926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231722/101925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231722/101921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/101924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231722/101924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231722/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/101925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/101921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/101925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/101921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/101920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/101922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231720/101925.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市滝寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/滝寺.json",
+    "name": "滝寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

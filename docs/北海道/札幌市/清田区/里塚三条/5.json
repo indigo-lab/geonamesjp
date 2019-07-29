@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道札幌市清田区里塚三条五丁目",
+    "表記": "北海道札幌市清田区里塚三条五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "札幌市",
+      "区": "清田区",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01110300305"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064413387"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234086/96338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234085/96339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234085/96338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234086/96337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234087/96339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234086/96339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234087/96338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234087/96337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234086/96336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234087/96336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234086/96334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234086/96335.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道札幌市清田区里塚三条五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/札幌市/清田区/里塚三条/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道札幌市清田区里塚三条"
+  }
+]

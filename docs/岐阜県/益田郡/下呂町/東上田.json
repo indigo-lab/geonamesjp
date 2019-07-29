@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県益田郡下呂町東上田",
+    "表記": "岐阜県益田郡下呂町東上田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "益田郡",
+      "市区町村": "下呂町",
+      "町名": "東上田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053376108"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231001/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231004/103087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231011/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231001/103089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231002/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231002/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/103090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231007/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231007/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231007/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231004/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231008/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231007/103095.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県益田郡下呂町東上田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/益田郡/下呂町/東上田.json",
+    "name": "東上田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県益田郡下呂町"
+  }
+]

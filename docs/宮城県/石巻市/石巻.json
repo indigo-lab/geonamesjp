@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県石巻市石巻",
+    "表記": "宮城県石巻市石巻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "石巻市",
+      "町名": "石巻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415225",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415233",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415234",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415235",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415236"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233957/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233958/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233979/100707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233982/100706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233976/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233961/100703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233962/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233962/100703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233963/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233963/100703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233964/100704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233964/100701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233966/100703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233966/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233974/100708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233973/100708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233966/100701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/100700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/100701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233968/100701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/100704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233968/100703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233969/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233969/100703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233968/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233969/100701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233970/100704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233972/100704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233970/100702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233970/100703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233972/100705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233972/100706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233973/100706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233973/100707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233974/100707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233968/100704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233969/100705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233970/100705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233971/100706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233971/100705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233955/100705.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県石巻市石巻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/石巻市/石巻.json",
+    "name": "石巻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県石巻市"
+  }
+]

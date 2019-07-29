@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市泉区住吉台東四丁目",
+    "表記": "宮城県仙台市泉区住吉台東四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "泉区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04105018004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403693",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057404603"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/100808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233591/100810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/100810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233591/100809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233590/100809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233591/100808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/100809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233590/100807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/100807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233591/100807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/100808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/100810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/100810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/100809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233591/100806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233590/100806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/100809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233590/100810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233595/100809.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市泉区住吉台東四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/泉区/住吉台東/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市泉区住吉台東"
+  }
+]

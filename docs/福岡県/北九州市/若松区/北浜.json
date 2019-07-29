@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市若松区北浜",
+    "表記": "福岡県北九州市若松区北浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "若松区",
+      "町名": "北浜",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401030200"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市若松区北浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/若松区/北浜.json",
+    "name": "北浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市若松区",
+    "children": [
+      "https://geonames.jp/resource/福岡県北九州市若松区北浜一丁目",
+      "https://geonames.jp/resource/福岡県北九州市若松区北浜二丁目"
+    ]
+  }
+]

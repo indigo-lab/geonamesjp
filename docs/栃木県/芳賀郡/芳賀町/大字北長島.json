@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡芳賀町大字北長島",
+    "表記": "栃木県芳賀郡芳賀町大字北長島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "芳賀郡",
+      "市区町村": "芳賀町",
+      "町名": "大字北長島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406032"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233037/102460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233038/102462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233036/102463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233037/102462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233036/102461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233037/102461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233037/102463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233036/102460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233036/102462.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡芳賀町大字北長島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/芳賀郡/芳賀町/大字北長島.json",
+    "name": "大字北長島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県芳賀郡芳賀町"
+  }
+]

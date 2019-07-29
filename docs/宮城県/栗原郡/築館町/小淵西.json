@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町小淵西",
+    "表記": "宮城県栗原郡築館町小淵西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "栗原郡",
+      "市区町村": "築館町",
+      "町名": "小淵西"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400779",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400789",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410070",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410080"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233740/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233741/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233742/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233741/100436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233742/100435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233743/100436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233743/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/100434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/100436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/100435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/100436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233746/100436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233746/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/100434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233746/100435.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町小淵西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原郡/築館町/小淵西.json",
+    "name": "小淵西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原郡築館町"
+  }
+]

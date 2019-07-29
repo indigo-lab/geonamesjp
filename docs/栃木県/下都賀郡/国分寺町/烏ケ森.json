@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県下都賀郡国分寺町烏ケ森",
+    "表記": "栃木県下都賀郡国分寺町烏ケ森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "下都賀郡",
+      "市区町村": "国分寺町",
+      "町名": "烏ケ森"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県下都賀郡国分寺町烏ケ森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/下都賀郡/国分寺町/烏ケ森.json",
+    "name": "烏ケ森",
+    "alternateName": [
+      "烏ヶ森"
+    ],
+    "parentFeature": "https://geonames.jp/resource/栃木県下都賀郡国分寺町",
+    "children": [
+      "https://geonames.jp/resource/栃木県下都賀郡国分寺町烏ケ森一丁目",
+      "https://geonames.jp/resource/栃木県下都賀郡国分寺町烏ケ森二丁目"
+    ]
+  }
+]

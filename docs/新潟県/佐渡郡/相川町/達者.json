@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡相川町達者",
+    "表記": "新潟県佐渡郡相川町達者",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "佐渡郡",
+      "市区町村": "相川町",
+      "町名": "達者"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380280",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380290",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057381200"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231740/101048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231741/101049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231742/101039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231740/101040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231742/101045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231741/101048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231742/101048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231744/101044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231744/101043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231742/101037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231736/101042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231737/101040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231737/101039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231738/101040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101040.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡相川町達者",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/佐渡郡/相川町/達者.json",
+    "name": "達者",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県佐渡郡相川町"
+  }
+]

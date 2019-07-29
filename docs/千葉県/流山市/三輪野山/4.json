@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県流山市三輪野山四丁目",
+    "表記": "千葉県流山市三輪野山四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "流山市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103056.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県流山市三輪野山四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/流山市/三輪野山/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県流山市三輪野山"
+  }
+]

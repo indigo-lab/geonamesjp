@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県湖南市サイドタウン",
+    "表記": "滋賀県湖南市サイドタウン",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "湖南市",
+      "町名": "サイドタウン",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252110154"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県湖南市サイドタウン",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/湖南市/サイドタウン.json",
+    "name": "サイドタウン",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県湖南市",
+    "children": [
+      "https://geonames.jp/resource/滋賀県湖南市サイドタウン一丁目",
+      "https://geonames.jp/resource/滋賀県湖南市サイドタウン二丁目",
+      "https://geonames.jp/resource/滋賀県湖南市サイドタウン三丁目",
+      "https://geonames.jp/resource/滋賀県湖南市サイドタウン四丁目"
+    ]
+  }
+]

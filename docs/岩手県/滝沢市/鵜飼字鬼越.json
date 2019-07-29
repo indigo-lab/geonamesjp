@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県滝沢市鵜飼字鬼越",
+    "表記": "岩手県滝沢市鵜飼字鬼越",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "滝沢市",
+      "町名": "鵜飼字鬼越"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059415003",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059415005"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233776/99477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233791/99474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/99474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233791/99475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/99475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233793/99476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/99476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233795/99477.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県滝沢市鵜飼字鬼越",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/滝沢市/鵜飼字鬼越.json",
+    "name": "鵜飼字鬼越",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県滝沢市"
+  }
+]

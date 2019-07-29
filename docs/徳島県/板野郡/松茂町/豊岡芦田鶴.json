@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県板野郡松茂町豊岡芦田鶴",
+    "表記": "徳島県板野郡松茂町豊岡芦田鶴",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "板野郡",
+      "市区町村": "松茂町",
+      "町名": "豊岡芦田鶴"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341437",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341448",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341458"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229092/104606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229083/104614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229083/104616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229084/104606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229084/104608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229085/104606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229085/104609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229085/104608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229085/104607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229086/104609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229086/104608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229087/104608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229087/104609.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県板野郡松茂町豊岡芦田鶴",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/板野郡/松茂町/豊岡芦田鶴.json",
+    "name": "豊岡芦田鶴",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県板野郡松茂町"
+  }
+]

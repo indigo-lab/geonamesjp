@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市楓台",
+    "表記": "岐阜県美濃市楓台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "美濃市",
+      "町名": "楓台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212070610"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362730",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362639"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230744/103363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230744/103364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230743/103363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230744/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230743/103364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230745/103362.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市楓台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/美濃市/楓台.json",
+    "name": "楓台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県美濃市"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県能美郡辰口町荒屋",
+    "表記": "石川県能美郡辰口町荒屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "能美郡",
+      "市区町村": "辰口町",
+      "町名": "荒屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365421",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365422",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365432"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230484/102538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102542.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県能美郡辰口町荒屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/能美郡/辰口町/荒屋.json",
+    "name": "荒屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県能美郡辰口町"
+  }
+]

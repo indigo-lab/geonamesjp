@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県長崎市女の都一丁目",
+    "表記": "長崎県長崎市女の都一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "長崎市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049291750",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049291760",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049291659"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225645/105766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225645/105767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225647/105766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225646/105766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225647/105764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225648/105764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225649/105765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225645/105768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225646/105767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225646/105765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225647/105765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225646/105764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225647/105767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225648/105763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225646/105768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105770.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県長崎市女の都一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/長崎市/女の都/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/長崎県長崎市女の都"
+  }
+]

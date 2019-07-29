@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区徳力",
+    "表記": "福岡県北九州市小倉南区徳力",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "小倉南区",
+      "町名": "徳力",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401071180"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区徳力",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/小倉南区/徳力.json",
+    "name": "徳力",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市小倉南区",
+    "children": [
+      "https://geonames.jp/resource/福岡県北九州市小倉南区徳力一丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区徳力二丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区徳力三丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区徳力四丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区徳力五丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区徳力六丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区徳力七丁目"
+    ]
+  }
+]

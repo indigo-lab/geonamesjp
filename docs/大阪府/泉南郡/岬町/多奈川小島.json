@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府泉南郡岬町多奈川小島",
+    "表記": "大阪府泉南郡岬町多奈川小島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "郡": "泉南郡",
+      "市区町村": "岬町",
+      "町名": "多奈川小島",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S27366003004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353077",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353078",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353088"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229445/104442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229448/104442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229452/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229446/104442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229445/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229444/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229443/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229445/104443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229452/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229449/104442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229450/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229454/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229451/104437.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府泉南郡岬町多奈川小島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/泉南郡/岬町/多奈川小島.json",
+    "name": "多奈川小島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府泉南郡岬町"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市中里",
+    "表記": "千葉県成田市中里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "中里",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122111470"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406340",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406249",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406330"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103059.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市中里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/中里.json",
+    "name": "中里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市"
+  }
+]

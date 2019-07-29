@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市稲葉東",
+    "表記": "岐阜県大垣市稲葉東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "大垣市",
+      "町名": "稲葉東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212021980"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市稲葉東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/大垣市/稲葉東.json",
+    "name": "稲葉東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県大垣市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県大垣市稲葉東一丁目",
+      "https://geonames.jp/resource/岐阜県大垣市稲葉東二丁目",
+      "https://geonames.jp/resource/岐阜県大垣市稲葉東三丁目"
+    ]
+  }
+]

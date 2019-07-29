@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県三原郡南淡町灘吉野",
+    "表記": "兵庫県三原郡南淡町灘吉野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "三原郡",
+      "市区町村": "南淡町",
+      "町名": "灘吉野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342655",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342664",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342665",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342675",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342677"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229238/104521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/104519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229238/104520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/104515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/104525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229244/104523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229246/104527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229258/104516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229261/104516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/104527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/104527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229245/104530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229246/104528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229247/104527.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県三原郡南淡町灘吉野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/三原郡/南淡町/灘吉野.json",
+    "name": "灘吉野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県三原郡南淡町"
+  }
+]

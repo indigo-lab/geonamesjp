@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県三田市下槻瀬",
+    "表記": "兵庫県三田市下槻瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "三田市",
+      "町名": "下槻瀬",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282194100"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353210",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353221",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353222",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353231",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353232",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353220",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353211"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229565/103896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229559/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229574/103892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229578/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229579/103892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229573/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229574/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229574/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229581/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229575/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229575/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229576/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229576/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229577/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229579/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229579/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229580/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229580/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229580/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229565/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229581/103884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229575/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229577/103882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229575/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229574/103884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229575/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229572/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229566/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229565/103895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229570/103897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229570/103896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229574/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229567/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229569/103895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229569/103896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229570/103895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229572/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229572/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229573/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229574/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229580/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229573/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229565/103897.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県三田市下槻瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/三田市/下槻瀬.json",
+    "name": "下槻瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県三田市"
+  }
+]

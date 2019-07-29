@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県明石市二見町字西二見",
+    "表記": "兵庫県明石市二見町字西二見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "明石市",
+      "町名": "二見町字西二見"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340740"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229286/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229283/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229284/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229285/104098.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県明石市二見町字西二見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/明石市/二見町字西二見.json",
+    "name": "二見町字西二見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県明石市"
+  }
+]

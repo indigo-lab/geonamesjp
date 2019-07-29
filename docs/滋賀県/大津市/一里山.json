@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県大津市一里山",
+    "表記": "滋賀県大津市一里山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "大津市",
+      "町名": "一里山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252013220"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県大津市一里山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/大津市/一里山.json",
+    "name": "一里山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県大津市",
+    "children": [
+      "https://geonames.jp/resource/滋賀県大津市一里山一丁目",
+      "https://geonames.jp/resource/滋賀県大津市一里山二丁目",
+      "https://geonames.jp/resource/滋賀県大津市一里山三丁目",
+      "https://geonames.jp/resource/滋賀県大津市一里山四丁目",
+      "https://geonames.jp/resource/滋賀県大津市一里山五丁目",
+      "https://geonames.jp/resource/滋賀県大津市一里山六丁目",
+      "https://geonames.jp/resource/滋賀県大津市一里山七丁目"
+    ]
+  }
+]

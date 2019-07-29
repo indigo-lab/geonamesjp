@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県潮来市あやめ二丁目",
+    "表記": "茨城県潮来市あやめ二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "潮来市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S08223003002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407424",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407423"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/102994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/102997.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県潮来市あやめ二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/潮来市/あやめ/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県潮来市あやめ"
+  }
+]

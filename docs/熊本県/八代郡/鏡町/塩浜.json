@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県八代郡鏡町塩浜",
+    "表記": "熊本県八代郡鏡町塩浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "八代郡",
+      "市区町村": "鏡町",
+      "町名": "塩浜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306469",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306479",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306489",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306560",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306570"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226184/105968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226183/105967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226183/105965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226184/105965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226183/105964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226186/105970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226187/105969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226187/105970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226188/105970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226188/105971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226189/105971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226187/105974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226190/105976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226188/105972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226189/105973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226190/105972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226191/105974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226191/105976.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県八代郡鏡町塩浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/八代郡/鏡町/塩浜.json",
+    "name": "塩浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県八代郡鏡町"
+  }
+]

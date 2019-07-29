@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都台東区浅草橋",
+    "表記": "東京都台東区浅草橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "台東区",
+      "町名": "浅草橋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131060160"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都台東区浅草橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/台東区/浅草橋.json",
+    "name": "浅草橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都台東区",
+    "children": [
+      "https://geonames.jp/resource/東京都台東区浅草橋一丁目",
+      "https://geonames.jp/resource/東京都台東区浅草橋二丁目",
+      "https://geonames.jp/resource/東京都台東区浅草橋三丁目",
+      "https://geonames.jp/resource/東京都台東区浅草橋四丁目",
+      "https://geonames.jp/resource/東京都台東区浅草橋五丁目"
+    ]
+  }
+]

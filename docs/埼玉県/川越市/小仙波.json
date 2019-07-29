@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県川越市小仙波",
+    "表記": "埼玉県川越市小仙波",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "川越市",
+      "町名": "小仙波"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397400",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396399",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396490",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397309"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232655/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232652/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232653/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232655/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232656/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232657/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232659/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232657/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232655/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232655/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232654/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232654/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232653/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232652/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232654/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232652/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232653/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232653/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232652/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103015.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県川越市小仙波",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/川越市/小仙波.json",
+    "name": "小仙波",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県川越市"
+  }
+]

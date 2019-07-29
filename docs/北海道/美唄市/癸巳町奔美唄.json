@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道美唄市癸巳町奔美唄",
+    "表記": "北海道美唄市癸巳町奔美唄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "美唄市",
+      "町名": "癸巳町奔美唄",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01215033004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065410721"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234399/95968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234398/95970.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道美唄市癸巳町奔美唄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/美唄市/癸巳町奔美唄.json",
+    "name": "癸巳町奔美唄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道美唄市"
+  }
+]

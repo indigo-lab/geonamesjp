@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都町田市真光寺町",
+    "表記": "東京都町田市真光寺町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "真光寺町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都町田市真光寺町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/町田市/真光寺町.json",
+    "name": "真光寺町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都町田市",
+    "children": [
+      "https://geonames.jp/resource/東京都町田市真光寺町（丁目なし）",
+      "https://geonames.jp/resource/東京都町田市真光寺町三丁目"
+    ]
+  }
+]

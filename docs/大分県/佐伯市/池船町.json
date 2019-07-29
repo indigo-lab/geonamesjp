@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県佐伯市池船町",
+    "表記": "大分県佐伯市池船町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "池船町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S442050270"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313741"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227117/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227116/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227116/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227115/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227115/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227114/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227114/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227114/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227113/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227113/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227113/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227112/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227112/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227112/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227116/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227113/105631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227115/105632.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県佐伯市池船町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/佐伯市/池船町.json",
+    "name": "池船町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県佐伯市"
+  }
+]

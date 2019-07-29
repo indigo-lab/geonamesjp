@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市川崎六丁目",
+    "表記": "新潟県長岡市川崎六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "長岡市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S15202059006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381740"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232197/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232194/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232195/101616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232196/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232194/101618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232194/101619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232195/101619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232195/101618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232195/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232196/101618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232196/101619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232197/101619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232197/101618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232197/101620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232198/101619.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市川崎六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/川崎/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市川崎"
+  }
+]

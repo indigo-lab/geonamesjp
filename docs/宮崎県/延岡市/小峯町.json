@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市小峯町",
+    "表記": "宮崎県延岡市小峯町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "小峯町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S452031210"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048317500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048316499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048316590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048317409",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048317419"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226919/105950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226920/105947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226916/105953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226913/105953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226922/105947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226920/105949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226922/105951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226921/105952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226920/105951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226920/105950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226919/105949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226917/105944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226917/105950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226920/105952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226920/105953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226921/105953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226915/105950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226914/105956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226912/105956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226916/105955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226918/105944.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市小峯町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/延岡市/小峯町.json",
+    "name": "小峯町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県延岡市"
+  }
+]

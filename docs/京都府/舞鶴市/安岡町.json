@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市安岡町",
+    "表記": "京都府舞鶴市安岡町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "安岡町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351374",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351384"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229691/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229691/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229691/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229691/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229690/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229690/103402.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市安岡町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/安岡町.json",
+    "name": "安岡町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

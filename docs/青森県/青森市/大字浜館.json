@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市大字浜館",
+    "表記": "青森県青森市大字浜館",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "大字浜館",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022010560"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401663",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401673"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/98468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/98470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/98470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/98472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/98471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/98470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/98469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/98464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233590/98464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/98471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233595/98470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/98462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/98463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233595/98471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233595/98469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/98462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/98468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/98471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/98472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/98469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/98470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/98466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/98465.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市大字浜館",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/大字浜館.json",
+    "name": "大字浜館",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市"
+  }
+]

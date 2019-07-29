@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市倉水",
+    "表記": "千葉県成田市倉水",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "倉水"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406320",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406330",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406331",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406311"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/103065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/103065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/103066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/103067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/103066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/103073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/103074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/103074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/103075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/103074.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市倉水",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/倉水.json",
+    "name": "倉水",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市"
+  }
+]

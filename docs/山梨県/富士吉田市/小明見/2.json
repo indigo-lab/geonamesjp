@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県富士吉田市小明見二丁目",
+    "表記": "山梨県富士吉田市小明見二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "富士吉田市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053381695",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053381696",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053382605",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053382606"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232157/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232159/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232159/103391.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県富士吉田市小明見二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/富士吉田市/小明見/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山梨県富士吉田市小明見"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県安来市清井町",
+    "表記": "島根県安来市清井町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "清井町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322060180"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330271",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330261",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330262",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330260",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330270"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228113/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228118/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228116/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228115/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228114/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228112/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228113/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228111/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228113/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228116/103482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228112/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228112/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228119/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228106/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228109/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228113/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228117/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228119/103482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228116/103484.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県安来市清井町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/安来市/清井町.json",
+    "name": "清井町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県安来市"
+  }
+]

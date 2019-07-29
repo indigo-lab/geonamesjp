@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県福井市三ッ屋町",
+    "表記": "福井県福井市三ッ屋町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "三ッ屋町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360194",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361105"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/102866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230240/102866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/102865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/102865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/102864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/102862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/102866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/102865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230240/102865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/102864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/102864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/102865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/102866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/102863.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県福井市三ッ屋町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/福井市/三ッ屋町.json",
+    "name": "三ッ屋町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県福井市"
+  }
+]

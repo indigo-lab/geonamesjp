@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県土佐郡土佐町境",
+    "表記": "高知県土佐郡土佐町境",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "土佐郡",
+      "市区町村": "土佐町",
+      "町名": "境",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S393630150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050334482",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050334483",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050334491",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050334492",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050334493",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335402"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228301/104940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228304/104940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228310/104939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228314/104940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228310/104942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228310/104947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228311/104947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228312/104947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228313/104947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228314/104948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228314/104946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228314/104945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228314/104947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228306/104937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228311/104948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228315/104947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228303/104937.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県土佐郡土佐町境",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/土佐郡/土佐町/境.json",
+    "name": "境",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県土佐郡土佐町"
+  }
+]

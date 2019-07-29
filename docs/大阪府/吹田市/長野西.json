@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府吹田市長野西",
+    "表記": "大阪府吹田市長野西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "吹田市",
+      "町名": "長野西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S272050640"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351443",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351453"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229769/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/104020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229769/104020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229768/104020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229769/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229769/104018.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府吹田市長野西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/吹田市/長野西.json",
+    "name": "長野西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府吹田市"
+  }
+]

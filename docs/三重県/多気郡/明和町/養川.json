@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県多気郡明和町養川",
+    "表記": "三重県多気郡明和町養川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "多気郡",
+      "市区町村": "明和町",
+      "町名": "養川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051366499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051366590"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230563/104208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/104210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/104208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/104207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230560/104207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230560/104210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230561/104206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230561/104209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230560/104209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/104210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230562/104210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230561/104208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230561/104211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/104208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230559/104209.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県多気郡明和町養川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/多気郡/明和町/養川.json",
+    "name": "養川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県多気郡明和町"
+  }
+]

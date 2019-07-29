@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県玉造郡鳴子町横山",
+    "表記": "宮城県玉造郡鳴子町横山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "玉造郡",
+      "市区町村": "鳴子町",
+      "町名": "横山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400660",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400661"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233568/100447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233569/100447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233570/100448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233571/100447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233573/100447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233572/100445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233573/100444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233574/100444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233576/100447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/100447.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県玉造郡鳴子町横山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/玉造郡/鳴子町/横山.json",
+    "name": "横山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県玉造郡鳴子町"
+  }
+]

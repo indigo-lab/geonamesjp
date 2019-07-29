@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県小笠郡小笠町大石",
+    "表記": "静岡県小笠郡小笠町大石",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "小笠郡",
+      "市区町村": "小笠町",
+      "町名": "大石"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380025",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380035"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231613/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231612/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231610/104104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231610/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231610/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231611/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231612/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231613/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231613/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231612/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231612/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231613/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231611/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231610/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231613/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231611/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231612/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231613/104112.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県小笠郡小笠町大石",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/小笠郡/小笠町/大石.json",
+    "name": "大石",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県小笠郡小笠町"
+  }
+]

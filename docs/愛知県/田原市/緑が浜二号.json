@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県田原市緑が浜二号",
+    "表記": "愛知県田原市緑が浜二号",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "田原市",
+      "町名": "緑が浜二号"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370251",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370241",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370252",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370261",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370262"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231032/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231031/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231038/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231033/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231033/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231031/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231034/104090.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県田原市緑が浜二号",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/田原市/緑が浜二号.json",
+    "name": "緑が浜二号",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県田原市"
+  }
+]

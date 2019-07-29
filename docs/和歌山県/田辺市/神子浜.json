@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市神子浜",
+    "表記": "和歌山県田辺市神子浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "田辺市",
+      "町名": "神子浜",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S302060261"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市神子浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/田辺市/神子浜.json",
+    "name": "神子浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県田辺市",
+    "children": [
+      "https://geonames.jp/resource/和歌山県田辺市神子浜一丁目",
+      "https://geonames.jp/resource/和歌山県田辺市神子浜二丁目"
+    ]
+  }
+]

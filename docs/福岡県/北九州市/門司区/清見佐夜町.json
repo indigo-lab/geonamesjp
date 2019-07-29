@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市門司区清見佐夜町",
+    "表記": "福岡県北九州市門司区清見佐夜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "門司区",
+      "町名": "清見佐夜町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401010251"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307738",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307739",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307729"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226453/104765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226454/104764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226454/104765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226455/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226454/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226453/104766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226454/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226454/104766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226455/104766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226455/104765.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市門司区清見佐夜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/門司区/清見佐夜町.json",
+    "name": "清見佐夜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市門司区"
+  }
+]

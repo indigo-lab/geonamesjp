@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区大将ケ根",
+    "表記": "愛知県名古屋市緑区大将ケ根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "緑区",
+      "町名": "大将ケ根"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区大将ケ根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/緑区/大将ケ根.json",
+    "name": "大将ケ根",
+    "alternateName": [
+      "大将ヶ根"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市緑区",
+    "children": [
+      "https://geonames.jp/resource/愛知県名古屋市緑区大将ケ根（丁目なし）",
+      "https://geonames.jp/resource/愛知県名古屋市緑区大将ケ根一丁目",
+      "https://geonames.jp/resource/愛知県名古屋市緑区大将ケ根二丁目"
+    ]
+  }
+]

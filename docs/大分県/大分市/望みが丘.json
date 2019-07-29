@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県大分市望みが丘",
+    "表記": "大分県大分市望みが丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "大分市",
+      "町名": "望みが丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S442012690"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316586",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316596",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316597"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226982/105383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226984/105383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226982/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226981/105381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226981/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226981/105382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226982/105382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226981/105383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226982/105384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226981/105384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226983/105382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226983/105383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226983/105384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226982/105385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226981/105385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226982/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226983/105385.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県大分市望みが丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/大分市/望みが丘.json",
+    "name": "望みが丘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県大分市"
+  }
+]

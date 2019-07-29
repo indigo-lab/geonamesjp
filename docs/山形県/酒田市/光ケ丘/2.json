@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県酒田市光ケ丘二丁目",
+    "表記": "山形県酒田市光ケ丘二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "酒田市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06204008002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058393616",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058393606"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/100254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/100255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/100254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/100254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/100253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/100255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/100256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/100256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/100253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/100253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/100252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/100252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/100254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/100256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/100255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/100255.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県酒田市光ケ丘二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/酒田市/光ケ丘/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山形県酒田市光ケ丘"
+  }
+]

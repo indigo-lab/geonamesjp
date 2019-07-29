@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府大阪狭山市大野中",
+    "表記": "大阪府大阪狭山市大野中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "大阪狭山市",
+      "町名": "大野中",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S27231009002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355463",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355473"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229774/104305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229773/104305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229773/104304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229773/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229774/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/104304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229774/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229773/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229773/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229774/104301.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府大阪狭山市大野中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/大阪狭山市/大野中.json",
+    "name": "大野中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府大阪狭山市"
+  }
+]

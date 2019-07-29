@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県原町市青葉町二丁目",
+    "表記": "福島県原町市青葉町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "青葉町",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403757",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403758",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403767",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403768"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233727/101454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233727/101453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233726/101453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233726/101454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233726/101455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233726/101456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233725/101456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233725/101455.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県原町市青葉町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/原町市/青葉町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県原町市青葉町"
+  }
+]

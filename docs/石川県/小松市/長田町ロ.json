@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県小松市長田町ロ",
+    "表記": "石川県小松市長田町ロ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "小松市",
+      "町名": "長田町ロ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365307",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365308"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230449/102561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230449/102557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230449/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230447/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230450/102558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230447/102560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230448/102560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230449/102560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230446/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230447/102557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230450/102560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230449/102558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230447/102558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230450/102557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230451/102558.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県小松市長田町ロ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/小松市/長田町ロ.json",
+    "name": "長田町ロ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県小松市"
+  }
+]

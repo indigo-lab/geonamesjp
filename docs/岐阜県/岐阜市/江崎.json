@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市江崎",
+    "表記": "岐阜県岐阜市江崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "岐阜市",
+      "町名": "江崎"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市江崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/岐阜市/江崎.json",
+    "name": "江崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県岐阜市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県岐阜市江崎（丁目なし）",
+      "https://geonames.jp/resource/岐阜県岐阜市江崎一丁目",
+      "https://geonames.jp/resource/岐阜県岐阜市江崎二丁目",
+      "https://geonames.jp/resource/岐阜県岐阜市江崎三丁目"
+    ]
+  }
+]

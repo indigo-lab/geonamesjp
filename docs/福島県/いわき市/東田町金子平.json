@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市東田町金子平",
+    "表記": "福島県いわき市東田町金子平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "東田町金子平",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07204099000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403605",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403604",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403615"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233609/102103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233608/102103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233609/102104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233606/102104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233609/102102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233611/102101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233610/102101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233610/102102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233608/102104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233610/102103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233610/102104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233611/102102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233612/102101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233607/102104.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市東田町金子平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/東田町金子平.json",
+    "name": "東田町金子平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

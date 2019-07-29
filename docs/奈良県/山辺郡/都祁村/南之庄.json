@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県山辺郡都祁村南之庄",
+    "表記": "奈良県山辺郡都祁村南之庄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "山辺郡",
+      "市区町村": "都祁村",
+      "町名": "南之庄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357706",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357716"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230067/104195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230069/104195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230068/104196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230070/104195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230070/104192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230071/104194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230072/104194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230074/104195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230071/104195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230072/104195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230073/104193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230071/104196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230071/104197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230072/104196.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県山辺郡都祁村南之庄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/山辺郡/都祁村/南之庄.json",
+    "name": "南之庄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県山辺郡都祁村"
+  }
+]

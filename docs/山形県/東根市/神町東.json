@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県東根市神町東",
+    "表記": "山形県東根市神町東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "東根市",
+      "町名": "神町東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062110042"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県東根市神町東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/東根市/神町東.json",
+    "name": "神町東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県東根市",
+    "children": [
+      "https://geonames.jp/resource/山形県東根市神町東一丁目",
+      "https://geonames.jp/resource/山形県東根市神町東二丁目",
+      "https://geonames.jp/resource/山形県東根市神町東三丁目",
+      "https://geonames.jp/resource/山形県東根市神町東四丁目"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井郡丸岡町坪ノ内",
+    "表記": "福井県坂井郡丸岡町坪ノ内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "坂井郡",
+      "市区町村": "丸岡町",
+      "町名": "坪ノ内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361232",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361233",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361242",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361243"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230312/102839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230313/102835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230314/102835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230314/102834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230315/102834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230313/102834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230312/102834.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井郡丸岡町坪ノ内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井郡/丸岡町/坪ノ内.json",
+    "name": "坪ノ内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井郡丸岡町"
+  }
+]

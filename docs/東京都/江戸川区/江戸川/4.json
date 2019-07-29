@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都江戸川区江戸川四丁目",
+    "表記": "東京都江戸川区江戸川四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "江戸川区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13123017004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394710",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394711"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232934/103227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232935/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232935/103226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/103228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/103229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232934/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232934/103226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103229.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都江戸川区江戸川四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/江戸川区/江戸川/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都江戸川区江戸川"
+  }
+]

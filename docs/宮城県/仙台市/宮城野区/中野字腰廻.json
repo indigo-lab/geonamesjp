@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区中野字腰廻",
+    "表記": "宮城県仙台市宮城野区中野字腰廻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "宮城野区",
+      "町名": "中野字腰廻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403728"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233728/100869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233728/100867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233729/100868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233729/100867.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区中野字腰廻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/宮城野区/中野字腰廻.json",
+    "name": "中野字腰廻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市宮城野区"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市瀬戸町",
+    "表記": "福島県いわき市瀬戸町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "瀬戸町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072041090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402558",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402557"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233547/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233549/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233554/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233550/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233551/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233546/102138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233548/102140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233548/102144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233547/102139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233545/102135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233555/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233550/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233541/102141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233547/102141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233550/102135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233552/102140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233552/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233553/102138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233553/102141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233546/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233546/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233548/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233550/102139.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市瀬戸町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/瀬戸町.json",
+    "name": "瀬戸町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

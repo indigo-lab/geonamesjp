@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市玉山区日戸",
+    "表記": "岩手県盛岡市玉山区日戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "玉山区日戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059415155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059415156",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059415165",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059415167"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233883/99430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233883/99428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233887/99435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233883/99434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233884/99434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233890/99435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233888/99432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233882/99434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233887/99437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233883/99435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233886/99430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233901/99431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233895/99436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233905/99426.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市玉山区日戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/玉山区日戸.json",
+    "name": "玉山区日戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

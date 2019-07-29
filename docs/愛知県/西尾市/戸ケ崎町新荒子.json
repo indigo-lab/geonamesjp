@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西尾市戸ケ崎町新荒子",
+    "表記": "愛知県西尾市戸ケ崎町新荒子",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "西尾市",
+      "町名": "戸ケ崎町新荒子"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372065"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230883/103938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230882/103937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230883/103937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230882/103936.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西尾市戸ケ崎町新荒子",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西尾市/戸ケ崎町新荒子.json",
+    "name": "戸ケ崎町新荒子",
+    "alternateName": [
+      "戸ヶ崎町新荒子"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県西尾市"
+  }
+]

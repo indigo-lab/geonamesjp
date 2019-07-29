@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県糸島郡二丈町満吉",
+    "表記": "福岡県糸島郡二丈町満吉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "糸島郡",
+      "市区町村": "二丈町",
+      "町名": "満吉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302102",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302113",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302122",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302112"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225852/105149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225853/105143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225849/105168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225853/105144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225855/105144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225854/105144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225852/105141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225853/105151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225849/105154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225853/105148.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県糸島郡二丈町満吉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/糸島郡/二丈町/満吉.json",
+    "name": "満吉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県糸島郡二丈町"
+  }
+]

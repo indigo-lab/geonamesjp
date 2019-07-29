@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡高遠町藤沢",
+    "表記": "長野県上伊那郡高遠町藤沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "上伊那郡",
+      "市区町村": "高遠町",
+      "町名": "藤沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053386077"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231626/103036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231631/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231631/103037.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡高遠町藤沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上伊那郡/高遠町/藤沢.json",
+    "name": "藤沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上伊那郡高遠町"
+  }
+]

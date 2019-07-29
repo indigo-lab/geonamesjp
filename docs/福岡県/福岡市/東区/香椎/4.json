@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区香椎四丁目",
+    "表記": "福岡県福岡市東区香椎四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "東区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40131033004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303385",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303386"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226064/105021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226064/105022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226064/105023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226065/105023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226065/105022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226061/105021.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区香椎四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/東区/香椎/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市東区香椎"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県榛原郡吉田町",
+    "表記": "静岡県榛原郡吉田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "榛原郡",
+      "市区町村": "吉田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C22424-19770601",
+        "http://data.e-stat.go.jp/lod/sac/C22424-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C22424-19720201",
+        "http://data.e-stat.go.jp/lod/sac/C22424-19771201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県榛原郡吉田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/榛原郡/吉田町.json",
+    "name": "吉田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県榛原郡",
+    "children": [
+      "https://geonames.jp/resource/静岡県榛原郡吉田町川尻",
+      "https://geonames.jp/resource/静岡県榛原郡吉田町神戸",
+      "https://geonames.jp/resource/静岡県榛原郡吉田町大幡",
+      "https://geonames.jp/resource/静岡県榛原郡吉田町住吉",
+      "https://geonames.jp/resource/静岡県榛原郡吉田町片岡"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1202789"
+    ]
+  }
+]

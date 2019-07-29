@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡三朝町大字森",
+    "表記": "鳥取県東伯郡三朝町大字森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "東伯郡",
+      "市区町村": "三朝町",
+      "町名": "大字森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330780"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228553/103481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228556/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228553/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228554/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228553/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228552/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228550/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228550/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228549/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228549/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228551/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228556/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228554/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228549/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228556/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228552/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228555/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228558/103477.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡三朝町大字森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/東伯郡/三朝町/大字森.json",
+    "name": "大字森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県東伯郡三朝町"
+  }
+]

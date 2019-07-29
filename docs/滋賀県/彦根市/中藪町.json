@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県彦根市中藪町",
+    "表記": "滋賀県彦根市中藪町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "中藪町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25202037001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25202037002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252020370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367129",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367119"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/103592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103597.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県彦根市中藪町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/彦根市/中藪町.json",
+    "name": "中藪町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県彦根市"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県安八郡墨俣町墨俣",
+    "表記": "岐阜県安八郡墨俣町墨俣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "安八郡",
+      "市区町村": "墨俣町",
+      "町名": "墨俣"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360534",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360544",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360545"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230604/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230604/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230604/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230604/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/103503.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県安八郡墨俣町墨俣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/安八郡/墨俣町/墨俣.json",
+    "name": "墨俣",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県安八郡墨俣町"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府堺市堺区賑町字三丁",
+    "表記": "大阪府堺市堺区賑町字三丁",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "堺市",
+      "区": "堺区",
+      "町名": "賑町字三丁"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356388"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229723/104217.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府堺市堺区賑町字三丁",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/堺市/堺区/賑町字三丁.json",
+    "name": "賑町字三丁",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府堺市堺区"
+  }
+]

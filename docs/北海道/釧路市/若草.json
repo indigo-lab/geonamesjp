@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路市若草",
+    "表記": "北海道釧路市若草",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "釧路市",
+      "町名": "若草"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路市若草",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路市/若草.json",
+    "name": "若草",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路市",
+    "children": [
+      "https://geonames.jp/resource/北海道釧路市若草一丁目"
+    ]
+  }
+]

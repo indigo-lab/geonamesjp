@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道旭川市西神楽一線六号",
+    "表記": "北海道旭川市西神楽一線六号",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "旭川市",
+      "町名": "西神楽一線六号"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065424269",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065424259"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234740/95603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234742/95603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234743/95603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234739/95604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234738/95604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234741/95603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234742/95605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234741/95607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234739/95606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234740/95606.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道旭川市西神楽一線六号",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/旭川市/西神楽一線六号.json",
+    "name": "西神楽一線六号",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道旭川市"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県美濃加茂市蜂屋町字伊瀬",
+    "表記": "岐阜県美濃加茂市蜂屋町字伊瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "美濃加茂市",
+      "町名": "蜂屋町字伊瀬"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361759"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230828/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230827/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230832/103422.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県美濃加茂市蜂屋町字伊瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/美濃加茂市/蜂屋町字伊瀬.json",
+    "name": "蜂屋町字伊瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県美濃加茂市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡谷和原村南",
+    "表記": "茨城県筑波郡谷和原村南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "筑波郡",
+      "市区町村": "谷和原村",
+      "町名": "南"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400012",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400021",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400022",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400023",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400032"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/102922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/102922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/102919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/102920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/102922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/102923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/102922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/102923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/102924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233041/102925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233040/102923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233041/102922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/102927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233041/102921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233039/102921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233031/102924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233036/102914.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡谷和原村南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/筑波郡/谷和原村/南.json",
+    "name": "南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県筑波郡谷和原村"
+  }
+]

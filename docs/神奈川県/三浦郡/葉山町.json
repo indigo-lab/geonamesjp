@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県三浦郡葉山町",
+    "表記": "神奈川県三浦郡葉山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "郡": "三浦郡",
+      "市区町村": "葉山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C14301-19750215",
+        "http://data.e-stat.go.jp/lod/sac/C14301-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県三浦郡葉山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/三浦郡/葉山町.json",
+    "name": "葉山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県三浦郡",
+    "children": [
+      "https://geonames.jp/resource/神奈川県三浦郡葉山町長柄",
+      "https://geonames.jp/resource/神奈川県三浦郡葉山町上山口",
+      "https://geonames.jp/resource/神奈川県三浦郡葉山町木古庭",
+      "https://geonames.jp/resource/神奈川県三浦郡葉山町下山口",
+      "https://geonames.jp/resource/神奈川県三浦郡葉山町堀内",
+      "https://geonames.jp/resource/神奈川県三浦郡葉山町一色"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1342807"
+    ]
+  }
+]

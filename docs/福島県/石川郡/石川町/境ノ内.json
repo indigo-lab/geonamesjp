@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町境ノ内",
+    "表記": "福島県石川郡石川町境ノ内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "石川郡",
+      "市区町村": "石川町",
+      "町名": "境ノ内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405386",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405387",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405396",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405397"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233357/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233357/101889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233356/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/101889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233357/101886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233356/101889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233357/101887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/101888.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町境ノ内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/石川郡/石川町/境ノ内.json",
+    "name": "境ノ内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県石川郡石川町"
+  }
+]

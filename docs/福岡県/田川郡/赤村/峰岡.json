@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県田川郡赤村峰岡",
+    "表記": "福岡県田川郡赤村峰岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "田川郡",
+      "市区町村": "赤村",
+      "町名": "峰岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303710"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226375/105074.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県田川郡赤村峰岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/田川郡/赤村/峰岡.json",
+    "name": "峰岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県田川郡赤村"
+  }
+]

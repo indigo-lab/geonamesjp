@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県尾道市沖側町",
+    "表記": "広島県尾道市沖側町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "沖側町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342050220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334183"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228042/104364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228042/104365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228041/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228042/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228041/104362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228041/104365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228039/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228041/104364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228040/104364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228040/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228041/104361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228039/104364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228040/104362.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県尾道市沖側町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/尾道市/沖側町.json",
+    "name": "沖側町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県尾道市"
+  }
+]

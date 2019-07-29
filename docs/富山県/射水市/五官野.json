@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県射水市五官野",
+    "表記": "富山県射水市五官野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "射水市",
+      "町名": "五官野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377095",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370005"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230881/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/102338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/102342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/102339.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県射水市五官野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/射水市/五官野.json",
+    "name": "五官野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県射水市"
+  }
+]

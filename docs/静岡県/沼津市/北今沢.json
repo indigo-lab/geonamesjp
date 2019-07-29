@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県沼津市北今沢",
+    "表記": "静岡県沼津市北今沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "沼津市",
+      "町名": "北今沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222031490"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385655"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232159/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232159/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232157/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232157/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232156/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232156/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232155/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232155/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232154/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232154/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232153/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232155/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/103726.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県沼津市北今沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/沼津市/北今沢.json",
+    "name": "北今沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県沼津市"
+  }
+]

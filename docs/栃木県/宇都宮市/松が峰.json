@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県宇都宮市松が峰",
+    "表記": "栃木県宇都宮市松が峰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "宇都宮市",
+      "町名": "松が峰",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092010800"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県宇都宮市松が峰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/宇都宮市/松が峰.json",
+    "name": "松が峰",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県宇都宮市",
+    "children": [
+      "https://geonames.jp/resource/栃木県宇都宮市松が峰一丁目",
+      "https://geonames.jp/resource/栃木県宇都宮市松が峰二丁目"
+    ]
+  }
+]

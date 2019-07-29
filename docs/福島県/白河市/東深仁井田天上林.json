@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市東深仁井田天上林",
+    "表記": "福島県白河市東深仁井田天上林",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "東深仁井田天上林"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405237",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405247"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/101928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233269/101928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233269/101927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233271/101927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233271/101929.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市東深仁井田天上林",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/東深仁井田天上林.json",
+    "name": "東深仁井田天上林",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

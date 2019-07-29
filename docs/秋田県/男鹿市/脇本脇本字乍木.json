@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市脇本脇本字乍木",
+    "表記": "秋田県男鹿市脇本脇本字乍木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "男鹿市",
+      "町名": "脇本脇本字乍木",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S05206037015"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059396791",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397701"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/99321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232937/99321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232938/99322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232939/99323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/99324.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市脇本脇本字乍木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/男鹿市/脇本脇本字乍木.json",
+    "name": "脇本脇本字乍木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県男鹿市"
+  }
+]

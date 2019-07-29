@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県伊勢崎市堤西町",
+    "表記": "群馬県伊勢崎市堤西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "堤西町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394115",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394105"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232430/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232429/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232427/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232428/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232429/102630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232430/102632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232430/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232431/102630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232432/102632.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県伊勢崎市堤西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/伊勢崎市/堤西町.json",
+    "name": "堤西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県伊勢崎市"
+  }
+]

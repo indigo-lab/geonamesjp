@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県小矢部市西町",
+    "表記": "富山県小矢部市西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162090100"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360609",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360608",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360619"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230732/102330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230733/102328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230732/102328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230733/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230731/102330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230731/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230732/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230731/102328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230733/102330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230732/102331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230730/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230731/102331.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県小矢部市西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/小矢部市/西町.json",
+    "name": "西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県小矢部市"
+  }
+]

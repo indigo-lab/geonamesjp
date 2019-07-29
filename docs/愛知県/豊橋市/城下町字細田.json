@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市城下町字細田",
+    "表記": "愛知県豊橋市城下町字細田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "城下町字細田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051377287",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051377297"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231085/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231083/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231085/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231085/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231085/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231085/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231086/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231086/104139.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市城下町字細田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/城下町字細田.json",
+    "name": "城下町字細田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

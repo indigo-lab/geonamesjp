@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新井市上中",
+    "表記": "新潟県新井市上中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新井市",
+      "町名": "上中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384118",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384128",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384129"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231729/102016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231728/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231730/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231732/102017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231731/102016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231731/102017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231733/102013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/102025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/102022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231727/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231728/102020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231728/102022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231727/102025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231729/102020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231728/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231730/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/102025.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新井市上中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新井市/上中.json",
+    "name": "上中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新井市"
+  }
+]

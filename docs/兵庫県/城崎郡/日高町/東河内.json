@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡日高町東河内",
+    "表記": "兵庫県城崎郡日高町東河内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "城崎郡",
+      "市区町村": "日高町",
+      "町名": "東河内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342503",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342512",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342513"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229129/103379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229131/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229129/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229130/103381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229130/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229131/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229131/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229131/103381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229132/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229132/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229132/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229133/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229133/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229133/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229134/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229137/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229139/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229139/103381.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡日高町東河内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/城崎郡/日高町/東河内.json",
+    "name": "東河内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県城崎郡日高町"
+  }
+]

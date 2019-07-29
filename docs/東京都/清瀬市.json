@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都清瀬市",
+    "表記": "東京都清瀬市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "清瀬市",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C13221-19701001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都清瀬市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/清瀬市.json",
+    "name": "清瀬市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都",
+    "children": [
+      "https://geonames.jp/resource/東京都清瀬市野塩",
+      "https://geonames.jp/resource/東京都清瀬市中里",
+      "https://geonames.jp/resource/東京都清瀬市下清戸",
+      "https://geonames.jp/resource/東京都清瀬市竹丘",
+      "https://geonames.jp/resource/東京都清瀬市中清戸",
+      "https://geonames.jp/resource/東京都清瀬市梅園",
+      "https://geonames.jp/resource/東京都清瀬市旭が丘",
+      "https://geonames.jp/resource/東京都清瀬市元町",
+      "https://geonames.jp/resource/東京都清瀬市上清戸",
+      "https://geonames.jp/resource/東京都清瀬市松山",
+      "https://geonames.jp/resource/東京都清瀬市下宿"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q329754"
+    ]
+  }
+]

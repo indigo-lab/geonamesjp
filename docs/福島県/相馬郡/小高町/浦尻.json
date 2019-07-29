@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町浦尻",
+    "表記": "福島県相馬郡小高町浦尻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "小高町",
+      "町名": "浦尻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412011",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412012",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412022",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412032",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412021"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233763/101561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233760/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233768/101556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233767/101555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233767/101560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233768/101557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233764/101555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233767/101554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233767/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233767/101553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233768/101553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233766/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233764/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233763/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233762/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233766/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233765/101556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233764/101557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233763/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233759/101559.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町浦尻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/小高町/浦尻.json",
+    "name": "浦尻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡小高町"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県丹羽郡大口町中小口五丁目",
+    "表記": "愛知県丹羽郡大口町中小口五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "丹羽郡",
+      "市区町村": "大口町",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23361030005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360703"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103537.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県丹羽郡大口町中小口五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/丹羽郡/大口町/中小口/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県丹羽郡大口町中小口"
+  }
+]

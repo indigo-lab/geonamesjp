@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県真岡市白布ケ丘",
+    "表記": "栃木県真岡市白布ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "真岡市",
+      "町名": "白布ケ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054395729",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054405020"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/102546.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県真岡市白布ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/真岡市/白布ケ丘.json",
+    "name": "白布ケ丘",
+    "alternateName": [
+      "白布ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/栃木県真岡市"
+  }
+]

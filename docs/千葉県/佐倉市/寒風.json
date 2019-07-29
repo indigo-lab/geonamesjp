@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県佐倉市寒風",
+    "表記": "千葉県佐倉市寒風",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "佐倉市",
+      "町名": "寒風",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122121150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404230",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404139"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233198/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233201/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233199/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233199/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233198/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233197/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233197/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233196/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233199/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233201/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103213.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県佐倉市寒風",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/佐倉市/寒風.json",
+    "name": "寒風",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県佐倉市"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県安芸郡音戸町田原",
+    "表記": "広島県安芸郡音戸町田原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "安芸郡",
+      "市区町村": "音戸町",
+      "町名": "田原"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県安芸郡音戸町田原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/安芸郡/音戸町/田原.json",
+    "name": "田原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県安芸郡音戸町",
+    "children": [
+      "https://geonames.jp/resource/広島県安芸郡音戸町田原一丁目",
+      "https://geonames.jp/resource/広島県安芸郡音戸町田原二丁目",
+      "https://geonames.jp/resource/広島県安芸郡音戸町田原三丁目"
+    ]
+  }
+]

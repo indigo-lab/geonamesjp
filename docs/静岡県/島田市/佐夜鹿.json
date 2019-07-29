@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県島田市佐夜鹿",
+    "表記": "静岡県島田市佐夜鹿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "島田市",
+      "町名": "佐夜鹿"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381087",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381088",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381097"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231631/103993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231633/103992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231632/103991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231631/103992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231632/103992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231635/103994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231639/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231635/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231634/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231631/103989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231632/103989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231634/103994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231631/103991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231637/103993.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県島田市佐夜鹿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/島田市/佐夜鹿.json",
+    "name": "佐夜鹿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県島田市"
+  }
+]

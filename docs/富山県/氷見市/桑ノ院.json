@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県氷見市桑ノ院",
+    "表記": "富山県氷見市桑ノ院",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "氷見市",
+      "町名": "桑ノ院"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361761",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361770",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361771",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361780",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361790"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/102194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/102193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230751/102194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/102200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/102197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/102196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/102198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/102208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/102207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/102202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/102198.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県氷見市桑ノ院",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/氷見市/桑ノ院.json",
+    "name": "桑ノ院",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県氷見市"
+  }
+]

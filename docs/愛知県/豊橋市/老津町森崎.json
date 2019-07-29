@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市老津町森崎",
+    "表記": "愛知県豊橋市老津町森崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "老津町森崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370236",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370246"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231071/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231071/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231071/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231072/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231073/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231073/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231074/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231074/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231075/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231072/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231072/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231070/104100.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市老津町森崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/老津町森崎.json",
+    "name": "老津町森崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県小松市今江町ツ",
+    "表記": "石川県小松市今江町ツ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "小松市",
+      "町名": "今江町ツ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364344",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364345"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230421/102606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102605.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県小松市今江町ツ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/小松市/今江町ツ.json",
+    "name": "今江町ツ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県小松市"
+  }
+]

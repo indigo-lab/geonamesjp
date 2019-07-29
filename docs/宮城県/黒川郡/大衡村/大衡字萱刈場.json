@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県黒川郡大衡村大衡字萱刈場",
+    "表記": "宮城県黒川郡大衡村大衡字萱刈場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "黒川郡",
+      "市区町村": "大衡村",
+      "町名": "大衡字萱刈場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405791",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405790",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406701"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/100652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/100655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/100656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/100658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233666/100657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233666/100661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233667/100657.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県黒川郡大衡村大衡字萱刈場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/黒川郡/大衡村/大衡字萱刈場.json",
+    "name": "大衡字萱刈場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県黒川郡大衡村"
+  }
+]

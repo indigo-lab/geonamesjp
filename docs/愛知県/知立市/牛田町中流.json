@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知立市牛田町中流",
+    "表記": "愛知県知立市牛田町中流",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "知立市",
+      "町名": "牛田町中流"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374005",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374014"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103828.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知立市牛田町中流",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知立市/牛田町中流.json",
+    "name": "牛田町中流",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知立市"
+  }
+]

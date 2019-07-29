@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県海部郡立田村新右ェ門新田",
+    "表記": "愛知県海部郡立田村新右ェ門新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "海部郡",
+      "市区町村": "立田村",
+      "町名": "新右ェ門新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366515",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366525"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230611/103669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230610/103674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230610/103669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103669.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県海部郡立田村新右ェ門新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/海部郡/立田村/新右ェ門新田.json",
+    "name": "新右ェ門新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県海部郡立田村"
+  }
+]

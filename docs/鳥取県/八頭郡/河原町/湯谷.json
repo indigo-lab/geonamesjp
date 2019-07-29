@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町湯谷",
+    "表記": "鳥取県八頭郡河原町湯谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "八頭郡",
+      "市区町村": "河原町",
+      "町名": "湯谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340162"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228759/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228760/103488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228758/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228758/103492.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町湯谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/八頭郡/河原町/湯谷.json",
+    "name": "湯谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県八頭郡河原町"
+  }
+]

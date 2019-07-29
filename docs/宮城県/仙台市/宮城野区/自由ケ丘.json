@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区自由ケ丘",
+    "表記": "宮城県仙台市宮城野区自由ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "宮城野区",
+      "町名": "自由ケ丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S041020300"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403741",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403751",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403752"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100849.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区自由ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/宮城野区/自由ケ丘.json",
+    "name": "自由ケ丘",
+    "alternateName": [
+      "自由ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市宮城野区"
+  }
+]

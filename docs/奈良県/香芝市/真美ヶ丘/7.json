@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県香芝市真美ヶ丘七丁目",
+    "表記": "奈良県香芝市真美ヶ丘七丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "香芝市",
+      "町名": "七丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S29210071007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356557",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356558",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356547",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104238.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県香芝市真美ヶ丘七丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/香芝市/真美ヶ丘/7.json",
+    "name": "七丁目",
+    "alternateName": [
+      "7",
+      "7丁目",
+      "７",
+      "７丁目",
+      "七"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県香芝市真美ヶ丘"
+  }
+]

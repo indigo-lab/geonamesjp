@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市小牧原三丁目",
+    "表記": "愛知県小牧市小牧原三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23219011103"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367764",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367765"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/103564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/103562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230787/103562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/103563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/103564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/103565.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市小牧原三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/小牧原/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市小牧原"
+  }
+]

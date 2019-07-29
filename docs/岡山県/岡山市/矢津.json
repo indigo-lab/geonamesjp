@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市矢津",
+    "表記": "岡山県岡山市矢津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "矢津"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330739",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330749"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228640/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228642/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228640/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228638/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228639/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228639/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228640/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228639/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228641/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228644/104094.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市矢津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/矢津.json",
+    "name": "矢津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

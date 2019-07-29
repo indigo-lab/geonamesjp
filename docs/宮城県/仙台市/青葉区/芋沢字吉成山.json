@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市青葉区芋沢字吉成山",
+    "表記": "宮城県仙台市青葉区芋沢字吉成山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "青葉区",
+      "町名": "芋沢字吉成山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403655",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403644",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403664",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403665"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233609/100844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233607/100834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233608/100834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233607/100835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233607/100833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233606/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233609/100834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233610/100835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233609/100840.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市青葉区芋沢字吉成山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/青葉区/芋沢字吉成山.json",
+    "name": "芋沢字吉成山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市青葉区"
+  }
+]

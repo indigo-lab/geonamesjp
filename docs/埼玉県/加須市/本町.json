@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県加須市本町",
+    "表記": "埼玉県加須市本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "本町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112100020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391448",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391458"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/102827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/102828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/102828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232727/102828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232728/102828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232727/102827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/102827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232728/102827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/102826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/102826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232727/102826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232728/102826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232727/102825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/102825.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県加須市本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/加須市/本町.json",
+    "name": "本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県加須市"
+  }
+]

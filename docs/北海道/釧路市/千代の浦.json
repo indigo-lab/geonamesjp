@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路市千代の浦",
+    "表記": "北海道釧路市千代の浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "釧路市",
+      "町名": "千代の浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443351",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443361"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236217/96357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236216/96358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236214/96359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236216/96356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236217/96355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236214/96357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236215/96357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236213/96356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236215/96356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236214/96356.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路市千代の浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路市/千代の浦.json",
+    "name": "千代の浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路市"
+  }
+]

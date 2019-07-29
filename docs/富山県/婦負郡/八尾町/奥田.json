@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県婦負郡八尾町奥田",
+    "表記": "富山県婦負郡八尾町奥田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "婦負郡",
+      "市区町村": "八尾町",
+      "町名": "奥田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377039",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377049",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377130",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377140"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230927/102383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230927/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230927/102378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230927/102377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230926/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230926/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230926/102382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230924/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230925/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230925/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230924/102382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230924/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230923/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230921/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230922/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230923/102384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230922/102388.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県婦負郡八尾町奥田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/婦負郡/八尾町/奥田.json",
+    "name": "奥田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県婦負郡八尾町"
+  }
+]

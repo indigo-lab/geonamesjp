@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市保土ケ谷区桜ケ丘",
+    "表記": "神奈川県横浜市保土ケ谷区桜ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "保土ケ谷区",
+      "町名": "桜ケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市保土ケ谷区桜ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/保土ケ谷区/桜ケ丘.json",
+    "name": "桜ケ丘",
+    "alternateName": [
+      "桜ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市保土ケ谷区",
+    "children": [
+      "https://geonames.jp/resource/神奈川県横浜市保土ケ谷区桜ケ丘一丁目",
+      "https://geonames.jp/resource/神奈川県横浜市保土ケ谷区桜ケ丘二丁目"
+    ]
+  }
+]

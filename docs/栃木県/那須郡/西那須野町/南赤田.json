@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須郡西那須野町南赤田",
+    "表記": "栃木県那須郡西那須野町南赤田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "那須郡",
+      "市区町村": "西那須野町",
+      "町名": "南赤田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055392786",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055392787"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232989/102122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232986/102120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232987/102121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232989/102124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232988/102123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232986/102122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/102121.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須郡西那須野町南赤田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須郡/西那須野町/南赤田.json",
+    "name": "南赤田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須郡西那須野町"
+  }
+]

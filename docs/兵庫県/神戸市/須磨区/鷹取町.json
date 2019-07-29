@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市須磨区鷹取町",
+    "表記": "兵庫県神戸市須磨区鷹取町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "神戸市",
+      "区": "須磨区",
+      "町名": "鷹取町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S281070410"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市須磨区鷹取町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/神戸市/須磨区/鷹取町.json",
+    "name": "鷹取町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県神戸市須磨区",
+    "children": [
+      "https://geonames.jp/resource/兵庫県神戸市須磨区鷹取町一丁目",
+      "https://geonames.jp/resource/兵庫県神戸市須磨区鷹取町二丁目",
+      "https://geonames.jp/resource/兵庫県神戸市須磨区鷹取町三丁目",
+      "https://geonames.jp/resource/兵庫県神戸市須磨区鷹取町四丁目"
+    ]
+  }
+]

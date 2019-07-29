@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県出石郡出石町荒木",
+    "表記": "兵庫県出石郡出石町荒木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "出石郡",
+      "市区町村": "出石町",
+      "町名": "荒木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341656",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341657",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341667",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341668",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341677"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229257/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229258/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229258/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229258/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229259/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229260/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229260/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229264/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229266/103416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229266/103417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229268/103416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229260/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229265/103411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229268/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229269/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229250/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229253/103421.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県出石郡出石町荒木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/出石郡/出石町/荒木.json",
+    "name": "荒木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県出石郡出石町"
+  }
+]

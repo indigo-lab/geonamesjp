@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市千種区赤坂町一丁目",
+    "表記": "愛知県名古屋市千種区赤坂町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "千種区",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23101002001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366717"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230801/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/103671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230805/103671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230800/103672.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市千種区赤坂町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/千種区/赤坂町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市千種区赤坂町"
+  }
+]

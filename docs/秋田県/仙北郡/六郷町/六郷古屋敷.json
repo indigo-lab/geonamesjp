@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡六郷町六郷古屋敷",
+    "表記": "秋田県仙北郡六郷町六郷古屋敷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "仙北郡",
+      "市区町村": "六郷町",
+      "町名": "六郷古屋敷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059401403"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233413/99786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233412/99787.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡六郷町六郷古屋敷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/仙北郡/六郷町/六郷古屋敷.json",
+    "name": "六郷古屋敷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県仙北郡六郷町"
+  }
+]

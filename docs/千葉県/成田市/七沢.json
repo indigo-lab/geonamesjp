@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市七沢",
+    "表記": "千葉県成田市七沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "七沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122111480"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406249",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406330"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233288/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233286/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/103064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103065.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市七沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/七沢.json",
+    "name": "七沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市"
+  }
+]

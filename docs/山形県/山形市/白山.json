@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市白山",
+    "表記": "山形県山形市白山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "白山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062011480"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市白山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/白山.json",
+    "name": "白山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市",
+    "children": [
+      "https://geonames.jp/resource/山形県山形市白山一丁目",
+      "https://geonames.jp/resource/山形県山形市白山二丁目",
+      "https://geonames.jp/resource/山形県山形市白山三丁目"
+    ]
+  }
+]

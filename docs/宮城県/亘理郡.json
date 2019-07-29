@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡",
+    "表記": "宮城県亘理郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "亘理郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C04360-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/亘理郡.json",
+    "name": "亘理郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県",
+    "children": [
+      "https://geonames.jp/resource/宮城県亘理郡亘理町",
+      "https://geonames.jp/resource/宮城県亘理郡山元町",
+      "https://geonames.jp/resource/宮城県亘理郡吉田村",
+      "https://geonames.jp/resource/宮城県亘理郡坂元村",
+      "https://geonames.jp/resource/宮城県亘理郡山下村",
+      "https://geonames.jp/resource/宮城県亘理郡荒浜村",
+      "https://geonames.jp/resource/宮城県亘理郡逢隈村",
+      "https://geonames.jp/resource/宮城県亘理郡荒浜町"
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県名取市名取ヶ丘",
+    "表記": "宮城県名取市名取ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "名取市",
+      "町名": "名取ヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県名取市名取ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/名取市/名取ヶ丘.json",
+    "name": "名取ヶ丘",
+    "alternateName": [
+      "名取ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県名取市",
+    "children": [
+      "https://geonames.jp/resource/宮城県名取市名取ヶ丘一丁目",
+      "https://geonames.jp/resource/宮城県名取市名取ヶ丘二丁目",
+      "https://geonames.jp/resource/宮城県名取市名取ヶ丘三丁目",
+      "https://geonames.jp/resource/宮城県名取市名取ヶ丘四丁目",
+      "https://geonames.jp/resource/宮城県名取市名取ヶ丘五丁目",
+      "https://geonames.jp/resource/宮城県名取市名取ヶ丘六丁目"
+    ]
+  }
+]

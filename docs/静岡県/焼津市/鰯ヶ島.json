@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県焼津市鰯ヶ島",
+    "表記": "静岡県焼津市鰯ヶ島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "焼津市",
+      "町名": "鰯ヶ島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052382225",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052382235"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231796/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231796/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231796/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231796/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231795/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231795/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231795/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231795/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231795/103957.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県焼津市鰯ヶ島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/焼津市/鰯ヶ島.json",
+    "name": "鰯ヶ島",
+    "alternateName": [
+      "鰯ケ島"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県焼津市"
+  }
+]

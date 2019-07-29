@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区守恒",
+    "表記": "福岡県北九州市小倉南区守恒",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "小倉南区",
+      "町名": "守恒",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401070620"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区守恒",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/小倉南区/守恒.json",
+    "name": "守恒",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市小倉南区",
+    "children": [
+      "https://geonames.jp/resource/福岡県北九州市小倉南区守恒一丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区守恒二丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区守恒三丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区守恒四丁目",
+      "https://geonames.jp/resource/福岡県北九州市小倉南区守恒五丁目"
+    ]
+  }
+]

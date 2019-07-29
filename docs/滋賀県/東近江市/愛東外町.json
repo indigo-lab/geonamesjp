@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市愛東外町",
+    "表記": "滋賀県東近江市愛東外町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "愛東外町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252131460"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365203",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365213"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230316/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230318/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230319/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230317/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230315/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230314/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230316/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230317/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230320/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230315/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230315/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230317/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230317/103755.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市愛東外町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/東近江市/愛東外町.json",
+    "name": "愛東外町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県東近江市"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県高島郡高島町城山台二丁目",
+    "表記": "滋賀県高島郡高島町城山台二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "高島郡",
+      "市区町村": "高島町",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367050",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367040"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230109/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230109/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230110/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230109/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230111/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230111/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230110/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230112/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230112/103577.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県高島郡高島町城山台二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/高島郡/高島町/城山台/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/滋賀県高島郡高島町城山台"
+  }
+]

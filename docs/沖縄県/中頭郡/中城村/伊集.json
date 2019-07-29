@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県中頭郡中城村伊集",
+    "表記": "沖縄県中頭郡中城村伊集",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "中頭郡",
+      "市区町村": "中城村",
+      "町名": "伊集"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272681",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272682",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272691"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224114/111260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224112/111258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224113/111260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224113/111259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224112/111259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224114/111259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224116/111260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224116/111261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224115/111261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224115/111260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224113/111261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224117/111261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224111/111258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224113/111257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224111/111259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224114/111258.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県中頭郡中城村伊集",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/中頭郡/中城村/伊集.json",
+    "name": "伊集",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県中頭郡中城村"
+  }
+]

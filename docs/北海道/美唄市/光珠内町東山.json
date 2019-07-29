@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道美唄市光珠内町東山",
+    "表記": "北海道美唄市光珠内町東山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "美唄市",
+      "町名": "光珠内町東山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01215044007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417647",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417658",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417649"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234363/96040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234362/96036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234363/96035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234363/96034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234364/96033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234366/96037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234367/96035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234367/96039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234376/96040.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道美唄市光珠内町東山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/美唄市/光珠内町東山.json",
+    "name": "光珠内町東山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道美唄市"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都渋谷区鉢山町",
+    "表記": "東京都渋谷区鉢山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "鉢山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131130080"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393585",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393586",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393575"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/103251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232796/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232796/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232795/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232795/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232796/103254.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都渋谷区鉢山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/渋谷区/鉢山町.json",
+    "name": "鉢山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都渋谷区"
+  }
+]

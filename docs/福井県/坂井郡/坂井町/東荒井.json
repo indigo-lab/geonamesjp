@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井郡坂井町東荒井",
+    "表記": "福井県坂井郡坂井町東荒井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "坂井郡",
+      "市区町村": "坂井町",
+      "町名": "東荒井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362114",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362115"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/102775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/102777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/102776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/102776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/102776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/102775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230239/102775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230240/102776.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井郡坂井町東荒井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井郡/坂井町/東荒井.json",
+    "name": "東荒井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井郡坂井町"
+  }
+]

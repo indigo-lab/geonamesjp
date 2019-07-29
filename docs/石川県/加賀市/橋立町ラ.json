@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県加賀市橋立町ラ",
+    "表記": "石川県加賀市橋立町ラ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "加賀市",
+      "町名": "橋立町ラ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364214"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230330/102623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230328/102623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230328/102625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230329/102623.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県加賀市橋立町ラ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/加賀市/橋立町ラ.json",
+    "name": "橋立町ラ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県加賀市"
+  }
+]

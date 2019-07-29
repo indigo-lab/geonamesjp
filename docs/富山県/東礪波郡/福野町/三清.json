@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町三清",
+    "表記": "富山県東礪波郡福野町三清",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "東礪波郡",
+      "市区町村": "福野町",
+      "町名": "三清"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366774",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366775",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366784"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/102429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/102429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/102429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230787/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230787/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230787/102430.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町三清",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/東礪波郡/福野町/三清.json",
+    "name": "三清",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県東礪波郡福野町"
+  }
+]

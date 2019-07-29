@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県伊賀市桐ケ丘八丁目",
+    "表記": "三重県伊賀市桐ケ丘八丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "伊賀市",
+      "町名": "八丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367196",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367185",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367195"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230250/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230250/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230250/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/104139.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県伊賀市桐ケ丘八丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/伊賀市/桐ケ丘/8.json",
+    "name": "八丁目",
+    "alternateName": [
+      "8",
+      "8丁目",
+      "８",
+      "８丁目",
+      "八"
+    ],
+    "parentFeature": "https://geonames.jp/resource/三重県伊賀市桐ケ丘"
+  }
+]

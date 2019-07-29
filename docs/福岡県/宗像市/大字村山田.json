@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県宗像市大字村山田",
+    "表記": "福岡県宗像市大字村山田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "宗像市",
+      "町名": "大字村山田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305432",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305441",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305442"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/104904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226123/104908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226121/104910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226121/104909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226118/104907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226117/104907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226117/104908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/104909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/104908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/104907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/104907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/104906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/104906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/104905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/104905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226117/104906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/104905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/104910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/104912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/104914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226113/104913.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県宗像市大字村山田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/宗像市/大字村山田.json",
+    "name": "大字村山田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県宗像市"
+  }
+]

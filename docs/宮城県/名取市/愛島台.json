@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県名取市愛島台",
+    "表記": "宮城県名取市愛島台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "名取市",
+      "町名": "愛島台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S042070521"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県名取市愛島台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/名取市/愛島台.json",
+    "name": "愛島台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県名取市",
+    "children": [
+      "https://geonames.jp/resource/宮城県名取市愛島台一丁目",
+      "https://geonames.jp/resource/宮城県名取市愛島台二丁目",
+      "https://geonames.jp/resource/宮城県名取市愛島台三丁目",
+      "https://geonames.jp/resource/宮城県名取市愛島台四丁目",
+      "https://geonames.jp/resource/宮城県名取市愛島台五丁目",
+      "https://geonames.jp/resource/宮城県名取市愛島台六丁目",
+      "https://geonames.jp/resource/宮城県名取市愛島台七丁目",
+      "https://geonames.jp/resource/宮城県名取市愛島台八丁目"
+    ]
+  }
+]

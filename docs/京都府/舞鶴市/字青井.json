@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字青井",
+    "表記": "京都府舞鶴市字青井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "字青井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351285",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351295",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351294",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351296",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352204",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352206"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229608/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229609/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229607/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/103395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229600/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229603/103396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229608/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229605/103396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229619/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229615/103394.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字青井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/字青井.json",
+    "name": "字青井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

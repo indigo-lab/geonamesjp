@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市乗越ケ丘",
+    "表記": "熊本県熊本市乗越ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "乗越ケ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301598",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302508"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226267/105738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226270/105734.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市乗越ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/乗越ケ丘.json",
+    "name": "乗越ケ丘",
+    "alternateName": [
+      "乗越ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県中頭郡北谷町桃原",
+    "表記": "沖縄県中頭郡北谷町桃原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "中頭郡",
+      "市区町村": "北谷町",
+      "町名": "桃原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039273682"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224117/111194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224116/111194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224116/111193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224117/111193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224118/111193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224118/111194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224118/111192.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県中頭郡北谷町桃原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/中頭郡/北谷町/桃原.json",
+    "name": "桃原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県中頭郡北谷町"
+  }
+]

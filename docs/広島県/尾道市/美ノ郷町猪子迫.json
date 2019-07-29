@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県尾道市美ノ郷町猪子迫",
+    "表記": "広島県尾道市美ノ郷町猪子迫",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "尾道市",
+      "町名": "美ノ郷町猪子迫"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335145",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335146",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335156"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228065/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228063/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228062/104316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228062/104317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228067/104317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228069/104316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228067/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228067/104314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228069/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228065/104314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228067/104316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228068/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228068/104314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228066/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228069/104313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228068/104317.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県尾道市美ノ郷町猪子迫",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/尾道市/美ノ郷町猪子迫.json",
+    "name": "美ノ郷町猪子迫",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県尾道市"
+  }
+]

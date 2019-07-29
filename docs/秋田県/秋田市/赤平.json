@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県秋田市赤平",
+    "表記": "秋田県秋田市赤平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "秋田市",
+      "町名": "赤平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404210",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404211",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404220",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404221"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/99550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233205/99547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233206/99547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233204/99549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233206/99548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233206/99544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/99551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233205/99549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233209/99538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233209/99539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/99554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233204/99548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233210/99539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233206/99546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233208/99543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233207/99538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233201/99550.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県秋田市赤平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/秋田市/赤平.json",
+    "name": "赤平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県秋田市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県香川郡香川町寺井",
+    "表記": "香川県香川郡香川町寺井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "香川郡",
+      "市区町村": "香川町",
+      "町名": "寺井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343022"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228670/104476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228670/104479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228670/104478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228670/104480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228668/104479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228670/104477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104479.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県香川郡香川町寺井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/香川郡/香川町/寺井.json",
+    "name": "寺井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県香川郡香川町"
+  }
+]

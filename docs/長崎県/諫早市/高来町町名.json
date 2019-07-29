@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県諫早市高来町町名",
+    "表記": "長崎県諫早市高来町町名",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "諫早市",
+      "町名": "高来町町名"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302180",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302181"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225833/105673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225833/105675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225835/105673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225834/105675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225834/105674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225833/105674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225834/105673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225835/105674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225835/105675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225836/105674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225835/105672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225834/105672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225834/105671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225833/105671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225831/105675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225832/105674.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県諫早市高来町町名",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/諫早市/高来町町名.json",
+    "name": "高来町町名",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県諫早市"
+  }
+]

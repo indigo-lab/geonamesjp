@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士郡芝川町下柚野",
+    "表記": "静岡県富士郡芝川町下柚野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "富士郡",
+      "市区町村": "芝川町",
+      "町名": "下柚野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052386494",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387403"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231962/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231964/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231963/103614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231963/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231965/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231964/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231963/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231963/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231964/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231963/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231962/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231962/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231960/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231959/103606.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士郡芝川町下柚野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士郡/芝川町/下柚野.json",
+    "name": "下柚野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士郡芝川町"
+  }
+]

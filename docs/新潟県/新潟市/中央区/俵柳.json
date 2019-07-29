@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市中央区俵柳",
+    "表記": "新潟県新潟市中央区俵柳",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "中央区",
+      "町名": "俵柳"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396043"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/101232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/101233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232319/101233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/101231.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市中央区俵柳",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/中央区/俵柳.json",
+    "name": "俵柳",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市中央区"
+  }
+]

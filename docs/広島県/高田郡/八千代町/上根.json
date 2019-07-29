@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県高田郡八千代町上根",
+    "表記": "広島県高田郡八千代町上根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "高田郡",
+      "市区町村": "八千代町",
+      "町名": "上根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326496",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051327406"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227613/104198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227618/104203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227611/104204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227614/104207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227614/104199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227616/104197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227618/104199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227614/104204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227619/104203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227614/104206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227615/104200.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県高田郡八千代町上根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/高田郡/八千代町/上根.json",
+    "name": "上根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県高田郡八千代町"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県隠岐郡隠岐の島町東町宇屋の下",
+    "表記": "島根県隠岐郡隠岐の島町東町宇屋の下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "隠岐郡",
+      "市区町村": "隠岐の島町",
+      "町名": "東町宇屋の下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054332246"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228163/102754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228163/102753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228165/102755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228164/102755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228164/102753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228164/102754.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県隠岐郡隠岐の島町東町宇屋の下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/隠岐郡/隠岐の島町/東町宇屋の下.json",
+    "name": "東町宇屋の下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県隠岐郡隠岐の島町"
+  }
+]

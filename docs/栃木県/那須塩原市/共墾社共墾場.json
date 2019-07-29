@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須塩原市共墾社共墾場",
+    "表記": "栃木県那須塩原市共墾社共墾場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "那須塩原市",
+      "町名": "共墾社共墾場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403053"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/102069.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須塩原市共墾社共墾場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須塩原市/共墾社共墾場.json",
+    "name": "共墾社共墾場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須塩原市"
+  }
+]

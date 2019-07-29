@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市栄区庄戸五丁目",
+    "表記": "神奈川県横浜市栄区庄戸五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "栄区",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14115021005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390416",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390417",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390426",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390427"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/103522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232716/103522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232716/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/103524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232716/103524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232717/103522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232717/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232717/103524.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市栄区庄戸五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/栄区/庄戸/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市栄区庄戸"
+  }
+]

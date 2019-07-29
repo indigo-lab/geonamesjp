@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市戸畑区東大谷三丁目",
+    "表記": "福岡県北九州市戸畑区東大谷三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "戸畑区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40105036003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306646",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306656"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226338/104825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226337/104826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226337/104825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226336/104826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226336/104827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226337/104827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226338/104826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226337/104828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226336/104828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226336/104829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226335/104829.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市戸畑区東大谷三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/戸畑区/東大谷/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市戸畑区東大谷"
+  }
+]

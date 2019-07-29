@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都町田市木曽西五丁目",
+    "表記": "東京都町田市木曽西五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "町田市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13209011205"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392383",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392384"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/103326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/103328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/103328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232599/103327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232599/103326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232600/103325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232599/103325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/103326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/103327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/103327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232596/103327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232596/103326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232596/103325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232595/103325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/103325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/103325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/103324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232599/103324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/103324.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都町田市木曽西五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/町田市/木曽西/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都町田市木曽西"
+  }
+]

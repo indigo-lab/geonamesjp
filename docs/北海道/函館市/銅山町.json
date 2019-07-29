@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道函館市銅山町",
+    "表記": "北海道函館市銅山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "銅山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012020800"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062405665",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062405645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062405655",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062405666",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062405676"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233617/97504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233609/97514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233611/97516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233622/97498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/97507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233611/97513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/97510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233612/97509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233612/97508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233616/97507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233618/97506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/97508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233612/97512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/97507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233618/97504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233618/97502.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道函館市銅山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/函館市/銅山町.json",
+    "name": "銅山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道函館市"
+  }
+]

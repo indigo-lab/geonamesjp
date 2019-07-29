@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡神岡町",
+    "表記": "秋田県仙北郡神岡町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "仙北郡",
+      "市区町村": "神岡町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C05421-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C05421-19800901",
+        "http://data.e-stat.go.jp/lod/sac/C05421-19710201",
+        "http://data.e-stat.go.jp/lod/sac/C05421-20050322",
+        "http://data.e-stat.go.jp/lod/sac/C05421-19811101",
+        "http://data.e-stat.go.jp/lod/sac/C05421-19760501"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡神岡町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/仙北郡/神岡町.json",
+    "name": "神岡町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県仙北郡",
+    "children": [
+      "https://geonames.jp/resource/秋田県仙北郡神岡町神宮寺",
+      "https://geonames.jp/resource/秋田県仙北郡神岡町北楢岡",
+      "https://geonames.jp/resource/秋田県仙北郡神岡町字上中野"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西加茂郡三好町大字明知字溝坂",
+    "表記": "愛知県西加茂郡三好町大字明知字溝坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "西加茂郡",
+      "市区町村": "三好町",
+      "町名": "大字明知字溝坂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374096",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374086"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230892/103767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230891/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230891/103767.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西加茂郡三好町大字明知字溝坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西加茂郡/三好町/大字明知字溝坂.json",
+    "name": "大字明知字溝坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県西加茂郡三好町"
+  }
+]

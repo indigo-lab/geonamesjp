@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道帯広市東６条南二十丁目",
+    "表記": "北海道帯広市東６条南二十丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "帯広市",
+      "町名": "二十丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432197"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235359/96414.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道帯広市東６条南二十丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/帯広市/東６条南/20.json",
+    "name": "二十丁目",
+    "alternateName": [
+      "20",
+      "20丁目",
+      "２０",
+      "２０丁目",
+      "二十"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道帯広市東６条南"
+  }
+]

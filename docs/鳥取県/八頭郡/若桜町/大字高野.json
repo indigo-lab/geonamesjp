@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡若桜町大字高野",
+    "表記": "鳥取県八頭郡若桜町大字高野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "八頭郡",
+      "市区町村": "若桜町",
+      "町名": "大字高野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340320",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340330"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228923/103516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228925/103518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228924/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228923/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228925/103516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228927/103521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228924/103521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228926/103520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228925/103520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228925/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228924/103518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228923/103518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228923/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228924/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228924/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228923/103521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228922/103514.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡若桜町大字高野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/八頭郡/若桜町/大字高野.json",
+    "name": "大字高野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県八頭郡若桜町"
+  }
+]

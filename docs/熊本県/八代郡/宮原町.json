@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県八代郡宮原町",
+    "表記": "熊本県八代郡宮原町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "八代郡",
+      "市区町村": "宮原町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43465-19781201",
+        "http://data.e-stat.go.jp/lod/sac/C43465-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C43465-20051001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県八代郡宮原町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/八代郡/宮原町.json",
+    "name": "宮原町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県八代郡"
+  }
+]

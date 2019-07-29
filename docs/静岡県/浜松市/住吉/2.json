@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市住吉二丁目",
+    "表記": "静岡県浜松市住吉二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜松市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370578"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231362/104076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231362/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231361/104076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231361/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231362/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231361/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231360/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231361/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231361/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231360/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231359/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231359/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231359/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231358/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231358/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231360/104071.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市住吉二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/住吉/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市住吉"
+  }
+]

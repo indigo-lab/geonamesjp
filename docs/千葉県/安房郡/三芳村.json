@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県安房郡三芳村",
+    "表記": "千葉県安房郡三芳村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "安房郡",
+      "市区町村": "三芳村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C12464-20060320",
+        "http://data.e-stat.go.jp/lod/sac/C12464-19750701",
+        "http://data.e-stat.go.jp/lod/sac/C12464-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県安房郡三芳村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/安房郡/三芳村.json",
+    "name": "三芳村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県安房郡"
+  }
+]

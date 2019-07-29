@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県佐伯市門前",
+    "表記": "大分県佐伯市門前",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "佐伯市",
+      "町名": "門前"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313658",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313668",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313669",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313659"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227090/105622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227092/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227096/105613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227091/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227092/105611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227090/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227090/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227091/105615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227090/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227091/105618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227092/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227091/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227095/105618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227092/105618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227097/105612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227092/105613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227092/105616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227092/105612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227093/105612.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県佐伯市門前",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/佐伯市/門前.json",
+    "name": "門前",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県佐伯市"
+  }
+]

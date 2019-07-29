@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市水橋中馬場",
+    "表記": "富山県富山市水橋中馬場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "水橋中馬場",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162016100"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370264",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370265",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370255"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/102290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/102292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231058/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231054/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231058/102290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231056/102290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102292.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市水橋中馬場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/水橋中馬場.json",
+    "name": "水橋中馬場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

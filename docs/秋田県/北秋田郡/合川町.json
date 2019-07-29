@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県北秋田郡合川町",
+    "表記": "秋田県北秋田郡合川町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "北秋田郡",
+      "市区町村": "合川町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C05326-20050322",
+        "http://data.e-stat.go.jp/lod/sac/C05326-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県北秋田郡合川町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/北秋田郡/合川町.json",
+    "name": "合川町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県北秋田郡",
+    "children": [
+      "https://geonames.jp/resource/秋田県北秋田郡合川町合川",
+      "https://geonames.jp/resource/秋田県北秋田郡合川町上杉",
+      "https://geonames.jp/resource/秋田県北秋田郡合川町川井",
+      "https://geonames.jp/resource/秋田県北秋田郡合川町新田目",
+      "https://geonames.jp/resource/秋田県北秋田郡合川町八幡岱新田",
+      "https://geonames.jp/resource/秋田県北秋田郡合川町道城",
+      "https://geonames.jp/resource/秋田県北秋田郡合川町李岱",
+      "https://geonames.jp/resource/秋田県北秋田郡合川町木戸石",
+      "https://geonames.jp/resource/秋田県北秋田郡合川町下杉",
+      "https://geonames.jp/resource/秋田県北秋田郡合川町福田"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府宮津市字金屋谷",
+    "表記": "京都府宮津市字金屋谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "宮津市",
+      "町名": "字金屋谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352145"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229514/103357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229515/103356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229514/103358.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府宮津市字金屋谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/宮津市/字金屋谷.json",
+    "name": "字金屋谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府宮津市"
+  }
+]

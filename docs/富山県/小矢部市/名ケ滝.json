@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県小矢部市名ケ滝",
+    "表記": "富山県小矢部市名ケ滝",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "小矢部市",
+      "町名": "名ケ滝",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162090760"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360657",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360666",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360656",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360658",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360667"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230707/102285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/102294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/102296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230711/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230711/102292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/102294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/102293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230724/102298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230722/102293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/102290.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県小矢部市名ケ滝",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/小矢部市/名ケ滝.json",
+    "name": "名ケ滝",
+    "alternateName": [
+      "名ヶ滝"
+    ],
+    "parentFeature": "https://geonames.jp/resource/富山県小矢部市"
+  }
+]

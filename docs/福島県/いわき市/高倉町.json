@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市高倉町",
+    "表記": "福島県いわき市高倉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "高倉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072040950"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403622",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403633",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403632"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233584/102091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233586/102093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233585/102093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233590/102084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233583/102094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233586/102090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233584/102093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233591/102083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233587/102087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/102083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/102082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233583/102091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233582/102093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233584/102094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233585/102090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233585/102094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233586/102094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233588/102085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233589/102089.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市高倉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/高倉町.json",
+    "name": "高倉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

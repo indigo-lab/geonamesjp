@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町大田和",
+    "表記": "福島県相馬郡小高町大田和",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "小高町",
+      "町名": "大田和"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402755",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402765"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233702/101538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233707/101529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233705/101530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233708/101532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233701/101537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233703/101533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233705/101535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233706/101533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233703/101537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233705/101533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233707/101531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233707/101534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233700/101538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233705/101532.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町大田和",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/小高町/大田和.json",
+    "name": "大田和",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡小高町"
+  }
+]

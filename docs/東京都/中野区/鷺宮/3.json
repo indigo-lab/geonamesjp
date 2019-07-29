@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都中野区鷺宮三丁目",
+    "表記": "東京都中野区鷺宮三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "中野区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13114018003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394561",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394571"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103187.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都中野区鷺宮三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/中野区/鷺宮/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都中野区鷺宮"
+  }
+]

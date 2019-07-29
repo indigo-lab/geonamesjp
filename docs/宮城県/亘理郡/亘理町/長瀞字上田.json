@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡亘理町長瀞字上田",
+    "表記": "宮城県亘理郡亘理町長瀞字上田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "亘理郡",
+      "市区町村": "亘理町",
+      "町名": "長瀞字上田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04361004045"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400619"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233648/101101.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡亘理町長瀞字上田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/亘理郡/亘理町/長瀞字上田.json",
+    "name": "長瀞字上田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県亘理郡亘理町"
+  }
+]

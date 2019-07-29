@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県周南市清光台町",
+    "表記": "山口県周南市清光台町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "清光台町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352151851"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310736",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310735"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227156/104690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227157/104691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227155/104690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227156/104691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227156/104692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227156/104689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227154/104689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227155/104689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227157/104690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227154/104690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227155/104691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227157/104692.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県周南市清光台町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/周南市/清光台町.json",
+    "name": "清光台町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県周南市"
+  }
+]

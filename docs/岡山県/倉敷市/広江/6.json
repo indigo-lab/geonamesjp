@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市広江六丁目",
+    "表記": "岡山県倉敷市広江六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "倉敷市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33202126206"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336622"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228485/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228487/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228487/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228488/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228489/104259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228488/104259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228489/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228490/104259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228485/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228486/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228486/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228487/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228489/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228488/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228488/104260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228487/104259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228489/104260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228488/104257.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市広江六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/倉敷市/広江/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県倉敷市広江"
+  }
+]

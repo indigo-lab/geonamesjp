@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道函館市鍛治",
+    "表記": "北海道函館市鍛治",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "函館市",
+      "町名": "鍛治",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012021210"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道函館市鍛治",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/函館市/鍛治.json",
+    "name": "鍛治",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道函館市",
+    "children": [
+      "https://geonames.jp/resource/北海道函館市鍛治一丁目",
+      "https://geonames.jp/resource/北海道函館市鍛治二丁目"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市江川町",
+    "表記": "和歌山県田辺市江川町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "江川町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050354279",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050354289"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229645/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229644/104952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229645/104954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229645/104953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229646/104953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229646/104951.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市江川町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/田辺市/江川町.json",
+    "name": "江川町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県田辺市"
+  }
+]

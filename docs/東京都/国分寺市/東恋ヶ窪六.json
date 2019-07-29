@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都国分寺市東恋ヶ窪六",
+    "表記": "東京都国分寺市東恋ヶ窪六",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "国分寺市",
+      "町名": "東恋ヶ窪六"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394357"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232629/103198.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都国分寺市東恋ヶ窪六",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/国分寺市/東恋ヶ窪六.json",
+    "name": "東恋ヶ窪六",
+    "alternateName": [
+      "東恋ケ窪六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都国分寺市"
+  }
+]

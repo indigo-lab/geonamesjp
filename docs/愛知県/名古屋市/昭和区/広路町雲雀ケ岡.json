@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市昭和区広路町雲雀ケ岡",
+    "表記": "愛知県名古屋市昭和区広路町雲雀ケ岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "昭和区",
+      "町名": "広路町雲雀ケ岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365766"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103713.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市昭和区広路町雲雀ケ岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/昭和区/広路町雲雀ケ岡.json",
+    "name": "広路町雲雀ケ岡",
+    "alternateName": [
+      "広路町雲雀ヶ岡"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市昭和区"
+  }
+]

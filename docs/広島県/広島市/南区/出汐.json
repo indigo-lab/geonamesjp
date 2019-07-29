@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市南区出汐",
+    "表記": "広島県広島市南区出汐",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "南区",
+      "町名": "出汐",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S341032420"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市南区出汐",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/南区/出汐.json",
+    "name": "出汐",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市南区",
+    "children": [
+      "https://geonames.jp/resource/広島県広島市南区出汐一丁目",
+      "https://geonames.jp/resource/広島県広島市南区出汐二丁目",
+      "https://geonames.jp/resource/広島県広島市南区出汐三丁目",
+      "https://geonames.jp/resource/広島県広島市南区出汐四丁目"
+    ]
+  }
+]

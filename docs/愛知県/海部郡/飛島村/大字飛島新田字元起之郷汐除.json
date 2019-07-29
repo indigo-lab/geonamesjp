@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県海部郡飛島村大字飛島新田字元起之郷汐除",
+    "表記": "愛知県海部郡飛島村大字飛島新田字元起之郷汐除",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "海部郡",
+      "市区町村": "飛島村",
+      "町名": "大字飛島新田字元起之郷汐除"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364692",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365601"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230674/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230668/103759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230672/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230670/103762.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県海部郡飛島村大字飛島新田字元起之郷汐除",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/海部郡/飛島村/大字飛島新田字元起之郷汐除.json",
+    "name": "大字飛島新田字元起之郷汐除",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県海部郡飛島村"
+  }
+]

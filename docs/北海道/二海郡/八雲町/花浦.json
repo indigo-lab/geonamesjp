@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道二海郡八雲町花浦",
+    "表記": "北海道二海郡八雲町花浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "二海郡",
+      "市区町村": "八雲町",
+      "町名": "花浦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S013460180"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063403240",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063403221",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063403222",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063403231",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063403232",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063403241"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233207/97028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233212/97043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233214/97043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/97043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233219/97043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/97037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233216/97033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/97040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233214/97041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/97035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233214/97040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233206/97027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233213/97044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233216/97044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233216/97032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233216/97034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/97039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/97040.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道二海郡八雲町花浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/二海郡/八雲町/花浦.json",
+    "name": "花浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道二海郡八雲町"
+  }
+]

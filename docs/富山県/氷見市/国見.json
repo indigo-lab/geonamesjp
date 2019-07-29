@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県氷見市国見",
+    "表記": "富山県氷見市国見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "氷見市",
+      "町名": "国見",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162050980"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055363725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055363735",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055363715"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230790/102093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230789/102089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230791/102092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230792/102094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230792/102091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230788/102085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230788/102092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230790/102096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230788/102095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230790/102100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230790/102095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230792/102097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230791/102094.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県氷見市国見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/氷見市/国見.json",
+    "name": "国見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県氷見市"
+  }
+]

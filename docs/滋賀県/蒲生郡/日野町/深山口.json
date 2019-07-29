@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡日野町深山口",
+    "表記": "滋賀県蒲生郡日野町深山口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "蒲生郡",
+      "市区町村": "日野町",
+      "町名": "深山口"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363178",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363179",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363188",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363198"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230273/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230273/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103844.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡日野町深山口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/蒲生郡/日野町/深山口.json",
+    "name": "深山口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県蒲生郡日野町"
+  }
+]

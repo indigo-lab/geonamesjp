@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県美祢市豊田前町嶽",
+    "表記": "山口県美祢市豊田前町嶽",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "美祢市",
+      "町名": "豊田前町嶽",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35213005006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311097",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311087",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311088"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226532/104575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226531/104581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226531/104574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226534/104577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226533/104582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226529/104582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226533/104583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226536/104581.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県美祢市豊田前町嶽",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/美祢市/豊田前町嶽.json",
+    "name": "豊田前町嶽",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県美祢市"
+  }
+]

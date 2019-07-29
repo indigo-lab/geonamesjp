@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県東白川郡塙町塙大町一丁目",
+    "表記": "福島県東白川郡塙町塙大町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "東白川郡",
+      "市区町村": "塙町",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403342"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233313/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/102072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/102073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233313/102071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/102071.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県東白川郡塙町塙大町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/東白川郡/塙町/塙大町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県東白川郡塙町塙大町"
+  }
+]

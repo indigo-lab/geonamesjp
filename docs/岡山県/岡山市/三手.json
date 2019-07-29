@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市三手",
+    "表記": "岡山県岡山市三手",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "三手"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330625"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228513/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228512/104114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228511/104114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228509/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228509/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228510/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228511/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228511/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228512/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228512/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228513/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228511/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228510/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228511/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228509/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228508/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228509/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228512/104109.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市三手",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/三手.json",
+    "name": "三手",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

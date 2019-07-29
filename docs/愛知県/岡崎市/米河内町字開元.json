@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市米河内町字開元",
+    "表記": "愛知県岡崎市米河内町字開元",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "米河内町字開元"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373188",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373197"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230995/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230996/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230996/103843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230994/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230995/103843.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市米河内町字開元",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/米河内町字開元.json",
+    "name": "米河内町字開元",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

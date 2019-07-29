@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県松江市宍道町昭和新田",
+    "表記": "島根県松江市宍道町昭和新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "松江市",
+      "町名": "宍道町昭和新田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322012050"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320782",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320794"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227847/103472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227846/103472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227865/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227844/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227845/103470.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県松江市宍道町昭和新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/松江市/宍道町昭和新田.json",
+    "name": "宍道町昭和新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県松江市"
+  }
+]

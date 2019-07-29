@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士市三新田",
+    "表記": "静岡県富士市三新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "富士市",
+      "町名": "三新田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222100800"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385567"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232088/103709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232089/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232090/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232092/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232092/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232093/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232095/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232091/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232094/103711.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士市三新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士市/三新田.json",
+    "name": "三新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士市"
+  }
+]

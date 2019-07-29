@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県郡山市坪沢",
+    "表記": "福島県郡山市坪沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "郡山市",
+      "町名": "坪沢"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県郡山市坪沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/郡山市/坪沢.json",
+    "name": "坪沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県郡山市",
+    "children": [
+      "https://geonames.jp/resource/福島県郡山市坪沢一丁目",
+      "https://geonames.jp/resource/福島県郡山市坪沢二丁目",
+      "https://geonames.jp/resource/福島県郡山市坪沢三丁目",
+      "https://geonames.jp/resource/福島県郡山市坪沢四丁目"
+    ]
+  }
+]

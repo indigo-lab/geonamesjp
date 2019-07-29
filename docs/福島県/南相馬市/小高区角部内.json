@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県南相馬市小高区角部内",
+    "表記": "福島県南相馬市小高区角部内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "南相馬市",
+      "町名": "小高区角部内",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072120920"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412051",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412042",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412052",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412062",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412041"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233762/101537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233762/101534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233764/101527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233764/101535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233764/101539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233765/101534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233765/101533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233764/101533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233764/101534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233765/101536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233765/101531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233763/101535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233760/101538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233759/101537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233760/101532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233762/101533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233762/101535.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県南相馬市小高区角部内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/南相馬市/小高区角部内.json",
+    "name": "小高区角部内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県南相馬市"
+  }
+]

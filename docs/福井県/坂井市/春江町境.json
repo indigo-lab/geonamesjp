@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井市春江町境",
+    "表記": "福井県坂井市春江町境",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "坂井市",
+      "町名": "春江町境"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361158",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361157"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/102821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/102821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/102820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/102822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/102820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/102822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/102821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/102823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/102821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/102821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/102820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/102822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/102821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/102820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/102822.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井市春江町境",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井市/春江町境.json",
+    "name": "春江町境",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井市"
+  }
+]

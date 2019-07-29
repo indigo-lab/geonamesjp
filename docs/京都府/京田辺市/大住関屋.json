@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京田辺市大住関屋",
+    "表記": "京都府京田辺市大住関屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京田辺市",
+      "町名": "大住関屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351690"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229925/103985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229926/103984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229926/103985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229925/103984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229926/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229925/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229924/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229924/103985.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京田辺市大住関屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京田辺市/大住関屋.json",
+    "name": "大住関屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京田辺市"
+  }
+]

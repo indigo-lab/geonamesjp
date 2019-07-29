@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県安中市板鼻",
+    "表記": "群馬県安中市板鼻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "安中市",
+      "町名": "板鼻",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S102110060"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県安中市板鼻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/安中市/板鼻.json",
+    "name": "板鼻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県安中市",
+    "children": [
+      "https://geonames.jp/resource/群馬県安中市板鼻（丁目なし）",
+      "https://geonames.jp/resource/群馬県安中市板鼻一丁目",
+      "https://geonames.jp/resource/群馬県安中市板鼻二丁目"
+    ]
+  }
+]

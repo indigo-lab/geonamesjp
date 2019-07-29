@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市鳴門町高島字山路",
+    "表記": "徳島県鳴門市鳴門町高島字山路",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "鳴門市",
+      "町名": "鳴門町高島字山路"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342437",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342458",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342457"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229083/104538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229083/104537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229086/104533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229084/104534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229084/104538.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市鳴門町高島字山路",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/鳴門市/鳴門町高島字山路.json",
+    "name": "鳴門町高島字山路",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県鳴門市"
+  }
+]

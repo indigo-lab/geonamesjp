@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県加美郡色麻町黒沢字切付",
+    "表記": "宮城県加美郡色麻町黒沢字切付",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "加美郡",
+      "市区町村": "色麻町",
+      "町名": "黒沢字切付"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406655",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406654"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233611/100606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233607/100609.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県加美郡色麻町黒沢字切付",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/加美郡/色麻町/黒沢字切付.json",
+    "name": "黒沢字切付",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県加美郡色麻町"
+  }
+]

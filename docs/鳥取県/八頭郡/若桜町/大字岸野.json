@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡若桜町大字岸野",
+    "表記": "鳥取県八頭郡若桜町大字岸野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "八頭郡",
+      "市区町村": "若桜町",
+      "町名": "大字岸野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052347392"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228944/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228941/103540.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡若桜町大字岸野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/八頭郡/若桜町/大字岸野.json",
+    "name": "大字岸野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県八頭郡若桜町"
+  }
+]

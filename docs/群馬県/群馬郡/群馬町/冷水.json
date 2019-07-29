@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県群馬郡群馬町冷水",
+    "表記": "群馬県群馬郡群馬町冷水",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "群馬郡",
+      "市区町村": "群馬町",
+      "町名": "冷水"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394070",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394080"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/102579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/102578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/102579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232295/102579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232294/102578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232294/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232294/102576.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県群馬郡群馬町冷水",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/群馬郡/群馬町/冷水.json",
+    "name": "冷水",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県群馬郡群馬町"
+  }
+]

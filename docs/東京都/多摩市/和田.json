@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都多摩市和田",
+    "表記": "東京都多摩市和田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "多摩市",
+      "町名": "和田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都多摩市和田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/多摩市/和田.json",
+    "name": "和田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都多摩市",
+    "children": [
+      "https://geonames.jp/resource/東京都多摩市和田（丁目なし）",
+      "https://geonames.jp/resource/東京都多摩市和田三丁目"
+    ]
+  }
+]

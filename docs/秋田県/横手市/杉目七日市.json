@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県横手市杉目七日市",
+    "表記": "秋田県横手市杉目七日市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "横手市",
+      "町名": "杉目七日市"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400404"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/99865.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県横手市杉目七日市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/横手市/杉目七日市.json",
+    "name": "杉目七日市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県横手市"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道三笠市幾春別錦町",
+    "表記": "北海道三笠市幾春別錦町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "幾春別錦町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012220690"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道三笠市幾春別錦町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/三笠市/幾春別錦町.json",
+    "name": "幾春別錦町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道三笠市",
+    "children": [
+      "https://geonames.jp/resource/北海道三笠市幾春別錦町一丁目",
+      "https://geonames.jp/resource/北海道三笠市幾春別錦町二丁目"
+    ]
+  }
+]

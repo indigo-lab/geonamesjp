@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県壱岐市郷ノ浦町志原西触",
+    "表記": "長崎県壱岐市郷ノ浦町志原西触",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "壱岐市",
+      "町名": "郷ノ浦町志原西触"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050295506",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050294596",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050294597",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050295507"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225525/104936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225525/104934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225523/104934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225522/104936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225525/104931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225523/104938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225525/104938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225526/104937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225522/104937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225526/104941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225525/104937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225522/104935.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県壱岐市郷ノ浦町志原西触",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/壱岐市/郷ノ浦町志原西触.json",
+    "name": "郷ノ浦町志原西触",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県壱岐市"
+  }
+]

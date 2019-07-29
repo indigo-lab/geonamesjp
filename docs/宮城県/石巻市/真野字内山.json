@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県石巻市真野字内山",
+    "表記": "宮城県石巻市真野字内山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "石巻市",
+      "町名": "真野字内山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415370"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234026/100673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234026/100670.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県石巻市真野字内山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/石巻市/真野字内山.json",
+    "name": "真野字内山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県石巻市"
+  }
+]

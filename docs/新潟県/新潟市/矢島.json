@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市矢島",
+    "表記": "新潟県新潟市矢島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "矢島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385733",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385734",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385743"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232232/101322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232236/101320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232236/101319.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市矢島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/矢島.json",
+    "name": "矢島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市針ケ谷一丁目",
+    "表記": "埼玉県さいたま市針ケ谷一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396551"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/103046.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市針ケ谷一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/針ケ谷/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市針ケ谷"
+  }
+]

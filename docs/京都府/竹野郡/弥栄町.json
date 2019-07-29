@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府竹野郡弥栄町",
+    "表記": "京都府竹野郡弥栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "竹野郡",
+      "市区町村": "弥栄町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C26503-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C26503-19980527",
+        "http://data.e-stat.go.jp/lod/sac/C26503-19941221",
+        "http://data.e-stat.go.jp/lod/sac/C26503-20040401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府竹野郡弥栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/竹野郡/弥栄町.json",
+    "name": "弥栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府竹野郡"
+  }
+]

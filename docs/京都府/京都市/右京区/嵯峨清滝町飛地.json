@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京都市右京区嵯峨清滝町飛地",
+    "表記": "京都府京都市右京区嵯峨清滝町飛地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京都市",
+      "区": "右京区",
+      "町名": "嵯峨清滝町飛地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354542",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354551",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354552"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229846/103793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229849/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229850/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229851/103798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229851/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229851/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229852/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229852/103798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229854/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229854/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229855/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229855/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229852/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229853/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229853/103801.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京都市右京区嵯峨清滝町飛地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京都市/右京区/嵯峨清滝町飛地.json",
+    "name": "嵯峨清滝町飛地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京都市右京区"
+  }
+]

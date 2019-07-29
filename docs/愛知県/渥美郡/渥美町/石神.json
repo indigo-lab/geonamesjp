@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県渥美郡渥美町石神",
+    "表記": "愛知県渥美郡渥美町石神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "渥美郡",
+      "市区町村": "渥美町",
+      "町名": "石神"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051377151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051377160",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051377161"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230936/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230935/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230940/104162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230934/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230937/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230934/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230932/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230935/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230931/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230931/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230934/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230940/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230940/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230932/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230935/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/104161.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県渥美郡渥美町石神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/渥美郡/渥美町/石神.json",
+    "name": "石神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県渥美郡渥美町"
+  }
+]

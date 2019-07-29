@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市愛宕町三丁目",
+    "表記": "宮崎県延岡市愛宕町三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "愛宕町",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S45203053003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048316573",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048316583"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226949/105965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226949/105968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226949/105966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226948/105966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226948/105965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226951/105966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226950/105967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226948/105967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226947/105967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226949/105967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226950/105966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226950/105970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226950/105965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226953/105967.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市愛宕町三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/延岡市/愛宕町/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮崎県延岡市愛宕町"
+  }
+]

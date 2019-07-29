@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県太田市内ケ島町丙",
+    "表記": "群馬県太田市内ケ島町丙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "太田市",
+      "町名": "内ケ島町丙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393341"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102683.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県太田市内ケ島町丙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/太田市/内ケ島町丙.json",
+    "name": "内ケ島町丙",
+    "alternateName": [
+      "内ヶ島町丙"
+    ],
+    "parentFeature": "https://geonames.jp/resource/群馬県太田市"
+  }
+]

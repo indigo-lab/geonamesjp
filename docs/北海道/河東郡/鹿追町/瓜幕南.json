@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道河東郡鹿追町瓜幕南",
+    "表記": "北海道河東郡鹿追町瓜幕南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "河東郡",
+      "市区町村": "鹿追町",
+      "町名": "瓜幕南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016340270"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道河東郡鹿追町瓜幕南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/河東郡/鹿追町/瓜幕南.json",
+    "name": "瓜幕南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道河東郡鹿追町",
+    "children": [
+      "https://geonames.jp/resource/北海道河東郡鹿追町瓜幕南一丁目",
+      "https://geonames.jp/resource/北海道河東郡鹿追町瓜幕南二丁目",
+      "https://geonames.jp/resource/北海道河東郡鹿追町瓜幕南三丁目"
+    ]
+  }
+]

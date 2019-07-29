@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県平鹿郡十文字町十文字新田梨木西上",
+    "表記": "秋田県平鹿郡十文字町十文字新田梨木西上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "平鹿郡",
+      "市区町村": "十文字町",
+      "町名": "十文字新田梨木西上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406471",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406472"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/99973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/99972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233397/99972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/99973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233397/99973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/99974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233397/99971.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県平鹿郡十文字町十文字新田梨木西上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/平鹿郡/十文字町/十文字新田梨木西上.json",
+    "name": "十文字新田梨木西上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県平鹿郡十文字町"
+  }
+]

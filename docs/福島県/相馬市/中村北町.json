@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬市中村北町",
+    "表記": "福島県相馬市中村北町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "中村北町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405753",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405763"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233682/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233684/101301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233684/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233685/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233686/101301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233686/101302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233686/101303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233683/101302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233685/101302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233681/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233685/101303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233683/101303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233682/101302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233682/101304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233683/101304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233684/101302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233685/101301.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬市中村北町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬市/中村北町.json",
+    "name": "中村北町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬市"
+  }
+]

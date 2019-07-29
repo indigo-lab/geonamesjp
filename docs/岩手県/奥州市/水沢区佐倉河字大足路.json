@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県奥州市水沢区佐倉河字大足路",
+    "表記": "岩手県奥州市水沢区佐倉河字大足路",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "奥州市",
+      "町名": "水沢区佐倉河字大足路"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416007",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416008"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233817/100028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233819/100026.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県奥州市水沢区佐倉河字大足路",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/奥州市/水沢区佐倉河字大足路.json",
+    "name": "水沢区佐倉河字大足路",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県奥州市"
+  }
+]

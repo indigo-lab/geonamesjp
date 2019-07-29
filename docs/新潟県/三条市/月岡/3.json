@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市月岡三丁目",
+    "表記": "新潟県三条市月岡三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三条市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S15204078103"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383738",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383737"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232270/101473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/101474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/101474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232270/101474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232271/101475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232270/101475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/101475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/101473.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市月岡三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/月岡/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市月岡"
+  }
+]

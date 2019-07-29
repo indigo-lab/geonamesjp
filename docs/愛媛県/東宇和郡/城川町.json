@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県東宇和郡城川町",
+    "表記": "愛媛県東宇和郡城川町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "東宇和郡",
+      "市区町村": "城川町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C38464-20040401",
+        "http://data.e-stat.go.jp/lod/sac/C38464-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県東宇和郡城川町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/東宇和郡/城川町.json",
+    "name": "城川町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県東宇和郡"
+  }
+]

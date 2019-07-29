@@ -1,0 +1,88 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市西区観音新町四丁目",
+    "表記": "広島県広島市西区観音新町四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "西区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34104326004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324333",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324343",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324344",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324332"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227498/104396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227501/104391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227500/104391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227500/104390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227495/104397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227498/104389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227493/104395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227497/104389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227497/104391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227496/104395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227499/104393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227497/104388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227497/104390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227493/104392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227495/104394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227494/104396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227493/104398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227497/104397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227497/104393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227498/104391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227493/104399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227492/104398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227493/104397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227493/104401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227491/104401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227494/104399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227499/104390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227492/104394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227494/104401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227492/104402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227498/104390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227499/104392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227495/104389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227492/104400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227494/104394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227495/104399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227494/104395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227494/104397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227496/104391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227498/104398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227498/104394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227500/104392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227501/104393.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市西区観音新町四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/西区/観音新町/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市西区観音新町"
+  }
+]

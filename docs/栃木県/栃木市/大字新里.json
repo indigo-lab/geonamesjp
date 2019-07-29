@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県栃木市大字新里",
+    "表記": "栃木県栃木市大字新里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "栃木市",
+      "町名": "大字新里"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393591",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394501"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/102639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/102644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/102644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/102642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/102643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/102643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/102643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/102643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/102642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/102646.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県栃木市大字新里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/栃木市/大字新里.json",
+    "name": "大字新里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県栃木市"
+  }
+]

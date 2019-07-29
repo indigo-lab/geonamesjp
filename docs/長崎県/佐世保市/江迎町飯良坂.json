@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市江迎町飯良坂",
+    "表記": "長崎県佐世保市江迎町飯良坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "佐世保市",
+      "町名": "江迎町飯良坂",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422022780"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297581",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297591"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225470/105306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225473/105306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225470/105305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225469/105309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225467/105306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225467/105309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225471/105309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225470/105308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225467/105308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225469/105310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225469/105307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225473/105305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225472/105309.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市江迎町飯良坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/佐世保市/江迎町飯良坂.json",
+    "name": "江迎町飯良坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県佐世保市"
+  }
+]

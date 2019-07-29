@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡仙北町",
+    "表記": "秋田県仙北郡仙北町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "仙北郡",
+      "市区町村": "仙北町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C05429-20040528",
+        "http://data.e-stat.go.jp/lod/sac/C05429-19880501",
+        "http://data.e-stat.go.jp/lod/sac/C05429-19920301",
+        "http://data.e-stat.go.jp/lod/sac/C05429-20021024",
+        "http://data.e-stat.go.jp/lod/sac/C05429-19740401",
+        "http://data.e-stat.go.jp/lod/sac/C05429-19890501",
+        "http://data.e-stat.go.jp/lod/sac/C05429-19771201",
+        "http://data.e-stat.go.jp/lod/sac/C05429-19841201",
+        "http://data.e-stat.go.jp/lod/sac/C05429-19770410",
+        "http://data.e-stat.go.jp/lod/sac/C05429-20050322",
+        "http://data.e-stat.go.jp/lod/sac/C05429-19740801",
+        "http://data.e-stat.go.jp/lod/sac/C05429-20000630"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県仙北郡仙北町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/仙北郡/仙北町.json",
+    "name": "仙北町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県仙北郡"
+  }
+]

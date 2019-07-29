@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県郡山市田村町山中字下原",
+    "表記": "福島県郡山市田村町山中字下原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "郡山市",
+      "町名": "田村町山中字下原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400301",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407391"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/101723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/101727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/101731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/101735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/101734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/101733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/101732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/101731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/101730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/101730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/101729.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県郡山市田村町山中字下原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/郡山市/田村町山中字下原.json",
+    "name": "田村町山中字下原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県郡山市"
+  }
+]

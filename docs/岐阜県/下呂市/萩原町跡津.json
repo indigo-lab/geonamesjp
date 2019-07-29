@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県下呂市萩原町跡津",
+    "表記": "岐阜県下呂市萩原町跡津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "下呂市",
+      "町名": "萩原町跡津"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053376127",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053376126"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/103068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103074.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県下呂市萩原町跡津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/下呂市/萩原町跡津.json",
+    "name": "萩原町跡津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県下呂市"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県弘前市大字自由ケ丘",
+    "表記": "青森県弘前市大字自由ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "弘前市",
+      "町名": "大字自由ケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県弘前市大字自由ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/弘前市/大字自由ケ丘.json",
+    "name": "大字自由ケ丘",
+    "alternateName": [
+      "大字自由ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/青森県弘前市",
+    "children": [
+      "https://geonames.jp/resource/青森県弘前市大字自由ケ丘一丁目",
+      "https://geonames.jp/resource/青森県弘前市大字自由ケ丘二丁目",
+      "https://geonames.jp/resource/青森県弘前市大字自由ケ丘三丁目",
+      "https://geonames.jp/resource/青森県弘前市大字自由ケ丘四丁目",
+      "https://geonames.jp/resource/青森県弘前市大字自由ケ丘五丁目"
+    ]
+  }
+]

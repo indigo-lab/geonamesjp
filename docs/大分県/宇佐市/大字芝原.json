@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県宇佐市大字芝原",
+    "表記": "大分県宇佐市大字芝原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "宇佐市",
+      "町名": "大字芝原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S442110490"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050312247",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050312257"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226712/105124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226712/105122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226712/105120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226711/105121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226711/105120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226711/105119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226711/105118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226713/105124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226714/105124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226711/105122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226712/105121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226713/105122.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県宇佐市大字芝原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/宇佐市/大字芝原.json",
+    "name": "大字芝原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県宇佐市"
+  }
+]

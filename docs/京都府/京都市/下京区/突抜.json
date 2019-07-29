@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京都市下京区突抜",
+    "表記": "京都府京都市下京区突抜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京都市",
+      "区": "下京区",
+      "町名": "突抜"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京都市下京区突抜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京都市/下京区/突抜.json",
+    "name": "突抜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京都市下京区",
+    "children": [
+      "https://geonames.jp/resource/京都府京都市下京区突抜一丁目",
+      "https://geonames.jp/resource/京都府京都市下京区突抜二丁目"
+    ]
+  }
+]

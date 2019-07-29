@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県藤沢市南藤沢",
+    "表記": "神奈川県藤沢市南藤沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "藤沢市",
+      "町名": "南藤沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S142051020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390309",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390308"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232645/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232644/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232645/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232647/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232646/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232647/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232647/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232646/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232644/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232643/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232643/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232642/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232646/103533.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県藤沢市南藤沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/藤沢市/南藤沢.json",
+    "name": "南藤沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県藤沢市"
+  }
+]

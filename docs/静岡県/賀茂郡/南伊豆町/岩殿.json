@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県賀茂郡南伊豆町岩殿",
+    "表記": "静岡県賀茂郡南伊豆町岩殿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "賀茂郡",
+      "市区町村": "南伊豆町",
+      "町名": "岩殿",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S223040670"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380608",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380607",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387698",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387697"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232182/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232183/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/104132.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県賀茂郡南伊豆町岩殿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/賀茂郡/南伊豆町/岩殿.json",
+    "name": "岩殿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県賀茂郡南伊豆町"
+  }
+]

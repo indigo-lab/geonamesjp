@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市大麻町萩原姥ケ懐",
+    "表記": "徳島県鳴門市大麻町萩原姥ケ懐",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "鳴門市",
+      "町名": "大麻町萩原姥ケ懐"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341481"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229022/104583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229022/104584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229023/104584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229023/104583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229021/104583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229023/104585.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市大麻町萩原姥ケ懐",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/鳴門市/大麻町萩原姥ケ懐.json",
+    "name": "大麻町萩原姥ケ懐",
+    "alternateName": [
+      "大麻町萩原姥ヶ懐"
+    ],
+    "parentFeature": "https://geonames.jp/resource/徳島県鳴門市"
+  }
+]

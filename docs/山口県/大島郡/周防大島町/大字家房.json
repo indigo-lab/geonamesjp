@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県大島郡周防大島町大字家房",
+    "表記": "山口県大島郡周防大島町大字家房",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "郡": "大島郡",
+      "市区町村": "周防大島町",
+      "町名": "大字家房",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S353050090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326158",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326159",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326168",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326169"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227356/104821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227363/104821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227363/104824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227362/104825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227360/104822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227360/104824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227361/104825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227361/104820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227359/104818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227367/104821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227364/104816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227363/104820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227357/104819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227362/104820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227366/104821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227359/104824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227360/104825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227364/104821.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県大島郡周防大島町大字家房",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/大島郡/周防大島町/大字家房.json",
+    "name": "大字家房",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県大島郡周防大島町"
+  }
+]

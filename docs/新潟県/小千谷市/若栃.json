@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市若栃",
+    "表記": "新潟県小千谷市若栃",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "小千谷市",
+      "町名": "若栃"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386579",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386670"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/101823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/101821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232109/101824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232110/101826.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市若栃",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/小千谷市/若栃.json",
+    "name": "若栃",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県小千谷市"
+  }
+]

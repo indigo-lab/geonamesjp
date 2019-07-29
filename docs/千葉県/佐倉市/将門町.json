@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県佐倉市将門町",
+    "表記": "千葉県佐倉市将門町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "将門町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122120150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404169",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404179",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404260",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404270"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233198/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233199/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233197/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233201/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233201/103184.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233197/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233198/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233198/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/103189.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県佐倉市将門町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/佐倉市/将門町.json",
+    "name": "将門町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県佐倉市"
+  }
+]

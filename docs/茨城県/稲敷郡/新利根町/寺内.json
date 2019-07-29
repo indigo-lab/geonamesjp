@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡新利根町寺内",
+    "表記": "茨城県稲敷郡新利根町寺内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "稲敷郡",
+      "市区町村": "新利根町",
+      "町名": "寺内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407204",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407205",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407214",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407215"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/103009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233250/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233247/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233247/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/103006.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡新利根町寺内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/稲敷郡/新利根町/寺内.json",
+    "name": "寺内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県稲敷郡新利根町"
+  }
+]

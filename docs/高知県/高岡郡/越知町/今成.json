@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高岡郡越知町今成",
+    "表記": "高知県高岡郡越知町今成",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "高岡郡",
+      "市区町村": "越知町",
+      "町名": "今成",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S394030130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332159",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332240"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228099/105122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/105119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228103/105121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228099/105120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/105119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/105120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228099/105121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/105121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228102/105122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228100/105122.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高岡郡越知町今成",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高岡郡/越知町/今成.json",
+    "name": "今成",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高岡郡越知町"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県南設楽郡",
+    "表記": "愛知県南設楽郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "南設楽郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C23580-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C23580-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県南設楽郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/南設楽郡.json",
+    "name": "南設楽郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県",
+    "children": [
+      "https://geonames.jp/resource/愛知県南設楽郡鳳来町",
+      "https://geonames.jp/resource/愛知県南設楽郡作手村",
+      "https://geonames.jp/resource/愛知県南設楽郡千郷村",
+      "https://geonames.jp/resource/愛知県南設楽郡新城町",
+      "https://geonames.jp/resource/愛知県南設楽郡東郷村",
+      "https://geonames.jp/resource/愛知県南設楽郡海老町",
+      "https://geonames.jp/resource/愛知県南設楽郡長篠村",
+      "https://geonames.jp/resource/愛知県南設楽郡鳳来寺村"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県南砺市晩田",
+    "表記": "富山県南砺市晩田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "南砺市",
+      "町名": "晩田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162100400"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367702"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/102403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/102407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/102402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/102406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/102407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/102405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/102405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/102404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/102403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/102404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/102402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/102405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/102406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/102403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/102406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/102407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/102404.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県南砺市晩田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/南砺市/晩田.json",
+    "name": "晩田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県南砺市"
+  }
+]

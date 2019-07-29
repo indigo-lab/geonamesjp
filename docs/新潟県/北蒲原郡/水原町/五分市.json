@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡水原町五分市",
+    "表記": "新潟県北蒲原郡水原町五分市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "水原町",
+      "町名": "五分市"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395168",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395178"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232460/101296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232459/101296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232459/101292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232459/101294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232458/101295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232458/101293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232457/101292.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡水原町五分市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/水原町/五分市.json",
+    "name": "五分市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡水原町"
+  }
+]

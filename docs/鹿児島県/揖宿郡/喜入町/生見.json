@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県揖宿郡喜入町生見",
+    "表記": "鹿児島県揖宿郡喜入町生見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "揖宿郡",
+      "市区町村": "喜入町",
+      "町名": "生見"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2046307465",
+        "http://data.e-stat.go.jp/lod/gridCode/G2046307466",
+        "http://data.e-stat.go.jp/lod/gridCode/G2046307473",
+        "http://data.e-stat.go.jp/lod/gridCode/G2046307475",
+        "http://data.e-stat.go.jp/lod/gridCode/G2046307485"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/107038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226133/107044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/107041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226148/107053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226147/107046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/107046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226154/107048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226160/107049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/107050.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県揖宿郡喜入町生見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/揖宿郡/喜入町/生見.json",
+    "name": "生見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県揖宿郡喜入町"
+  }
+]

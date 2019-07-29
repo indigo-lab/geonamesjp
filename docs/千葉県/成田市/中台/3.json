@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市中台三丁目",
+    "表記": "千葉県成田市中台三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12211045003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12211045000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405233",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405234"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233234/103137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233232/103138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233236/103137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233235/103135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233235/103136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233234/103136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233232/103137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233233/103137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233233/103136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233233/103138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233234/103135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103138.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市中台三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/中台/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市中台"
+  }
+]

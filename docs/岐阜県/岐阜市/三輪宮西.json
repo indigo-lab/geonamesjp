@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市三輪宮西",
+    "表記": "岐阜県岐阜市三輪宮西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "岐阜市",
+      "町名": "三輪宮西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212018040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361697",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362607"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/103383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/103383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103383.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市三輪宮西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/岐阜市/三輪宮西.json",
+    "name": "三輪宮西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県岐阜市"
+  }
+]

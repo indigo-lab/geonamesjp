@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道厚岸郡浜中町姉別",
+    "表記": "北海道厚岸郡浜中町姉別",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "厚岸郡",
+      "市区町村": "浜中町",
+      "町名": "姉別",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016630540"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道厚岸郡浜中町姉別",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/厚岸郡/浜中町/姉別.json",
+    "name": "姉別",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道厚岸郡浜中町",
+    "children": [
+      "https://geonames.jp/resource/北海道厚岸郡浜中町姉別一丁目",
+      "https://geonames.jp/resource/北海道厚岸郡浜中町姉別二丁目",
+      "https://geonames.jp/resource/北海道厚岸郡浜中町姉別三丁目"
+    ]
+  }
+]

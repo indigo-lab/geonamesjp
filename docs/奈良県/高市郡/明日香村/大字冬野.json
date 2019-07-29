@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村大字冬野",
+    "表記": "奈良県高市郡明日香村大字冬野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "高市郡",
+      "市区町村": "明日香村",
+      "町名": "大字冬野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S294020210"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355658"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230003/104320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230001/104320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/104312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230003/104317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230004/104315.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村大字冬野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/高市郡/明日香村/大字冬野.json",
+    "name": "大字冬野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県高市郡明日香村"
+  }
+]

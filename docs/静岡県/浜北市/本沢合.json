@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜北市本沢合",
+    "表記": "静岡県浜北市本沢合",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜北市",
+      "町名": "本沢合"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371663",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371664",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371673",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371674"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231414/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231414/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231412/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231414/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231417/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231414/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231417/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/104001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231414/104001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/104001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231414/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/104001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231414/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231416/103998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/103997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231415/103998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231414/103998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231412/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231411/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231411/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231412/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231411/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231412/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231412/104001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231410/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231411/104001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231410/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231412/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231411/104000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231412/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231411/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231413/103999.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜北市本沢合",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜北市/本沢合.json",
+    "name": "本沢合",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜北市"
+  }
+]

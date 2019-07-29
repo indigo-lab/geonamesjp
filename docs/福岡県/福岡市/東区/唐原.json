@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区唐原",
+    "表記": "福岡県福岡市東区唐原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "東区",
+      "町名": "唐原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401310430"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区唐原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/東区/唐原.json",
+    "name": "唐原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市東区",
+    "children": [
+      "https://geonames.jp/resource/福岡県福岡市東区唐原一丁目",
+      "https://geonames.jp/resource/福岡県福岡市東区唐原二丁目",
+      "https://geonames.jp/resource/福岡県福岡市東区唐原三丁目",
+      "https://geonames.jp/resource/福岡県福岡市東区唐原四丁目",
+      "https://geonames.jp/resource/福岡県福岡市東区唐原五丁目",
+      "https://geonames.jp/resource/福岡県福岡市東区唐原六丁目",
+      "https://geonames.jp/resource/福岡県福岡市東区唐原七丁目"
+    ]
+  }
+]

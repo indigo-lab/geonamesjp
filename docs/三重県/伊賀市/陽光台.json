@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県伊賀市陽光台",
+    "表記": "三重県伊賀市陽光台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "伊賀市",
+      "町名": "陽光台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360099",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360190",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361100"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230194/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230195/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/104059.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県伊賀市陽光台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/伊賀市/陽光台.json",
+    "name": "陽光台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県伊賀市"
+  }
+]

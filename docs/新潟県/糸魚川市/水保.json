@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市水保",
+    "表記": "新潟県糸魚川市水保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "糸魚川市",
+      "町名": "水保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055373791",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374700",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374702"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231480/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231479/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231477/102027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231479/102030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231479/102021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231481/102026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231483/102021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231482/102030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231482/102028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231483/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231479/102036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231481/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231480/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231480/102020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231488/102027.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市水保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/糸魚川市/水保.json",
+    "name": "水保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県糸魚川市"
+  }
+]

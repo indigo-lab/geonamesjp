@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市加良部四丁目",
+    "表記": "千葉県成田市加良部四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12211029004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405234"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/103140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233236/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233235/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233236/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233236/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233236/103144.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市加良部四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/加良部/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市加良部"
+  }
+]

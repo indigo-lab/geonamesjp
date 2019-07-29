@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県南アルプス市鏡中条",
+    "表記": "山梨県南アルプス市鏡中条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "南アルプス市",
+      "町名": "鏡中条"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383329",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383339"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231920/103290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231921/103291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231921/103290.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県南アルプス市鏡中条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/南アルプス市/鏡中条.json",
+    "name": "鏡中条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県南アルプス市"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県今治市東門町",
+    "表記": "愛媛県今治市東門町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "東門町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382020160"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県今治市東門町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/今治市/東門町.json",
+    "name": "東門町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県今治市",
+    "children": [
+      "https://geonames.jp/resource/愛媛県今治市東門町一丁目",
+      "https://geonames.jp/resource/愛媛県今治市東門町二丁目",
+      "https://geonames.jp/resource/愛媛県今治市東門町三丁目",
+      "https://geonames.jp/resource/愛媛県今治市東門町四丁目",
+      "https://geonames.jp/resource/愛媛県今治市東門町五丁目",
+      "https://geonames.jp/resource/愛媛県今治市東門町六丁目"
+    ]
+  }
+]

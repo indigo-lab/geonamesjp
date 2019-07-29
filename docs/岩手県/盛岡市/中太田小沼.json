@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市中太田小沼",
+    "表記": "岩手県盛岡市中太田小沼",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "中太田小沼",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S03201202004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414027",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414028",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414037"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233817/99536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233816/99537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233817/99534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233815/99536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233816/99535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233820/99534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233817/99535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233819/99535.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市中太田小沼",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/中太田小沼.json",
+    "name": "中太田小沼",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

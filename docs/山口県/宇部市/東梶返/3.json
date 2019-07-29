@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県宇部市東梶返三丁目",
+    "表記": "山口県宇部市東梶返三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "宇部市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35202070003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317241",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317231",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317240"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226655/104760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226657/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226658/104760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226659/104760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226660/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226661/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226656/104760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226654/104759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226654/104760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226656/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226657/104760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226659/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226658/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226657/104762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226656/104762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226655/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226656/104763.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県宇部市東梶返三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/宇部市/東梶返/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山口県宇部市東梶返"
+  }
+]

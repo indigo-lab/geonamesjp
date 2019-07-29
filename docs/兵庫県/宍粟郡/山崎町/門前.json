@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟郡山崎町門前",
+    "表記": "兵庫県宍粟郡山崎町門前",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "宍粟郡",
+      "市区町村": "山崎町",
+      "町名": "門前"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344402",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344412"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/103828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/103831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229038/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229037/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229038/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229039/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229037/103833.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟郡山崎町門前",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/宍粟郡/山崎町/門前.json",
+    "name": "門前",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県宍粟郡山崎町"
+  }
+]

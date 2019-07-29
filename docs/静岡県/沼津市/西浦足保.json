@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県沼津市西浦足保",
+    "表記": "静岡県沼津市西浦足保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "沼津市",
+      "町名": "西浦足保",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222030860"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384616",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384626",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384605",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384617",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384627"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232167/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232163/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232156/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/103819.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県沼津市西浦足保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/沼津市/西浦足保.json",
+    "name": "西浦足保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県沼津市"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市錦町",
+    "表記": "山形県鶴岡市錦町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "錦町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062030170"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058390686"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232895/100430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232894/100431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232895/100431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232896/100431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232896/100432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232895/100432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232894/100432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232894/100430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/100432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/100431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/100430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/100430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/100430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/100429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/100429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/100429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/100428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/100431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/100431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/100432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/100429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232894/100429.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市錦町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/鶴岡市/錦町.json",
+    "name": "錦町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県鶴岡市"
+  }
+]

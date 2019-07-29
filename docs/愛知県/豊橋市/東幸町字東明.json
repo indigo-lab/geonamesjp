@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市東幸町字東明",
+    "表記": "愛知県豊橋市東幸町字東明",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "東幸町字東明"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370373",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370383"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231140/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231138/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231139/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231140/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231140/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231139/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231138/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231138/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231137/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231136/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231138/104070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231139/104070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231139/104069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231140/104070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231140/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231139/104071.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市東幸町字東明",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/東幸町字東明.json",
+    "name": "東幸町字東明",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

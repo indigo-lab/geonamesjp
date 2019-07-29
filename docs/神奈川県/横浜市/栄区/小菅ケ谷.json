@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市栄区小菅ケ谷",
+    "表記": "神奈川県横浜市栄区小菅ケ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "栄区",
+      "町名": "小菅ケ谷"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市栄区小菅ケ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/栄区/小菅ケ谷.json",
+    "name": "小菅ケ谷",
+    "alternateName": [
+      "小菅ヶ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市栄区",
+    "children": [
+      "https://geonames.jp/resource/神奈川県横浜市栄区小菅ケ谷一丁目",
+      "https://geonames.jp/resource/神奈川県横浜市栄区小菅ケ谷二丁目",
+      "https://geonames.jp/resource/神奈川県横浜市栄区小菅ケ谷三丁目",
+      "https://geonames.jp/resource/神奈川県横浜市栄区小菅ケ谷四丁目"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市北区三ヶ日町摩訶耶",
+    "表記": "静岡県浜松市北区三ヶ日町摩訶耶",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜松市",
+      "区": "北区",
+      "町名": "三ヶ日町摩訶耶",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S221350580"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371474",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371484"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231236/103994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231235/103996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231233/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231234/103996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231235/103998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231237/103993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231236/103997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231238/103996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231235/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231238/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231235/103997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231235/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231235/103993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231236/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231236/103996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231237/103997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231237/103994.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市北区三ヶ日町摩訶耶",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/北区/三ヶ日町摩訶耶.json",
+    "name": "三ヶ日町摩訶耶",
+    "alternateName": [
+      "三ケ日町摩訶耶"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市北区"
+  }
+]

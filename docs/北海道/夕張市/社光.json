@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道夕張市社光",
+    "表記": "北海道夕張市社光",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "夕張市",
+      "町名": "社光",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012090050"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414778",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414779",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064424060",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414769"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234464/96263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234459/96263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234462/96261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234463/96261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234460/96261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234464/96259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234463/96260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234460/96262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234462/96260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234458/96263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234459/96262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234474/96274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234467/96266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234463/96258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234464/96260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234464/96261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234461/96260.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道夕張市社光",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/夕張市/社光.json",
+    "name": "社光",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道夕張市"
+  }
+]

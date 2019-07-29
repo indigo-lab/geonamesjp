@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県花巻市石鳥谷町好地第九地割",
+    "表記": "岩手県花巻市石鳥谷町好地第九地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "花巻市",
+      "町名": "石鳥谷町好地第九地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059412102",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059411191",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059411192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059412101"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233855/99715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233856/99717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233854/99716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233855/99717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233852/99712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233856/99714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233856/99715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233857/99714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233855/99716.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県花巻市石鳥谷町好地第九地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/花巻市/石鳥谷町好地第九地割.json",
+    "name": "石鳥谷町好地第九地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県花巻市"
+  }
+]

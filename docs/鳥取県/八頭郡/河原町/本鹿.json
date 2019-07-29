@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町本鹿",
+    "表記": "鳥取県八頭郡河原町本鹿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "八頭郡",
+      "市区町村": "河原町",
+      "町名": "本鹿"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340143",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340153"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228768/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228768/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228767/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228769/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228769/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228770/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228772/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228773/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228774/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228774/103496.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町本鹿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/八頭郡/河原町/本鹿.json",
+    "name": "本鹿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県八頭郡河原町"
+  }
+]

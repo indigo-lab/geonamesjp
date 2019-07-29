@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県熱海市笹良ヶ台町",
+    "表記": "静岡県熱海市笹良ヶ台町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "笹良ヶ台町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052395034",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052395024",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052395025"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232332/103736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232334/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232334/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232334/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232333/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232332/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232332/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232333/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232333/103737.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県熱海市笹良ヶ台町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/熱海市/笹良ヶ台町.json",
+    "name": "笹良ヶ台町",
+    "alternateName": [
+      "笹良ケ台町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県熱海市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県名瀬市平田町",
+    "表記": "鹿児島県名瀬市平田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "平田町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294329",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294339",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294430",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294420"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225367/109524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225369/109523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225368/109523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225370/109520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225370/109522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225370/109521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225368/109527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225368/109524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225370/109523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225370/109525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225370/109524.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県名瀬市平田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/名瀬市/平田町.json",
+    "name": "平田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県名瀬市"
+  }
+]

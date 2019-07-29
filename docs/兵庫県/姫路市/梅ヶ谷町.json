@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市梅ヶ谷町",
+    "表記": "兵庫県姫路市梅ヶ谷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "梅ヶ谷町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342525",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342534",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342535"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229151/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229150/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229150/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229151/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229149/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229148/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229150/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229149/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229149/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229149/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229151/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229149/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229146/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229149/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229150/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229151/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229150/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229151/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229148/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229148/103957.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市梅ヶ谷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/姫路市/梅ヶ谷町.json",
+    "name": "梅ヶ谷町",
+    "alternateName": [
+      "梅ケ谷町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県姫路市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県日高市馬引沢",
+    "表記": "埼玉県日高市馬引沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "日高市",
+      "町名": "馬引沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396249",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396259",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396340"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232554/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/103057.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県日高市馬引沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/日高市/馬引沢.json",
+    "name": "馬引沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県日高市"
+  }
+]

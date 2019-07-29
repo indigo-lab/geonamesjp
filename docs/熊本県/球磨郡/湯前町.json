@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡湯前町",
+    "表記": "熊本県球磨郡湯前町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "球磨郡",
+      "市区町村": "湯前町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43506-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C43506-19790601",
+        "http://data.e-stat.go.jp/lod/sac/C43506-19860901"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡湯前町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/球磨郡/湯前町.json",
+    "name": "湯前町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県球磨郡",
+    "children": [
+      "https://geonames.jp/resource/熊本県球磨郡湯前町浅ケ野",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町植木",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町上猪",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町上里",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町上染田",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町上村",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町下城",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町下里",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町下染田",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町下村",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町瀬戸口",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町田上",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町中猪",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町中里",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町野中田",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町浜川",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町馬場",
+      "https://geonames.jp/resource/熊本県球磨郡湯前町古城"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1184768"
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道帯広市西十八条北三丁目",
+    "表記": "北海道帯広市西十八条北三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "帯広市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433122",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433132"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235318/96383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235316/96382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235316/96384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235317/96384.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道帯広市西十八条北三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/帯広市/西十八条北/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道帯広市西十八条北"
+  }
+]

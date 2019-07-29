@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県甘木市黒川",
+    "表記": "福岡県甘木市黒川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "甘木市",
+      "町名": "黒川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300690",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301529",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301600",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301610",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301620"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226285/105210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226279/105211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226278/105211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/105218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/105219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226276/105213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226277/105212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226289/105213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226289/105216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226289/105214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226285/105224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226286/105226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226287/105228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226289/105235.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県甘木市黒川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/甘木市/黒川.json",
+    "name": "黒川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県甘木市"
+  }
+]

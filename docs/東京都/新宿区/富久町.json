@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都新宿区富久町",
+    "表記": "東京都新宿区富久町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "富久町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131040820"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394537",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394527"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232810/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232812/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232812/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232811/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232810/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232809/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232811/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232809/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232810/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232807/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232807/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232809/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232810/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232809/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232807/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232807/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232807/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232811/103215.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都新宿区富久町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/新宿区/富久町.json",
+    "name": "富久町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都新宿区"
+  }
+]

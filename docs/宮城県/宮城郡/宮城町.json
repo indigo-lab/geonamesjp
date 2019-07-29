@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県宮城郡宮城町",
+    "表記": "宮城県宮城郡宮城町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "宮城郡",
+      "市区町村": "宮城町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C04405-19871101",
+        "http://data.e-stat.go.jp/lod/sac/C04405-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県宮城郡宮城町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/宮城郡/宮城町.json",
+    "name": "宮城町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県宮城郡"
+  }
+]

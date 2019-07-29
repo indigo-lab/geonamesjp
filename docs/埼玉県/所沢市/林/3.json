@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県所沢市林三丁目",
+    "表記": "埼玉県所沢市林三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "所沢市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11208075003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395372",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395362"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/103111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/103115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/103111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/103111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232585/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232585/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/103111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103109.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県所沢市林三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/所沢市/林/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県所沢市林"
+  }
+]

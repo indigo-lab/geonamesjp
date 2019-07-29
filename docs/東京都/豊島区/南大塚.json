@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都豊島区南大塚",
+    "表記": "東京都豊島区南大塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "豊島区",
+      "町名": "南大塚",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131160050"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都豊島区南大塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/豊島区/南大塚.json",
+    "name": "南大塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都豊島区",
+    "children": [
+      "https://geonames.jp/resource/東京都豊島区南大塚一丁目",
+      "https://geonames.jp/resource/東京都豊島区南大塚二丁目",
+      "https://geonames.jp/resource/東京都豊島区南大塚三丁目"
+    ]
+  }
+]

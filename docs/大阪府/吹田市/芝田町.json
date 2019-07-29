@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府吹田市芝田町",
+    "表記": "大阪府吹田市芝田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "芝田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S272050280"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351422",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351433",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351432"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229763/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229766/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229769/104031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229769/104032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229766/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229767/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229765/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229764/104036.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府吹田市芝田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/吹田市/芝田町.json",
+    "name": "芝田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府吹田市"
+  }
+]

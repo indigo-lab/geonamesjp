@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町新館",
+    "表記": "新潟県北蒲原郡中条町新館",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "中条町",
+      "町名": "新館"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390259",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390269",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390360"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/101064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/101065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/101065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/101063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/101065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/101065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/101064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/101065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232564/101062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232565/101063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232564/101064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/101072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/101072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/101070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/101069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/101068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/101066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/101067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/101068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/101066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/101067.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町新館",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/中条町/新館.json",
+    "name": "新館",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡中条町"
+  }
+]

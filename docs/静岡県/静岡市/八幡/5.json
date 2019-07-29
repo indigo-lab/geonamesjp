@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市八幡五丁目",
+    "表記": "静岡県静岡市八幡五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383351",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383362"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231850/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231851/103866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231851/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231850/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231851/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231852/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231852/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231852/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231854/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231852/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231854/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231855/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231852/103861.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市八幡五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/八幡/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市八幡"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県流山市前平井",
+    "表記": "千葉県流山市前平井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "流山市",
+      "町名": "前平井",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122200450"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396722"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232955/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232954/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232956/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232954/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232956/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232957/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232955/103070.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県流山市前平井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/流山市/前平井.json",
+    "name": "前平井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県流山市"
+  }
+]

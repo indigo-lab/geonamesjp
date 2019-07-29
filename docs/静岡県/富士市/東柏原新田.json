@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士市東柏原新田",
+    "表記": "静岡県富士市東柏原新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "富士市",
+      "町名": "東柏原新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385650",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385660"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232108/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232109/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232109/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232108/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232107/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232107/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232107/103712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232107/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232108/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232107/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232105/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232109/103714.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士市東柏原新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士市/東柏原新田.json",
+    "name": "東柏原新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士市"
+  }
+]

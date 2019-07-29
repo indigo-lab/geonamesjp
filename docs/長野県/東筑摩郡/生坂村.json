@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県東筑摩郡生坂村",
+    "表記": "長野県東筑摩郡生坂村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "東筑摩郡",
+      "市区町村": "生坂村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20448-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県東筑摩郡生坂村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/東筑摩郡/生坂村.json",
+    "name": "生坂村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県東筑摩郡",
+    "children": [
+      "https://geonames.jp/resource/長野県東筑摩郡生坂村下生野",
+      "https://geonames.jp/resource/長野県東筑摩郡生坂村下生坂",
+      "https://geonames.jp/resource/長野県東筑摩郡生坂村大字東広津",
+      "https://geonames.jp/resource/長野県東筑摩郡生坂村上生坂",
+      "https://geonames.jp/resource/長野県東筑摩郡生坂村大字北陸郷",
+      "https://geonames.jp/resource/長野県東筑摩郡生坂村小立野"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1347517"
+    ]
+  }
+]

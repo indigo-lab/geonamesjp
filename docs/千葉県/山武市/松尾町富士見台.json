@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県山武市松尾町富士見台",
+    "表記": "千葉県山武市松尾町富士見台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "山武市",
+      "町名": "松尾町富士見台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403375"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/103264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233339/103264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/103265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/103260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/103263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/103261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233344/103261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233339/103266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233340/103266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/103264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/103264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233339/103265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233340/103267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/103266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/103261.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県山武市松尾町富士見台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/山武市/松尾町富士見台.json",
+    "name": "松尾町富士見台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県山武市"
+  }
+]

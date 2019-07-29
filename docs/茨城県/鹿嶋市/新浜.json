@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県鹿嶋市新浜",
+    "表記": "茨城県鹿嶋市新浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "鹿嶋市",
+      "町名": "新浜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407525",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407535",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407544",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407545"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/102993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/102988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233513/102980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/102979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/102988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102985.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県鹿嶋市新浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/鹿嶋市/新浜.json",
+    "name": "新浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県鹿嶋市"
+  }
+]

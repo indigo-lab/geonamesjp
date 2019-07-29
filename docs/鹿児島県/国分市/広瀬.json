@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県国分市広瀬",
+    "表記": "鹿児島県国分市広瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "国分市",
+      "町名": "広瀬"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県国分市広瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/国分市/広瀬.json",
+    "name": "広瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県国分市",
+    "children": [
+      "https://geonames.jp/resource/鹿児島県国分市広瀬（丁目なし）",
+      "https://geonames.jp/resource/鹿児島県国分市広瀬一丁目",
+      "https://geonames.jp/resource/鹿児島県国分市広瀬二丁目",
+      "https://geonames.jp/resource/鹿児島県国分市広瀬三丁目",
+      "https://geonames.jp/resource/鹿児島県国分市広瀬四丁目"
+    ]
+  }
+]

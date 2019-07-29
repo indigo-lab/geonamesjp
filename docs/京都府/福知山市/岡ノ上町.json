@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市岡ノ上町",
+    "表記": "京都府福知山市岡ノ上町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "岡ノ上町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357059",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357150"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229466/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229466/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229467/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229467/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229467/103573.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市岡ノ上町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/岡ノ上町.json",
+    "name": "岡ノ上町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

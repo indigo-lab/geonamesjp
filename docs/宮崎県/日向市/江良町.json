@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県日向市江良町",
+    "表記": "宮崎県日向市江良町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "江良町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県日向市江良町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/日向市/江良町.json",
+    "name": "江良町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県日向市",
+    "children": [
+      "https://geonames.jp/resource/宮崎県日向市江良町一丁目",
+      "https://geonames.jp/resource/宮崎県日向市江良町二丁目",
+      "https://geonames.jp/resource/宮崎県日向市江良町三丁目",
+      "https://geonames.jp/resource/宮崎県日向市江良町四丁目"
+    ]
+  }
+]

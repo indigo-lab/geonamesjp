@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県喜多方市天満前",
+    "表記": "福島県喜多方市天満前",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "喜多方市",
+      "町名": "天満前"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393679"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232920/101442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/101443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/101442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/101441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/101441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/101442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/101440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232920/101441.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県喜多方市天満前",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/喜多方市/天満前.json",
+    "name": "天満前",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県喜多方市"
+  }
+]

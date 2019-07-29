@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県中島郡平和町大字前浪字下前浪",
+    "表記": "愛知県中島郡平和町大字前浪字下前浪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "中島郡",
+      "市区町村": "平和町",
+      "町名": "大字前浪字下前浪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366549",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366640"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230650/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230649/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230650/103654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230649/103654.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県中島郡平和町大字前浪字下前浪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/中島郡/平和町/大字前浪字下前浪.json",
+    "name": "大字前浪字下前浪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県中島郡平和町"
+  }
+]

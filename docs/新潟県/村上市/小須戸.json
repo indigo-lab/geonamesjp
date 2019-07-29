@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県村上市小須戸",
+    "表記": "新潟県村上市小須戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "村上市",
+      "町名": "小須戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393495",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393494",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393484",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393485"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/100813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232696/100814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/100817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/100815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/100811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232702/100808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/100816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/100815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/100813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232700/100817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/100812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/100812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/100819.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県村上市小須戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/村上市/小須戸.json",
+    "name": "小須戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県村上市"
+  }
+]

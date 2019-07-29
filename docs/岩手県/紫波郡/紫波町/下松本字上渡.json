@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県紫波郡紫波町下松本字上渡",
+    "表記": "岩手県紫波郡紫波町下松本字上渡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "紫波郡",
+      "市区町村": "紫波町",
+      "町名": "下松本字上渡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059412089",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059412088"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/99652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233824/99651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233825/99651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233823/99651.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県紫波郡紫波町下松本字上渡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/紫波郡/紫波町/下松本字上渡.json",
+    "name": "下松本字上渡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県紫波郡紫波町"
+  }
+]

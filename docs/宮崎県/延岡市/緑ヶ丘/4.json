@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市緑ヶ丘四丁目",
+    "表記": "宮崎県延岡市緑ヶ丘四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "延岡市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048316554",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048316564"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226957/105981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226957/105980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226958/105980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226958/105981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226959/105981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226959/105980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226959/105982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226960/105982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226960/105981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226960/105980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226958/105982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226957/105979.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市緑ヶ丘四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/延岡市/緑ヶ丘/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮崎県延岡市緑ヶ丘"
+  }
+]

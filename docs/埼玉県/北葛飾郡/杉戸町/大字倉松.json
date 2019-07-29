@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡杉戸町大字倉松",
+    "表記": "埼玉県北葛飾郡杉戸町大字倉松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "北葛飾郡",
+      "市区町村": "杉戸町",
+      "町名": "大字倉松",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S114640130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390549",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390539",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232830/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232830/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232830/102911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232829/102911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/102913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/102911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/102910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232829/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232829/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232830/102910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232830/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232830/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/102911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/102910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232834/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/102907.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡杉戸町大字倉松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/北葛飾郡/杉戸町/大字倉松.json",
+    "name": "大字倉松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県北葛飾郡杉戸町"
+  }
+]

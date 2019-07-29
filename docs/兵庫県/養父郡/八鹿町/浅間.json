@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県養父郡八鹿町浅間",
+    "表記": "兵庫県養父郡八鹿町浅間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "養父郡",
+      "市区町村": "八鹿町",
+      "町名": "浅間"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341613",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341623",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341634"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229224/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229227/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229228/103444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229227/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229227/103451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229227/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229227/103449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229228/103447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229228/103449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229229/103447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229229/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229230/103444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229231/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229231/103442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229232/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229233/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229232/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229231/103441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229236/103446.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県養父郡八鹿町浅間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/養父郡/八鹿町/浅間.json",
+    "name": "浅間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県養父郡八鹿町"
+  }
+]

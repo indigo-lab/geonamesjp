@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市小川町関場高垣",
+    "表記": "福島県いわき市小川町関場高垣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "小川町関場高垣"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405649"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/101922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/101926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/101924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233653/101925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233651/101927.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市小川町関場高垣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/小川町関場高垣.json",
+    "name": "小川町関場高垣",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

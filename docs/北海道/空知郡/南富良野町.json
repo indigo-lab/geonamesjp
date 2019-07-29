@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道空知郡南富良野町",
+    "表記": "北海道空知郡南富良野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "空知郡",
+      "市区町村": "南富良野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C01462-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道空知郡南富良野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/空知郡/南富良野町.json",
+    "name": "南富良野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道空知郡",
+    "children": [
+      "https://geonames.jp/resource/北海道空知郡南富良野町字幾寅",
+      "https://geonames.jp/resource/北海道空知郡南富良野町字金山",
+      "https://geonames.jp/resource/北海道空知郡南富良野町字東鹿越",
+      "https://geonames.jp/resource/北海道空知郡南富良野町字北落合",
+      "https://geonames.jp/resource/北海道空知郡南富良野町字落合",
+      "https://geonames.jp/resource/北海道空知郡南富良野町字下金山"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1357254"
+    ]
+  }
+]

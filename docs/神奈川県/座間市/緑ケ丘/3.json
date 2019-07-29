@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県座間市緑ケ丘三丁目",
+    "表記": "神奈川県座間市緑ケ丘三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "座間市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14216080003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391393"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103396.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県座間市緑ケ丘三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/座間市/緑ケ丘/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県座間市緑ケ丘"
+  }
+]

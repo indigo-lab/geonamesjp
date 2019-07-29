@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道空知郡奈井江町白山二区",
+    "表記": "北海道空知郡奈井江町白山二区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "空知郡",
+      "市区町村": "奈井江町",
+      "町名": "白山二区"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411731",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234402/95876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234405/95877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234405/95879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234404/95877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234407/95877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234399/95876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234411/95880.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道空知郡奈井江町白山二区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/空知郡/奈井江町/白山二区.json",
+    "name": "白山二区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道空知郡奈井江町"
+  }
+]

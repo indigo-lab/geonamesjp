@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県上浮穴郡久万高原町上黒岩",
+    "表記": "愛媛県上浮穴郡久万高原町上黒岩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "上浮穴郡",
+      "市区町村": "久万高原町",
+      "町名": "上黒岩",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S383860270"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050323747",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050323737"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227893/105051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227893/105055.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県上浮穴郡久万高原町上黒岩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/上浮穴郡/久万高原町/上黒岩.json",
+    "name": "上黒岩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県上浮穴郡久万高原町"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道河東郡音更町木野大通東十三丁目",
+    "表記": "北海道河東郡音更町木野大通東十三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "河東郡",
+      "市区町村": "音更町",
+      "町名": "十三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433156",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433157"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235354/96362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235352/96364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235352/96363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235354/96363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235356/96362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235356/96361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235353/96363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235351/96362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235352/96362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235355/96362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235351/96364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235353/96364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235357/96360.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道河東郡音更町木野大通東十三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/河東郡/音更町/木野大通東/13.json",
+    "name": "十三丁目",
+    "alternateName": [
+      "13",
+      "13丁目",
+      "１３",
+      "１３丁目",
+      "十三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道河東郡音更町木野大通東"
+  }
+]

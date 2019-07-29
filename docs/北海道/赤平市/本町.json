@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道赤平市本町",
+    "表記": "北海道赤平市本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "本町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012180030"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道赤平市本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/赤平市/本町.json",
+    "name": "本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道赤平市",
+    "children": [
+      "https://geonames.jp/resource/北海道赤平市本町一丁目",
+      "https://geonames.jp/resource/北海道赤平市本町二丁目",
+      "https://geonames.jp/resource/北海道赤平市本町三丁目"
+    ]
+  }
+]

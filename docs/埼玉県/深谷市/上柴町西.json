@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県深谷市上柴町西",
+    "表記": "埼玉県深谷市上柴町西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "深谷市",
+      "町名": "上柴町西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112180900"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県深谷市上柴町西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/深谷市/上柴町西.json",
+    "name": "上柴町西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県深谷市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県深谷市上柴町西一丁目",
+      "https://geonames.jp/resource/埼玉県深谷市上柴町西二丁目",
+      "https://geonames.jp/resource/埼玉県深谷市上柴町西三丁目",
+      "https://geonames.jp/resource/埼玉県深谷市上柴町西四丁目",
+      "https://geonames.jp/resource/埼玉県深谷市上柴町西五丁目",
+      "https://geonames.jp/resource/埼玉県深谷市上柴町西六丁目",
+      "https://geonames.jp/resource/埼玉県深谷市上柴町西七丁目"
+    ]
+  }
+]

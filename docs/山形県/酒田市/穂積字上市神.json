@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県酒田市穂積字上市神",
+    "表記": "山形県酒田市穂積字上市神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "酒田市",
+      "町名": "穂積字上市神",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06204079002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058393678",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058393679"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/100208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/100207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/100207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/100208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/100208.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県酒田市穂積字上市神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/酒田市/穂積字上市神.json",
+    "name": "穂積字上市神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県酒田市"
+  }
+]

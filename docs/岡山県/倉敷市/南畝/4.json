@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市南畝四丁目",
+    "表記": "岡山県倉敷市南畝四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "倉敷市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33202123204"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336519",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336529",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336610"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228462/104265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228458/104262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228466/104263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228462/104264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228461/104264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228464/104265.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市南畝四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/倉敷市/南畝/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県倉敷市南畝"
+  }
+]

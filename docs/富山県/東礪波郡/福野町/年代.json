@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町年代",
+    "表記": "富山県東礪波郡福野町年代",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "東礪波郡",
+      "市区町村": "福野町",
+      "町名": "年代"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367704",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367705",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367715"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/102406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230787/102406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230787/102405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230788/102406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/102408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/102409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/102410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230787/102409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230787/102407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230788/102410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230788/102409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230789/102408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230788/102408.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町年代",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/東礪波郡/福野町/年代.json",
+    "name": "年代",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県東礪波郡福野町"
+  }
+]

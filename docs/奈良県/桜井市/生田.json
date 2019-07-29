@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県桜井市生田",
+    "表記": "奈良県桜井市生田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "桜井市",
+      "町名": "生田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355697",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356607"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229988/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229988/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229988/104282.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県桜井市生田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/桜井市/生田.json",
+    "name": "生田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県桜井市"
+  }
+]

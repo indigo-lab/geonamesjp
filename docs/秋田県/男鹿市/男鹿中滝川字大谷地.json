@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市男鹿中滝川字大谷地",
+    "表記": "秋田県男鹿市男鹿中滝川字大谷地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "男鹿市",
+      "町名": "男鹿中滝川字大谷地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397617",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397619",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397629"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/99306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232912/99311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/99313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232907/99312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232903/99309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232908/99309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/99308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/99302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232903/99313.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市男鹿中滝川字大谷地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/男鹿市/男鹿中滝川字大谷地.json",
+    "name": "男鹿中滝川字大谷地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県男鹿市"
+  }
+]

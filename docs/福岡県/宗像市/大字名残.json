@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県宗像市大字名残",
+    "表記": "福岡県宗像市大字名残",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "宗像市",
+      "町名": "大字名残"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305437",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305438",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305446",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305448",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305457"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226173/104906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226167/104904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226174/104909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226169/104906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226168/104908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226166/104905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226165/104907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226165/104905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226165/104904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226166/104903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226167/104902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226166/104902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226164/104902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226162/104903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226164/104903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226166/104900.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県宗像市大字名残",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/宗像市/大字名残.json",
+    "name": "大字名残",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県宗像市"
+  }
+]

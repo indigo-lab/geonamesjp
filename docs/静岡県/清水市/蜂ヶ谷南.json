@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県清水市蜂ヶ谷南",
+    "表記": "静岡県清水市蜂ヶ谷南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "清水市",
+      "町名": "蜂ヶ谷南"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384346",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384347"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231898/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231897/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231896/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231895/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231896/103802.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県清水市蜂ヶ谷南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/清水市/蜂ヶ谷南.json",
+    "name": "蜂ヶ谷南",
+    "alternateName": [
+      "蜂ケ谷南"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県清水市"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路市新釧路町",
+    "表記": "北海道釧路市新釧路町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "新釧路町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012060270"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443391",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443381"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236217/96332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236213/96335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236218/96332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236218/96331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236219/96330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236219/96332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236219/96329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236215/96334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236216/96334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236216/96332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236217/96333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236213/96336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236214/96335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236216/96336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236217/96335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236216/96335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236216/96333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236220/96330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236215/96335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236219/96331.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路市新釧路町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路市/新釧路町.json",
+    "name": "新釧路町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路市"
+  }
+]

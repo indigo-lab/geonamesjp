@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県御調郡向島町岩子島",
+    "表記": "広島県御調郡向島町岩子島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "御調郡",
+      "市区町村": "向島町",
+      "町名": "岩子島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334153",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334163"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228033/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228040/104375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228039/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228034/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228034/104377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228036/104377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228036/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228036/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228037/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228042/104382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228036/104385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228039/104384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228038/104387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228043/104386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228037/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228042/104385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228039/104385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228040/104382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228040/104383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228037/104382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228038/104382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228037/104383.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県御調郡向島町岩子島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/御調郡/向島町/岩子島.json",
+    "name": "岩子島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県御調郡向島町"
+  }
+]

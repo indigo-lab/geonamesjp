@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡大野村",
+    "表記": "茨城県鹿島郡大野村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "鹿島郡",
+      "市区町村": "大野村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C08404-19950901",
+        "http://data.e-stat.go.jp/lod/sac/C08404-19810601",
+        "http://data.e-stat.go.jp/lod/sac/C08404-19730501",
+        "http://data.e-stat.go.jp/lod/sac/C08404-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C08404-19711115"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡大野村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/鹿島郡/大野村.json",
+    "name": "大野村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県鹿島郡"
+  }
+]

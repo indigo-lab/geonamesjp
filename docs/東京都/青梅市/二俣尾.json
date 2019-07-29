@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都青梅市二俣尾",
+    "表記": "東京都青梅市二俣尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "青梅市",
+      "町名": "二俣尾",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S132050340"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都青梅市二俣尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/青梅市/二俣尾.json",
+    "name": "二俣尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都青梅市",
+    "children": [
+      "https://geonames.jp/resource/東京都青梅市二俣尾一丁目",
+      "https://geonames.jp/resource/東京都青梅市二俣尾二丁目",
+      "https://geonames.jp/resource/東京都青梅市二俣尾三丁目",
+      "https://geonames.jp/resource/東京都青梅市二俣尾四丁目",
+      "https://geonames.jp/resource/東京都青梅市二俣尾五丁目"
+    ]
+  }
+]

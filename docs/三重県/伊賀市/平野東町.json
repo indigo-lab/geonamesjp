@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県伊賀市平野東町",
+    "表記": "三重県伊賀市平野東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "平野東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242161370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361121",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361120"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/104038.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県伊賀市平野東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/伊賀市/平野東町.json",
+    "name": "平野東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県伊賀市"
+  }
+]

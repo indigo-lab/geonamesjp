@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県豊見城市田頭",
+    "表記": "沖縄県豊見城市田頭",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "豊見城市",
+      "町名": "田頭"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272502",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272512",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272513"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224031/111310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224031/111309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224032/111308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224033/111309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224032/111310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224032/111309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224032/111311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224032/111312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224033/111310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224032/111313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224031/111311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224030/111310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224031/111308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224033/111307.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県豊見城市田頭",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/豊見城市/田頭.json",
+    "name": "田頭",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県豊見城市"
+  }
+]

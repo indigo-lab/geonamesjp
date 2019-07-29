@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県国分市福島二丁目",
+    "表記": "鹿児島県国分市福島二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "国分市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304579",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304660",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304670"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/106689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226285/106691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226287/106690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226285/106690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226286/106690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226286/106691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/106690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226287/106691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226288/106692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226288/106691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226288/106690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226289/106690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226289/106691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226289/106692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/106692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/106690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/106693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/106692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/106691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/106690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/106693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/106692.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県国分市福島二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/国分市/福島/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県国分市福島"
+  }
+]

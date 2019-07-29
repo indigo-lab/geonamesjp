@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県児玉郡神川町宮内",
+    "表記": "埼玉県児玉郡神川町宮内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "児玉郡",
+      "市区町村": "神川町",
+      "町名": "宮内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392038"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232361/102765.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県児玉郡神川町宮内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/児玉郡/神川町/宮内.json",
+    "name": "宮内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県児玉郡神川町"
+  }
+]

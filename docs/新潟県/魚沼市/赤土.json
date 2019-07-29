@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市赤土",
+    "表記": "新潟県魚沼市赤土",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "魚沼市",
+      "町名": "赤土",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152250920"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055397050",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387749",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387759",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055397040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055397041"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/101767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/101766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/101768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/101763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232289/101761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232288/101763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232289/101762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232294/101768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232288/101764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232297/101765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/101765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/101771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232299/101770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232296/101768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/101771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/101765.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市赤土",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/魚沼市/赤土.json",
+    "name": "赤土",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県魚沼市"
+  }
+]

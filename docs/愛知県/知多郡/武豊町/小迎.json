@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知多郡武豊町小迎",
+    "表記": "愛知県知多郡武豊町小迎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "知多郡",
+      "市区町村": "武豊町",
+      "町名": "小迎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362724"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103965.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知多郡武豊町小迎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知多郡/武豊町/小迎.json",
+    "name": "小迎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知多郡武豊町"
+  }
+]

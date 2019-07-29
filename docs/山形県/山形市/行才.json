@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市行才",
+    "表記": "山形県山形市行才",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "行才",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062012230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403244",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403245",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403254"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/100847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/100846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100850.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市行才",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/行才.json",
+    "name": "行才",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

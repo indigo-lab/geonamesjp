@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道上川郡新得町四条南",
+    "表記": "北海道上川郡新得町四条南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "上川郡",
+      "市区町村": "新得町",
+      "町名": "四条南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016350170"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道上川郡新得町四条南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/上川郡/新得町/四条南.json",
+    "name": "四条南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道上川郡新得町",
+    "children": [
+      "https://geonames.jp/resource/北海道上川郡新得町四条南一丁目",
+      "https://geonames.jp/resource/北海道上川郡新得町四条南二丁目",
+      "https://geonames.jp/resource/北海道上川郡新得町四条南三丁目",
+      "https://geonames.jp/resource/北海道上川郡新得町四条南四丁目",
+      "https://geonames.jp/resource/北海道上川郡新得町四条南五丁目",
+      "https://geonames.jp/resource/北海道上川郡新得町四条南六丁目",
+      "https://geonames.jp/resource/北海道上川郡新得町四条南七丁目"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県桃生郡矢本町",
+    "表記": "宮城県桃生郡矢本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "桃生郡",
+      "市区町村": "矢本町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C04562-19890331",
+        "http://data.e-stat.go.jp/lod/sac/C04562-20050401",
+        "http://data.e-stat.go.jp/lod/sac/C04562-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C04562-19981101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県桃生郡矢本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/桃生郡/矢本町.json",
+    "name": "矢本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県桃生郡",
+    "children": [
+      "https://geonames.jp/resource/宮城県桃生郡矢本町小松",
+      "https://geonames.jp/resource/宮城県桃生郡矢本町赤井",
+      "https://geonames.jp/resource/宮城県桃生郡矢本町大塩",
+      "https://geonames.jp/resource/宮城県桃生郡矢本町大曲",
+      "https://geonames.jp/resource/宮城県桃生郡矢本町矢本",
+      "https://geonames.jp/resource/宮城県桃生郡矢本町字前三郷"
+    ]
+  }
+]

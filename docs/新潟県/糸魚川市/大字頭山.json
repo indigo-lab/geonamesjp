@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字頭山",
+    "表記": "新潟県糸魚川市大字頭山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "糸魚川市",
+      "町名": "大字頭山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374627",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374617",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374628"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231449/102016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231445/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231452/102017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231450/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231450/102017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231449/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231449/102017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231449/102018.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字頭山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/糸魚川市/大字頭山.json",
+    "name": "大字頭山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県糸魚川市"
+  }
+]

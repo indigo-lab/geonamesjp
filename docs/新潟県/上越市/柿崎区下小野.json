@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市柿崎区下小野",
+    "表記": "新潟県上越市柿崎区下小野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "柿崎区下小野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152224420"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387302",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387303"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231860/101801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231855/101799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231863/101801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231860/101804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231859/101803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231856/101801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231855/101803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231855/101805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231856/101800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231863/101800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231858/101801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231857/101801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231855/101800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231859/101802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231854/101800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231857/101803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231856/101799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231855/101801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231860/101799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231862/101802.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市柿崎区下小野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/柿崎区下小野.json",
+    "name": "柿崎区下小野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

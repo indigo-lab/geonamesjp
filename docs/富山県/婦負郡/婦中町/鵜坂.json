@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県婦負郡婦中町鵜坂",
+    "表記": "富山県婦負郡婦中町鵜坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "婦負郡",
+      "市区町村": "婦中町",
+      "町名": "鵜坂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370105",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370114",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370115"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230970/102331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230970/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102330.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県婦負郡婦中町鵜坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/婦負郡/婦中町/鵜坂.json",
+    "name": "鵜坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県婦負郡婦中町"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県多紀郡篠山町",
+    "表記": "兵庫県多紀郡篠山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "多紀郡",
+      "市区町村": "篠山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C28661-19800719",
+        "http://data.e-stat.go.jp/lod/sac/C28661-19810301",
+        "http://data.e-stat.go.jp/lod/sac/C28661-19990401",
+        "http://data.e-stat.go.jp/lod/sac/C28661-19860601",
+        "http://data.e-stat.go.jp/lod/sac/C28661-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C28661-19830325",
+        "http://data.e-stat.go.jp/lod/sac/C28661-19750328"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県多紀郡篠山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/多紀郡/篠山町.json",
+    "name": "篠山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県多紀郡"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県御所市南郷",
+    "表記": "奈良県御所市南郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "御所市",
+      "町名": "南郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355507",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355515",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355516",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355517"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/104343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/104342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/104341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/104339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229896/104340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229896/104339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229896/104346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229897/104345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229884/104340.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県御所市南郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/御所市/南郷.json",
+    "name": "南郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県御所市"
+  }
+]

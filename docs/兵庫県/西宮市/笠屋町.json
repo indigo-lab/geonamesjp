@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県西宮市笠屋町",
+    "表記": "兵庫県西宮市笠屋町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "笠屋町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282042400"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350259",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350350"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104090.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県西宮市笠屋町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/西宮市/笠屋町.json",
+    "name": "笠屋町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県西宮市"
+  }
+]

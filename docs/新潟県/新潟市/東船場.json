@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市東船場",
+    "表記": "新潟県新潟市東船場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "東船場"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市東船場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/東船場.json",
+    "name": "東船場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市",
+    "children": [
+      "https://geonames.jp/resource/新潟県新潟市東船場一丁目",
+      "https://geonames.jp/resource/新潟県新潟市東船場二丁目",
+      "https://geonames.jp/resource/新潟県新潟市東船場三丁目",
+      "https://geonames.jp/resource/新潟県新潟市東船場四丁目",
+      "https://geonames.jp/resource/新潟県新潟市東船場五丁目"
+    ]
+  }
+]

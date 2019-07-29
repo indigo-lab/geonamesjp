@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県三方上中郡若狭町東黒田",
+    "表記": "福井県三方上中郡若狭町東黒田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "三方上中郡",
+      "市区町村": "若狭町",
+      "町名": "東黒田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S185010110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352731",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352730"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/103366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/103366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/103367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/103368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/103368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/103368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230028/103364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/103366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/103366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/103368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230018/103366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/103367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230020/103369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/103367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/103367.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県三方上中郡若狭町東黒田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/三方上中郡/若狭町/東黒田.json",
+    "name": "東黒田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県三方上中郡若狭町"
+  }
+]

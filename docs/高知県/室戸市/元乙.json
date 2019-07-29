@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県室戸市元乙",
+    "表記": "高知県室戸市元乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "室戸市",
+      "町名": "元乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049347069",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049347079"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228737/105323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228735/105324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228731/105328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228731/105327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228731/105324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228734/105326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228733/105325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228737/105324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228736/105325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228734/105323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228732/105321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228733/105330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228731/105330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228732/105327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228732/105326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228734/105325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228735/105326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228736/105324.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県室戸市元乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/室戸市/元乙.json",
+    "name": "元乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県室戸市"
+  }
+]

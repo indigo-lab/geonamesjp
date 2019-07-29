@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県岩瀬郡長沼町",
+    "表記": "福島県岩瀬郡長沼町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "岩瀬郡",
+      "市区町村": "長沼町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C07341-20050401",
+        "http://data.e-stat.go.jp/lod/sac/C07341-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C07341-19900901",
+        "http://data.e-stat.go.jp/lod/sac/C07341-19831201",
+        "http://data.e-stat.go.jp/lod/sac/C07341-19940201",
+        "http://data.e-stat.go.jp/lod/sac/C07341-19821201",
+        "http://data.e-stat.go.jp/lod/sac/C07341-19831001",
+        "http://data.e-stat.go.jp/lod/sac/C07341-19820501",
+        "http://data.e-stat.go.jp/lod/sac/C07341-19721115"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県岩瀬郡長沼町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/岩瀬郡/長沼町.json",
+    "name": "長沼町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県岩瀬郡"
+  }
+]

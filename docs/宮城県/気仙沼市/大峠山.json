@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市大峠山",
+    "表記": "宮城県気仙沼市大峠山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "気仙沼市",
+      "町名": "大峠山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413407",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412497",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412487",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413417",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413438"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234176/100260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/100267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234177/100259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234176/100271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234181/100251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234176/100254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234178/100271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234183/100240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234177/100260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234179/100257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234179/100249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234181/100253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234175/100262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234175/100266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/100266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234178/100269.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市大峠山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/気仙沼市/大峠山.json",
+    "name": "大峠山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県気仙沼市"
+  }
+]

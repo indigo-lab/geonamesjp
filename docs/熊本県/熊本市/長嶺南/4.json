@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市長嶺南四丁目",
+    "表記": "熊本県熊本市長嶺南四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301661",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301662",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301671",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301672"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226297/105756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226298/105755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226297/105755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226298/105756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226299/105755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226300/105756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226299/105757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226298/105757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226297/105757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226299/105758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226300/105757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226299/105756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226298/105754.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市長嶺南四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/長嶺南/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市長嶺南"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市平絹谷大苗代",
+    "表記": "福島県いわき市平絹谷大苗代",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "平絹谷大苗代"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405704",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405714",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405715",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405705"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233699/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233700/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233696/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233698/101950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233702/101951.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市平絹谷大苗代",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/平絹谷大苗代.json",
+    "name": "平絹谷大苗代",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県尾道市向島町川尻",
+    "表記": "広島県尾道市向島町川尻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "尾道市",
+      "町名": "向島町川尻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334145",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334156"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228063/104387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228065/104387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228064/104388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228063/104386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228061/104390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228061/104386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228062/104387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228062/104385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228063/104385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228063/104390.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県尾道市向島町川尻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/尾道市/向島町川尻.json",
+    "name": "向島町川尻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県尾道市"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県諏訪郡下諏訪町星が丘",
+    "表記": "長野県諏訪郡下諏訪町星が丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "諏訪郡",
+      "市区町村": "下諏訪町",
+      "町名": "星が丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054381006",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054381016"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231620/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231619/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231620/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231620/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231619/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231620/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231619/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231619/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231621/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231619/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231618/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231618/102862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231618/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231619/102862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231621/102855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231620/102854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231617/102861.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県諏訪郡下諏訪町星が丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/諏訪郡/下諏訪町/星が丘.json",
+    "name": "星が丘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県諏訪郡下諏訪町"
+  }
+]

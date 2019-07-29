@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県妙高市西野谷",
+    "表記": "新潟県妙高市西野谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "妙高市",
+      "町名": "西野谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384103",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384114",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384115"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231698/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231692/102022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231696/102026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231686/102028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231693/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231692/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231693/102021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231695/102022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231694/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231695/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231697/102025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231695/102027.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県妙高市西野谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/妙高市/西野谷.json",
+    "name": "西野谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県妙高市"
+  }
+]

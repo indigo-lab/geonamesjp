@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市浮之城町",
+    "表記": "宮崎県宮崎市浮之城町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "浮之城町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317314",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317315"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226781/106514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226781/106513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226781/106515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226782/106515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226783/106516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226783/106514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226782/106514.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市浮之城町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/宮崎市/浮之城町.json",
+    "name": "浮之城町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県宮崎市"
+  }
+]

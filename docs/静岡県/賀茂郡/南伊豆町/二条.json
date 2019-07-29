@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県賀茂郡南伊豆町二条",
+    "表記": "静岡県賀茂郡南伊豆町二条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "賀茂郡",
+      "市区町村": "南伊豆町",
+      "町名": "二条"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387677",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387686",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387667",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387687",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387697"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232167/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/104148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/104148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/104148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232164/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/104149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/104141.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県賀茂郡南伊豆町二条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/賀茂郡/南伊豆町/二条.json",
+    "name": "二条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県賀茂郡南伊豆町"
+  }
+]

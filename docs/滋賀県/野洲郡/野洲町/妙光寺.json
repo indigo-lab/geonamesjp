@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県野洲郡野洲町妙光寺",
+    "表記": "滋賀県野洲郡野洲町妙光寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "野洲郡",
+      "市区町村": "野洲町",
+      "町名": "妙光寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364062",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364071",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364072"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230127/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230125/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230126/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230126/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230126/103785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230123/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230122/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230124/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230125/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230124/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230124/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230123/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230121/103781.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県野洲郡野洲町妙光寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/野洲郡/野洲町/妙光寺.json",
+    "name": "妙光寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県野洲郡野洲町"
+  }
+]

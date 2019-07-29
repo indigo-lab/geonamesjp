@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市西区己斐町",
+    "表記": "広島県広島市西区己斐町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "西区",
+      "町名": "己斐町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325314",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325313"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227501/104342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227499/104341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227497/104341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227500/104341.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市西区己斐町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/西区/己斐町.json",
+    "name": "己斐町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市西区"
+  }
+]

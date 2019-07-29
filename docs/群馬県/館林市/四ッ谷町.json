@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県館林市四ッ谷町",
+    "表記": "群馬県館林市四ッ谷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "四ッ谷町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392495",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392496",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393406",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393405"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/102717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/102718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232707/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232706/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232707/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232707/102712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232706/102712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/102708.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県館林市四ッ谷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/館林市/四ッ谷町.json",
+    "name": "四ッ谷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県館林市"
+  }
+]

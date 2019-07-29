@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西宇和郡三瓶町",
+    "表記": "愛媛県西宇和郡三瓶町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "西宇和郡",
+      "市区町村": "三瓶町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C38445-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C38445-20040401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西宇和郡三瓶町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西宇和郡/三瓶町.json",
+    "name": "三瓶町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西宇和郡",
+    "children": [
+      "https://geonames.jp/resource/愛媛県西宇和郡三瓶町安土",
+      "https://geonames.jp/resource/愛媛県西宇和郡三瓶町垣生",
+      "https://geonames.jp/resource/愛媛県西宇和郡三瓶町朝立",
+      "https://geonames.jp/resource/愛媛県西宇和郡三瓶町津布理",
+      "https://geonames.jp/resource/愛媛県西宇和郡三瓶町二及",
+      "https://geonames.jp/resource/愛媛県西宇和郡三瓶町有網代",
+      "https://geonames.jp/resource/愛媛県西宇和郡三瓶町有太刀",
+      "https://geonames.jp/resource/愛媛県西宇和郡三瓶町育網代"
+    ]
+  }
+]

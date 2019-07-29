@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県岩船郡粟島浦村内浦",
+    "表記": "新潟県岩船郡粟島浦村内浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "岩船郡",
+      "市区町村": "粟島浦村",
+      "町名": "内浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057395149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057395159",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057395250"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232468/100692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232461/100691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232472/100684.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県岩船郡粟島浦村内浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/岩船郡/粟島浦村/内浦.json",
+    "name": "内浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県岩船郡粟島浦村"
+  }
+]

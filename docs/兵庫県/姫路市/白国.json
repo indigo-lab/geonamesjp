@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市白国",
+    "表記": "兵庫県姫路市白国",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "姫路市",
+      "町名": "白国",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282013601"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市白国",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/姫路市/白国.json",
+    "name": "白国",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県姫路市",
+    "children": [
+      "https://geonames.jp/resource/兵庫県姫路市白国（丁目なし）",
+      "https://geonames.jp/resource/兵庫県姫路市白国一丁目",
+      "https://geonames.jp/resource/兵庫県姫路市白国二丁目",
+      "https://geonames.jp/resource/兵庫県姫路市白国三丁目",
+      "https://geonames.jp/resource/兵庫県姫路市白国四丁目",
+      "https://geonames.jp/resource/兵庫県姫路市白国五丁目"
+    ]
+  }
+]

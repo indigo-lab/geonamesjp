@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市藤川台三丁目",
+    "表記": "愛知県岡崎市藤川台三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23202290003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23202290000",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232022900"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372197"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230994/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230995/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230994/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230994/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230993/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230993/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230993/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230995/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/103915.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市藤川台三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/藤川台/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市藤川台"
+  }
+]

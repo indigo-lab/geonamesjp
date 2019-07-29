@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県安来市能義町",
+    "表記": "島根県安来市能義町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "能義町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322060280"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330177",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330187"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228078/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228077/103480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228075/103481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228077/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228076/103480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228079/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228080/103474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228077/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228077/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228081/103475.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県安来市能義町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/安来市/能義町.json",
+    "name": "能義町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県安来市"
+  }
+]

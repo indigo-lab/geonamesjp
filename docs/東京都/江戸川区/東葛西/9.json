@@ -1,0 +1,67 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都江戸川区東葛西九丁目",
+    "表記": "東京都江戸川区東葛西九丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "江戸川区",
+      "町名": "九丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13123043009"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393780",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393790"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232930/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/103251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232930/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232930/103249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232929/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232930/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/103250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232930/103250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232930/103251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232930/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232931/103253.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都江戸川区東葛西九丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/江戸川区/東葛西/9.json",
+    "name": "九丁目",
+    "alternateName": [
+      "9",
+      "9丁目",
+      "９",
+      "９丁目",
+      "九"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都江戸川区東葛西"
+  }
+]

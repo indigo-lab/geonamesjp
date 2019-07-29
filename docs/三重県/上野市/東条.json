@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県上野市東条",
+    "表記": "三重県上野市東条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "上野市",
+      "町名": "東条"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361162"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/104017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230217/104016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/104015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/104011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/104010.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県上野市東条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/上野市/東条.json",
+    "name": "東条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県上野市"
+  }
+]

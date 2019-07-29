@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県五條市岡口",
+    "表記": "奈良県五條市岡口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "五條市",
+      "町名": "岡口",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292070110"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県五條市岡口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/五條市/岡口.json",
+    "name": "岡口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県五條市",
+    "children": [
+      "https://geonames.jp/resource/奈良県五條市岡口一丁目",
+      "https://geonames.jp/resource/奈良県五條市岡口二丁目"
+    ]
+  }
+]

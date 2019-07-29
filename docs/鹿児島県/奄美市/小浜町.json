@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県奄美市小浜町",
+    "表記": "鹿児島県奄美市小浜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "小浜町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S462220200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294359",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294450",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294460"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225370/109505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225369/109505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225370/109504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225373/109502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225368/109504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225374/109503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225373/109503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225374/109502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225375/109501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225373/109500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109502.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県奄美市小浜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/奄美市/小浜町.json",
+    "name": "小浜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県奄美市"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡城崎町湯島",
+    "表記": "兵庫県城崎郡城崎町湯島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "城崎郡",
+      "市区町村": "城崎町",
+      "町名": "湯島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343644",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343654",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343655"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229231/103274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229233/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229234/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229235/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229236/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229237/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229238/103275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229238/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229238/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229240/103274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229239/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229239/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229239/103275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229239/103274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229240/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229240/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229240/103275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103272.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡城崎町湯島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/城崎郡/城崎町/湯島.json",
+    "name": "湯島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県城崎郡城崎町"
+  }
+]

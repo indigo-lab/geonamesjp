@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県石川郡野々市町野代",
+    "表記": "石川県石川郡野々市町野代",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "石川郡",
+      "市区町村": "野々市町",
+      "町名": "野代"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県石川郡野々市町野代",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/石川郡/野々市町/野代.json",
+    "name": "野代",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県石川郡野々市町",
+    "children": [
+      "https://geonames.jp/resource/石川県石川郡野々市町野代一丁目",
+      "https://geonames.jp/resource/石川県石川郡野々市町野代二丁目",
+      "https://geonames.jp/resource/石川県石川郡野々市町野代三丁目"
+    ]
+  }
+]

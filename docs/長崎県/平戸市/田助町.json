@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県平戸市田助町",
+    "表記": "長崎県平戸市田助町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "田助町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050290464",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050290474"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225410/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225413/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225411/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225412/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225410/105248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225411/105247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225411/105252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225413/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225409/105251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225411/105253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225414/105250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225410/105253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225410/105252.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県平戸市田助町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/平戸市/田助町.json",
+    "name": "田助町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県平戸市"
+  }
+]

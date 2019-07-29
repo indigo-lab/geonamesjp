@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県香美郡香我美町",
+    "表記": "高知県香美郡香我美町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "香美郡",
+      "市区町村": "香我美町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C39322-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C39322-19760501",
+        "http://data.e-stat.go.jp/lod/sac/C39322-19930719",
+        "http://data.e-stat.go.jp/lod/sac/C39322-20060301"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県香美郡香我美町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/香美郡/香我美町.json",
+    "name": "香我美町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県香美郡",
+    "children": [
+      "https://geonames.jp/resource/高知県香美郡香我美町下分",
+      "https://geonames.jp/resource/高知県香美郡香我美町岸本",
+      "https://geonames.jp/resource/高知県香美郡香我美町山北",
+      "https://geonames.jp/resource/高知県香美郡香我美町上分",
+      "https://geonames.jp/resource/高知県香美郡香我美町徳王子"
+    ]
+  }
+]

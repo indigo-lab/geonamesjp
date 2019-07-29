@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県掛川市浜野新田",
+    "表記": "静岡県掛川市浜野新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "掛川市",
+      "町名": "浜野新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380002",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387092",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051387093",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380003"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231585/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231581/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231582/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231582/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231582/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231583/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231583/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231583/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231584/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231585/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231586/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231586/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231584/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231585/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231587/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231588/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231588/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231589/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231587/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231586/104128.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県掛川市浜野新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/掛川市/浜野新田.json",
+    "name": "浜野新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県掛川市"
+  }
+]

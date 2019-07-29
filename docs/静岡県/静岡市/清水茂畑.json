@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水茂畑",
+    "表記": "静岡県静岡市清水茂畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "町名": "清水茂畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384389",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384399",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384490",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385309"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231918/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231919/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231923/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231922/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231923/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231923/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231923/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231923/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231922/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231924/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231924/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231922/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231922/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231923/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231924/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231921/103772.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水茂畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/清水茂畑.json",
+    "name": "清水茂畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市"
+  }
+]

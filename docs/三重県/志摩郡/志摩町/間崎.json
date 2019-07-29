@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県志摩郡志摩町間崎",
+    "表記": "三重県志摩郡志摩町間崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "志摩郡",
+      "市区町村": "志摩町",
+      "町名": "間崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051363644",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051363645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051363655"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230697/104462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230694/104464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230694/104465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230702/104460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230699/104457.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県志摩郡志摩町間崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/志摩郡/志摩町/間崎.json",
+    "name": "間崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県志摩郡志摩町"
+  }
+]

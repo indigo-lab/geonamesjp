@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県香取郡小見川町竜谷",
+    "表記": "千葉県香取郡小見川町竜谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "香取郡",
+      "市区町村": "小見川町",
+      "町名": "竜谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406405"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/103083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/103082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/103084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/103084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/103083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/103086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/103085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233428/103086.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県香取郡小見川町竜谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/香取郡/小見川町/竜谷.json",
+    "name": "竜谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県香取郡小見川町"
+  }
+]

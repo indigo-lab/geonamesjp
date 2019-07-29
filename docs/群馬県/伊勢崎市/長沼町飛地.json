@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県伊勢崎市長沼町飛地",
+    "表記": "群馬県伊勢崎市長沼町飛地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "伊勢崎市",
+      "町名": "長沼町飛地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393127"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/102692.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県伊勢崎市長沼町飛地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/伊勢崎市/長沼町飛地.json",
+    "name": "長沼町飛地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県伊勢崎市"
+  }
+]

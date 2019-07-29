@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府大東市寺川",
+    "表記": "大阪府大東市寺川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "大東市",
+      "町名": "寺川"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府大東市寺川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/大東市/寺川.json",
+    "name": "寺川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府大東市",
+    "children": [
+      "https://geonames.jp/resource/大阪府大東市寺川（丁目なし）",
+      "https://geonames.jp/resource/大阪府大東市寺川一丁目",
+      "https://geonames.jp/resource/大阪府大東市寺川二丁目",
+      "https://geonames.jp/resource/大阪府大東市寺川三丁目",
+      "https://geonames.jp/resource/大阪府大東市寺川四丁目",
+      "https://geonames.jp/resource/大阪府大東市寺川五丁目"
+    ]
+  }
+]

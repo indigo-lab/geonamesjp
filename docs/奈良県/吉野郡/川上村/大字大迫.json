@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡川上村大字大迫",
+    "表記": "奈良県吉野郡川上村大字大迫",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "吉野郡",
+      "市区町村": "川上村",
+      "町名": "大字大迫",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S294520240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051363020"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230108/104479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230111/104477.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡川上村大字大迫",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/吉野郡/川上村/大字大迫.json",
+    "name": "大字大迫",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県吉野郡川上村"
+  }
+]

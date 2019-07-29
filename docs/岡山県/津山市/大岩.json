@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県津山市大岩",
+    "表記": "岡山県津山市大岩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "津山市",
+      "町名": "大岩",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332032870",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33203287002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33203287001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052345059",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052345079"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228737/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228738/103707.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県津山市大岩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/津山市/大岩.json",
+    "name": "大岩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県津山市"
+  }
+]

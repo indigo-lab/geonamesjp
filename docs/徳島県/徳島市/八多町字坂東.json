@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県徳島市八多町字坂東",
+    "表記": "徳島県徳島市八多町字坂東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "徳島市",
+      "町名": "八多町字坂東"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347480",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347481",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347490"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229020/104724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229023/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229018/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229021/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229019/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229018/104724.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県徳島市八多町字坂東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/徳島市/八多町字坂東.json",
+    "name": "八多町字坂東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県徳島市"
+  }
+]

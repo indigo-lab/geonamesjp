@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県双三郡三良坂町皆瀬",
+    "表記": "広島県双三郡三良坂町皆瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "双三郡",
+      "市区町村": "三良坂町",
+      "町名": "皆瀬"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052321727"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227892/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227894/104038.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県双三郡三良坂町皆瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/双三郡/三良坂町/皆瀬.json",
+    "name": "皆瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県双三郡三良坂町"
+  }
+]

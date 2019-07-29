@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道登別市鷲別町三丁目",
+    "表記": "北海道登別市鷲別町三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "鷲別町",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01230029003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063414033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063414023",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063414024",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063414034"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233780/96959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233780/96957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233780/96960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233780/96958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233780/96961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233781/96961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233781/96959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233781/96958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233781/96960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233782/96960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233779/96956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233781/96962.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道登別市鷲別町三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/登別市/鷲別町/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道登別市鷲別町"
+  }
+]

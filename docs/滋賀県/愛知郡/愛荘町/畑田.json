@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県愛知郡愛荘町畑田",
+    "表記": "滋賀県愛知郡愛荘町畑田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "愛知郡",
+      "市区町村": "愛荘町",
+      "町名": "畑田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365188",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365178",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365187"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230271/103700.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県愛知郡愛荘町畑田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/愛知郡/愛荘町/畑田.json",
+    "name": "畑田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県愛知郡愛荘町"
+  }
+]

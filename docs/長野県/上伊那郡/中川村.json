@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡中川村",
+    "表記": "長野県上伊那郡中川村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "上伊那郡",
+      "市区町村": "中川村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20386-19860301",
+        "http://data.e-stat.go.jp/lod/sac/C20386-19810330",
+        "http://data.e-stat.go.jp/lod/sac/C20386-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡中川村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上伊那郡/中川村.json",
+    "name": "中川村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上伊那郡",
+    "children": [
+      "https://geonames.jp/resource/長野県上伊那郡中川村片桐",
+      "https://geonames.jp/resource/長野県上伊那郡中川村大草",
+      "https://geonames.jp/resource/長野県上伊那郡中川村葛島",
+      "https://geonames.jp/resource/長野県上伊那郡中川村四徳"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1194229"
+    ]
+  }
+]

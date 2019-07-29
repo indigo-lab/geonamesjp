@@ -1,0 +1,91 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市鴨居三丁目",
+    "表記": "神奈川県横須賀市鴨居三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横須賀市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14201070003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397508",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052396598",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052396599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397509",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397518"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232821/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232821/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232821/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232820/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232820/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232818/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232821/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232821/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232819/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103613.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市鴨居三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横須賀市/鴨居/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横須賀市鴨居"
+  }
+]

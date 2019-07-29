@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡河合町久美ヶ丘",
+    "表記": "奈良県北葛城郡河合町久美ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "北葛城郡",
+      "市区町村": "河合町",
+      "町名": "久美ヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡河合町久美ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/北葛城郡/河合町/久美ヶ丘.json",
+    "name": "久美ヶ丘",
+    "alternateName": [
+      "久美ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県北葛城郡河合町",
+    "children": [
+      "https://geonames.jp/resource/奈良県北葛城郡河合町久美ヶ丘一丁目",
+      "https://geonames.jp/resource/奈良県北葛城郡河合町久美ヶ丘二丁目"
+    ]
+  }
+]

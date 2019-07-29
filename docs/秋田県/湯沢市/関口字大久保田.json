@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市関口字大久保田",
+    "表記": "秋田県湯沢市関口字大久保田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "湯沢市",
+      "町名": "関口字大久保田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058405358",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058405359"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/100062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/100064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/100063.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市関口字大久保田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/湯沢市/関口字大久保田.json",
+    "name": "関口字大久保田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県湯沢市"
+  }
+]

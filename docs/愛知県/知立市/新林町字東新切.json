@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知立市新林町字東新切",
+    "表記": "愛知県知立市新林町字東新切",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "知立市",
+      "町名": "新林町字東新切"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373083"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230861/103845.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知立市新林町字東新切",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知立市/新林町字東新切.json",
+    "name": "新林町字東新切",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知立市"
+  }
+]

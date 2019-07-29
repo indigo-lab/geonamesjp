@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県伊賀市一之宮",
+    "表記": "三重県伊賀市一之宮",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "伊賀市",
+      "町名": "一之宮",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242160730"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361142",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361143",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361133"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/104025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230223/104026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230225/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230223/104027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230224/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230225/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230217/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230223/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230223/104021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/104021.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県伊賀市一之宮",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/伊賀市/一之宮.json",
+    "name": "一之宮",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県伊賀市"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県伊都郡かつらぎ町広浦",
+    "表記": "和歌山県伊都郡かつらぎ町広浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "伊都郡",
+      "市区町村": "かつらぎ町",
+      "町名": "広浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353358"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229728/104451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229726/104451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229725/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229724/104452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229724/104449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229725/104447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229728/104455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229726/104450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229724/104450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229725/104451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229725/104449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229727/104449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229727/104451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229728/104453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229728/104450.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県伊都郡かつらぎ町広浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/伊都郡/かつらぎ町/広浦.json",
+    "name": "広浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県伊都郡かつらぎ町"
+  }
+]

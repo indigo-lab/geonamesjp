@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県甘木市板屋",
+    "表記": "福岡県甘木市板屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "甘木市",
+      "町名": "板屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300595",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300596",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301505",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301506"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226243/105223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226241/105230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226240/105232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226240/105229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226243/105231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226244/105230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226243/105228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226245/105229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226244/105227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226243/105224.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県甘木市板屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/甘木市/板屋.json",
+    "name": "板屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県甘木市"
+  }
+]

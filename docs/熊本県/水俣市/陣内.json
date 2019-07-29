@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県水俣市陣内",
+    "表記": "熊本県水俣市陣内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "水俣市",
+      "町名": "陣内"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県水俣市陣内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/水俣市/陣内.json",
+    "name": "陣内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県水俣市",
+    "children": [
+      "https://geonames.jp/resource/熊本県水俣市陣内（丁目なし）",
+      "https://geonames.jp/resource/熊本県水俣市陣内一丁目",
+      "https://geonames.jp/resource/熊本県水俣市陣内二丁目"
+    ]
+  }
+]

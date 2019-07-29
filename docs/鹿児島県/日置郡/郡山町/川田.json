@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡郡山町川田",
+    "表記": "鹿児島県日置郡郡山町川田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "日置郡",
+      "市区町村": "郡山町",
+      "町名": "川田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303399",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303490",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304309",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304400",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304410"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226104/106739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226101/106733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226098/106735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226101/106739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226100/106741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226098/106741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226099/106738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226101/106730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/106735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226103/106732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226100/106732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226103/106730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226106/106730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226107/106733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/106738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/106744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/106741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226101/106740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226100/106742.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡郡山町川田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/日置郡/郡山町/川田.json",
+    "name": "川田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県日置郡郡山町"
+  }
+]

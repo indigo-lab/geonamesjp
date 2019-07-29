@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市太田",
+    "表記": "和歌山県和歌山市太田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "和歌山市",
+      "町名": "太田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市太田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/和歌山市/太田.json",
+    "name": "太田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県和歌山市",
+    "children": [
+      "https://geonames.jp/resource/和歌山県和歌山市太田（丁目なし）",
+      "https://geonames.jp/resource/和歌山県和歌山市太田一丁目",
+      "https://geonames.jp/resource/和歌山県和歌山市太田二丁目",
+      "https://geonames.jp/resource/和歌山県和歌山市太田三丁目",
+      "https://geonames.jp/resource/和歌山県和歌山市太田四丁目"
+    ]
+  }
+]

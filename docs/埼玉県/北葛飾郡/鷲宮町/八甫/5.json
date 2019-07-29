@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡鷲宮町八甫五丁目",
+    "表記": "埼玉県北葛飾郡鷲宮町八甫五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "北葛飾郡",
+      "市区町村": "鷲宮町",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391515"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232792/102853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232791/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232792/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232793/102853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232792/102854.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡鷲宮町八甫五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/北葛飾郡/鷲宮町/八甫/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県北葛飾郡鷲宮町八甫"
+  }
+]

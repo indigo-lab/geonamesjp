@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県福井市新田塚一丁目",
+    "表記": "福井県福井市新田塚一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "福井市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S18201292001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361106",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361116"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/102855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230253/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230253/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230253/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/102856.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県福井市新田塚一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/福井市/新田塚/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福井県福井市新田塚"
+  }
+]

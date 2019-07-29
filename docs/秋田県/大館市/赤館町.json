@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大館市赤館町",
+    "表記": "秋田県大館市赤館町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "赤館町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052040370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060403425"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233432/98984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233431/98983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233432/98983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233433/98983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233431/98984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233432/98985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233433/98984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233431/98985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233433/98982.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大館市赤館町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大館市/赤館町.json",
+    "name": "赤館町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大館市"
+  }
+]

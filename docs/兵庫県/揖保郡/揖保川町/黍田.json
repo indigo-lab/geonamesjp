@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡揖保川町黍田",
+    "表記": "兵庫県揖保郡揖保川町黍田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "揖保郡",
+      "市区町村": "揖保川町",
+      "町名": "黍田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341471",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341481",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341491"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/103989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229025/103990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229025/103989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229025/103991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229026/103990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229028/103989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229027/103991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229027/103990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229024/103999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229024/103993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229025/103994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229024/103994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229024/103995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229025/103993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229025/103992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229026/103993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229026/103991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229026/103992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229027/103994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229027/103992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229027/103993.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡揖保川町黍田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/揖保郡/揖保川町/黍田.json",
+    "name": "黍田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県揖保郡揖保川町"
+  }
+]

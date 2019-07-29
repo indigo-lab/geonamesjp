@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県京都郡苅田町与原",
+    "表記": "福岡県京都郡苅田町与原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "京都郡",
+      "市区町村": "苅田町",
+      "町名": "与原"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県京都郡苅田町与原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/京都郡/苅田町/与原.json",
+    "name": "与原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県京都郡苅田町",
+    "children": [
+      "https://geonames.jp/resource/福岡県京都郡苅田町与原（丁目なし）",
+      "https://geonames.jp/resource/福岡県京都郡苅田町与原一丁目",
+      "https://geonames.jp/resource/福岡県京都郡苅田町与原二丁目",
+      "https://geonames.jp/resource/福岡県京都郡苅田町与原三丁目"
+    ]
+  }
+]

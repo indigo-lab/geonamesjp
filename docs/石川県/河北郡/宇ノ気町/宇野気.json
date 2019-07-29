@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡宇ノ気町宇野気",
+    "表記": "石川県河北郡宇ノ気町宇野気",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "宇ノ気町",
+      "町名": "宇野気"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡宇ノ気町宇野気",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/宇ノ気町/宇野気.json",
+    "name": "宇野気",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡宇ノ気町",
+    "children": [
+      "https://geonames.jp/resource/石川県河北郡宇ノ気町宇野気（丁目なし）",
+      "https://geonames.jp/resource/石川県河北郡宇ノ気町宇野気一丁目",
+      "https://geonames.jp/resource/石川県河北郡宇ノ気町宇野気二丁目"
+    ]
+  }
+]

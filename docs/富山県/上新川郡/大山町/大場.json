@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県上新川郡大山町大場",
+    "表記": "富山県上新川郡大山町大場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "上新川郡",
+      "市区町村": "大山町",
+      "町名": "大場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377241",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377242"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231041/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231036/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231035/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231034/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231034/102377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231034/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231036/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231034/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231033/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231033/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231032/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231032/102378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102375.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県上新川郡大山町大場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/上新川郡/大山町/大場.json",
+    "name": "大場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県上新川郡大山町"
+  }
+]

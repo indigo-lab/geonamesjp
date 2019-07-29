@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県えびの市西長江浦",
+    "表記": "宮崎県えびの市西長江浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "えびの市",
+      "町名": "西長江浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300633",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300634",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300643",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300644"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226321/106426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226323/106423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226325/106425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226325/106424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226325/106423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226314/106426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226317/106425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226315/106429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226316/106429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226317/106427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226321/106428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226319/106427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226325/106429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226326/106427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226326/106431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226325/106426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226325/106428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226321/106423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226322/106423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226324/106423.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県えびの市西長江浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/えびの市/西長江浦.json",
+    "name": "西長江浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県えびの市"
+  }
+]

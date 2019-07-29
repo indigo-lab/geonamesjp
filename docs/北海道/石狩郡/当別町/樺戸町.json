@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道石狩郡当別町樺戸町",
+    "表記": "北海道石狩郡当別町樺戸町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "石狩郡",
+      "市区町村": "当別町",
+      "町名": "樺戸町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S013030250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416452",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416451",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416453",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416463"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/96108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234125/96110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234126/96109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234127/96109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234127/96108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/96105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234134/96104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/96107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/96106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/96111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/96111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234127/96110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234127/96113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234129/96109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/96109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/96108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/96108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/96107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234133/96106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234134/96107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234136/96105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/96110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/96109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234134/96109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234136/96107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234137/96109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/96112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234133/96112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234135/96111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234137/96110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234126/96110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234125/96109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/96113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234127/96111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234131/96106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234136/96104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/96112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234127/96114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234130/96110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234134/96111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234126/96111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234128/96110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/96104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234132/96107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234134/96105.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道石狩郡当別町樺戸町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/石狩郡/当別町/樺戸町.json",
+    "name": "樺戸町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道石狩郡当別町"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西条市桑村",
+    "表記": "愛媛県西条市桑村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "桑村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382060660",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38206066002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38206066001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337034",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337024",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337025",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337035"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227959/104766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227968/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227968/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227968/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227962/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227961/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227962/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227962/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227961/104771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227961/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227958/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227959/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227962/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227962/104772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227957/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227959/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227962/104771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227958/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227958/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227961/104767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227961/104772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227969/104770.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西条市桑村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西条市/桑村.json",
+    "name": "桑村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西条市"
+  }
+]

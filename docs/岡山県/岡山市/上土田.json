@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市上土田",
+    "表記": "岡山県岡山市上土田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "上土田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330644",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330654"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228502/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228503/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228509/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228506/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228503/104090.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市上土田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/上土田.json",
+    "name": "上土田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

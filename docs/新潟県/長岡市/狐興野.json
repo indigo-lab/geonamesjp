@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市狐興野",
+    "表記": "新潟県長岡市狐興野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "長岡市",
+      "町名": "狐興野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152022950"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056382667",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056382656",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056382666"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/101530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232164/101531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232164/101530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101523.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市狐興野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/狐興野.json",
+    "name": "狐興野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市"
+  }
+]

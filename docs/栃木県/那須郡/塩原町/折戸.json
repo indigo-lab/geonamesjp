@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須郡塩原町折戸",
+    "表記": "栃木県那須郡塩原町折戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "那須郡",
+      "市区町村": "塩原町",
+      "町名": "折戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393754",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393763",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393764",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393774"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/102061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/102059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/102057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/102060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232966/102056.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須郡塩原町折戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須郡/塩原町/折戸.json",
+    "name": "折戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須郡塩原町"
+  }
+]

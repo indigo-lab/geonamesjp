@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡豊里村",
+    "表記": "埼玉県大里郡豊里村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "大里郡",
+      "市区町村": "豊里村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C11404-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C11404-19730401",
+        "http://data.e-stat.go.jp/lod/sac/C11404-19730331"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡豊里村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/大里郡/豊里村.json",
+    "name": "豊里村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県大里郡"
+  }
+]

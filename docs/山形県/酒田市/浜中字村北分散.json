@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県酒田市浜中字村北分散",
+    "表記": "山形県酒田市浜中字村北分散",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "酒田市",
+      "町名": "浜中字村北分散"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058392602",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391692",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391693",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058392603"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232860/100338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232857/100343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232858/100339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232859/100344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232860/100343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232862/100343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232862/100337.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県酒田市浜中字村北分散",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/酒田市/浜中字村北分散.json",
+    "name": "浜中字村北分散",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県酒田市"
+  }
+]

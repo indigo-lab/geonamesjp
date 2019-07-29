@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須郡西那須野町新南郷屋",
+    "表記": "栃木県那須郡西那須野町新南郷屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "那須郡",
+      "市区町村": "西那須野町",
+      "町名": "新南郷屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055392759",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055392769"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233010/102135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233012/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233013/102137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233012/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233013/102134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233012/102133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102137.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須郡西那須野町新南郷屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須郡/西那須野町/新南郷屋.json",
+    "name": "新南郷屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須郡西那須野町"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市大字寺",
+    "表記": "新潟県上越市大字寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "大字寺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152220290"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385251",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385250",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385241"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231754/101916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231752/101920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231753/101918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231754/101919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231754/101918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231755/101918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231752/101918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231752/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231752/101916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231753/101916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231752/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231754/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231755/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231753/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231752/101919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231755/101919.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市大字寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/大字寺.json",
+    "name": "大字寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

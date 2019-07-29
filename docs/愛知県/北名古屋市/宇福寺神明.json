@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県北名古屋市宇福寺神明",
+    "表記": "愛知県北名古屋市宇福寺神明",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "北名古屋市",
+      "町名": "宇福寺神明",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23234018006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367607"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/103607.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県北名古屋市宇福寺神明",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/北名古屋市/宇福寺神明.json",
+    "name": "宇福寺神明",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県北名古屋市"
+  }
+]

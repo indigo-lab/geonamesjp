@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県川内市矢倉町",
+    "表記": "鹿児島県川内市矢倉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "矢倉町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305234",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305244",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305245"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225961/106635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225960/106636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225961/106636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225962/106633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225962/106634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225962/106635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225963/106636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/106639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/106640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225960/106637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225960/106639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225960/106638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225961/106639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225961/106638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225962/106637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225963/106638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225963/106637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/106641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225960/106641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225961/106641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225960/106640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225962/106639.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県川内市矢倉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/川内市/矢倉町.json",
+    "name": "矢倉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県川内市"
+  }
+]

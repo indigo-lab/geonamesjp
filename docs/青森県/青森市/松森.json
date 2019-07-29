@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市松森",
+    "表記": "青森県青森市松森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "松森"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市松森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/松森.json",
+    "name": "松森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市",
+    "children": [
+      "https://geonames.jp/resource/青森県青森市松森（丁目なし）",
+      "https://geonames.jp/resource/青森県青森市松森一丁目",
+      "https://geonames.jp/resource/青森県青森市松森二丁目",
+      "https://geonames.jp/resource/青森県青森市松森三丁目"
+    ]
+  }
+]

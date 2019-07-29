@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県上閉伊郡宮守村",
+    "表記": "岩手県上閉伊郡宮守村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "上閉伊郡",
+      "市区町村": "宮守村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C03462-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C03462-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県上閉伊郡宮守村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/上閉伊郡/宮守村.json",
+    "name": "宮守村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県上閉伊郡"
+  }
+]

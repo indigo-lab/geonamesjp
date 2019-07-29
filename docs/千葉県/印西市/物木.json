@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県印西市物木",
+    "表記": "千葉県印西市物木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "印西市",
+      "町名": "物木",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122310630"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405185",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405184",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405194"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233155/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233148/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233146/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233150/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/103098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233154/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233154/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233154/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233156/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233153/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233152/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233153/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233155/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233146/103097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233151/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233155/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233156/103103.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県印西市物木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/印西市/物木.json",
+    "name": "物木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県印西市"
+  }
+]

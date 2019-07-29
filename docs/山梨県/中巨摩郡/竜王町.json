@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡竜王町",
+    "表記": "山梨県中巨摩郡竜王町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "中巨摩郡",
+      "市区町村": "竜王町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C19381-19731201",
+        "http://data.e-stat.go.jp/lod/sac/C19381-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C19381-20040901",
+        "http://data.e-stat.go.jp/lod/sac/C19381-19950928"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡竜王町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/中巨摩郡/竜王町.json",
+    "name": "竜王町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県中巨摩郡",
+    "children": [
+      "https://geonames.jp/resource/山梨県中巨摩郡竜王町西八幡",
+      "https://geonames.jp/resource/山梨県中巨摩郡竜王町篠原",
+      "https://geonames.jp/resource/山梨県中巨摩郡竜王町玉川",
+      "https://geonames.jp/resource/山梨県中巨摩郡竜王町名取",
+      "https://geonames.jp/resource/山梨県中巨摩郡竜王町竜王新町",
+      "https://geonames.jp/resource/山梨県中巨摩郡竜王町竜王",
+      "https://geonames.jp/resource/山梨県中巨摩郡竜王町万才",
+      "https://geonames.jp/resource/山梨県中巨摩郡竜王町富竹新田"
+    ]
+  }
+]

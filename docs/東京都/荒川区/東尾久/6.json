@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都荒川区東尾久六丁目",
+    "表記": "東京都荒川区東尾久六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "荒川区",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13118004006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394691",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394692"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232850/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232850/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232850/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232849/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232849/103166.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都荒川区東尾久六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/荒川区/東尾久/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都荒川区東尾久"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県奥州市水沢区東大通り三丁目",
+    "表記": "岩手県奥州市水沢区東大通り三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "奥州市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415162"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233855/100056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233856/100056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233856/100055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233857/100055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233857/100056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233858/100056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233858/100055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233859/100056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233860/100056.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県奥州市水沢区東大通り三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/奥州市/水沢区東大通り/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岩手県奥州市水沢区東大通り"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県鴻巣市三ツ木飛地",
+    "表記": "埼玉県鴻巣市三ツ木飛地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "鴻巣市",
+      "町名": "三ツ木飛地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391308"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232641/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232642/102860.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県鴻巣市三ツ木飛地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/鴻巣市/三ツ木飛地.json",
+    "name": "三ツ木飛地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県鴻巣市"
+  }
+]

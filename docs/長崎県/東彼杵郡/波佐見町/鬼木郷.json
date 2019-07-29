@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県東彼杵郡波佐見町鬼木郷",
+    "表記": "長崎県東彼杵郡波佐見町鬼木郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "郡": "東彼杵郡",
+      "市区町村": "波佐見町",
+      "町名": "鬼木郷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S423230080"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049295743",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049295733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225677/105488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225678/105492.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県東彼杵郡波佐見町鬼木郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/東彼杵郡/波佐見町/鬼木郷.json",
+    "name": "鬼木郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県東彼杵郡波佐見町"
+  }
+]

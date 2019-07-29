@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県西津軽郡森田村",
+    "表記": "青森県西津軽郡森田村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "西津軽郡",
+      "市区町村": "森田村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C02324-19790201",
+        "http://data.e-stat.go.jp/lod/sac/C02324-19771201",
+        "http://data.e-stat.go.jp/lod/sac/C02324-19770501",
+        "http://data.e-stat.go.jp/lod/sac/C02324-19800901",
+        "http://data.e-stat.go.jp/lod/sac/C02324-19810901",
+        "http://data.e-stat.go.jp/lod/sac/C02324-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C02324-20050211"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県西津軽郡森田村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/西津軽郡/森田村.json",
+    "name": "森田村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県西津軽郡",
+    "children": [
+      "https://geonames.jp/resource/青森県西津軽郡森田村下相野",
+      "https://geonames.jp/resource/青森県西津軽郡森田村山田",
+      "https://geonames.jp/resource/青森県西津軽郡森田村床舞",
+      "https://geonames.jp/resource/青森県西津軽郡森田村上相野",
+      "https://geonames.jp/resource/青森県西津軽郡森田村森田",
+      "https://geonames.jp/resource/青森県西津軽郡森田村中田",
+      "https://geonames.jp/resource/青森県西津軽郡森田村字清水",
+      "https://geonames.jp/resource/青森県西津軽郡森田村字千年"
+    ]
+  }
+]

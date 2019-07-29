@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県刈田郡七ヶ宿町字苗代端",
+    "表記": "宮城県刈田郡七ヶ宿町字苗代端",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "刈田郡",
+      "市区町村": "七ヶ宿町",
+      "町名": "字苗代端"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400311",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400321"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/101101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/101100.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県刈田郡七ヶ宿町字苗代端",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/刈田郡/七ヶ宿町/字苗代端.json",
+    "name": "字苗代端",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県刈田郡七ヶ宿町"
+  }
+]

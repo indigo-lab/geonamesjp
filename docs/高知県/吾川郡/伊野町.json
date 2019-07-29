@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県吾川郡伊野町",
+    "表記": "高知県吾川郡伊野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "吾川郡",
+      "市区町村": "伊野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C39381-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C39381-20041001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県吾川郡伊野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/吾川郡/伊野町.json",
+    "name": "伊野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県吾川郡",
+    "children": [
+      "https://geonames.jp/resource/高知県吾川郡伊野町伊野",
+      "https://geonames.jp/resource/高知県吾川郡伊野町加田",
+      "https://geonames.jp/resource/高知県吾川郡伊野町鎌田",
+      "https://geonames.jp/resource/高知県吾川郡伊野町枝川",
+      "https://geonames.jp/resource/高知県吾川郡伊野町大内",
+      "https://geonames.jp/resource/高知県吾川郡伊野町池ノ内",
+      "https://geonames.jp/resource/高知県吾川郡伊野町天王南",
+      "https://geonames.jp/resource/高知県吾川郡伊野町天王北",
+      "https://geonames.jp/resource/高知県吾川郡伊野町波川",
+      "https://geonames.jp/resource/高知県吾川郡伊野町八田",
+      "https://geonames.jp/resource/高知県吾川郡伊野町槙"
+    ]
+  }
+]

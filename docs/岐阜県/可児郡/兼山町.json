@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県可児郡兼山町",
+    "表記": "岐阜県可児郡兼山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "可児郡",
+      "市区町村": "兼山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C21523-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C21523-20050501"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県可児郡兼山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/可児郡/兼山町.json",
+    "name": "兼山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県可児郡",
+    "children": [
+      "https://geonames.jp/resource/岐阜県可児郡兼山町下町",
+      "https://geonames.jp/resource/岐阜県可児郡兼山町宮町",
+      "https://geonames.jp/resource/岐阜県可児郡兼山町魚屋町",
+      "https://geonames.jp/resource/岐阜県可児郡兼山町魚屋東町",
+      "https://geonames.jp/resource/岐阜県可児郡兼山町秋葉台",
+      "https://geonames.jp/resource/岐阜県可児郡兼山町常磐町",
+      "https://geonames.jp/resource/岐阜県可児郡兼山町盛住町",
+      "https://geonames.jp/resource/岐阜県可児郡兼山町本町",
+      "https://geonames.jp/resource/岐阜県可児郡兼山町柳栄町"
+    ]
+  }
+]

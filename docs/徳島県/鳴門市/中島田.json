@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市中島田",
+    "表記": "徳島県鳴門市中島田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "鳴門市",
+      "町名": "中島田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342477",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342487"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229081/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229081/104509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229081/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229081/104510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229081/104514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229082/104506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229081/104513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229083/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229083/104509.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市中島田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/鳴門市/中島田.json",
+    "name": "中島田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県鳴門市"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市龍光町",
+    "表記": "静岡県浜松市龍光町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "龍光町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370652",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370662"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231403/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231404/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231405/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231405/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231403/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231405/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231403/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231404/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231404/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231404/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231403/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231403/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231403/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231402/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231404/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231405/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231404/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231403/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231403/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231405/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231404/104089.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市龍光町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/龍光町.json",
+    "name": "龍光町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市"
+  }
+]

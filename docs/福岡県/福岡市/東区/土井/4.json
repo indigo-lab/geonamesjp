@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区土井四丁目",
+    "表記": "福岡県福岡市東区土井四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "東区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40131020004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303367"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226073/105036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226074/105037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226075/105037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226075/105038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/105036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/105035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/105035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/105034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/105034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/105035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/105037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/105036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/105036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226075/105036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/105038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/105037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/105037.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区土井四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/東区/土井/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市東区土井"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県由利郡仁賀保町三森",
+    "表記": "秋田県由利郡仁賀保町三森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "由利郡",
+      "市区町村": "仁賀保町",
+      "町名": "三森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058397744",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058397745"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232969/99915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232972/99915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232978/99918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232978/99919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232976/99914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/99914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232974/99917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232975/99918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232975/99917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232972/99919.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県由利郡仁賀保町三森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/由利郡/仁賀保町/三森.json",
+    "name": "三森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県由利郡仁賀保町"
+  }
+]

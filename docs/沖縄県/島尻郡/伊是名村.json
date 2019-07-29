@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡伊是名村",
+    "表記": "沖縄県島尻郡伊是名村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "島尻郡",
+      "市区町村": "伊是名村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C47360-19720607"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡伊是名村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/島尻郡/伊是名村.json",
+    "name": "伊是名村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県島尻郡",
+    "children": [
+      "https://geonames.jp/resource/沖縄県島尻郡伊是名村字勢理客",
+      "https://geonames.jp/resource/沖縄県島尻郡伊是名村字伊是名",
+      "https://geonames.jp/resource/沖縄県島尻郡伊是名村字仲田",
+      "https://geonames.jp/resource/沖縄県島尻郡伊是名村字内花",
+      "https://geonames.jp/resource/沖縄県島尻郡伊是名村字諸見"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q981332"
+    ]
+  }
+]

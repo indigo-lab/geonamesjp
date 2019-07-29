@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市豊岡",
+    "表記": "兵庫県豊岡市豊岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "豊岡市",
+      "町名": "豊岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342619",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342669",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342740",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342750"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229286/103366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229283/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229283/103335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229283/103338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229285/103348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229285/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229287/103349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229289/103346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229288/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229289/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229283/103353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229284/103352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229284/103351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229285/103352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229285/103351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229286/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229289/103351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229283/103340.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市豊岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/豊岡市/豊岡.json",
+    "name": "豊岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県豊岡市"
+  }
+]

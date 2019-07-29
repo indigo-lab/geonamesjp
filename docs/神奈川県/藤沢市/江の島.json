@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県藤沢市江の島",
+    "表記": "神奈川県藤沢市江の島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "藤沢市",
+      "町名": "江の島"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県藤沢市江の島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/藤沢市/江の島.json",
+    "name": "江の島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県藤沢市",
+    "children": [
+      "https://geonames.jp/resource/神奈川県藤沢市江の島一丁目",
+      "https://geonames.jp/resource/神奈川県藤沢市江の島二丁目"
+    ]
+  }
+]

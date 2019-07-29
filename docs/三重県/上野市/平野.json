@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県上野市平野",
+    "表記": "三重県上野市平野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "上野市",
+      "町名": "平野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361120",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361121",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361130"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/104031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230195/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230195/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/104033.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県上野市平野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/上野市/平野.json",
+    "name": "平野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県上野市"
+  }
+]

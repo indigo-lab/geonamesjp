@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県足柄上郡中井町井ノ口字米山",
+    "表記": "神奈川県足柄上郡中井町井ノ口字米山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "郡": "足柄上郡",
+      "市区町村": "中井町",
+      "町名": "井ノ口字米山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390108"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232461/103537.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県足柄上郡中井町井ノ口字米山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/足柄上郡/中井町/井ノ口字米山.json",
+    "name": "井ノ口字米山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県足柄上郡中井町"
+  }
+]

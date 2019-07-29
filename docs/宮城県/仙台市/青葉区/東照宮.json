@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市青葉区東照宮",
+    "表記": "宮城県仙台市青葉区東照宮",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "青葉区",
+      "町名": "東照宮",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S041010640"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市青葉区東照宮",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/青葉区/東照宮.json",
+    "name": "東照宮",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市青葉区",
+    "children": [
+      "https://geonames.jp/resource/宮城県仙台市青葉区東照宮一丁目",
+      "https://geonames.jp/resource/宮城県仙台市青葉区東照宮二丁目"
+    ]
+  }
+]

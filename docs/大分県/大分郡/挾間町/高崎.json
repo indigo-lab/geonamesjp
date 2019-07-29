@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県大分郡挾間町高崎",
+    "表記": "大分県大分郡挾間町高崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "郡": "大分郡",
+      "市区町村": "挾間町",
+      "町名": "高崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316472"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226847/105394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226847/105397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226850/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226853/105395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226851/105393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226848/105397.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県大分郡挾間町高崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/大分郡/挾間町/高崎.json",
+    "name": "高崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県大分郡挾間町"
+  }
+]

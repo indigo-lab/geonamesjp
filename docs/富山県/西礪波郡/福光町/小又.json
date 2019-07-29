@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県西礪波郡福光町小又",
+    "表記": "富山県西礪波郡福光町小又",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "西礪波郡",
+      "市区町村": "福光町",
+      "町名": "小又"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366675",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366684",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366685"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230692/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230695/102423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230699/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230697/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230691/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230694/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230703/102427.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県西礪波郡福光町小又",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/西礪波郡/福光町/小又.json",
+    "name": "小又",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県西礪波郡福光町"
+  }
+]

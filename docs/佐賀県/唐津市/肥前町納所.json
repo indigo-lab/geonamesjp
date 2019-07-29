@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県唐津市肥前町納所",
+    "表記": "佐賀県唐津市肥前町納所",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "唐津市",
+      "町名": "肥前町納所",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S412021870"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050291655",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050291664"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225602/105187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225596/105181.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県唐津市肥前町納所",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/唐津市/肥前町納所.json",
+    "name": "肥前町納所",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県唐津市"
+  }
+]

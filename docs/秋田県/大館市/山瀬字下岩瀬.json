@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大館市山瀬字下岩瀬",
+    "表記": "秋田県大館市山瀬字下岩瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大館市",
+      "町名": "山瀬字下岩瀬"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060403337"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233356/98977.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大館市山瀬字下岩瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大館市/山瀬字下岩瀬.json",
+    "name": "山瀬字下岩瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大館市"
+  }
+]

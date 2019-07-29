@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県熊谷市大原四丁目",
+    "表記": "埼玉県熊谷市大原四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "熊谷市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11202078004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391289",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391299",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391380",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391390"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/102798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/102801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/102797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/102798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/102797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/102797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/102797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/102799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/102800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/102799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/102799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/102798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/102800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/102798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/102796.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県熊谷市大原四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/熊谷市/大原/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県熊谷市大原"
+  }
+]

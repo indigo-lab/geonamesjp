@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県石巻市小船越字山畑",
+    "表記": "宮城県石巻市小船越字山畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "石巻市",
+      "町名": "小船越字山畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416203",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416204",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416214",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416202"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233970/100644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233959/100647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/100644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233964/100652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233963/100649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233962/100650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233962/100651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233953/100648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233963/100650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233961/100651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233961/100652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233960/100647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233962/100652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100650.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県石巻市小船越字山畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/石巻市/小船越字山畑.json",
+    "name": "小船越字山畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県石巻市"
+  }
+]

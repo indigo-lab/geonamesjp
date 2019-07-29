@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県かほく市高松ツ",
+    "表記": "石川県かほく市高松ツ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "かほく市",
+      "町名": "高松ツ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361527"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/102243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/102244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/102243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/102242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/102241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/102241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/102242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/102243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/102244.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県かほく市高松ツ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/かほく市/高松ツ.json",
+    "name": "高松ツ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県かほく市"
+  }
+]

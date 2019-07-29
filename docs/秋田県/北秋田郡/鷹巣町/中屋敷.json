@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県北秋田郡鷹巣町中屋敷",
+    "表記": "秋田県北秋田郡鷹巣町中屋敷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "北秋田郡",
+      "市区町村": "鷹巣町",
+      "町名": "中屋敷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402310",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402311",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402322"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/99064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/99071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/99070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/99068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/99067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/99066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/99064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/99063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/99064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/99062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/99063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/99063.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県北秋田郡鷹巣町中屋敷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/北秋田郡/鷹巣町/中屋敷.json",
+    "name": "中屋敷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県北秋田郡鷹巣町"
+  }
+]

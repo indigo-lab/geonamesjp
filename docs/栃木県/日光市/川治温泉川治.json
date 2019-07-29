@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県日光市川治温泉川治",
+    "表記": "栃木県日光市川治温泉川治",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "日光市",
+      "町名": "川治温泉川治",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092061210"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055392576",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055392575",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055392585"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/102126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232802/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232805/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/102128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232803/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232806/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232806/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232804/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232793/102118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232803/102128.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県日光市川治温泉川治",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/日光市/川治温泉川治.json",
+    "name": "川治温泉川治",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県日光市"
+  }
+]

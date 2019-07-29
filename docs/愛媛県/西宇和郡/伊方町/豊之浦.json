@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西宇和郡伊方町豊之浦",
+    "表記": "愛媛県西宇和郡伊方町豊之浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "西宇和郡",
+      "市区町村": "伊方町",
+      "町名": "豊之浦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S384420110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050321265",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050321255",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050321266",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050321275",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050321276"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227425/105181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227428/105179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227435/105177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227425/105185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227427/105177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227425/105180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227426/105181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227426/105180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227424/105181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227424/105180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227422/105184.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227422/105186.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西宇和郡伊方町豊之浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西宇和郡/伊方町/豊之浦.json",
+    "name": "豊之浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西宇和郡伊方町"
+  }
+]

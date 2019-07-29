@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市川崎区駅前本町",
+    "表記": "神奈川県川崎市川崎区駅前本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "川崎市",
+      "区": "川崎区",
+      "町名": "駅前本町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S141311010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392535",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392536",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392545",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392546"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232796/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/103359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/103357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232796/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/103359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/103359.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市川崎区駅前本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/川崎市/川崎区/駅前本町.json",
+    "name": "駅前本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県川崎市川崎区"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市牛崎",
+    "表記": "新潟県新潟市牛崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "牛崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394073",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394063",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394072"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232317/101366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/101369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232319/101370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232319/101369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/101368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232319/101368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232317/101368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/101367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232319/101366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232313/101364.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市牛崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/牛崎.json",
+    "name": "牛崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

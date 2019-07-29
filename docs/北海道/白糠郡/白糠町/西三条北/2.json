@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道白糠郡白糠町西三条北二丁目",
+    "表記": "北海道白糠郡白糠町西三条北二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "白糠郡",
+      "市区町村": "白糠町",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443055"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235977/96363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235977/96364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235978/96364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235976/96363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235975/96362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235979/96363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235976/96362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235977/96362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235978/96363.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道白糠郡白糠町西三条北二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/白糠郡/白糠町/西三条北/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道白糠郡白糠町西三条北"
+  }
+]

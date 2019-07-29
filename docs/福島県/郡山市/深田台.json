@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県郡山市深田台",
+    "表記": "福島県郡山市深田台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "郡山市",
+      "町名": "深田台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400350",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400340"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/101690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233290/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233290/101696.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県郡山市深田台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/郡山市/深田台.json",
+    "name": "深田台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県郡山市"
+  }
+]

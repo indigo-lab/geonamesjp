@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県海部郡弥富町大字鯏浦字浦六町",
+    "表記": "愛知県海部郡弥富町大字鯏浦字浦六町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "海部郡",
+      "市区町村": "弥富町",
+      "町名": "大字鯏浦字浦六町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365547",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230631/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230632/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230631/103728.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県海部郡弥富町大字鯏浦字浦六町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/海部郡/弥富町/大字鯏浦字浦六町.json",
+    "name": "大字鯏浦字浦六町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県海部郡弥富町"
+  }
+]

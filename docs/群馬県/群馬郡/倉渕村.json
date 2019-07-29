@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県群馬郡倉渕村",
+    "表記": "群馬県群馬郡倉渕村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "群馬郡",
+      "市区町村": "倉渕村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C10322-19960701",
+        "http://data.e-stat.go.jp/lod/sac/C10322-20060123"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県群馬郡倉渕村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/群馬郡/倉渕村.json",
+    "name": "倉渕村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県群馬郡"
+  }
+]

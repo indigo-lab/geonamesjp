@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県上野市緑ケ丘西町",
+    "表記": "三重県上野市緑ケ丘西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "緑ケ丘西町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361101",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361110",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361111"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/104050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/104050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/104049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/104049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/104046.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県上野市緑ケ丘西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/上野市/緑ケ丘西町.json",
+    "name": "緑ケ丘西町",
+    "alternateName": [
+      "緑ヶ丘西町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/三重県上野市"
+  }
+]

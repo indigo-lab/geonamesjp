@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県川辺郡知覧町",
+    "表記": "鹿児島県川辺郡知覧町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "川辺郡",
+      "市区町村": "知覧町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C46344-20071201",
+        "http://data.e-stat.go.jp/lod/sac/C46344-19840501",
+        "http://data.e-stat.go.jp/lod/sac/C46344-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C46344-19771201",
+        "http://data.e-stat.go.jp/lod/sac/C46344-19850327",
+        "http://data.e-stat.go.jp/lod/sac/C46344-19860324"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県川辺郡知覧町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/川辺郡/知覧町.json",
+    "name": "知覧町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県川辺郡",
+    "children": [
+      "https://geonames.jp/resource/鹿児島県川辺郡知覧町永里",
+      "https://geonames.jp/resource/鹿児島県川辺郡知覧町塩屋",
+      "https://geonames.jp/resource/鹿児島県川辺郡知覧町郡",
+      "https://geonames.jp/resource/鹿児島県川辺郡知覧町厚地",
+      "https://geonames.jp/resource/鹿児島県川辺郡知覧町瀬世",
+      "https://geonames.jp/resource/鹿児島県川辺郡知覧町西元",
+      "https://geonames.jp/resource/鹿児島県川辺郡知覧町東別府",
+      "https://geonames.jp/resource/鹿児島県川辺郡知覧町南別府"
+    ]
+  }
+]

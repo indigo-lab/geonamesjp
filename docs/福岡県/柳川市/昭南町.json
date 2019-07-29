@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県柳川市昭南町",
+    "表記": "福岡県柳川市昭南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "昭南町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305269",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305279",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305289",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305370"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225999/105459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226010/105467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226007/105467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226010/105465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226003/105468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226004/105465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/105467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226006/105465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226007/105466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226003/105469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225999/105465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226002/105465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226000/105462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226002/105463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226001/105464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225999/105461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226003/105466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226003/105463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226000/105464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226006/105464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226006/105468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226009/105466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226009/105465.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県柳川市昭南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/柳川市/昭南町.json",
+    "name": "昭南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県柳川市"
+  }
+]

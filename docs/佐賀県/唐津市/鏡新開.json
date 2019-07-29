@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県唐津市鏡新開",
+    "表記": "佐賀県唐津市鏡新開",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "唐津市",
+      "町名": "鏡新開"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050291729",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301020"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225734/105211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225734/105212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225735/105212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225734/105213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225735/105213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225732/105211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225732/105210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225733/105211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225733/105210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225733/105212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225734/105210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225735/105211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225735/105210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225736/105213.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県唐津市鏡新開",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/唐津市/鏡新開.json",
+    "name": "鏡新開",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県唐津市"
+  }
+]

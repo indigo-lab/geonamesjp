@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市高津区溝口三丁目",
+    "表記": "神奈川県川崎市高津区溝口三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "川崎市",
+      "区": "高津区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14134401103"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393429",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393428"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/103296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/103297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/103296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232734/103296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232734/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232734/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232733/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232733/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232732/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/103298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232733/103296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232732/103295.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市高津区溝口三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/川崎市/高津区/溝口/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県川崎市高津区溝口"
+  }
+]

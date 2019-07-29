@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道中川郡美深町敷島",
+    "表記": "北海道中川郡美深町敷島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "中川郡",
+      "市区町村": "美深町",
+      "町名": "敷島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2066425286",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066425287",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066425288",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066425297",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066425298"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234717/94824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234720/94823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234723/94822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234724/94820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234729/94819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234729/94822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234732/94828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234720/94819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234718/94824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234723/94823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234731/94827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234730/94821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234723/94821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234719/94824.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道中川郡美深町敷島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/中川郡/美深町/敷島.json",
+    "name": "敷島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道中川郡美深町"
+  }
+]

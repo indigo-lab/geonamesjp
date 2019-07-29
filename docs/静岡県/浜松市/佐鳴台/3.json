@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市佐鳴台三丁目",
+    "表記": "静岡県浜松市佐鳴台三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜松市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370545",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370546"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231339/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231341/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231342/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231342/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231342/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231341/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231341/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231340/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231340/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231339/104096.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市佐鳴台三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/佐鳴台/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市佐鳴台"
+  }
+]

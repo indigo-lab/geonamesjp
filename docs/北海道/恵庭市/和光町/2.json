@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道恵庭市和光町二丁目",
+    "表記": "北海道恵庭市和光町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "和光町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01231024002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064412447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064412457"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/96450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/96448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/96448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234175/96448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/96449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/96449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/96450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234175/96449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234176/96449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234176/96450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234175/96450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234175/96451.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道恵庭市和光町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/恵庭市/和光町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道恵庭市和光町"
+  }
+]

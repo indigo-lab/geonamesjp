@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡牧園町持松",
+    "表記": "鹿児島県姶良郡牧園町持松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "姶良郡",
+      "市区町村": "牧園町",
+      "町名": "持松"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306636",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306646"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226338/106568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226340/106566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226342/106565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226343/106563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226338/106569.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡牧園町持松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/姶良郡/牧園町/持松.json",
+    "name": "持松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県姶良郡牧園町"
+  }
+]

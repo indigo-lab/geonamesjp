@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市大部町",
+    "表記": "山形県鶴岡市大部町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "大部町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062031530"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058390684",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058390685"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/100429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/100428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/100431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/100429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/100430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/100430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/100430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/100429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/100429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/100428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232884/100428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/100428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/100428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/100431.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市大部町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/鶴岡市/大部町.json",
+    "name": "大部町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県鶴岡市"
+  }
+]

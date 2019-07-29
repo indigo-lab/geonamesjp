@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府高槻市二料",
+    "表記": "大阪府高槻市二料",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "高槻市",
+      "町名": "二料"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353435",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353436",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353425"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229789/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229798/103885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229795/103884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229790/103885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229796/103885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229790/103884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229790/103883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229790/103889.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府高槻市二料",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/高槻市/二料.json",
+    "name": "二料",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府高槻市"
+  }
+]

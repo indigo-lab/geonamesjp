@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県美作市林野",
+    "表記": "岡山県美作市林野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "美作市",
+      "町名": "林野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332153010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344101",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344102"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228754/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228758/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228757/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228756/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228755/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228754/103831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228756/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228753/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228753/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228754/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228755/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228757/103833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228756/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228757/103831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228752/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228755/103834.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県美作市林野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/美作市/林野.json",
+    "name": "林野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県美作市"
+  }
+]

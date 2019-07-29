@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県さくら市柿木澤新田",
+    "表記": "栃木県さくら市柿木澤新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "さくら市",
+      "町名": "柿木澤新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390719",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390729"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233009/102325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233012/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233012/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233013/102324.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県さくら市柿木澤新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/さくら市/柿木澤新田.json",
+    "name": "柿木澤新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県さくら市"
+  }
+]

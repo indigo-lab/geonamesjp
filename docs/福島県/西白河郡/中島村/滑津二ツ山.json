@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県西白河郡中島村滑津二ツ山",
+    "表記": "福島県西白河郡中島村滑津二ツ山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "西白河郡",
+      "市区町村": "中島村",
+      "町名": "滑津二ツ山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405277",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405287"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233266/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/101895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233266/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/101896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233269/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233269/101896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233269/101901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101901.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県西白河郡中島村滑津二ツ山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/西白河郡/中島村/滑津二ツ山.json",
+    "name": "滑津二ツ山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県西白河郡中島村"
+  }
+]

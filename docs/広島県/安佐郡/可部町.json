@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県安佐郡可部町",
+    "表記": "広島県安佐郡可部町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "安佐郡",
+      "市区町村": "可部町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C34346-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C34346-19720401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県安佐郡可部町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/安佐郡/可部町.json",
+    "name": "可部町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県安佐郡"
+  }
+]

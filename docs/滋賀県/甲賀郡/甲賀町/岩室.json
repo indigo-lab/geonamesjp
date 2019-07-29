@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡甲賀町岩室",
+    "表記": "滋賀県甲賀郡甲賀町岩室",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "甲賀郡",
+      "市区町村": "甲賀町",
+      "町名": "岩室"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363119",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363129",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363210",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363220"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230290/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230289/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230289/103895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230290/103901.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡甲賀町岩室",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀郡/甲賀町/岩室.json",
+    "name": "岩室",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀郡甲賀町"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県愛知郡東郷町大字諸輪字米ケ廻間",
+    "表記": "愛知県愛知郡東郷町大字諸輪字米ケ廻間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "愛知郡",
+      "市区町村": "東郷町",
+      "町名": "大字諸輪字米ケ廻間"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375026",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375036"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230890/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230894/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230892/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230893/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230891/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230890/103738.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県愛知郡東郷町大字諸輪字米ケ廻間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/愛知郡/東郷町/大字諸輪字米ケ廻間.json",
+    "name": "大字諸輪字米ケ廻間",
+    "alternateName": [
+      "大字諸輪字米ヶ廻間"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県愛知郡東郷町"
+  }
+]

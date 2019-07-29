@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市北灘町大浦字ロク地",
+    "表記": "徳島県鳴門市北灘町大浦字ロク地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "鳴門市",
+      "町名": "北灘町大浦字ロク地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342462"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/104522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229028/104520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/104520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/104521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/104522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/104523.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市北灘町大浦字ロク地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/鳴門市/北灘町大浦字ロク地.json",
+    "name": "北灘町大浦字ロク地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県鳴門市"
+  }
+]

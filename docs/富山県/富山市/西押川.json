@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市西押川",
+    "表記": "富山県富山市西押川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "西押川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162015180"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370029",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370019",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370110"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230917/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230919/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230919/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230920/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230922/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230922/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230921/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230921/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230920/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230920/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230921/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230923/102325.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市西押川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/西押川.json",
+    "name": "西押川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

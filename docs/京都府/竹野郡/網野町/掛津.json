@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府竹野郡網野町掛津",
+    "表記": "京都府竹野郡網野町掛津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "竹野郡",
+      "市区町村": "網野町",
+      "町名": "掛津"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053354033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053354034",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053354044",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053354045"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229419/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229408/103210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229416/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229414/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229415/103209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229416/103210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229419/103210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229421/103208.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府竹野郡網野町掛津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/竹野郡/網野町/掛津.json",
+    "name": "掛津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府竹野郡網野町"
+  }
+]

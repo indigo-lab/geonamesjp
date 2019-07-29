@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県婦負郡婦中町浜子",
+    "表記": "富山県婦負郡婦中町浜子",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "婦負郡",
+      "市区町村": "婦中町",
+      "町名": "浜子"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377141",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377142"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230948/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/102377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230944/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/102382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230948/102382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230948/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/102381.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県婦負郡婦中町浜子",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/婦負郡/婦中町/浜子.json",
+    "name": "浜子",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県婦負郡婦中町"
+  }
+]

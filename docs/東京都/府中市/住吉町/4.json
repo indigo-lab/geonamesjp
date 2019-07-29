@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都府中市住吉町四丁目",
+    "表記": "東京都府中市住吉町四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "住吉町",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13206034004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393396"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232621/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232621/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232617/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232621/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232622/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232617/103242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/103242.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都府中市住吉町四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/府中市/住吉町/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都府中市住吉町"
+  }
+]

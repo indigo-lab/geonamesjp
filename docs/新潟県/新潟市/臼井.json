@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市臼井",
+    "表記": "新潟県新潟市臼井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "臼井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395034",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395013",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395044"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/101318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232328/101316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/101318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/101316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/101317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/101316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232328/101317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/101317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232328/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232326/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232326/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232320/101334.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市臼井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/臼井.json",
+    "name": "臼井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県由利本荘市川辺",
+    "表記": "秋田県由利本荘市川辺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "由利本荘市",
+      "町名": "川辺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406089",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406099",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406190"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/99958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233105/99959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233112/99957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/99957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/99957.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県由利本荘市川辺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/由利本荘市/川辺.json",
+    "name": "川辺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県由利本荘市"
+  }
+]

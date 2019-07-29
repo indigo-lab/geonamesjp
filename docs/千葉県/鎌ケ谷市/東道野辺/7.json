@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県鎌ケ谷市東道野辺七丁目",
+    "表記": "千葉県鎌ケ谷市東道野辺七丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "鎌ケ谷市",
+      "町名": "七丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12224006007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394799",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404090"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233013/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233012/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/103171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/103171.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県鎌ケ谷市東道野辺七丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/鎌ケ谷市/東道野辺/7.json",
+    "name": "七丁目",
+    "alternateName": [
+      "7",
+      "7丁目",
+      "７",
+      "７丁目",
+      "七"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県鎌ケ谷市東道野辺"
+  }
+]

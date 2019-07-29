@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県那覇市字壷川",
+    "表記": "沖縄県那覇市字壷川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "那覇市",
+      "町名": "字壷川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272544",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272554"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224046/111289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224046/111288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224047/111287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224044/111285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224046/111285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224044/111284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224045/111284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224046/111287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224047/111288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224047/111286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224046/111286.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県那覇市字壷川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/那覇市/字壷川.json",
+    "name": "字壷川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県那覇市"
+  }
+]

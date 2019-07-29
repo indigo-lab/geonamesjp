@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県庄原市西本町二丁目",
+    "表記": "広島県庄原市西本町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "西本町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34210002002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052332020",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052332021",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052332030",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052332031"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227929/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227928/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227927/103963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227926/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227925/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227926/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227926/103963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227928/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227929/103966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227927/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227929/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227928/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227928/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227928/103963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227927/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227926/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227927/103964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227928/103966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227926/103964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227927/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227928/103964.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県庄原市西本町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/庄原市/西本町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県庄原市西本町"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県小山市生駒",
+    "表記": "栃木県小山市生駒",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "小山市",
+      "町名": "生駒"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393589",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393680"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232840/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232838/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232839/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232837/102652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232836/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232834/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102651.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県小山市生駒",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/小山市/生駒.json",
+    "name": "生駒",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県小山市"
+  }
+]

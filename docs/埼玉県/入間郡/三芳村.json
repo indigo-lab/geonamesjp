@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡三芳村",
+    "表記": "埼玉県入間郡三芳村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "入間郡",
+      "市区町村": "三芳村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C11324-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡三芳村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/入間郡/三芳村.json",
+    "name": "三芳村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県入間郡",
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q185238"
+    ]
+  }
+]

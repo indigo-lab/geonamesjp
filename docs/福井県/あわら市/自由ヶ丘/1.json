@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県あわら市自由ヶ丘一丁目",
+    "表記": "福井県あわら市自由ヶ丘一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "あわら市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362158",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362159"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/102749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230275/102748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/102749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/102748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/102748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/102747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/102746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/102746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/102745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/102747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/102745.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県あわら市自由ヶ丘一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/あわら市/自由ヶ丘/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福井県あわら市自由ヶ丘"
+  }
+]

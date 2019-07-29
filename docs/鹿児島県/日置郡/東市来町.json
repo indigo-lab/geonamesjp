@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡東市来町",
+    "表記": "鹿児島県日置郡東市来町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "日置郡",
+      "市区町村": "東市来町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C46362-20050501",
+        "http://data.e-stat.go.jp/lod/sac/C46362-19980603",
+        "http://data.e-stat.go.jp/lod/sac/C46362-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡東市来町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/日置郡/東市来町.json",
+    "name": "東市来町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県日置郡",
+    "children": [
+      "https://geonames.jp/resource/鹿児島県日置郡東市来町伊作田",
+      "https://geonames.jp/resource/鹿児島県日置郡東市来町長里",
+      "https://geonames.jp/resource/鹿児島県日置郡東市来町湯田"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市南区玉川町",
+    "表記": "福岡県福岡市南区玉川町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "南区",
+      "町名": "玉川町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401340030"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302373",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302383"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226039/105095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226038/105095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226038/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226039/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226038/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226038/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226039/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226039/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226040/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226039/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226040/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226040/105099.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市南区玉川町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/南区/玉川町.json",
+    "name": "玉川町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市南区"
+  }
+]

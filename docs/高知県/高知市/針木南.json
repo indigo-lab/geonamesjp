@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高知市針木南",
+    "表記": "高知県高知市針木南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "高知市",
+      "町名": "針木南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S392011928"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332337",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332347"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228265/105126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228265/105127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228265/105128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228262/105129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228262/105131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228259/105132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228263/105127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228264/105126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228264/105129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228264/105130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228263/105130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228262/105127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228264/105127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228262/105128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228263/105128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228262/105130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228264/105128.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高知市針木南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高知市/針木南.json",
+    "name": "針木南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高知市"
+  }
+]

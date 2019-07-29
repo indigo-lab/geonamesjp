@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県柴田郡川崎町青根温泉",
+    "表記": "宮城県柴田郡川崎町青根温泉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "柴田郡",
+      "市区町村": "川崎町",
+      "町名": "青根温泉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401472",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401473",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401463",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401483"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/100983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/100981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/100981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/100981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/100980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/100980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/100981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/100979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/100981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233409/100986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233413/100979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233412/100977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233409/100980.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県柴田郡川崎町青根温泉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/柴田郡/川崎町/青根温泉.json",
+    "name": "青根温泉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県柴田郡川崎町"
+  }
+]

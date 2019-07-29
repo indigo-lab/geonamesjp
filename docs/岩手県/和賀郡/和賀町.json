@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県和賀郡和賀町",
+    "表記": "岩手県和賀郡和賀町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "和賀郡",
+      "市区町村": "和賀町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C03362-19781201",
+        "http://data.e-stat.go.jp/lod/sac/C03362-19910401",
+        "http://data.e-stat.go.jp/lod/sac/C03362-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C03362-19720301",
+        "http://data.e-stat.go.jp/lod/sac/C03362-19720901",
+        "http://data.e-stat.go.jp/lod/sac/C03362-19710801",
+        "http://data.e-stat.go.jp/lod/sac/C03362-19870901",
+        "http://data.e-stat.go.jp/lod/sac/C03362-19721201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県和賀郡和賀町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/和賀郡/和賀町.json",
+    "name": "和賀町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県和賀郡"
+  }
+]

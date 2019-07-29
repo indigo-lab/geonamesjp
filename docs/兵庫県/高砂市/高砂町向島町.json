@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県高砂市高砂町向島町",
+    "表記": "兵庫県高砂市高砂町向島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "高砂町向島町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340684",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340694"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229233/104066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229234/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229235/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229233/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229234/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229235/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229233/104068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229233/104069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229234/104063.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県高砂市高砂町向島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/高砂市/高砂町向島町.json",
+    "name": "高砂町向島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県高砂市"
+  }
+]

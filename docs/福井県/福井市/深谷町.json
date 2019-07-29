@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県福井市深谷町",
+    "表記": "福井県福井市深谷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "深谷町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182013200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361114",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360193",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361103"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230232/102864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230238/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/102864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230229/102864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230228/102864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230224/102868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230227/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230229/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/102864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/102864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/102862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230223/102866.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県福井市深谷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/福井市/深谷町.json",
+    "name": "深谷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県福井市"
+  }
+]

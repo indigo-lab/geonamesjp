@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県加須市旗井二丁目",
+    "表記": "埼玉県加須市旗井二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "加須市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391565",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391564",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391574",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391575"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232790/102813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232788/102813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232789/102812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232789/102814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232789/102813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232789/102811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232789/102815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232790/102814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232790/102812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232790/102811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232791/102813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232791/102814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232791/102812.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県加須市旗井二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/加須市/旗井/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県加須市旗井"
+  }
+]

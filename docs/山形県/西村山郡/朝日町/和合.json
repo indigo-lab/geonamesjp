@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県西村山郡朝日町和合",
+    "表記": "山形県西村山郡朝日町和合",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "郡": "西村山郡",
+      "市区町村": "朝日町",
+      "町名": "和合"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403183",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403193"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233139/100812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233139/100814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233138/100814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233138/100813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233138/100811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/100813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233137/100815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233139/100817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233137/100816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233136/100815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/100817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233136/100816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233137/100819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233135/100817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233135/100818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/100819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/100821.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県西村山郡朝日町和合",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/西村山郡/朝日町/和合.json",
+    "name": "和合",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県西村山郡朝日町"
+  }
+]

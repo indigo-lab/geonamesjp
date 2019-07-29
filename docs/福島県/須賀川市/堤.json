@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県須賀川市堤",
+    "表記": "福島県須賀川市堤",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "須賀川市",
+      "町名": "堤",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072070180"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407362",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407361",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407363",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407372",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407373"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/101755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/101747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/101758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/101749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/101755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/101757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/101758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/101756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/101754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233318/101750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/101753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233319/101753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/101747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/101760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/101750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/101755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233320/101750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233321/101751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233322/101751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/101752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/101749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/101757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/101760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/101761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/101757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/101749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/101751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/101747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233317/101748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233316/101759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233318/101755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/101757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/101758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/101756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/101754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/101756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233313/101752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233320/101752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233318/101751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/101751.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県須賀川市堤",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/須賀川市/堤.json",
+    "name": "堤",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県須賀川市"
+  }
+]

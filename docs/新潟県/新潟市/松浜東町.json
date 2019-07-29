@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市松浜東町",
+    "表記": "新潟県新潟市松浜東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "松浜東町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市松浜東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/松浜東町.json",
+    "name": "松浜東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市",
+    "children": [
+      "https://geonames.jp/resource/新潟県新潟市松浜東町一丁目",
+      "https://geonames.jp/resource/新潟県新潟市松浜東町二丁目"
+    ]
+  }
+]

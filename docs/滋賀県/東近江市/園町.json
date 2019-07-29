@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市園町",
+    "表記": "滋賀県東近江市園町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "園町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252131340"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365222",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365221",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365231",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365232"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230305/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230309/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230307/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230308/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230303/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230304/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230304/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230306/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230305/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230305/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230306/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230304/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230302/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230303/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230306/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230307/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230307/103739.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市園町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/東近江市/園町.json",
+    "name": "園町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県東近江市"
+  }
+]

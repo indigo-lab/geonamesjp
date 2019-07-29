@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市井ケ谷町松ケ崎",
+    "表記": "愛知県刈谷市井ケ谷町松ケ崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "刈谷市",
+      "町名": "井ケ谷町松ケ崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374064",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374065"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103783.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市井ケ谷町松ケ崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/刈谷市/井ケ谷町松ケ崎.json",
+    "name": "井ケ谷町松ケ崎",
+    "alternateName": [
+      "井ヶ谷町松ヶ崎"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県刈谷市"
+  }
+]

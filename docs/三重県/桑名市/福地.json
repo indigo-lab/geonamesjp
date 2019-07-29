@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名市福地",
+    "表記": "三重県桑名市福地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "桑名市",
+      "町名": "福地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364535",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364545",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364546"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230611/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230609/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230610/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230609/103806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230612/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103806.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名市福地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名市/福地.json",
+    "name": "福地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名市"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県奄美市名瀬大字有屋",
+    "表記": "鹿児島県奄美市名瀬大字有屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "奄美市",
+      "町名": "名瀬大字有屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294451",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294450",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294441",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294462"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225384/109505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225375/109504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225378/109509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225381/109510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225380/109505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225384/109497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225383/109500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225383/109501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225383/109502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225392/109496.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県奄美市名瀬大字有屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/奄美市/名瀬大字有屋.json",
+    "name": "名瀬大字有屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県奄美市"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道網走市北十条西",
+    "表記": "北海道網走市北十条西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "網走市",
+      "町名": "北十条西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012110490"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道網走市北十条西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/網走市/北十条西.json",
+    "name": "北十条西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道網走市",
+    "children": [
+      "https://geonames.jp/resource/北海道網走市北十条西一丁目",
+      "https://geonames.jp/resource/北海道網走市北十条西二丁目",
+      "https://geonames.jp/resource/北海道網走市北十条西三丁目",
+      "https://geonames.jp/resource/北海道網走市北十条西四丁目",
+      "https://geonames.jp/resource/北海道網走市北十条西五丁目",
+      "https://geonames.jp/resource/北海道網走市北十条西六丁目"
+    ]
+  }
+]

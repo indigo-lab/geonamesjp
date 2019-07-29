@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県本荘市美倉町",
+    "表記": "秋田県本荘市美倉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "美倉町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400063",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400064"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/99820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/99820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/99819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/99819.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県本荘市美倉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/本荘市/美倉町.json",
+    "name": "美倉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県本荘市"
+  }
+]

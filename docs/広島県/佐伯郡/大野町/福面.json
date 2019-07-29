@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡大野町福面",
+    "表記": "広島県佐伯郡大野町福面",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "佐伯郡",
+      "市区町村": "大野町",
+      "町名": "福面"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡大野町福面",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/佐伯郡/大野町/福面.json",
+    "name": "福面",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県佐伯郡大野町",
+    "children": [
+      "https://geonames.jp/resource/広島県佐伯郡大野町福面（丁目なし）",
+      "https://geonames.jp/resource/広島県佐伯郡大野町福面一丁目",
+      "https://geonames.jp/resource/広島県佐伯郡大野町福面二丁目",
+      "https://geonames.jp/resource/広島県佐伯郡大野町福面三丁目"
+    ]
+  }
+]

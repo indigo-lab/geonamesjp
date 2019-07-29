@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府竹野郡網野町",
+    "表記": "京都府竹野郡網野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "竹野郡",
+      "市区町村": "網野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C26501-20040401",
+        "http://data.e-stat.go.jp/lod/sac/C26501-19980527",
+        "http://data.e-stat.go.jp/lod/sac/C26501-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府竹野郡網野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/竹野郡/網野町.json",
+    "name": "網野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府竹野郡",
+    "children": [
+      "https://geonames.jp/resource/京都府竹野郡網野町下岡",
+      "https://geonames.jp/resource/京都府竹野郡網野町掛津",
+      "https://geonames.jp/resource/京都府竹野郡網野町郷",
+      "https://geonames.jp/resource/京都府竹野郡網野町公庄",
+      "https://geonames.jp/resource/京都府竹野郡網野町高橋",
+      "https://geonames.jp/resource/京都府竹野郡網野町小浜",
+      "https://geonames.jp/resource/京都府竹野郡網野町新庄",
+      "https://geonames.jp/resource/京都府竹野郡網野町生野内",
+      "https://geonames.jp/resource/京都府竹野郡網野町浅茂川",
+      "https://geonames.jp/resource/京都府竹野郡網野町島津",
+      "https://geonames.jp/resource/京都府竹野郡網野町網野"
+    ]
+  }
+]

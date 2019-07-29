@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県大分市平横瀬",
+    "表記": "大分県大分市平横瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "大分市",
+      "町名": "平横瀬"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316432",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316433",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316423"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226855/105423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226858/105422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226852/105419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226854/105420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226857/105422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226853/105424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226852/105420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226853/105421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226854/105419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226854/105421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226856/105422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226857/105421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226858/105423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226862/105425.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県大分市平横瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/大分市/平横瀬.json",
+    "name": "平横瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県大分市"
+  }
+]

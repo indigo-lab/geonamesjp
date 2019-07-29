@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西尾市寺津",
+    "表記": "愛知県西尾市寺津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "西尾市",
+      "町名": "寺津"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西尾市寺津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西尾市/寺津.json",
+    "name": "寺津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県西尾市",
+    "children": [
+      "https://geonames.jp/resource/愛知県西尾市寺津一丁目",
+      "https://geonames.jp/resource/愛知県西尾市寺津二丁目",
+      "https://geonames.jp/resource/愛知県西尾市寺津三丁目",
+      "https://geonames.jp/resource/愛知県西尾市寺津四丁目"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市三沢町沼平",
+    "表記": "福島県いわき市三沢町沼平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "三沢町沼平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402589"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233564/102122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233564/102121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233560/102123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233563/102118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233562/102119.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市三沢町沼平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/三沢町沼平.json",
+    "name": "三沢町沼平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

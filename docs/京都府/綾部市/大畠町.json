@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府綾部市大畠町",
+    "表記": "京都府綾部市大畠町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "大畠町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350108",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350107"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229540/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229541/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229542/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229542/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229542/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229544/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229544/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229544/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229544/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229545/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229546/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229542/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229536/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229532/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229540/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229541/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229542/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/103537.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府綾部市大畠町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/綾部市/大畠町.json",
+    "name": "大畠町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府綾部市"
+  }
+]

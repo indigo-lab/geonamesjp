@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市熊野町（丁目なし）",
+    "表記": "岐阜県大垣市熊野町（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "熊野町",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21202111000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360446",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360457"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230532/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230532/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230532/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230532/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230532/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103501.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市熊野町（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/大垣市/熊野町/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県大垣市熊野町"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県伊勢市大倉町",
+    "表記": "三重県伊勢市大倉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "大倉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242030200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051365564",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051365573",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051365574",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051365563"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230595/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230596/104299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/104299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230595/104299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230596/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230596/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/104299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/104298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230594/104299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230593/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230592/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230593/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230594/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230596/104298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/104299.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県伊勢市大倉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/伊勢市/大倉町.json",
+    "name": "大倉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県伊勢市"
+  }
+]

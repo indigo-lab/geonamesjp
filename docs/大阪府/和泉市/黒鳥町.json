@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府和泉市黒鳥町",
+    "表記": "大阪府和泉市黒鳥町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "黒鳥町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S272193010"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府和泉市黒鳥町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/和泉市/黒鳥町.json",
+    "name": "黒鳥町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府和泉市",
+    "children": [
+      "https://geonames.jp/resource/大阪府和泉市黒鳥町（丁目なし）",
+      "https://geonames.jp/resource/大阪府和泉市黒鳥町一丁目",
+      "https://geonames.jp/resource/大阪府和泉市黒鳥町二丁目",
+      "https://geonames.jp/resource/大阪府和泉市黒鳥町三丁目",
+      "https://geonames.jp/resource/大阪府和泉市黒鳥町四丁目"
+    ]
+  }
+]

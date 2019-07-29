@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県飯塚市花瀬",
+    "表記": "福岡県飯塚市花瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "飯塚市",
+      "町名": "花瀬",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402050350"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303562",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303563",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303571",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303572",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303573"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226207/105028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226207/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226208/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226208/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226208/105028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226209/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226211/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226211/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226212/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226214/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226215/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226215/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226216/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226217/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226209/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226210/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226210/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226211/105033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226211/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226212/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226212/105033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226213/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226214/105033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226215/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226216/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226215/105033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226218/105033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226218/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226218/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226213/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226210/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226209/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226212/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226213/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226213/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226213/105033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226214/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226214/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226215/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226216/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226216/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226217/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226217/105033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/105033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226220/105032.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県飯塚市花瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/飯塚市/花瀬.json",
+    "name": "花瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県飯塚市"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県那賀郡那賀町桜谷",
+    "表記": "徳島県那賀郡那賀町桜谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "那賀郡",
+      "市区町村": "那賀町",
+      "町名": "桜谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S363680160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050345350",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050345360"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228924/104893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228924/104888.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県那賀郡那賀町桜谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/那賀郡/那賀町/桜谷.json",
+    "name": "桜谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県那賀郡那賀町"
+  }
+]

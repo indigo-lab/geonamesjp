@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府八幡市内里松ケ外",
+    "表記": "京都府八幡市内里松ケ外",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "八幡市",
+      "町名": "内里松ケ外"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352528",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352529"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229911/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229913/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229912/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229913/103961.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府八幡市内里松ケ外",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/八幡市/内里松ケ外.json",
+    "name": "内里松ケ外",
+    "alternateName": [
+      "内里松ヶ外"
+    ],
+    "parentFeature": "https://geonames.jp/resource/京都府八幡市"
+  }
+]

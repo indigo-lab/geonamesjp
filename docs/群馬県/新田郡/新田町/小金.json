@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県新田郡新田町小金",
+    "表記": "群馬県新田郡新田町小金",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "新田郡",
+      "市区町村": "新田町",
+      "町名": "小金"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393295",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393296",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394205",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394206",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394215",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394216"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232522/102641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232522/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232523/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232524/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/102639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232522/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232523/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232524/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232522/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232524/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/102632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232521/102641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232521/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232521/102638.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県新田郡新田町小金",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/新田郡/新田町/小金.json",
+    "name": "小金",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県新田郡新田町"
+  }
+]

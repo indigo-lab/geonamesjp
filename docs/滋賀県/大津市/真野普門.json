@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県大津市真野普門",
+    "表記": "滋賀県大津市真野普門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "大津市",
+      "町名": "真野普門",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252010240"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県大津市真野普門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/大津市/真野普門.json",
+    "name": "真野普門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県大津市",
+    "children": [
+      "https://geonames.jp/resource/滋賀県大津市真野普門一丁目",
+      "https://geonames.jp/resource/滋賀県大津市真野普門二丁目",
+      "https://geonames.jp/resource/滋賀県大津市真野普門三丁目"
+    ]
+  }
+]

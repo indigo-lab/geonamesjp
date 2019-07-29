@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県尾花沢市上町",
+    "表記": "山形県尾花沢市上町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "上町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062120410"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県尾花沢市上町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/尾花沢市/上町.json",
+    "name": "上町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県尾花沢市",
+    "children": [
+      "https://geonames.jp/resource/山形県尾花沢市上町一丁目",
+      "https://geonames.jp/resource/山形県尾花沢市上町二丁目",
+      "https://geonames.jp/resource/山形県尾花沢市上町三丁目",
+      "https://geonames.jp/resource/山形県尾花沢市上町四丁目",
+      "https://geonames.jp/resource/山形県尾花沢市上町五丁目",
+      "https://geonames.jp/resource/山形県尾花沢市上町六丁目"
+    ]
+  }
+]

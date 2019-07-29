@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県大和市林間二丁目",
+    "表記": "神奈川県大和市林間二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "大和市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14213007002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391395",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391396",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392305",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392306"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232615/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232614/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232615/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232614/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232614/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232614/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232614/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232615/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232615/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232615/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232617/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232617/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232614/103392.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県大和市林間二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/大和市/林間/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県大和市林間"
+  }
+]

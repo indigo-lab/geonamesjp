@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市花春町",
+    "表記": "福島県会津若松市花春町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "花春町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072020130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391785",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391795"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232973/101586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232973/101584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232976/101586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232974/101584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232975/101587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232976/101585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232977/101585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232973/101585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232974/101585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232975/101586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232975/101585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232977/101586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232975/101584.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市花春町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/花春町.json",
+    "name": "花春町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市南区井土ヶ谷上町",
+    "表記": "神奈川県横浜市南区井土ヶ谷上町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "南区",
+      "町名": "井土ヶ谷上町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391417",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391418"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/103449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/103449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/103449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/103451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/103452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/103452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/103451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/103451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/103452.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市南区井土ヶ谷上町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/南区/井土ヶ谷上町.json",
+    "name": "井土ヶ谷上町",
+    "alternateName": [
+      "井土ケ谷上町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市南区"
+  }
+]

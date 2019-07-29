@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市鴨江",
+    "表記": "静岡県浜松市鴨江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜松市",
+      "町名": "鴨江"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市鴨江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/鴨江.json",
+    "name": "鴨江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市",
+    "children": [
+      "https://geonames.jp/resource/静岡県浜松市鴨江一丁目",
+      "https://geonames.jp/resource/静岡県浜松市鴨江二丁目",
+      "https://geonames.jp/resource/静岡県浜松市鴨江三丁目",
+      "https://geonames.jp/resource/静岡県浜松市鴨江四丁目"
+    ]
+  }
+]

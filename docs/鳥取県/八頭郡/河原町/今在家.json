@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町今在家",
+    "表記": "鳥取県八頭郡河原町今在家",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "八頭郡",
+      "市区町村": "河原町",
+      "町名": "今在家"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340177",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340187"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228804/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228804/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228802/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228802/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228802/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228800/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228801/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228801/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228799/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228798/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228805/103477.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町今在家",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/八頭郡/河原町/今在家.json",
+    "name": "今在家",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県八頭郡河原町"
+  }
+]

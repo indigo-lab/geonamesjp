@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市茅野山",
+    "表記": "新潟県新潟市茅野山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "茅野山"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市茅野山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/茅野山.json",
+    "name": "茅野山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市",
+    "children": [
+      "https://geonames.jp/resource/新潟県新潟市茅野山（丁目なし）",
+      "https://geonames.jp/resource/新潟県新潟市茅野山一丁目",
+      "https://geonames.jp/resource/新潟県新潟市茅野山二丁目",
+      "https://geonames.jp/resource/新潟県新潟市茅野山三丁目"
+    ]
+  }
+]

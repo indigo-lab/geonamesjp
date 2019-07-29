@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市城村城ヶ丘",
+    "表記": "富山県富山市城村城ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "城村城ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377271"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231032/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231031/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231032/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231030/102355.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市城村城ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/城村城ヶ丘.json",
+    "name": "城村城ヶ丘",
+    "alternateName": [
+      "城村城ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

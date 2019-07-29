@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県黒磯市越堀",
+    "表記": "栃木県黒磯市越堀",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "黒磯市",
+      "町名": "越堀"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403057",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403066",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403067"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/102071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233087/102071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/102061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/102059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233084/102065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/102061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233086/102068.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県黒磯市越堀",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/黒磯市/越堀.json",
+    "name": "越堀",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県黒磯市"
+  }
+]

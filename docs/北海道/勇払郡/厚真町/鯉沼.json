@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道勇払郡厚真町鯉沼",
+    "表記": "北海道勇払郡厚真町鯉沼",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "勇払郡",
+      "市区町村": "厚真町",
+      "町名": "鯉沼"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063417679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063417770",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063417771",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063417772"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234384/96672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234383/96674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234385/96678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234388/96674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234389/96679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234380/96673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234405/96674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234404/96679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234392/96675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234384/96679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234403/96678.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道勇払郡厚真町鯉沼",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/勇払郡/厚真町/鯉沼.json",
+    "name": "鯉沼",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道勇払郡厚真町"
+  }
+]

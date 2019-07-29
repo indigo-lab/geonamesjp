@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県能美市浜町タ",
+    "表記": "石川県能美市浜町タ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "能美市",
+      "町名": "浜町タ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365335",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365336",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365345"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/102535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/102534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/102536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230429/102533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/102534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230429/102534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/102534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/102535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/102535.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県能美市浜町タ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/能美市/浜町タ.json",
+    "name": "浜町タ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県能美市"
+  }
+]

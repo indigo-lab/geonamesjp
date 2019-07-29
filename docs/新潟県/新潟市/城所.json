@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市城所",
+    "表記": "新潟県新潟市城所",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "城所"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市城所",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/城所.json",
+    "name": "城所",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市",
+    "children": [
+      "https://geonames.jp/resource/新潟県新潟市城所（丁目なし）",
+      "https://geonames.jp/resource/新潟県新潟市城所一丁目",
+      "https://geonames.jp/resource/新潟県新潟市城所二丁目"
+    ]
+  }
+]

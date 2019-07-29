@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原市志波姫北郷字竹の内",
+    "表記": "宮城県栗原市志波姫北郷字竹の内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "栗原市",
+      "町名": "志波姫北郷字竹の内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411016",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411026"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233802/100403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233800/100406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233802/100406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233802/100407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/100407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233801/100407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233800/100408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233803/100408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233804/100408.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原市志波姫北郷字竹の内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原市/志波姫北郷字竹の内.json",
+    "name": "志波姫北郷字竹の内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原市"
+  }
+]

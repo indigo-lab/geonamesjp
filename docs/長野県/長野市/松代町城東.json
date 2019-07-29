@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県長野市松代町城東",
+    "表記": "長野県長野市松代町城東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "長野市",
+      "町名": "松代町城東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S202011410"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054386186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054386176"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231709/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231709/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231709/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231710/102426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231710/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231710/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231708/102426.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県長野市松代町城東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/長野市/松代町城東.json",
+    "name": "松代町城東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県長野市"
+  }
+]

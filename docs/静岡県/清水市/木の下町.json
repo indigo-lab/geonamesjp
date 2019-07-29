@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県清水市木の下町",
+    "表記": "静岡県清水市木の下町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "木の下町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384307"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/103831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/103831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231900/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/103831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/103832.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県清水市木の下町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/清水市/木の下町.json",
+    "name": "木の下町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県清水市"
+  }
+]

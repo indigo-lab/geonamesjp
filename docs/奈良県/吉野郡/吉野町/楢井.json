@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡吉野町楢井",
+    "表記": "奈良県吉野郡吉野町楢井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "吉野郡",
+      "市区町村": "吉野町",
+      "町名": "楢井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354750",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354760",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354761"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230018/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/104377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/104383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230018/104377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230018/104379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230019/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230018/104381.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡吉野町楢井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/吉野郡/吉野町/楢井.json",
+    "name": "楢井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県吉野郡吉野町"
+  }
+]

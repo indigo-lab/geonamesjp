@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道札幌市手稲区手稲本町",
+    "表記": "北海道札幌市手稲区手稲本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "札幌市",
+      "区": "手稲区",
+      "町名": "手稲本町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S011091900"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415127",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415126",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415139",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415147",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415117",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415129",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415137",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415138"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233904/96220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233918/96213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233895/96226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233899/96222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233903/96204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233904/96227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233896/96220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233903/96220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233897/96220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233908/96210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233907/96208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233918/96216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233913/96214.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道札幌市手稲区手稲本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/札幌市/手稲区/手稲本町.json",
+    "name": "手稲本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道札幌市手稲区"
+  }
+]

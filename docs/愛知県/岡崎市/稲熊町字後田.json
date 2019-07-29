@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市稲熊町字後田",
+    "表記": "愛知県岡崎市稲熊町字後田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "稲熊町字後田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373164"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230964/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230964/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230964/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230964/103861.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市稲熊町字後田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/稲熊町字後田.json",
+    "name": "稲熊町字後田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

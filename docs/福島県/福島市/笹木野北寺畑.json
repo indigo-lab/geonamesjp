@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県福島市笹木野北寺畑",
+    "表記": "福島県福島市笹木野北寺畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "福島市",
+      "町名": "笹木野北寺畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405323",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405324"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233325/101324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233326/101324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233326/101325.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県福島市笹木野北寺畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/福島市/笹木野北寺畑.json",
+    "name": "笹木野北寺畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県福島市"
+  }
+]

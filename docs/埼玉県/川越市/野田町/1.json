@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県川越市野田町一丁目",
+    "表記": "埼玉県川越市野田町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "野田町",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11201029001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396397",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396398"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232633/103019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232635/103018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232634/103019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232634/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232634/103021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232633/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232633/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232634/103018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232634/103017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232633/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232633/103017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232633/103018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232632/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232633/103021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232635/103021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232632/103021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232632/103019.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県川越市野田町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/川越市/野田町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県川越市野田町"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県野田市みずき二丁目",
+    "表記": "千葉県野田市みずき二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "野田市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12208069002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397700",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397710",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397711"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232935/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232934/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232935/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232935/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232936/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232936/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232934/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232934/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232934/103009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232935/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232936/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232936/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232935/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232937/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232937/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232935/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232936/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232935/103009.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県野田市みずき二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/野田市/みずき/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県野田市みずき"
+  }
+]

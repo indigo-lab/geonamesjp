@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市大村町",
+    "表記": "岐阜県大垣市大村町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "大村町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360522"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230581/103521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230580/103522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230583/103520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230581/103520.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市大村町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/大垣市/大村町.json",
+    "name": "大村町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県大垣市"
+  }
+]

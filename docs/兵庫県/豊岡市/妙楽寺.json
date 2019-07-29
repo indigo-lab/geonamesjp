@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市妙楽寺",
+    "表記": "兵庫県豊岡市妙楽寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "豊岡市",
+      "町名": "妙楽寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342635",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342645"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229240/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/103362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/103359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/103357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229240/103361.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市妙楽寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/豊岡市/妙楽寺.json",
+    "name": "妙楽寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県豊岡市"
+  }
+]

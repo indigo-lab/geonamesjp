@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡多良木町",
+    "表記": "熊本県球磨郡多良木町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "球磨郡",
+      "市区町村": "多良木町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43505-19720201",
+        "http://data.e-stat.go.jp/lod/sac/C43505-19790601",
+        "http://data.e-stat.go.jp/lod/sac/C43505-19720801",
+        "http://data.e-stat.go.jp/lod/sac/C43505-19860901",
+        "http://data.e-stat.go.jp/lod/sac/C43505-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C43505-19850301",
+        "http://data.e-stat.go.jp/lod/sac/C43505-19761001",
+        "http://data.e-stat.go.jp/lod/sac/C43505-19780901",
+        "http://data.e-stat.go.jp/lod/sac/C43505-19750415"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡多良木町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/球磨郡/多良木町.json",
+    "name": "多良木町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県球磨郡",
+    "children": [
+      "https://geonames.jp/resource/熊本県球磨郡多良木町大字久米",
+      "https://geonames.jp/resource/熊本県球磨郡多良木町大字奥野",
+      "https://geonames.jp/resource/熊本県球磨郡多良木町大字槻木",
+      "https://geonames.jp/resource/熊本県球磨郡多良木町大字黒肥地",
+      "https://geonames.jp/resource/熊本県球磨郡多良木町大字多良木"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1184655"
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路市桜田十三線",
+    "表記": "北海道釧路市桜田十三線",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "釧路市",
+      "町名": "桜田十三線"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064444194",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064444195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064445102",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064445103",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064445104"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236046/96237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236048/96239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236050/96236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236052/96237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236055/96238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236059/96243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236060/96240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236066/96245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236073/96245.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路市桜田十三線",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路市/桜田十三線.json",
+    "name": "桜田十三線",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路市"
+  }
+]

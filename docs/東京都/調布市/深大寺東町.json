@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都調布市深大寺東町",
+    "表記": "東京都調布市深大寺東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "深大寺東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S132080250"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都調布市深大寺東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/調布市/深大寺東町.json",
+    "name": "深大寺東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都調布市",
+    "children": [
+      "https://geonames.jp/resource/東京都調布市深大寺東町一丁目",
+      "https://geonames.jp/resource/東京都調布市深大寺東町二丁目",
+      "https://geonames.jp/resource/東京都調布市深大寺東町三丁目",
+      "https://geonames.jp/resource/東京都調布市深大寺東町四丁目",
+      "https://geonames.jp/resource/東京都調布市深大寺東町五丁目",
+      "https://geonames.jp/resource/東京都調布市深大寺東町六丁目",
+      "https://geonames.jp/resource/東京都調布市深大寺東町七丁目",
+      "https://geonames.jp/resource/東京都調布市深大寺東町八丁目"
+    ]
+  }
+]

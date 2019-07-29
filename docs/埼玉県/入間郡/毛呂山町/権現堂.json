@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡毛呂山町権現堂",
+    "表記": "埼玉県入間郡毛呂山町権現堂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "入間郡",
+      "市区町村": "毛呂山町",
+      "町名": "権現堂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396292",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396282",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396293",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397202"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232493/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232497/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232498/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232497/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232495/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232491/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232499/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232495/103026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232493/103027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232490/103025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232490/103017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232495/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232500/103019.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡毛呂山町権現堂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/入間郡/毛呂山町/権現堂.json",
+    "name": "権現堂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県入間郡毛呂山町"
+  }
+]

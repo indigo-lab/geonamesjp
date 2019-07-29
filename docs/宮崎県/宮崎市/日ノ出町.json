@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市日ノ出町",
+    "表記": "宮崎県宮崎市日ノ出町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "日ノ出町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S452010470"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047316385",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047316386"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226793/106536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226788/106534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226788/106535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226789/106535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226789/106534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226790/106534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226790/106535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226790/106536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226791/106535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226791/106534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226793/106535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226794/106536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226791/106536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226792/106535.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市日ノ出町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/宮崎市/日ノ出町.json",
+    "name": "日ノ出町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県宮崎市"
+  }
+]

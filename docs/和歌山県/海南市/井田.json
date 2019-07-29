@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県海南市井田",
+    "表記": "和歌山県海南市井田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "海南市",
+      "町名": "井田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S302020053"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051351187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051351197",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051351198"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229538/104580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229536/104580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229536/104581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229538/104582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229538/104581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229537/104579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229539/104578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229538/104577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229539/104577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229540/104576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229538/104575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229539/104573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229536/104572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229537/104578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229537/104581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229537/104580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229537/104572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229538/104574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229538/104578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229538/104579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229539/104574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229539/104575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229540/104572.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県海南市井田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/海南市/井田.json",
+    "name": "井田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県海南市"
+  }
+]

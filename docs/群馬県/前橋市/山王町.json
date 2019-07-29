@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県前橋市山王町",
+    "表記": "群馬県前橋市山王町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "山王町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県前橋市山王町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/前橋市/山王町.json",
+    "name": "山王町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県前橋市",
+    "children": [
+      "https://geonames.jp/resource/群馬県前橋市山王町（丁目なし）",
+      "https://geonames.jp/resource/群馬県前橋市山王町一丁目",
+      "https://geonames.jp/resource/群馬県前橋市山王町二丁目"
+    ]
+  }
+]

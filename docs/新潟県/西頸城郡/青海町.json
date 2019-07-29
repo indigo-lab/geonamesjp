@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西頸城郡青海町",
+    "表記": "新潟県西頸城郡青海町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西頸城郡",
+      "市区町村": "青海町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C15563-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C15563-20050319"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西頸城郡青海町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西頸城郡/青海町.json",
+    "name": "青海町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西頸城郡",
+    "children": [
+      "https://geonames.jp/resource/新潟県西頸城郡青海町今村新田",
+      "https://geonames.jp/resource/新潟県西頸城郡青海町寺地",
+      "https://geonames.jp/resource/新潟県西頸城郡青海町須沢",
+      "https://geonames.jp/resource/新潟県西頸城郡青海町青海",
+      "https://geonames.jp/resource/新潟県西頸城郡青海町田海"
+    ]
+  }
+]

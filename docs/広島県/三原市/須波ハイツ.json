@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県三原市須波ハイツ",
+    "表記": "広島県三原市須波ハイツ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "三原市",
+      "町名": "須波ハイツ",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342040392"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県三原市須波ハイツ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/三原市/須波ハイツ.json",
+    "name": "須波ハイツ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県三原市",
+    "children": [
+      "https://geonames.jp/resource/広島県三原市須波ハイツ一丁目",
+      "https://geonames.jp/resource/広島県三原市須波ハイツ二丁目",
+      "https://geonames.jp/resource/広島県三原市須波ハイツ三丁目",
+      "https://geonames.jp/resource/広島県三原市須波ハイツ四丁目"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県赤磐郡山陽町高屋",
+    "表記": "岡山県赤磐郡山陽町高屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "赤磐郡",
+      "市区町村": "山陽町",
+      "町名": "高屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341001",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341011",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341012"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228662/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228662/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228665/104050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228665/104049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228665/104046.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県赤磐郡山陽町高屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/赤磐郡/山陽町/高屋.json",
+    "name": "高屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県赤磐郡山陽町"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町半山",
+    "表記": "新潟県北蒲原郡中条町半山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "中条町",
+      "町名": "半山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390353",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390362",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390363"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232591/101071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232592/101071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/101071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/101070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/101070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232593/101071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/101070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232590/101070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232590/101069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232590/101071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232592/101074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232596/101075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/101070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/101068.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町半山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/中条町/半山.json",
+    "name": "半山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡中条町"
+  }
+]

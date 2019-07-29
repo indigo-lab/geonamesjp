@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡蒲原町東",
+    "表記": "静岡県庵原郡蒲原町東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "庵原郡",
+      "市区町村": "蒲原町",
+      "町名": "東"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385459",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385550"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232016/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232015/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232014/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232015/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232016/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232015/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232014/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232013/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232014/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232015/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232016/103719.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡蒲原町東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/庵原郡/蒲原町/東.json",
+    "name": "東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県庵原郡蒲原町"
+  }
+]

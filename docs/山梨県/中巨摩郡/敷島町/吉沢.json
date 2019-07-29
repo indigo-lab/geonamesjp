@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡敷島町吉沢",
+    "表記": "山梨県中巨摩郡敷島町吉沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "中巨摩郡",
+      "市区町村": "敷島町",
+      "町名": "吉沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384452",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384453",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384463"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231953/103196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231952/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231954/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231954/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231953/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231950/103196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231951/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231950/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231946/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231947/103198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231943/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231956/103192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231955/103192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231954/103192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231952/103193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231946/103193.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡敷島町吉沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/中巨摩郡/敷島町/吉沢.json",
+    "name": "吉沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県中巨摩郡敷島町"
+  }
+]

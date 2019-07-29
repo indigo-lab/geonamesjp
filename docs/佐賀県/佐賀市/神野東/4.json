@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市神野東四丁目",
+    "表記": "佐賀県佐賀市神野東四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "佐賀市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S41201005004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307223",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307224"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225951/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225951/105358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225952/105358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225953/105358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225954/105358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225952/105357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225953/105357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225952/105356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225951/105356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225950/105355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225953/105356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225951/105355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225950/105354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225949/105354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225949/105355.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市神野東四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/佐賀市/神野東/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/佐賀県佐賀市神野東"
+  }
+]

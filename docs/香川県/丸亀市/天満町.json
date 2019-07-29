@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県丸亀市天満町",
+    "表記": "香川県丸亀市天満町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "天満町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県丸亀市天満町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/丸亀市/天満町.json",
+    "name": "天満町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県丸亀市",
+    "children": [
+      "https://geonames.jp/resource/香川県丸亀市天満町（丁目なし）",
+      "https://geonames.jp/resource/香川県丸亀市天満町一丁目",
+      "https://geonames.jp/resource/香川県丸亀市天満町二丁目"
+    ]
+  }
+]

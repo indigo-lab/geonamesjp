@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県妙高市猪野山",
+    "表記": "新潟県妙高市猪野山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "妙高市",
+      "町名": "猪野山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384137",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384138"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/102008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231715/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231721/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231720/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231721/102009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231722/102009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231718/102008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231718/102007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231718/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231717/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231719/102010.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県妙高市猪野山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/妙高市/猪野山.json",
+    "name": "猪野山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県妙高市"
+  }
+]

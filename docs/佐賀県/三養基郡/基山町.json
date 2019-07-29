@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県三養基郡基山町",
+    "表記": "佐賀県三養基郡基山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "三養基郡",
+      "市区町村": "基山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C41341-20020517",
+        "http://data.e-stat.go.jp/lod/sac/C41341-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県三養基郡基山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/三養基郡/基山町.json",
+    "name": "基山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県三養基郡",
+    "children": [
+      "https://geonames.jp/resource/佐賀県三養基郡基山町長野",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町宮浦",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町小倉",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町けやき台",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町園部",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町大字小倉",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町大字園部",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町大字宮浦",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町大字長野",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町宮浦字宿",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町長野字年ノ森",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町宮浦宿",
+      "https://geonames.jp/resource/佐賀県三養基郡基山町長野上川原"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1206602"
+    ]
+  }
+]

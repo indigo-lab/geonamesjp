@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市桜ケ丘四丁目",
+    "表記": "青森県八戸市桜ケ丘四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060415493",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060415494"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234143/98766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234144/98767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234144/98768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234145/98768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234145/98767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234146/98767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234146/98768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234146/98769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234147/98767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234147/98768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234147/98769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234148/98768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234148/98767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234143/98767.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市桜ケ丘四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/桜ケ丘/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市桜ケ丘"
+  }
+]

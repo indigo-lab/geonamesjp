@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県小山市塩沢",
+    "表記": "栃木県小山市塩沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "小山市",
+      "町名": "塩沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393651",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393652"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/102670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/102673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232856/102673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232856/102671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/102670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232850/102673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232848/102671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232848/102673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/102674.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県小山市塩沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/小山市/塩沢.json",
+    "name": "塩沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県小山市"
+  }
+]

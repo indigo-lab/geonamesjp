@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市鶴見区鶴見中央",
+    "表記": "神奈川県横浜市鶴見区鶴見中央",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "鶴見区",
+      "町名": "鶴見中央"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市鶴見区鶴見中央",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/鶴見区/鶴見中央.json",
+    "name": "鶴見中央",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市鶴見区",
+    "children": [
+      "https://geonames.jp/resource/神奈川県横浜市鶴見区鶴見中央一丁目",
+      "https://geonames.jp/resource/神奈川県横浜市鶴見区鶴見中央二丁目",
+      "https://geonames.jp/resource/神奈川県横浜市鶴見区鶴見中央三丁目",
+      "https://geonames.jp/resource/神奈川県横浜市鶴見区鶴見中央四丁目",
+      "https://geonames.jp/resource/神奈川県横浜市鶴見区鶴見中央五丁目"
+    ]
+  }
+]

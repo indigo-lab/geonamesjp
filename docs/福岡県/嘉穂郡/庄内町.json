@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県嘉穂郡庄内町",
+    "表記": "福岡県嘉穂郡庄内町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "嘉穂郡",
+      "市区町村": "庄内町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C40427-19720801",
+        "http://data.e-stat.go.jp/lod/sac/C40427-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C40427-20060326"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県嘉穂郡庄内町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/嘉穂郡/庄内町.json",
+    "name": "庄内町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県嘉穂郡",
+    "children": [
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町元吉",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町綱分",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町高倉",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町山倉",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町仁保",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町赤坂",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町多田",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町大門",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町筒野",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町入水",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町有安",
+      "https://geonames.jp/resource/福岡県嘉穂郡庄内町有井"
+    ]
+  }
+]

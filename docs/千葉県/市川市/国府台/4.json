@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市川市国府台四丁目",
+    "表記": "千葉県市川市国府台四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "市川市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12203001004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395702",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394792",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395701"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103161.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市川市国府台四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市川市/国府台/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県市川市国府台"
+  }
+]

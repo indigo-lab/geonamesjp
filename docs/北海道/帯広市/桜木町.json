@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道帯広市桜木町",
+    "表記": "北海道帯広市桜木町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "桜木町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064431147",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064431166"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235361/96532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235349/96520.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道帯広市桜木町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/帯広市/桜木町.json",
+    "name": "桜木町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道帯広市"
+  }
+]

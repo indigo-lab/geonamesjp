@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡大柿町",
+    "表記": "広島県佐伯郡大柿町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "佐伯郡",
+      "市区町村": "大柿町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C34330-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C34330-20041101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡大柿町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/佐伯郡/大柿町.json",
+    "name": "大柿町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県佐伯郡",
+    "children": [
+      "https://geonames.jp/resource/広島県佐伯郡大柿町柿浦",
+      "https://geonames.jp/resource/広島県佐伯郡大柿町小古江",
+      "https://geonames.jp/resource/広島県佐伯郡大柿町深江",
+      "https://geonames.jp/resource/広島県佐伯郡大柿町大君",
+      "https://geonames.jp/resource/広島県佐伯郡大柿町大原",
+      "https://geonames.jp/resource/広島県佐伯郡大柿町飛渡瀬"
+    ]
+  }
+]

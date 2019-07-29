@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市下五貫野",
+    "表記": "新潟県上越市下五貫野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "下五貫野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386203",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386204",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386213"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231772/101876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231772/101875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231773/101874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231773/101875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231773/101873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231774/101872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231774/101876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231775/101875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231774/101874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231774/101873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231775/101874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231775/101877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231778/101876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231779/101876.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市下五貫野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/下五貫野.json",
+    "name": "下五貫野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

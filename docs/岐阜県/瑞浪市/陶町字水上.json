@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県瑞浪市陶町字水上",
+    "表記": "岐阜県瑞浪市陶町字水上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "瑞浪市",
+      "町名": "陶町字水上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377273",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377274",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377284"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/103550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231052/103556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231048/103556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231051/103555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231050/103556.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県瑞浪市陶町字水上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/瑞浪市/陶町字水上.json",
+    "name": "陶町字水上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県瑞浪市"
+  }
+]

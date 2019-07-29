@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県糸島市大字新田",
+    "表記": "福岡県糸島市大字新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "糸島市",
+      "町名": "大字新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302185",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302175",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302195"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225878/105093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225881/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225880/105094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225880/105095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225880/105093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225880/105092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225879/105093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225873/105091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225875/105091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225875/105090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225874/105091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225873/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225872/105095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225872/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225878/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225872/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225872/105090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225876/105090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225874/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225872/105096.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県糸島市大字新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/糸島市/大字新田.json",
+    "name": "大字新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県糸島市"
+  }
+]

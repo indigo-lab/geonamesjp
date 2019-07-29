@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道河西郡芽室町新生南四線",
+    "表記": "北海道河西郡芽室町新生南四線",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "河西郡",
+      "市区町村": "芽室町",
+      "町名": "新生南四線"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432086",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432084",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432085"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235259/96420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235260/96419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235261/96423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235255/96420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235256/96423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235245/96421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235253/96421.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道河西郡芽室町新生南四線",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/河西郡/芽室町/新生南四線.json",
+    "name": "新生南四線",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道河西郡芽室町"
+  }
+]

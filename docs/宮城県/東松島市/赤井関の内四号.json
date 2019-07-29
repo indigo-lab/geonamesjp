@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県東松島市赤井関の内四号",
+    "表記": "宮城県東松島市赤井関の内四号",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "東松島市",
+      "町名": "赤井関の内四号"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415128",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415129",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415139"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233921/100711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233920/100710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233919/100711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233917/100707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233920/100705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233918/100707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233919/100705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233919/100709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233917/100710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233917/100708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233918/100708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233921/100710.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県東松島市赤井関の内四号",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/東松島市/赤井関の内四号.json",
+    "name": "赤井関の内四号",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県東松島市"
+  }
+]

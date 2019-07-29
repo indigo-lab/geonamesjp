@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市八幡西区泉ヶ浦",
+    "表記": "福岡県北九州市八幡西区泉ヶ浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "八幡西区",
+      "町名": "泉ヶ浦"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市八幡西区泉ヶ浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/八幡西区/泉ヶ浦.json",
+    "name": "泉ヶ浦",
+    "alternateName": [
+      "泉ケ浦"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市八幡西区",
+    "children": [
+      "https://geonames.jp/resource/福岡県北九州市八幡西区泉ヶ浦一丁目",
+      "https://geonames.jp/resource/福岡県北九州市八幡西区泉ヶ浦二丁目",
+      "https://geonames.jp/resource/福岡県北九州市八幡西区泉ヶ浦三丁目"
+    ]
+  }
+]

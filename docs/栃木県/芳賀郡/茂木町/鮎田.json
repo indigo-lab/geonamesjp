@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡茂木町鮎田",
+    "表記": "栃木県芳賀郡茂木町鮎田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "芳賀郡",
+      "市区町村": "茂木町",
+      "町名": "鮎田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406126",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406127",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406125"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/102472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233167/102473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233173/102473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233174/102471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233166/102472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/102470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233159/102473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/102472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233176/102470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233168/102472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233167/102472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/102471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/102469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/102469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233166/102471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233168/102471.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡茂木町鮎田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/芳賀郡/茂木町/鮎田.json",
+    "name": "鮎田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県芳賀郡茂木町"
+  }
+]

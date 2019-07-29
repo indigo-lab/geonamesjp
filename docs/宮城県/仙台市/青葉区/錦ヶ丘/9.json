@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市青葉区錦ヶ丘九丁目",
+    "表記": "宮城県仙台市青葉区錦ヶ丘九丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "青葉区",
+      "町名": "九丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403610",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403611",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403600"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233569/100873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233572/100875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233572/100876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233571/100876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233571/100875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233571/100874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233570/100874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233571/100873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233570/100873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233566/100878.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市青葉区錦ヶ丘九丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/青葉区/錦ヶ丘/9.json",
+    "name": "九丁目",
+    "alternateName": [
+      "9",
+      "9丁目",
+      "９",
+      "９丁目",
+      "九"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市青葉区錦ヶ丘"
+  }
+]

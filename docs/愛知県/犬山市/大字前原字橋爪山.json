@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県犬山市大字前原字橋爪山",
+    "表記": "愛知県犬山市大字前原字橋爪山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "犬山市",
+      "町名": "大字前原字橋爪山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360738",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360748",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360727",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360737"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230822/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230821/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230819/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230817/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/103514.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県犬山市大字前原字橋爪山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/犬山市/大字前原字橋爪山.json",
+    "name": "大字前原字橋爪山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県犬山市"
+  }
+]

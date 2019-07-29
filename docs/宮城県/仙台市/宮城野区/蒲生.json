@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区蒲生",
+    "表記": "宮城県仙台市宮城野区蒲生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "宮城野区",
+      "町名": "蒲生"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区蒲生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/宮城野区/蒲生.json",
+    "name": "蒲生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市宮城野区",
+    "children": [
+      "https://geonames.jp/resource/宮城県仙台市宮城野区蒲生（丁目なし）",
+      "https://geonames.jp/resource/宮城県仙台市宮城野区蒲生一丁目",
+      "https://geonames.jp/resource/宮城県仙台市宮城野区蒲生二丁目"
+    ]
+  }
+]

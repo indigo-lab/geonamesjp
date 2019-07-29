@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都西東京市田無町",
+    "表記": "東京都西東京市田無町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "田無町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S132290150"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都西東京市田無町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/西東京市/田無町.json",
+    "name": "田無町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都西東京市",
+    "children": [
+      "https://geonames.jp/resource/東京都西東京市田無町一丁目",
+      "https://geonames.jp/resource/東京都西東京市田無町二丁目",
+      "https://geonames.jp/resource/東京都西東京市田無町三丁目",
+      "https://geonames.jp/resource/東京都西東京市田無町四丁目",
+      "https://geonames.jp/resource/東京都西東京市田無町五丁目",
+      "https://geonames.jp/resource/東京都西東京市田無町六丁目",
+      "https://geonames.jp/resource/東京都西東京市田無町七丁目"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県四日市市金場町",
+    "表記": "三重県四日市市金場町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "金場町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242023110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363580"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230565/103848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230566/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230566/103848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230566/103849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230565/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230565/103849.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県四日市市金場町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/四日市市/金場町.json",
+    "name": "金場町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県四日市市"
+  }
+]

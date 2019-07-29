@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県山辺郡山添村松尾",
+    "表記": "奈良県山辺郡山添村松尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "山辺郡",
+      "市区町村": "山添村",
+      "町名": "松尾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350717"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230079/104121.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県山辺郡山添村松尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/山辺郡/山添村/松尾.json",
+    "name": "松尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県山辺郡山添村"
+  }
+]

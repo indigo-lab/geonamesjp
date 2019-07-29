@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道夕張郡長沼町東七線北",
+    "表記": "北海道夕張郡長沼町東七線北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "夕張郡",
+      "市区町村": "長沼町",
+      "町名": "東七線北"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064413597",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064413598",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414508",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414518"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234271/96331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234276/96326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234276/96321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234275/96326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234279/96314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234278/96315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234281/96313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234274/96325.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道夕張郡長沼町東七線北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/夕張郡/長沼町/東七線北.json",
+    "name": "東七線北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道夕張郡長沼町"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県栃木市泉町",
+    "表記": "栃木県栃木市泉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "泉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092030240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394569"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/102592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/102592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/102592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/102590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/102592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/102590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/102590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/102591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/102592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/102593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/102591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/102591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/102591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/102593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/102591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/102593.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県栃木市泉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/栃木市/泉町.json",
+    "name": "泉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県栃木市"
+  }
+]

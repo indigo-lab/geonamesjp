@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都羽村市羽西",
+    "表記": "東京都羽村市羽西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "羽村市",
+      "町名": "羽西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S132270180"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都羽村市羽西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/羽村市/羽西.json",
+    "name": "羽西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都羽村市",
+    "children": [
+      "https://geonames.jp/resource/東京都羽村市羽西一丁目",
+      "https://geonames.jp/resource/東京都羽村市羽西二丁目",
+      "https://geonames.jp/resource/東京都羽村市羽西三丁目"
+    ]
+  }
+]

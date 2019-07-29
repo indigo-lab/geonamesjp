@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県徳島市飯谷町西沖野",
+    "表記": "徳島県徳島市飯谷町西沖野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "徳島市",
+      "町名": "飯谷町西沖野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347483",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347484"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229047/104732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229049/104729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229051/104729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229050/104732.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県徳島市飯谷町西沖野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/徳島市/飯谷町西沖野.json",
+    "name": "飯谷町西沖野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県徳島市"
+  }
+]

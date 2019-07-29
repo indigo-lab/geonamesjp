@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市千種区振甫町",
+    "表記": "愛知県名古屋市千種区振甫町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "千種区",
+      "町名": "振甫町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S231010730"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市千種区振甫町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/千種区/振甫町.json",
+    "name": "振甫町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市千種区",
+    "children": [
+      "https://geonames.jp/resource/愛知県名古屋市千種区振甫町一丁目",
+      "https://geonames.jp/resource/愛知県名古屋市千種区振甫町二丁目",
+      "https://geonames.jp/resource/愛知県名古屋市千種区振甫町三丁目",
+      "https://geonames.jp/resource/愛知県名古屋市千種区振甫町四丁目"
+    ]
+  }
+]

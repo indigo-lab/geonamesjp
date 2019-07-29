@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県蒲郡市西迫町字平畑",
+    "表記": "愛知県蒲郡市西迫町字平畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "蒲郡市",
+      "町名": "西迫町字平畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371196",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372105"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230978/103984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230977/103982.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県蒲郡市西迫町字平畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/蒲郡市/西迫町字平畑.json",
+    "name": "西迫町字平畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県蒲郡市"
+  }
+]

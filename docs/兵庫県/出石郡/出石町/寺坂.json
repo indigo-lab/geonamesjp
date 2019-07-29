@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県出石郡出石町寺坂",
+    "表記": "兵庫県出石郡出石町寺坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "出石郡",
+      "市区町村": "出石町",
+      "町名": "寺坂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341741",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341742"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229300/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229302/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229302/103427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229304/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229304/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229303/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229305/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229305/103429.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県出石郡出石町寺坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/出石郡/出石町/寺坂.json",
+    "name": "寺坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県出石郡出石町"
+  }
+]

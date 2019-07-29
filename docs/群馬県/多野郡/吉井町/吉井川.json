@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県多野郡吉井町吉井川",
+    "表記": "群馬県多野郡吉井町吉井川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "多野郡",
+      "市区町村": "吉井町",
+      "町名": "吉井川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382799",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383708",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383709"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/102718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/102718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/102717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/102712.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県多野郡吉井町吉井川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/多野郡/吉井町/吉井川.json",
+    "name": "吉井川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県多野郡吉井町"
+  }
+]

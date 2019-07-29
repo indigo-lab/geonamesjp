@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県木更津市吾妻（丁目なし）",
+    "表記": "千葉県木更津市吾妻（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "木更津市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12206104000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390763",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390773",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390774",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390764"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/103488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/103487.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県木更津市吾妻（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/木更津市/吾妻/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県木更津市吾妻"
+  }
+]

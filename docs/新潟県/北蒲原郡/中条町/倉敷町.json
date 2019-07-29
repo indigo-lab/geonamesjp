@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町倉敷町",
+    "表記": "新潟県北蒲原郡中条町倉敷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "中条町",
+      "町名": "倉敷町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390372"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/101058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/101057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/101058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/101058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/101057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/101055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232585/101056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232585/101055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232583/101056.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町倉敷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/中条町/倉敷町.json",
+    "name": "倉敷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡中条町"
+  }
+]

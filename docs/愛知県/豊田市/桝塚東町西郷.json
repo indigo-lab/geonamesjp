@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市桝塚東町西郷",
+    "表記": "愛知県豊田市桝塚東町西郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "桝塚東町西郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373191"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230934/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230935/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230935/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230933/103835.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市桝塚東町西郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/桝塚東町西郷.json",
+    "name": "桝塚東町西郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

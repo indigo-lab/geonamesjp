@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県寒河江市ほなみ",
+    "表記": "山形県寒河江市ほなみ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "寒河江市",
+      "町名": "ほなみ",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062060570"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県寒河江市ほなみ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/寒河江市/ほなみ.json",
+    "name": "ほなみ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県寒河江市",
+    "children": [
+      "https://geonames.jp/resource/山形県寒河江市ほなみ一丁目",
+      "https://geonames.jp/resource/山形県寒河江市ほなみ二丁目",
+      "https://geonames.jp/resource/山形県寒河江市ほなみ三丁目"
+    ]
+  }
+]

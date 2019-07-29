@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村大字畑",
+    "表記": "奈良県高市郡明日香村大字畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "高市郡",
+      "市区町村": "明日香村",
+      "町名": "大字畑",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S294020220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355637",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355638",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355636",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355647",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355648"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229995/104325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229988/104322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229994/104324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229988/104321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229994/104320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/104319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229995/104320.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県高市郡明日香村大字畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/高市郡/明日香村/大字畑.json",
+    "name": "大字畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県高市郡明日香村"
+  }
+]

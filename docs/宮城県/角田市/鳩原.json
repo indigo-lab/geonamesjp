@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県角田市鳩原",
+    "表記": "宮城県角田市鳩原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "角田市",
+      "町名": "鳩原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400675"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/101058.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県角田市鳩原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/角田市/鳩原.json",
+    "name": "鳩原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県角田市"
+  }
+]

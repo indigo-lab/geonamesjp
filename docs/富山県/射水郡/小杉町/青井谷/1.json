@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県射水郡小杉町青井谷一丁目",
+    "表記": "富山県射水郡小杉町青井谷一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "射水郡",
+      "市区町村": "小杉町",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370035",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370045"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230880/102313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230881/102311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230880/102312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/102311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230884/102311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230885/102306.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県射水郡小杉町青井谷一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/射水郡/小杉町/青井谷/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/富山県射水郡小杉町青井谷"
+  }
+]

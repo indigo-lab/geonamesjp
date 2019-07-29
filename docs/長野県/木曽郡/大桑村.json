@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県木曽郡大桑村",
+    "表記": "長野県木曽郡大桑村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "木曽郡",
+      "市区町村": "大桑村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20430-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県木曽郡大桑村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/木曽郡/大桑村.json",
+    "name": "大桑村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県木曽郡",
+    "children": [
+      "https://geonames.jp/resource/長野県木曽郡大桑村大字野尻",
+      "https://geonames.jp/resource/長野県木曽郡大桑村大字長野",
+      "https://geonames.jp/resource/長野県木曽郡大桑村大字殿",
+      "https://geonames.jp/resource/長野県木曽郡大桑村大字須原"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1204461"
+    ]
+  }
+]

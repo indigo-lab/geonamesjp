@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県一関市山目字才天",
+    "表記": "岩手県一関市山目字才天",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "一関市",
+      "町名": "山目字才天",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S03209110007",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S03209110006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413019",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413018"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/100249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/100248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/100251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/100249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233825/100249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233829/100250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233830/100250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/100250.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県一関市山目字才天",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/一関市/山目字才天.json",
+    "name": "山目字才天",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県一関市"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士市横割",
+    "表記": "静岡県富士市横割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "富士市",
+      "町名": "横割",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222101060"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士市横割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士市/横割.json",
+    "name": "横割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士市",
+    "children": [
+      "https://geonames.jp/resource/静岡県富士市横割一丁目",
+      "https://geonames.jp/resource/静岡県富士市横割二丁目",
+      "https://geonames.jp/resource/静岡県富士市横割三丁目",
+      "https://geonames.jp/resource/静岡県富士市横割四丁目",
+      "https://geonames.jp/resource/静岡県富士市横割五丁目",
+      "https://geonames.jp/resource/静岡県富士市横割六丁目"
+    ]
+  }
+]

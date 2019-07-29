@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市戸塚区南舞岡四丁目",
+    "表記": "神奈川県横浜市戸塚区南舞岡四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "戸塚区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14110023004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390474",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390464"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232692/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232692/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232692/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232692/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232690/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232690/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232690/103483.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市戸塚区南舞岡四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/戸塚区/南舞岡/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市戸塚区南舞岡"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市清水町大字楡木",
+    "表記": "熊本県熊本市清水町大字楡木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "清水町大字楡木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302610",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302620"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/105718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/105722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/105722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/105722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/105720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/105720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/105720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/105717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226285/105718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226285/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226285/105717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226284/105716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226285/105716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226286/105717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226287/105716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226286/105716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226288/105715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226288/105716.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市清水町大字楡木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/清水町大字楡木.json",
+    "name": "清水町大字楡木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市"
+  }
+]

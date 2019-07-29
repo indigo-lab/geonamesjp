@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡栗駒町鳥沢",
+    "表記": "宮城県栗原郡栗駒町鳥沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "栗原郡",
+      "市区町村": "栗駒町",
+      "町名": "鳥沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058402709",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412000",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412001"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233757/100340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233757/100338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233750/100336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/100338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/100339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233753/100335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233754/100337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233754/100335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233754/100339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233756/100335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/100336.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡栗駒町鳥沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原郡/栗駒町/鳥沢.json",
+    "name": "鳥沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原郡栗駒町"
+  }
+]

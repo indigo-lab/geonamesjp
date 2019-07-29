@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県加古川市別府町北野辺北町五丁目",
+    "表記": "兵庫県加古川市別府町北野辺北町五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "別府町北野辺北町",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340687",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340697"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229258/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229258/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229259/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229259/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229259/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229259/104066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229260/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229260/104066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229260/104067.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県加古川市別府町北野辺北町五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/加古川市/別府町北野辺北町/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県加古川市別府町北野辺北町"
+  }
+]

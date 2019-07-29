@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市青山新町",
+    "表記": "新潟県新潟市青山新町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "青山新町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386779",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396070"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232288/101212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/101214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/101213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232288/101213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232288/101211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232289/101212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232289/101211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232289/101210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232288/101210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232290/101210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232290/101211.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市青山新町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/青山新町.json",
+    "name": "青山新町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

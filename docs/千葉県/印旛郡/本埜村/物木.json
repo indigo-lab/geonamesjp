@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県印旛郡本埜村物木",
+    "表記": "千葉県印旛郡本埜村物木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "印旛郡",
+      "市区町村": "本埜村",
+      "町名": "物木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405185",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405184",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405196"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233155/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233157/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233153/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233148/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/103098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233166/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233154/103104.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県印旛郡本埜村物木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/印旛郡/本埜村/物木.json",
+    "name": "物木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県印旛郡本埜村"
+  }
+]

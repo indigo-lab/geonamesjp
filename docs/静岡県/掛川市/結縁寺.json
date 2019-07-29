@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県掛川市結縁寺",
+    "表記": "静岡県掛川市結縁寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "掛川市",
+      "町名": "結縁寺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222130190"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381001",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381011",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381000"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231574/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231573/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231572/104049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231571/104050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231568/104054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231568/104052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231576/104052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231571/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231571/104053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231572/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231573/104051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231572/104051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231573/104049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231573/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231570/104051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231574/104049.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県掛川市結縁寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/掛川市/結縁寺.json",
+    "name": "結縁寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県掛川市"
+  }
+]

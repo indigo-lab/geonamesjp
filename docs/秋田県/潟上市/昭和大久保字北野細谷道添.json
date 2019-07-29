@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県潟上市昭和大久保字北野細谷道添",
+    "表記": "秋田県潟上市昭和大久保字北野細谷道添",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "潟上市",
+      "町名": "昭和大久保字北野細谷道添"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405093",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405094",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059406003"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/99404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/99405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/99402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/99398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/99392.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県潟上市昭和大久保字北野細谷道添",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/潟上市/昭和大久保字北野細谷道添.json",
+    "name": "昭和大久保字北野細谷道添",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県潟上市"
+  }
+]

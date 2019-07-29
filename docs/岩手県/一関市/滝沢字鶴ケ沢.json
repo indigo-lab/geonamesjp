@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県一関市滝沢字鶴ケ沢",
+    "表記": "岩手県一関市滝沢字鶴ケ沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "一関市",
+      "町名": "滝沢字鶴ケ沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S03209304009",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S03209304012"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412183",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412192"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/100271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233870/100275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233861/100274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233861/100275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/100275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/100275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/100274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233861/100273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233860/100273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/100272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/100271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/100273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/100272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233867/100272.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県一関市滝沢字鶴ケ沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/一関市/滝沢字鶴ケ沢.json",
+    "name": "滝沢字鶴ケ沢",
+    "alternateName": [
+      "滝沢字鶴ヶ沢"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岩手県一関市"
+  }
+]

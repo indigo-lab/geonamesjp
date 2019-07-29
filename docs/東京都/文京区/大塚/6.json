@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都文京区大塚六丁目",
+    "表記": "東京都文京区大塚六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "文京区",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13105017006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394567",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394577"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232818/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232818/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232818/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232819/103186.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都文京区大塚六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/文京区/大塚/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都文京区大塚"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県羽生市南羽生",
+    "表記": "埼玉県羽生市南羽生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "羽生市",
+      "町名": "南羽生"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県羽生市南羽生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/羽生市/南羽生.json",
+    "name": "南羽生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県羽生市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県羽生市南羽生（丁目なし）",
+      "https://geonames.jp/resource/埼玉県羽生市南羽生一丁目",
+      "https://geonames.jp/resource/埼玉県羽生市南羽生二丁目",
+      "https://geonames.jp/resource/埼玉県羽生市南羽生三丁目",
+      "https://geonames.jp/resource/埼玉県羽生市南羽生四丁目"
+    ]
+  }
+]

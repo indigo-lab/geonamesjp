@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道網走市天都山",
+    "表記": "北海道網走市天都山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "網走市",
+      "町名": "天都山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440109",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440118",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440119",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440210",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440220"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236102/95307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236108/95307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236103/95318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236108/95315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236103/95317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236104/95315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236118/95304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236115/95301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236114/95304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236108/95319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236112/95302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236109/95318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236113/95318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236111/95318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236111/95316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236114/95308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236112/95316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236114/95305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236115/95304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236117/95306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236113/95304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236119/95306.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道網走市天都山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/網走市/天都山.json",
+    "name": "天都山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道網走市"
+  }
+]

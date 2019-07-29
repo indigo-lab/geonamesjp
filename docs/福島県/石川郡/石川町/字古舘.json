@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町字古舘",
+    "表記": "福島県石川郡石川町字古舘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "石川郡",
+      "市区町村": "石川町",
+      "町名": "字古舘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405386"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233346/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233348/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233348/101894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/101894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233346/101894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233346/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233348/101893.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町字古舘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/石川郡/石川町/字古舘.json",
+    "name": "字古舘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県石川郡石川町"
+  }
+]

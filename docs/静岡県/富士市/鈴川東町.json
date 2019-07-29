@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士市鈴川東町",
+    "表記": "静岡県富士市鈴川東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "鈴川東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222100860"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385566",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385576"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232075/103707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232076/103707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232075/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232076/103709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232075/103709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232074/103709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232074/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232075/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232075/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232074/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232076/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232074/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232076/103710.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士市鈴川東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士市/鈴川東町.json",
+    "name": "鈴川東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士市"
+  }
+]

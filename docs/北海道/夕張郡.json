@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道夕張郡",
+    "表記": "北海道夕張郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "夕張郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道夕張郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/夕張郡.json",
+    "name": "夕張郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道夕張郡栗山町",
+      "https://geonames.jp/resource/北海道夕張郡長沼町",
+      "https://geonames.jp/resource/北海道夕張郡由仁町",
+      "https://geonames.jp/resource/北海道夕張郡夕張町",
+      "https://geonames.jp/resource/北海道夕張郡由仁村",
+      "https://geonames.jp/resource/北海道夕張郡角田村",
+      "https://geonames.jp/resource/北海道夕張郡長沼村"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士宮市貴船町",
+    "表記": "静岡県富士宮市貴船町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "貴船町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222071900"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052386477",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052386478"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/103631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/103630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/103630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/103632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103632.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士宮市貴船町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士宮市/貴船町.json",
+    "name": "貴船町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士宮市"
+  }
+]

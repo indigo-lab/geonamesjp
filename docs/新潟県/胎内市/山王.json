@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県胎内市山王",
+    "表記": "新潟県胎内市山王",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "胎内市",
+      "町名": "山王",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152270720"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390289",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390288",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390298",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390299"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/101048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/101050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/101047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232552/101048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/101052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/101048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/101049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/101049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/101050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/101051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/101050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232554/101049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/101047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/101047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232552/101046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/101051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/101050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/101047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/101049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/101049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101047.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県胎内市山王",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/胎内市/山王.json",
+    "name": "山王",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県胎内市"
+  }
+]

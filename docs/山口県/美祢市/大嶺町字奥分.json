@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県美祢市大嶺町字奥分",
+    "表記": "山口県美祢市大嶺町字奥分",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "美祢市",
+      "町名": "大嶺町字奥分"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051312131",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051312132",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051312134",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051312121"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226565/104548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226574/104544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226594/104544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226569/104555.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県美祢市大嶺町字奥分",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/美祢市/大嶺町字奥分.json",
+    "name": "大嶺町字奥分",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県美祢市"
+  }
+]

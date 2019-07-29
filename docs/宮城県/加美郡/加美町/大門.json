@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県加美郡加美町大門",
+    "表記": "宮城県加美郡加美町大門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "加美郡",
+      "市区町村": "加美町",
+      "町名": "大門"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406697",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406698"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233635/100579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233635/100581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233638/100580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233637/100580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233640/100580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233639/100583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233636/100580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233638/100581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233640/100581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233640/100582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233636/100581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233637/100582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233639/100582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233636/100582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233637/100581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233638/100582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233635/100582.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県加美郡加美町大門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/加美郡/加美町/大門.json",
+    "name": "大門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県加美郡加美町"
+  }
+]

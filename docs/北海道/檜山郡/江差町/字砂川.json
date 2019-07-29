@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道檜山郡江差町字砂川",
+    "表記": "北海道檜山郡江差町字砂川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "檜山郡",
+      "市区町村": "江差町",
+      "町名": "字砂川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S013610230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406100",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406110",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406102"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/97469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/97469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/97465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/97471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/97470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/97466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/97461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/97464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/97468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/97471.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道檜山郡江差町字砂川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/檜山郡/江差町/字砂川.json",
+    "name": "字砂川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道檜山郡江差町"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県名西郡石井町高原中島",
+    "表記": "徳島県名西郡石井町高原中島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "名西郡",
+      "市区町村": "石井町",
+      "町名": "高原中島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341304",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341314"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228962/104638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228962/104640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228962/104641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228962/104642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228963/104636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228962/104643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228963/104640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228963/104642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228963/104641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228963/104637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228964/104638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228964/104639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228964/104640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228964/104641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228964/104642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228965/104638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228965/104639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228965/104641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228965/104644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228965/104642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228965/104640.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県名西郡石井町高原中島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/名西郡/石井町/高原中島.json",
+    "name": "高原中島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県名西郡石井町"
+  }
+]

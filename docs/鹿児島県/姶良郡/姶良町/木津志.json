@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡姶良町木津志",
+    "表記": "鹿児島県姶良郡姶良町木津志",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "姶良郡",
+      "市区町村": "姶良町",
+      "町名": "木津志"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305466",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305477",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305486",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306406",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305496",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305476",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047306405"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226154/106611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226160/106621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226163/106613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226158/106591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226159/106608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226159/106609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226160/106597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226158/106598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226154/106602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226155/106617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226148/106593.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡姶良町木津志",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/姶良郡/姶良町/木津志.json",
+    "name": "木津志",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県姶良郡姶良町"
+  }
+]

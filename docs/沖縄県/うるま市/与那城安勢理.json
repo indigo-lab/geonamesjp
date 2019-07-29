@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県うるま市与那城安勢理",
+    "表記": "沖縄県うるま市与那城安勢理",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "うるま市",
+      "町名": "与那城安勢理",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S472130411"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039273772",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039273782"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224210/111198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224210/111197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224212/111197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224209/111199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224212/111198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224211/111200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224211/111199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224207/111197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224209/111197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224210/111196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224211/111198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224211/111197.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県うるま市与那城安勢理",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/うるま市/与那城安勢理.json",
+    "name": "与那城安勢理",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県うるま市"
+  }
+]

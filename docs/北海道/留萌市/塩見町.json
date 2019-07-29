@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道留萌市塩見町",
+    "表記": "北海道留萌市塩見町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "塩見町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012120330"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417551",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417541",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417562",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417552"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234213/95359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234214/95356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234213/95364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234213/95361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234213/95362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234214/95362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234213/95358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234212/95360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234217/95362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234218/95354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234215/95356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234217/95356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234211/95361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234221/95358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234214/95355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234220/95355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234215/95364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234215/95365.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道留萌市塩見町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/留萌市/塩見町.json",
+    "name": "塩見町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道留萌市"
+  }
+]

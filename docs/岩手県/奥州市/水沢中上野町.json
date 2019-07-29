@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県奥州市水沢中上野町",
+    "表記": "岩手県奥州市水沢中上野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "水沢中上野町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415161",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415150",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415151"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233846/100060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233845/100062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233844/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233846/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233845/100058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233845/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233847/100060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233846/100059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233847/100059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233846/100062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233847/100063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233847/100062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233847/100061.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県奥州市水沢中上野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/奥州市/水沢中上野町.json",
+    "name": "水沢中上野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県奥州市"
+  }
+]

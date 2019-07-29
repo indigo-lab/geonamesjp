@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西条市西田新開",
+    "表記": "愛媛県西条市西田新開",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "西条市",
+      "町名": "西田新開"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336172"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228035/104805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228034/104803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228034/104804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228035/104801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228035/104802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228035/104804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228035/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228036/104808.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西条市西田新開",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西条市/西田新開.json",
+    "name": "西田新開",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西条市"
+  }
+]

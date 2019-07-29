@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡津幡町庄字ウ",
+    "表記": "石川県河北郡津幡町庄字ウ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "津幡町",
+      "町名": "庄字ウ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360508"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/102332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/102332.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡津幡町庄字ウ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/津幡町/庄字ウ.json",
+    "name": "庄字ウ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡津幡町"
+  }
+]

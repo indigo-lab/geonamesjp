@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市東板谷",
+    "表記": "岐阜県岐阜市東板谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "岐阜市",
+      "町名": "東板谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212018300"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361547"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/103429.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市東板谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/岐阜市/東板谷.json",
+    "name": "東板谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県岐阜市"
+  }
+]

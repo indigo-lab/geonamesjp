@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市寺小路",
+    "表記": "福島県白河市寺小路",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "寺小路"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405147"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/101924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233176/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233178/101922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/101922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233175/101923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233176/101922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233178/101923.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市寺小路",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/寺小路.json",
+    "name": "寺小路",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

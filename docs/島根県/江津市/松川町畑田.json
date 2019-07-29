@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県江津市松川町畑田",
+    "表記": "島根県江津市松川町畑田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "江津市",
+      "町名": "松川町畑田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S32207022001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052324214",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052324234",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052324225"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227415/103824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227416/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227419/103819.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県江津市松川町畑田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/江津市/松川町畑田.json",
+    "name": "松川町畑田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県江津市"
+  }
+]

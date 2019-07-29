@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県丹生郡越前町厨",
+    "表記": "福井県丹生郡越前町厨",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "丹生郡",
+      "市区町村": "越前町",
+      "町名": "厨",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S184230680"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367010",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367000"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230104/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230112/103008.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県丹生郡越前町厨",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/丹生郡/越前町/厨.json",
+    "name": "厨",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県丹生郡越前町"
+  }
+]

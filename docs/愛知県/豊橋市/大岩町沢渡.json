@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市大岩町沢渡",
+    "表記": "愛知県豊橋市大岩町沢渡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "大岩町沢渡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370365"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231155/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231155/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231155/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231154/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231155/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231156/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231156/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231155/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231156/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231155/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231156/104080.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市大岩町沢渡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/大岩町沢渡.json",
+    "name": "大岩町沢渡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

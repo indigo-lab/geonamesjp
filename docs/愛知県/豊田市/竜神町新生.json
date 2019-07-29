@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市竜神町新生",
+    "表記": "愛知県豊田市竜神町新生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "竜神町新生"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374150"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230928/103790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230927/103792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230925/103790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230926/103792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230927/103791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230927/103790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230928/103791.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市竜神町新生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/竜神町新生.json",
+    "name": "竜神町新生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

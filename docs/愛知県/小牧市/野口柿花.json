@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市野口柿花",
+    "表記": "愛知県小牧市野口柿花",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "野口柿花"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367779",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367778"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230824/103555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230824/103556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230825/103555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230823/103555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230825/103556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230823/103556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230823/103558.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市野口柿花",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/野口柿花.json",
+    "name": "野口柿花",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市"
+  }
+]

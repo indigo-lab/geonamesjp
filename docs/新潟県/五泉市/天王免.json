@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県五泉市天王免",
+    "表記": "新潟県五泉市天王免",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "五泉市",
+      "町名": "天王免"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394164",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394174"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232419/101368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/101368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/101369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/101369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/101370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/101371.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県五泉市天王免",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/五泉市/天王免.json",
+    "name": "天王免",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県五泉市"
+  }
+]

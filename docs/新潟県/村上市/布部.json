@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県村上市布部",
+    "表記": "新潟県村上市布部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "村上市",
+      "町名": "布部",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152122180"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393415",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393414",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393416",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393424",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393425"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232702/100870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232696/100868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232698/100868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232698/100869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/100869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/100868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232700/100868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232701/100869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232702/100869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232703/100870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232704/100869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232704/100871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232704/100870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232706/100871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232705/100870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/100871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/100872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/100875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/100871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/100870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232698/100871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232707/100872.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県村上市布部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/村上市/布部.json",
+    "name": "布部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県村上市"
+  }
+]

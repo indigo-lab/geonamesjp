@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県越智郡大西町",
+    "表記": "愛媛県越智郡大西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "越智郡",
+      "市区町村": "大西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C38344-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C38344-20050116"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県越智郡大西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/越智郡/大西町.json",
+    "name": "大西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県越智郡",
+    "children": [
+      "https://geonames.jp/resource/愛媛県越智郡大西町宮脇",
+      "https://geonames.jp/resource/愛媛県越智郡大西町九王",
+      "https://geonames.jp/resource/愛媛県越智郡大西町紺原",
+      "https://geonames.jp/resource/愛媛県越智郡大西町山之内",
+      "https://geonames.jp/resource/愛媛県越智郡大西町新町",
+      "https://geonames.jp/resource/愛媛県越智郡大西町星浦",
+      "https://geonames.jp/resource/愛媛県越智郡大西町大井浜",
+      "https://geonames.jp/resource/愛媛県越智郡大西町別府",
+      "https://geonames.jp/resource/愛媛県越智郡大西町脇"
+    ]
+  }
+]

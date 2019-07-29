@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町横町",
+    "表記": "富山県東礪波郡福野町横町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "東礪波郡",
+      "市区町村": "福野町",
+      "町名": "横町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367713"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/102402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/102403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/102405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/102404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/102404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/102405.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町横町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/東礪波郡/福野町/横町.json",
+    "name": "横町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県東礪波郡福野町"
+  }
+]

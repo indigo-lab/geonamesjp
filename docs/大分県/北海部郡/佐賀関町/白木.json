@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県北海部郡佐賀関町白木",
+    "表記": "大分県北海部郡佐賀関町白木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "郡": "北海部郡",
+      "市区町村": "佐賀関町",
+      "町名": "白木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316678"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227093/105390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227096/105384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227096/105390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227096/105391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227095/105391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227098/105391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227091/105390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227090/105389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227096/105383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227096/105387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227097/105389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227096/105389.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県北海部郡佐賀関町白木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/北海部郡/佐賀関町/白木.json",
+    "name": "白木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県北海部郡佐賀関町"
+  }
+]

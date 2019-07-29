@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県員弁郡員弁町松名新田",
+    "表記": "三重県員弁郡員弁町松名新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "員弁郡",
+      "市区町村": "員弁町",
+      "町名": "松名新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365466"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230524/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230525/103713.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県員弁郡員弁町松名新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/員弁郡/員弁町/松名新田.json",
+    "name": "松名新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県員弁郡員弁町"
+  }
+]

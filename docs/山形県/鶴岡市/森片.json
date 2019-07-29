@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市森片",
+    "表記": "山形県鶴岡市森片",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "鶴岡市",
+      "町名": "森片",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06203084000",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062030840"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058390641",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058390642",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058390651",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058390652"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/100453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232856/100453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/100458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/100459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/100459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/100459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/100457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/100455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/100454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/100459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/100457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/100456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232856/100454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/100457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/100459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/100452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/100451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232849/100460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/100458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/100457.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市森片",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/鶴岡市/森片.json",
+    "name": "森片",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県鶴岡市"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県土岐郡笠原町三ツ菱",
+    "表記": "岐阜県土岐郡笠原町三ツ菱",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "土岐郡",
+      "市区町村": "笠原町",
+      "町名": "三ツ菱"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377143",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377153"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230955/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230955/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230956/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230955/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230955/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230956/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230957/103572.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県土岐郡笠原町三ツ菱",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/土岐郡/笠原町/三ツ菱.json",
+    "name": "三ツ菱",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県土岐郡笠原町"
+  }
+]

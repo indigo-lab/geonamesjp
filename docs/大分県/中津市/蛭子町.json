@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県中津市蛭子町",
+    "表記": "大分県中津市蛭子町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "蛭子町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S442031060"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県中津市蛭子町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/中津市/蛭子町.json",
+    "name": "蛭子町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県中津市",
+    "children": [
+      "https://geonames.jp/resource/大分県中津市蛭子町一丁目",
+      "https://geonames.jp/resource/大分県中津市蛭子町二丁目",
+      "https://geonames.jp/resource/大分県中津市蛭子町三丁目"
+    ]
+  }
+]

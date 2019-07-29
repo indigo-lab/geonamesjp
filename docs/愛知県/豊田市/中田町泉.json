@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市中田町泉",
+    "表記": "愛知県豊田市中田町泉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "中田町泉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374044"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/103802.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市中田町泉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/中田町泉.json",
+    "name": "中田町泉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

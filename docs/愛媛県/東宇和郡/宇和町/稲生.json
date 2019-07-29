@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県東宇和郡宇和町稲生",
+    "表記": "愛媛県東宇和郡宇和町稲生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "東宇和郡",
+      "市区町村": "宇和町",
+      "町名": "稲生"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050320422",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050320432"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227575/105281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227574/105281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227578/105282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227579/105282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227573/105281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227574/105280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227575/105282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227579/105284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227578/105280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227575/105279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227575/105278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227580/105284.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県東宇和郡宇和町稲生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/東宇和郡/宇和町/稲生.json",
+    "name": "稲生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県東宇和郡宇和町"
+  }
+]

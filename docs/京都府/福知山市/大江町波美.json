@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市大江町波美",
+    "表記": "京都府福知山市大江町波美",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "大江町波美"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350172",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350173"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229490/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229491/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229488/103492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229493/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229494/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229491/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229489/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229489/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229490/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229490/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229494/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229493/103489.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市大江町波美",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/大江町波美.json",
+    "name": "大江町波美",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

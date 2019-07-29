@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県上山市東町",
+    "表記": "山形県上山市東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062070260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401282"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/100974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/100970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/100972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/100974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/100974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/100975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/100975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/100976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/100973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/100972.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県上山市東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/上山市/東町.json",
+    "name": "東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県上山市"
+  }
+]

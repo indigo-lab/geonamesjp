@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県久慈市田高",
+    "表記": "岩手県久慈市田高",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "久慈市",
+      "町名": "田高",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032070282"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県久慈市田高",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/久慈市/田高.json",
+    "name": "田高",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県久慈市",
+    "children": [
+      "https://geonames.jp/resource/岩手県久慈市田高一丁目"
+    ]
+  }
+]

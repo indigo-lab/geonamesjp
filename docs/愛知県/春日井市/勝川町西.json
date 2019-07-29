@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県春日井市勝川町西",
+    "表記": "愛知県春日井市勝川町西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "春日井市",
+      "町名": "勝川町西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232060550"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県春日井市勝川町西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/春日井市/勝川町西.json",
+    "name": "勝川町西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県春日井市",
+    "children": [
+      "https://geonames.jp/resource/愛知県春日井市勝川町西一丁目",
+      "https://geonames.jp/resource/愛知県春日井市勝川町西二丁目",
+      "https://geonames.jp/resource/愛知県春日井市勝川町西三丁目",
+      "https://geonames.jp/resource/愛知県春日井市勝川町西四丁目"
+    ]
+  }
+]

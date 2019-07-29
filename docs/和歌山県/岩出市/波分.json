@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県岩出市波分",
+    "表記": "和歌山県岩出市波分",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "岩出市",
+      "町名": "波分"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353223",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353233"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229593/104477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229594/104477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229596/104478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229594/104478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229595/104478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229596/104477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229592/104477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229592/104476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229593/104478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229595/104477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229596/104479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229597/104478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229597/104477.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県岩出市波分",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/岩出市/波分.json",
+    "name": "波分",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県岩出市"
+  }
+]

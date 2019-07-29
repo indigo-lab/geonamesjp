@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡新地町駒ケ嶺原田",
+    "表記": "福島県相馬郡新地町駒ケ嶺原田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "新地町",
+      "町名": "駒ケ嶺原田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406712"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233667/101260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233670/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/101261.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡新地町駒ケ嶺原田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/新地町/駒ケ嶺原田.json",
+    "name": "駒ケ嶺原田",
+    "alternateName": [
+      "駒ヶ嶺原田"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡新地町"
+  }
+]

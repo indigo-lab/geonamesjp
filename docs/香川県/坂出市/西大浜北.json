@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県坂出市西大浜北",
+    "表記": "香川県坂出市西大浜北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "坂出市",
+      "町名": "西大浜北",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S372030530"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県坂出市西大浜北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/坂出市/西大浜北.json",
+    "name": "西大浜北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県坂出市",
+    "children": [
+      "https://geonames.jp/resource/香川県坂出市西大浜北一丁目",
+      "https://geonames.jp/resource/香川県坂出市西大浜北二丁目",
+      "https://geonames.jp/resource/香川県坂出市西大浜北三丁目",
+      "https://geonames.jp/resource/香川県坂出市西大浜北四丁目"
+    ]
+  }
+]

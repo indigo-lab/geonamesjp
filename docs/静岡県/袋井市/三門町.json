@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県袋井市三門町",
+    "表記": "静岡県袋井市三門町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "三門町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222160390"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370783",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370793"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231503/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231503/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/104064.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県袋井市三門町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/袋井市/三門町.json",
+    "name": "三門町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県袋井市"
+  }
+]

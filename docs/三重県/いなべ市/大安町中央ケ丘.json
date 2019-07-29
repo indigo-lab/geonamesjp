@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県いなべ市大安町中央ケ丘",
+    "表記": "三重県いなべ市大安町中央ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "いなべ市",
+      "町名": "大安町中央ケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県いなべ市大安町中央ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/いなべ市/大安町中央ケ丘.json",
+    "name": "大安町中央ケ丘",
+    "alternateName": [
+      "大安町中央ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/三重県いなべ市",
+    "children": [
+      "https://geonames.jp/resource/三重県いなべ市大安町中央ケ丘一丁目",
+      "https://geonames.jp/resource/三重県いなべ市大安町中央ケ丘二丁目",
+      "https://geonames.jp/resource/三重県いなべ市大安町中央ケ丘三丁目"
+    ]
+  }
+]

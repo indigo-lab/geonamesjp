@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府久世郡久御山町藤和田",
+    "表記": "京都府久世郡久御山町藤和田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "久世郡",
+      "市区町村": "久御山町",
+      "町名": "藤和田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S263220030"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352567",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352577"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/103933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229902/103933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229902/103934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/103934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/103933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/103933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/103934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229900/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229900/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/103932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229902/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229902/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/103932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229900/103932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/103934.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府久世郡久御山町藤和田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/久世郡/久御山町/藤和田.json",
+    "name": "藤和田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府久世郡久御山町"
+  }
+]

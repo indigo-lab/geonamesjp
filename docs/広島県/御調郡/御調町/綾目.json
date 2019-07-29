@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県御調郡御調町綾目",
+    "表記": "広島県御調郡御調町綾目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "御調郡",
+      "市区町村": "御調町",
+      "町名": "綾目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336120"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228017/104261.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県御調郡御調町綾目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/御調郡/御調町/綾目.json",
+    "name": "綾目",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県御調郡御調町"
+  }
+]

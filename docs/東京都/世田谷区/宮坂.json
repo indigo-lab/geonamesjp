@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都世田谷区宮坂",
+    "表記": "東京都世田谷区宮坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "世田谷区",
+      "町名": "宮坂",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131120100"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都世田谷区宮坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/世田谷区/宮坂.json",
+    "name": "宮坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都世田谷区",
+    "children": [
+      "https://geonames.jp/resource/東京都世田谷区宮坂一丁目",
+      "https://geonames.jp/resource/東京都世田谷区宮坂二丁目",
+      "https://geonames.jp/resource/東京都世田谷区宮坂三丁目"
+    ]
+  }
+]

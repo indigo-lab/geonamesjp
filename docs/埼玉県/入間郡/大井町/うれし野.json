@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡大井町うれし野",
+    "表記": "埼玉県入間郡大井町うれし野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "入間郡",
+      "市区町村": "大井町",
+      "町名": "うれし野"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡大井町うれし野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/入間郡/大井町/うれし野.json",
+    "name": "うれし野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県入間郡大井町",
+    "children": [
+      "https://geonames.jp/resource/埼玉県入間郡大井町うれし野一丁目",
+      "https://geonames.jp/resource/埼玉県入間郡大井町うれし野二丁目"
+    ]
+  }
+]

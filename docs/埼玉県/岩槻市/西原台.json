@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県岩槻市西原台",
+    "表記": "埼玉県岩槻市西原台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "岩槻市",
+      "町名": "西原台"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県岩槻市西原台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/岩槻市/西原台.json",
+    "name": "西原台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県岩槻市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県岩槻市西原台一丁目",
+      "https://geonames.jp/resource/埼玉県岩槻市西原台二丁目"
+    ]
+  }
+]

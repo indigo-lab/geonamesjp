@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県廿日市市木材港北",
+    "表記": "広島県廿日市市木材港北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "廿日市市",
+      "町名": "木材港北",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342130070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324217",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324227",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324218",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324228"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227439/104411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227443/104408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227444/104408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227442/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227439/104412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227442/104410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227445/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227439/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227440/104408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227441/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227443/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227448/104407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227438/104411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227447/104408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227449/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227447/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227448/104411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227449/104410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227448/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227448/104408.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県廿日市市木材港北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/廿日市市/木材港北.json",
+    "name": "木材港北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県廿日市市"
+  }
+]

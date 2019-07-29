@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県瀬戸内市長船町磯上",
+    "表記": "岡山県瀬戸内市長船町磯上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "瀬戸内市",
+      "町名": "長船町磯上",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33212097001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33212097002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332120970",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33212097003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33212097006",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33212097005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340150",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340151"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228739/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228752/104090.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県瀬戸内市長船町磯上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/瀬戸内市/長船町磯上.json",
+    "name": "長船町磯上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県瀬戸内市"
+  }
+]

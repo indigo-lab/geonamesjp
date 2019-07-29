@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県平塚市撫子原",
+    "表記": "神奈川県平塚市撫子原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "平塚市",
+      "町名": "撫子原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S142030102"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397286",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397276"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/103553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/103552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/103554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103550.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県平塚市撫子原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/平塚市/撫子原.json",
+    "name": "撫子原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県平塚市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県木更津市羽鳥野",
+    "表記": "千葉県木更津市羽鳥野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "木更津市",
+      "町名": "羽鳥野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122062300"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県木更津市羽鳥野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/木更津市/羽鳥野.json",
+    "name": "羽鳥野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県木更津市",
+    "children": [
+      "https://geonames.jp/resource/千葉県木更津市羽鳥野一丁目",
+      "https://geonames.jp/resource/千葉県木更津市羽鳥野二丁目",
+      "https://geonames.jp/resource/千葉県木更津市羽鳥野三丁目",
+      "https://geonames.jp/resource/千葉県木更津市羽鳥野四丁目",
+      "https://geonames.jp/resource/千葉県木更津市羽鳥野五丁目",
+      "https://geonames.jp/resource/千葉県木更津市羽鳥野六丁目",
+      "https://geonames.jp/resource/千葉県木更津市羽鳥野七丁目"
+    ]
+  }
+]

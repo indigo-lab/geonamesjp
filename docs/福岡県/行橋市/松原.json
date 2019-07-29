@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県行橋市松原",
+    "表記": "福岡県行橋市松原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "行橋市",
+      "町名": "松原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050314022",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050314033"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226481/104994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226485/104991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226485/104992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226486/104990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226490/104988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226490/104994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226483/104994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226484/104992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226486/104991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226487/104994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226487/104991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226488/104989.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県行橋市松原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/行橋市/松原.json",
+    "name": "松原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県行橋市"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県安芸郡江田島町",
+    "表記": "広島県安芸郡江田島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "安芸郡",
+      "市区町村": "江田島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C34310-20041101",
+        "http://data.e-stat.go.jp/lod/sac/C34310-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県安芸郡江田島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/安芸郡/江田島町.json",
+    "name": "江田島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県安芸郡",
+    "children": [
+      "https://geonames.jp/resource/広島県安芸郡江田島町宮ノ原",
+      "https://geonames.jp/resource/広島県安芸郡江田島町幸ノ浦",
+      "https://geonames.jp/resource/広島県安芸郡江田島町江南",
+      "https://geonames.jp/resource/広島県安芸郡江田島町秋月",
+      "https://geonames.jp/resource/広島県安芸郡江田島町小用",
+      "https://geonames.jp/resource/広島県安芸郡江田島町切串",
+      "https://geonames.jp/resource/広島県安芸郡江田島町中央",
+      "https://geonames.jp/resource/広島県安芸郡江田島町津久茂",
+      "https://geonames.jp/resource/広島県安芸郡江田島町鷲部",
+      "https://geonames.jp/resource/広島県安芸郡江田島町江田島"
+    ]
+  }
+]

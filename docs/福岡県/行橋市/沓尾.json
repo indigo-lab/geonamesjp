@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県行橋市沓尾",
+    "表記": "福岡県行橋市沓尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "行橋市",
+      "町名": "沓尾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050314061",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050314070",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050314071"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226471/104956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226472/104956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226471/104955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226473/104954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226475/104953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226473/104957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226472/104957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226478/104959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226472/104953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226476/104955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226474/104957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226474/104953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226475/104958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226479/104959.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県行橋市沓尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/行橋市/沓尾.json",
+    "name": "沓尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県行橋市"
+  }
+]

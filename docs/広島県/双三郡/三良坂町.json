@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県双三郡三良坂町",
+    "表記": "広島県双三郡三良坂町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "双三郡",
+      "市区町村": "三良坂町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C34585-19960321",
+        "http://data.e-stat.go.jp/lod/sac/C34585-19970528",
+        "http://data.e-stat.go.jp/lod/sac/C34585-20040401",
+        "http://data.e-stat.go.jp/lod/sac/C34585-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県双三郡三良坂町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/双三郡/三良坂町.json",
+    "name": "三良坂町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県双三郡",
+    "children": [
+      "https://geonames.jp/resource/広島県双三郡三良坂町岡田",
+      "https://geonames.jp/resource/広島県双三郡三良坂町皆瀬",
+      "https://geonames.jp/resource/広島県双三郡三良坂町三良坂",
+      "https://geonames.jp/resource/広島県双三郡三良坂町長田"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県韮崎市穴山町",
+    "表記": "山梨県韮崎市穴山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "穴山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S192070170"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384393",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384394",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053385313",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053385303"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231870/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231869/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231867/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231866/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231865/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231865/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231862/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231864/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231866/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231859/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231861/103172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231860/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231859/103170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231865/103157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231864/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231864/103157.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県韮崎市穴山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/韮崎市/穴山町.json",
+    "name": "穴山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県韮崎市"
+  }
+]

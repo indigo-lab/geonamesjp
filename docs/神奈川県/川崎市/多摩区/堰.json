@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市多摩区堰",
+    "表記": "神奈川県川崎市多摩区堰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "川崎市",
+      "区": "多摩区",
+      "町名": "堰"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市多摩区堰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/川崎市/多摩区/堰.json",
+    "name": "堰",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県川崎市多摩区",
+    "children": [
+      "https://geonames.jp/resource/神奈川県川崎市多摩区堰一丁目",
+      "https://geonames.jp/resource/神奈川県川崎市多摩区堰二丁目",
+      "https://geonames.jp/resource/神奈川県川崎市多摩区堰三丁目"
+    ]
+  }
+]

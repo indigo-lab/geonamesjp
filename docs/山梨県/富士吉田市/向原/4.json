@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県富士吉田市向原四丁目",
+    "表記": "山梨県富士吉田市向原四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "富士吉田市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053381696",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053381686"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232165/103394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232167/103396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232167/103395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/103395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232165/103396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232167/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232167/103398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/103394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/103396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/103395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232164/103394.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県富士吉田市向原四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/富士吉田市/向原/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山梨県富士吉田市向原"
+  }
+]

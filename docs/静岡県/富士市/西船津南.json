@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士市西船津南",
+    "表記": "静岡県富士市西船津南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "富士市",
+      "町名": "西船津南"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385670",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385671",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385660"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/103704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232117/103701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232116/103703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232111/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/103706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232112/103704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/103706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/103706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/103703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/103707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232115/103703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232115/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232111/103707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232115/103702.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士市西船津南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士市/西船津南.json",
+    "name": "西船津南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士市"
+  }
+]

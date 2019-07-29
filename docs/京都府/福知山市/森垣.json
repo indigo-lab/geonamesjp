@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市森垣",
+    "表記": "京都府福知山市森垣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "森垣"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357120",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357121",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357130",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357131"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229475/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229474/103590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229475/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/103585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229471/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/103591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229473/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229471/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229475/103586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229475/103590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229475/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229477/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229478/103592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229476/103586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229476/103585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229476/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229470/103592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229474/103591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229474/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229477/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229471/103586.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市森垣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/森垣.json",
+    "name": "森垣",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

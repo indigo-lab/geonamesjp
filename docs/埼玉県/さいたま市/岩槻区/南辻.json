@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市岩槻区南辻",
+    "表記": "埼玉県さいたま市岩槻区南辻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "区": "岩槻区",
+      "町名": "南辻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397555",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397556",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397565"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/102974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/102973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/102974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/102973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/102975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/102975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/102974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/102973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/102972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232796/102968.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市岩槻区南辻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/岩槻区/南辻.json",
+    "name": "南辻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市岩槻区"
+  }
+]

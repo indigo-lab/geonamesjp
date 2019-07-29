@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県岩槻市仲町",
+    "表記": "埼玉県岩槻市仲町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "仲町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県岩槻市仲町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/岩槻市/仲町.json",
+    "name": "仲町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県岩槻市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県岩槻市仲町一丁目",
+      "https://geonames.jp/resource/埼玉県岩槻市仲町二丁目"
+    ]
+  }
+]

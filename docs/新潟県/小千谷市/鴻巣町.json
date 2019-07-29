@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市鴻巣町",
+    "表記": "新潟県小千谷市鴻巣町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "鴻巣町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152080450"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380622",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380611",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380612",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380621",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380632"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232126/101711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232124/101717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/101719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/101717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232129/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232130/101706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232130/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232121/101713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232121/101715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232122/101710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232122/101711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232123/101712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232123/101713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232123/101711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232123/101710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232124/101713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232124/101711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232125/101714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232125/101709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232126/101716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232125/101708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232125/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232126/101710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232126/101714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232126/101713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232126/101712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232126/101708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/101712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/101711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/101709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/101712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/101708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/101716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/101716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/101714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/101711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/101713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232129/101709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232129/101710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232129/101712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232130/101709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232119/101711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232122/101714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232125/101715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/101706.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市鴻巣町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/小千谷市/鴻巣町.json",
+    "name": "鴻巣町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県小千谷市"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県新城市石田西金国",
+    "表記": "愛知県新城市石田西金国",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "新城市",
+      "町名": "石田西金国"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372369"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231187/103932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231187/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231188/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231188/103932.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県新城市石田西金国",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/新城市/石田西金国.json",
+    "name": "石田西金国",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県新城市"
+  }
+]

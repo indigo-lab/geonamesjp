@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡日高町夏栗",
+    "表記": "兵庫県城崎郡日高町夏栗",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "城崎郡",
+      "市区町村": "日高町",
+      "町名": "夏栗"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341559",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341650"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229193/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229189/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229190/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229190/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229191/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229192/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229192/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229191/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229193/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229193/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229193/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229193/103417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229195/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229195/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229195/103420.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡日高町夏栗",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/城崎郡/日高町/夏栗.json",
+    "name": "夏栗",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県城崎郡日高町"
+  }
+]

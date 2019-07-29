@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県磐田市野箱",
+    "表記": "静岡県磐田市野箱",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "磐田市",
+      "町名": "野箱",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222111090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370626",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370636"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231437/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231437/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231438/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231438/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231438/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231437/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231437/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231438/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231436/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231436/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231436/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231441/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231440/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231439/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231439/104109.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県磐田市野箱",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/磐田市/野箱.json",
+    "name": "野箱",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県磐田市"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市連島町字連島",
+    "表記": "岡山県倉敷市連島町字連島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "倉敷市",
+      "町名": "連島町字連島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336579",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336578"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228460/104229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228461/104223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228460/104226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228462/104230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228451/104224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228455/104227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228459/104222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228456/104224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228464/104225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228462/104228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228464/104230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228465/104227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228464/104227.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市連島町字連島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/倉敷市/連島町字連島.json",
+    "name": "連島町字連島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県倉敷市"
+  }
+]

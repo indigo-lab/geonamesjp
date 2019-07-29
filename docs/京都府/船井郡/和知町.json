@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府船井郡和知町",
+    "表記": "京都府船井郡和知町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "船井郡",
+      "市区町村": "和知町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C26406-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C26406-20051011"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府船井郡和知町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/船井郡/和知町.json",
+    "name": "和知町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府船井郡"
+  }
+]

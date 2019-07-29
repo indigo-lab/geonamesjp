@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市草木台",
+    "表記": "福島県いわき市草木台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "草木台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072045100"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市草木台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/草木台.json",
+    "name": "草木台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市",
+    "children": [
+      "https://geonames.jp/resource/福島県いわき市草木台一丁目",
+      "https://geonames.jp/resource/福島県いわき市草木台二丁目",
+      "https://geonames.jp/resource/福島県いわき市草木台三丁目",
+      "https://geonames.jp/resource/福島県いわき市草木台四丁目",
+      "https://geonames.jp/resource/福島県いわき市草木台五丁目"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県上益城郡矢部町",
+    "表記": "熊本県上益城郡矢部町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "上益城郡",
+      "市区町村": "矢部町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43445-20050211",
+        "http://data.e-stat.go.jp/lod/sac/C43445-19830901",
+        "http://data.e-stat.go.jp/lod/sac/C43445-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県上益城郡矢部町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/上益城郡/矢部町.json",
+    "name": "矢部町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県上益城郡"
+  }
+]

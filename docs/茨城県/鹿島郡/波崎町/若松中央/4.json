@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡波崎町若松中央四丁目",
+    "表記": "茨城県鹿島郡波崎町若松中央四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "鹿島郡",
+      "市区町村": "波崎町",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406509"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233556/103087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233554/103089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233555/103088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233554/103088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233555/103087.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡波崎町若松中央四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/鹿島郡/波崎町/若松中央/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県鹿島郡波崎町若松中央"
+  }
+]

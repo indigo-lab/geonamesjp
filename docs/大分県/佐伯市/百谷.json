@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県佐伯市百谷",
+    "表記": "大分県佐伯市百谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "佐伯市",
+      "町名": "百谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313760"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227106/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227105/105618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227105/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227105/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227106/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227106/105618.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県佐伯市百谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/佐伯市/百谷.json",
+    "name": "百谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県佐伯市"
+  }
+]

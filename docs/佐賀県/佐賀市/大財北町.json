@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市大財北町",
+    "表記": "佐賀県佐賀市大財北町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "大財北町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S412010310"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307214"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225957/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225956/105362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225955/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/105362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225956/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225957/105362.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市大財北町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/佐賀市/大財北町.json",
+    "name": "大財北町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県佐賀市"
+  }
+]

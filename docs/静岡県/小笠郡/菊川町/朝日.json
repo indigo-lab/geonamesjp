@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県小笠郡菊川町朝日",
+    "表記": "静岡県小笠郡菊川町朝日",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "小笠郡",
+      "市区町村": "菊川町",
+      "町名": "朝日"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381007"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231625/104053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231626/104054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231625/104054.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県小笠郡菊川町朝日",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/小笠郡/菊川町/朝日.json",
+    "name": "朝日",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県小笠郡菊川町"
+  }
+]

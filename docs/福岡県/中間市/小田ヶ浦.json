@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県中間市小田ヶ浦",
+    "表記": "福岡県中間市小田ヶ浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "中間市",
+      "町名": "小田ヶ浦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402150210"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県中間市小田ヶ浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/中間市/小田ヶ浦.json",
+    "name": "小田ヶ浦",
+    "alternateName": [
+      "小田ケ浦"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県中間市",
+    "children": [
+      "https://geonames.jp/resource/福岡県中間市小田ヶ浦一丁目",
+      "https://geonames.jp/resource/福岡県中間市小田ヶ浦二丁目"
+    ]
+  }
+]

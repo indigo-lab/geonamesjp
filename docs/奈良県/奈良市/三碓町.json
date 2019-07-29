@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市三碓町",
+    "表記": "奈良県奈良市三碓町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "三碓町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292016420"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350518",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350527",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350537",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350528"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229902/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229907/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229902/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229900/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229900/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229900/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229900/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229900/104110.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市三碓町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/三碓町.json",
+    "name": "三碓町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市岩槻区古ケ場",
+    "表記": "埼玉県さいたま市岩槻区古ケ場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "区": "岩槻区",
+      "町名": "古ケ場"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市岩槻区古ケ場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/岩槻区/古ケ場.json",
+    "name": "古ケ場",
+    "alternateName": [
+      "古ヶ場"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市岩槻区",
+    "children": [
+      "https://geonames.jp/resource/埼玉県さいたま市岩槻区古ケ場（丁目なし）",
+      "https://geonames.jp/resource/埼玉県さいたま市岩槻区古ケ場一丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市岩槻区古ケ場二丁目"
+    ]
+  }
+]

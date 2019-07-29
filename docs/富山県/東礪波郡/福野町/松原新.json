@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町松原新",
+    "表記": "富山県東礪波郡福野町松原新",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "東礪波郡",
+      "市区町村": "福野町",
+      "町名": "松原新"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367703",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367713"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/102407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/102408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/102402.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町松原新",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/東礪波郡/福野町/松原新.json",
+    "name": "松原新",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県東礪波郡福野町"
+  }
+]

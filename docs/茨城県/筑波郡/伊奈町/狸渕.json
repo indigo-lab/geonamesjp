@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡伊奈町狸渕",
+    "表記": "茨城県筑波郡伊奈町狸渕",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "筑波郡",
+      "市区町村": "伊奈町",
+      "町名": "狸渕"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407032",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407042"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233038/102990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233038/102989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233038/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233038/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233038/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233039/102988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233041/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233040/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233036/102985.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡伊奈町狸渕",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/筑波郡/伊奈町/狸渕.json",
+    "name": "狸渕",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県筑波郡伊奈町"
+  }
+]

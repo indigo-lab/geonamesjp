@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県磐田郡豊岡村家田",
+    "表記": "静岡県磐田郡豊岡村家田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "磐田郡",
+      "市区町村": "豊岡村",
+      "町名": "家田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371699",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372609",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372619"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231464/103983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231464/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231465/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231466/103979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231464/103979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231464/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231464/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231465/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231465/103976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231466/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231466/103973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231466/103978.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県磐田郡豊岡村家田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/磐田郡/豊岡村/家田.json",
+    "name": "家田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県磐田郡豊岡村"
+  }
+]

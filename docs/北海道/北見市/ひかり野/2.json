@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道北見市ひかり野二丁目",
+    "表記": "北海道北見市ひかり野二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "北見市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01208086002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435794"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235877/95493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235876/95492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235876/95494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235876/95493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235877/95494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235878/95493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235877/95492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235878/95492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235876/95495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235877/95495.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道北見市ひかり野二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/北見市/ひかり野/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道北見市ひかり野"
+  }
+]

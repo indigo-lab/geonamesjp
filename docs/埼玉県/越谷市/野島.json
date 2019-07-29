@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市野島",
+    "表記": "埼玉県越谷市野島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "越谷市",
+      "町名": "野島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397509",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397519",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397600"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232834/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232834/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232836/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232835/103009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232834/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/103009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/103016.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市野島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/越谷市/野島.json",
+    "name": "野島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県越谷市"
+  }
+]

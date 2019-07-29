@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市南鏡島二丁目",
+    "表記": "岐阜県岐阜市南鏡島二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "岐阜市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360587"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/103473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/103474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/103474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/103475.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市南鏡島二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/岐阜市/南鏡島/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県岐阜市南鏡島"
+  }
+]

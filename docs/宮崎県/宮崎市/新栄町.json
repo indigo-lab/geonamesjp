@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市新栄町",
+    "表記": "宮崎県宮崎市新栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "新栄町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S452010450"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047316386",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047316396"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226792/106532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226793/106532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226794/106531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226795/106531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226794/106532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226794/106533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226794/106534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226793/106533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226795/106533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226793/106534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226795/106532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226795/106534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226795/106530.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市新栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/宮崎市/新栄町.json",
+    "name": "新栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県宮崎市"
+  }
+]

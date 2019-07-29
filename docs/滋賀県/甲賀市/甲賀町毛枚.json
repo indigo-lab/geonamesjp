@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀市甲賀町毛枚",
+    "表記": "滋賀県甲賀市甲賀町毛枚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "甲賀市",
+      "町名": "甲賀町毛枚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362167",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362177",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362147",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362157"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230261/103937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230263/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230263/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230263/103932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230262/103932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230262/103934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230263/103933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230262/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230262/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230262/103929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230265/103931.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀市甲賀町毛枚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀市/甲賀町毛枚.json",
+    "name": "甲賀町毛枚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀市"
+  }
+]

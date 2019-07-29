@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知多郡武豊町上山",
+    "表記": "愛知県知多郡武豊町上山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "知多郡",
+      "市区町村": "武豊町",
+      "町名": "上山"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知多郡武豊町上山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知多郡/武豊町/上山.json",
+    "name": "上山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知多郡武豊町",
+    "children": [
+      "https://geonames.jp/resource/愛知県知多郡武豊町上山一丁目",
+      "https://geonames.jp/resource/愛知県知多郡武豊町上山二丁目",
+      "https://geonames.jp/resource/愛知県知多郡武豊町上山三丁目"
+    ]
+  }
+]

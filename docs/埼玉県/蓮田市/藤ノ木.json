@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県蓮田市藤ノ木",
+    "表記": "埼玉県蓮田市藤ノ木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "蓮田市",
+      "町名": "藤ノ木"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県蓮田市藤ノ木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/蓮田市/藤ノ木.json",
+    "name": "藤ノ木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県蓮田市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県蓮田市藤ノ木一丁目",
+      "https://geonames.jp/resource/埼玉県蓮田市藤ノ木二丁目",
+      "https://geonames.jp/resource/埼玉県蓮田市藤ノ木三丁目",
+      "https://geonames.jp/resource/埼玉県蓮田市藤ノ木四丁目"
+    ]
+  }
+]

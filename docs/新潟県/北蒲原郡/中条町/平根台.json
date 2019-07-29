@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町平根台",
+    "表記": "新潟県北蒲原郡中条町平根台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "中条町",
+      "町名": "平根台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057391209",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057391300"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/101036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/101035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/101037.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町平根台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/中条町/平根台.json",
+    "name": "平根台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡中条町"
+  }
+]

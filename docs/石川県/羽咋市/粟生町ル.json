@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県羽咋市粟生町ル",
+    "表記": "石川県羽咋市粟生町ル",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "羽咋市",
+      "町名": "粟生町ル"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362652"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230671/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230671/102143.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県羽咋市粟生町ル",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/羽咋市/粟生町ル.json",
+    "name": "粟生町ル",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県羽咋市"
+  }
+]

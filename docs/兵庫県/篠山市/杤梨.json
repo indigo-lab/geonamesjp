@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市杤梨",
+    "表記": "兵庫県篠山市杤梨",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "篠山市",
+      "町名": "杤梨"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354295",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355205"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229607/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229604/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/103759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229605/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229607/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103762.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市杤梨",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/篠山市/杤梨.json",
+    "name": "杤梨",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県篠山市"
+  }
+]

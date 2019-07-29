@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市本郷中部",
+    "表記": "富山県富山市本郷中部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "本郷中部"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370172",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370171"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230944/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/102280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230939/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/102279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/102280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/102279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/102279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230944/102280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230944/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/102281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/102279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/102280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230944/102279.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市本郷中部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/本郷中部.json",
+    "name": "本郷中部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県茅ヶ崎市小和田",
+    "表記": "神奈川県茅ヶ崎市小和田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "茅ヶ崎市",
+      "町名": "小和田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県茅ヶ崎市小和田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/茅ヶ崎市/小和田.json",
+    "name": "小和田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県茅ヶ崎市",
+    "children": [
+      "https://geonames.jp/resource/神奈川県茅ヶ崎市小和田一丁目",
+      "https://geonames.jp/resource/神奈川県茅ヶ崎市小和田二丁目",
+      "https://geonames.jp/resource/神奈川県茅ヶ崎市小和田三丁目"
+    ]
+  }
+]

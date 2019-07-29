@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県岩船郡神林村志田平",
+    "表記": "新潟県岩船郡神林村志田平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "岩船郡",
+      "市区町村": "神林村",
+      "町名": "志田平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392347"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232627/100927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232626/100928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232628/100926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232628/100928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232629/100928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232629/100927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232627/100931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232626/100929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232627/100930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232628/100929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232629/100930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232629/100929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232628/100927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232626/100925.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県岩船郡神林村志田平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/岩船郡/神林村/志田平.json",
+    "name": "志田平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県岩船郡神林村"
+  }
+]

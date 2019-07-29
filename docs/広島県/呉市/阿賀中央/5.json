@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県呉市阿賀中央五丁目",
+    "表記": "広島県呉市阿賀中央五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "呉市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34202133005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051322478",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051322488",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051322487"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227632/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227631/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227630/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227630/104510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227632/104513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227630/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227629/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227632/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227631/104510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227629/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227631/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227628/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227628/104511.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県呉市阿賀中央五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/呉市/阿賀中央/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県呉市阿賀中央"
+  }
+]

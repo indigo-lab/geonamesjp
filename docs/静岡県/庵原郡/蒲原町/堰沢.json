@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡蒲原町堰沢",
+    "表記": "静岡県庵原郡蒲原町堰沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "庵原郡",
+      "市区町村": "蒲原町",
+      "町名": "堰沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385436",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385446",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385466"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231984/103734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231983/103733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231984/103733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/103733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/103732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231982/103733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231982/103732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231983/103732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231984/103732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231984/103731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231983/103731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231983/103730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231982/103731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231986/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231984/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/103710.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡蒲原町堰沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/庵原郡/蒲原町/堰沢.json",
+    "name": "堰沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県庵原郡蒲原町"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県鉾田市湯坪",
+    "表記": "茨城県鉾田市湯坪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "鉾田市",
+      "町名": "湯坪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402425",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402414",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402415",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402413"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/102772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/102769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233431/102772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/102774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/102773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/102775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/102775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/102776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/102775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/102775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233430/102774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/102779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233428/102775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/102775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233428/102774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233428/102776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233431/102771.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県鉾田市湯坪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/鉾田市/湯坪.json",
+    "name": "湯坪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県鉾田市"
+  }
+]

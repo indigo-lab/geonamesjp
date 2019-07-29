@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡金井町安養寺",
+    "表記": "新潟県佐渡郡金井町安養寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "佐渡郡",
+      "市区町村": "金井町",
+      "町名": "安養寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380341",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380360",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380370"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231851/101083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/101056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231838/101057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231837/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/101064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/101063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231838/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/101062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/101066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/101059.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡金井町安養寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/佐渡郡/金井町/安養寺.json",
+    "name": "安養寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県佐渡郡金井町"
+  }
+]

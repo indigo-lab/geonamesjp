@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市越ヶ谷",
+    "表記": "埼玉県越谷市越ヶ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "越谷市",
+      "町名": "越ヶ谷"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市越ヶ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/越谷市/越ヶ谷.json",
+    "name": "越ヶ谷",
+    "alternateName": [
+      "越ケ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県越谷市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県越谷市越ヶ谷（丁目なし）",
+      "https://geonames.jp/resource/埼玉県越谷市越ヶ谷一丁目",
+      "https://geonames.jp/resource/埼玉県越谷市越ヶ谷二丁目",
+      "https://geonames.jp/resource/埼玉県越谷市越ヶ谷三丁目",
+      "https://geonames.jp/resource/埼玉県越谷市越ヶ谷四丁目",
+      "https://geonames.jp/resource/埼玉県越谷市越ヶ谷五丁目"
+    ]
+  }
+]

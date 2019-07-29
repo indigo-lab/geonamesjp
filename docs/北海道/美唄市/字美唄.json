@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道美唄市字美唄",
+    "表記": "北海道美唄市字美唄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "美唄市",
+      "町名": "字美唄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065410617",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417697",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065410606",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065410607",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065410618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065410627"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234360/95979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234362/95978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234356/95991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234364/95978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234360/95982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234358/95991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234357/95981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234361/95976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234351/95991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234347/95991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234353/95991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234358/95982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234358/95979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234361/95975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234360/95984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234362/95973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234361/95979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234363/95979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234363/95976.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道美唄市字美唄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/美唄市/字美唄.json",
+    "name": "字美唄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道美唄市"
+  }
+]

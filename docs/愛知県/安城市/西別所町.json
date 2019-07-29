@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県安城市西別所町",
+    "表記": "愛知県安城市西別所町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "西別所町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232120200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373058",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373059",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373068",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373069"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230912/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230916/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230912/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230915/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230915/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230912/103866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230912/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230915/103866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230912/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103860.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県安城市西別所町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/安城市/西別所町.json",
+    "name": "西別所町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県安城市"
+  }
+]

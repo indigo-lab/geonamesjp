@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市松崎前浜",
+    "表記": "宮城県気仙沼市松崎前浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "気仙沼市",
+      "町名": "松崎前浜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412457",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412467"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234171/100298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/100297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234172/100297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234175/100298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234172/100300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234172/100299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234175/100299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/100295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/100300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234174/100301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/100298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234173/100294.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市松崎前浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/気仙沼市/松崎前浜.json",
+    "name": "松崎前浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県気仙沼市"
+  }
+]

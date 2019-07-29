@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡湯沢町大字三国",
+    "表記": "新潟県南魚沼郡湯沢町大字三国",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "南魚沼郡",
+      "市区町村": "湯沢町",
+      "町名": "大字三国",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S154610060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055381672",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055381660"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232128/102208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/102212.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡湯沢町大字三国",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/南魚沼郡/湯沢町/大字三国.json",
+    "name": "大字三国",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県南魚沼郡湯沢町"
+  }
+]

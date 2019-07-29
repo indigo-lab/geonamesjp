@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県榛原郡相良町波津",
+    "表記": "静岡県榛原郡相良町波津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "榛原郡",
+      "市区町村": "相良町",
+      "町名": "波津"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県榛原郡相良町波津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/榛原郡/相良町/波津.json",
+    "name": "波津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県榛原郡相良町",
+    "children": [
+      "https://geonames.jp/resource/静岡県榛原郡相良町波津（丁目なし）",
+      "https://geonames.jp/resource/静岡県榛原郡相良町波津一丁目",
+      "https://geonames.jp/resource/静岡県榛原郡相良町波津二丁目",
+      "https://geonames.jp/resource/静岡県榛原郡相良町波津三丁目"
+    ]
+  }
+]

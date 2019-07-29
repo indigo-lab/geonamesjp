@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市内郷宮町蛭子",
+    "表記": "福島県いわき市内郷宮町蛭子",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "内郷宮町蛭子"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404657",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404666",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404656",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404667"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233630/101995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233630/101994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233629/101995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233628/101994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233628/101995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233626/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233629/101994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233627/101989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233628/101993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233629/101993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233626/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233627/101995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233626/101990.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市内郷宮町蛭子",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/内郷宮町蛭子.json",
+    "name": "内郷宮町蛭子",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都日野市西平山一丁目",
+    "表記": "東京都日野市西平山一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "日野市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13212009001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393279",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393289",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393370"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232559/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/103254.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都日野市西平山一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/日野市/西平山/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都日野市西平山"
+  }
+]

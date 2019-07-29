@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井郡春江町松木",
+    "表記": "福井県坂井郡春江町松木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "坂井郡",
+      "市区町村": "春江町",
+      "町名": "松木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361165",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361166"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/102812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230250/102814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/102814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/102813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/102814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/102818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/102815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/102818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/102818.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井郡春江町松木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井郡/春江町/松木.json",
+    "name": "松木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井郡春江町"
+  }
+]

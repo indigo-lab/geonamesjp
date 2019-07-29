@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県足利市常見町（丁目なし）",
+    "表記": "栃木県足利市常見町（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "常見町",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S09202054000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393389",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393388"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232644/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/102656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232643/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232644/102652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232645/102652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232641/102656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232645/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/102649.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県足利市常見町（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/足利市/常見町/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県足利市常見町"
+  }
+]

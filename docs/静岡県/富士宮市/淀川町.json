@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士宮市淀川町",
+    "表記": "静岡県富士宮市淀川町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "淀川町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222072100"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052386477",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052386478",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052386487",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052386488"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232000/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231999/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/103629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231997/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231998/103630.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士宮市淀川町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士宮市/淀川町.json",
+    "name": "淀川町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士宮市"
+  }
+]

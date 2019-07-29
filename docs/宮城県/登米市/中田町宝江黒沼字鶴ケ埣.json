@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県登米市中田町宝江黒沼字鶴ケ埣",
+    "表記": "宮城県登米市中田町宝江黒沼字鶴ケ埣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "登米市",
+      "町名": "中田町宝江黒沼字鶴ケ埣"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410159"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233925/100457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233921/100452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233924/100455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233922/100456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233924/100459.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県登米市中田町宝江黒沼字鶴ケ埣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/登米市/中田町宝江黒沼字鶴ケ埣.json",
+    "name": "中田町宝江黒沼字鶴ケ埣",
+    "alternateName": [
+      "中田町宝江黒沼字鶴ヶ埣"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県登米市"
+  }
+]

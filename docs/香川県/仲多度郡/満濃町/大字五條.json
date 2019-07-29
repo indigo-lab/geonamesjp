@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県仲多度郡満濃町大字五條",
+    "表記": "香川県仲多度郡満濃町大字五條",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "仲多度郡",
+      "市区町村": "満濃町",
+      "町名": "大字五條"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051332616",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051332626"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228527/104557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228526/104556.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県仲多度郡満濃町大字五條",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/仲多度郡/満濃町/大字五條.json",
+    "name": "大字五條",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県仲多度郡満濃町"
+  }
+]

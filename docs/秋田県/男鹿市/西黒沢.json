@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市西黒沢",
+    "表記": "秋田県男鹿市西黒沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "男鹿市",
+      "町名": "西黒沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397558",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397587"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/99276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/99275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/99270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/99260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/99260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232820/99261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/99261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/99260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/99260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/99270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/99269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232812/99262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232812/99256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232822/99259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/99259.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市西黒沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/男鹿市/西黒沢.json",
+    "name": "西黒沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県男鹿市"
+  }
+]

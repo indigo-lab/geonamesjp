@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県東諸県郡綾町",
+    "表記": "宮崎県東諸県郡綾町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "郡": "東諸県郡",
+      "市区町村": "綾町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C45383-19791101",
+        "http://data.e-stat.go.jp/lod/sac/C45383-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C45383-19760201",
+        "http://data.e-stat.go.jp/lod/sac/C45383-19741101",
+        "http://data.e-stat.go.jp/lod/sac/C45383-19721101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県東諸県郡綾町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/東諸県郡/綾町.json",
+    "name": "綾町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県東諸県郡",
+    "children": [
+      "https://geonames.jp/resource/宮崎県東諸県郡綾町南俣",
+      "https://geonames.jp/resource/宮崎県東諸県郡綾町入野",
+      "https://geonames.jp/resource/宮崎県東諸県郡綾町北俣",
+      "https://geonames.jp/resource/宮崎県東諸県郡綾町大字入野",
+      "https://geonames.jp/resource/宮崎県東諸県郡綾町大字南俣",
+      "https://geonames.jp/resource/宮崎県東諸県郡綾町大字北俣"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1350822"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県新湊市高木",
+    "表記": "富山県新湊市高木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "新湊市",
+      "町名": "高木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370086",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370096"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230890/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230891/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230891/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230894/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230891/102265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230892/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230892/102266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230894/102266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230893/102266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230893/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230894/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230895/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230892/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230893/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230894/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230894/102268.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県新湊市高木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/新湊市/高木.json",
+    "name": "高木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県新湊市"
+  }
+]

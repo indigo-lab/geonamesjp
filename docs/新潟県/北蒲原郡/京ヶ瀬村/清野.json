@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡京ヶ瀬村清野",
+    "表記": "新潟県北蒲原郡京ヶ瀬村清野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "京ヶ瀬村",
+      "町名": "清野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395164",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395165",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395175"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232428/101291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232429/101292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232428/101293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232428/101294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/101295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/101295.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡京ヶ瀬村清野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/京ヶ瀬村/清野.json",
+    "name": "清野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡京ヶ瀬村"
+  }
+]

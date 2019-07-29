@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県大野市富嶋",
+    "表記": "福井県大野市富嶋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "大野市",
+      "町名": "富嶋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182051060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360403",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367493",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360402"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230497/102938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230498/102938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230497/102939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230498/102940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230498/102942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230498/102941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230497/102941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230496/102940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230496/102939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230496/102938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230494/102936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230495/102936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230495/102937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230495/102938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230496/102941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230494/102939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230497/102940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230498/102939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230499/102942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230499/102941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230500/102942.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県大野市富嶋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/大野市/富嶋.json",
+    "name": "富嶋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県大野市"
+  }
+]

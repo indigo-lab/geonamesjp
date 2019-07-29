@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県霧島市国分野口北",
+    "表記": "鹿児島県霧島市国分野口北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "霧島市",
+      "町名": "国分野口北",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S462180270"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304589"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/106676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/106678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/106679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/106678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/106678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/106677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/106677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/106676.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県霧島市国分野口北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/霧島市/国分野口北.json",
+    "name": "国分野口北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県霧島市"
+  }
+]

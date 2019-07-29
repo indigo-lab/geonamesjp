@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市東区草ケ部",
+    "表記": "岡山県岡山市東区草ケ部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "区": "東区",
+      "町名": "草ケ部",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S331030860"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340062",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340052",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340061",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340063"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228670/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228663/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228671/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228674/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228675/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228673/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228671/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228671/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228673/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228673/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228674/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228673/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228673/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228666/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228661/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228664/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228665/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228668/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228670/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228667/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228668/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228668/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228670/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228671/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228671/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228673/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228674/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228674/104091.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市東区草ケ部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/東区/草ケ部.json",
+    "name": "草ケ部",
+    "alternateName": [
+      "草ヶ部"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市東区"
+  }
+]

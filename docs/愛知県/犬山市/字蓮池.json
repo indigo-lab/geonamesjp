@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県犬山市字蓮池",
+    "表記": "愛知県犬山市字蓮池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "犬山市",
+      "町名": "字蓮池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367786",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367787"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230805/103548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230808/103548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230805/103549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230800/103552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230806/103548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230806/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230806/103550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230807/103550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230807/103549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230808/103549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230808/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230809/103548.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県犬山市字蓮池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/犬山市/字蓮池.json",
+    "name": "字蓮池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県犬山市"
+  }
+]

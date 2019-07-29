@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市石原二丁目",
+    "表記": "京都府福知山市石原二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357154",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357153",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357164"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229504/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229503/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229502/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229504/103567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229503/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229505/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229505/103567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229505/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229506/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229505/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229506/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229506/103567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229501/103568.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市石原二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/石原/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市石原"
+  }
+]

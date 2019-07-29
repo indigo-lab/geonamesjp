@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県松山市柳井町",
+    "表記": "愛媛県松山市柳井町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "柳井町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県松山市柳井町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/松山市/柳井町.json",
+    "name": "柳井町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県松山市",
+    "children": [
+      "https://geonames.jp/resource/愛媛県松山市柳井町（丁目なし）",
+      "https://geonames.jp/resource/愛媛県松山市柳井町一丁目",
+      "https://geonames.jp/resource/愛媛県松山市柳井町二丁目",
+      "https://geonames.jp/resource/愛媛県松山市柳井町三丁目"
+    ]
+  }
+]

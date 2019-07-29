@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都杉並区西荻北",
+    "表記": "東京都杉並区西荻北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "杉並区",
+      "町名": "西荻北",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131150230"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都杉並区西荻北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/杉並区/西荻北.json",
+    "name": "西荻北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都杉並区",
+    "children": [
+      "https://geonames.jp/resource/東京都杉並区西荻北一丁目",
+      "https://geonames.jp/resource/東京都杉並区西荻北二丁目",
+      "https://geonames.jp/resource/東京都杉並区西荻北三丁目",
+      "https://geonames.jp/resource/東京都杉並区西荻北四丁目",
+      "https://geonames.jp/resource/東京都杉並区西荻北五丁目"
+    ]
+  }
+]

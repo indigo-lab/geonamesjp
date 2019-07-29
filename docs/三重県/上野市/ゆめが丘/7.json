@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県上野市ゆめが丘七丁目",
+    "表記": "三重県上野市ゆめが丘七丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "上野市",
+      "町名": "七丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360183",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360193",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360173",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360192"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230225/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/104066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230228/104066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230227/104068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230224/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230229/104069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230227/104071.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県上野市ゆめが丘七丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/上野市/ゆめが丘/7.json",
+    "name": "七丁目",
+    "alternateName": [
+      "7",
+      "7丁目",
+      "７",
+      "７丁目",
+      "七"
+    ],
+    "parentFeature": "https://geonames.jp/resource/三重県上野市ゆめが丘"
+  }
+]

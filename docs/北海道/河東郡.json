@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道河東郡",
+    "表記": "北海道河東郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "河東郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道河東郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/河東郡.json",
+    "name": "河東郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道河東郡音更町",
+      "https://geonames.jp/resource/北海道河東郡上士幌町",
+      "https://geonames.jp/resource/北海道河東郡鹿追町",
+      "https://geonames.jp/resource/北海道河東郡士幌町",
+      "https://geonames.jp/resource/北海道河東郡音更村",
+      "https://geonames.jp/resource/北海道河東郡上士幌村",
+      "https://geonames.jp/resource/北海道河東郡士幌村",
+      "https://geonames.jp/resource/北海道河東郡鹿追村"
+    ]
+  }
+]

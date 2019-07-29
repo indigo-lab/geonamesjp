@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県大村市久原",
+    "表記": "長崎県大村市久原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "大村市",
+      "町名": "久原"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県大村市久原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/大村市/久原.json",
+    "name": "久原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県大村市",
+    "children": [
+      "https://geonames.jp/resource/長崎県大村市久原（丁目なし）",
+      "https://geonames.jp/resource/長崎県大村市久原一丁目",
+      "https://geonames.jp/resource/長崎県大村市久原二丁目"
+    ]
+  }
+]

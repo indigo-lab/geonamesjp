@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県鳥栖市三島町於保里",
+    "表記": "佐賀県鳥栖市三島町於保里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "鳥栖市",
+      "町名": "三島町於保里",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S412030680"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300308"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226085/105297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226086/105297.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県鳥栖市三島町於保里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/鳥栖市/三島町於保里.json",
+    "name": "三島町於保里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県鳥栖市"
+  }
+]

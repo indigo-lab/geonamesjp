@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県須崎市桑田山乙",
+    "表記": "高知県須崎市桑田山乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "須崎市",
+      "町名": "桑田山乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050331212",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050331202",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050331222",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050331221"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228124/105214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228126/105213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228127/105217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228125/105216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228126/105219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228126/105222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228126/105214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228125/105220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228119/105211.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県須崎市桑田山乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/須崎市/桑田山乙.json",
+    "name": "桑田山乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県須崎市"
+  }
+]

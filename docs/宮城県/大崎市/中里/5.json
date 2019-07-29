@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県大崎市中里五丁目",
+    "表記": "宮城県大崎市中里五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "大崎市",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406786"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/100591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/100590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/100591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/100593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/100593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/100592.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県大崎市中里五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/大崎市/中里/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県大崎市中里"
+  }
+]

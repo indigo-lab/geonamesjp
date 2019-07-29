@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高岡郡越知町五味",
+    "表記": "高知県高岡郡越知町五味",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "高岡郡",
+      "市区町村": "越知町",
+      "町名": "五味",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S394030040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332137",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332138"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228082/105133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228088/105131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228079/105131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228089/105131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228089/105130.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高岡郡越知町五味",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高岡郡/越知町/五味.json",
+    "name": "五味",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高岡郡越知町"
+  }
+]

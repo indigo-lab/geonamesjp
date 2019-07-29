@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県安芸郡府中町清水ヶ丘",
+    "表記": "広島県安芸郡府中町清水ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "安芸郡",
+      "市区町村": "府中町",
+      "町名": "清水ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324481"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227567/104364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227570/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227569/104364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227569/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227569/104362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227568/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227568/104364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227567/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227566/104364.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県安芸郡府中町清水ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/安芸郡/府中町/清水ヶ丘.json",
+    "name": "清水ヶ丘",
+    "alternateName": [
+      "清水ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県安芸郡府中町"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県東松島市あおい",
+    "表記": "宮城県東松島市あおい",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "東松島市",
+      "町名": "あおい"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県東松島市あおい",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/東松島市/あおい.json",
+    "name": "あおい",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県東松島市",
+    "children": [
+      "https://geonames.jp/resource/宮城県東松島市あおい一丁目",
+      "https://geonames.jp/resource/宮城県東松島市あおい二丁目",
+      "https://geonames.jp/resource/宮城県東松島市あおい三丁目"
+    ]
+  }
+]

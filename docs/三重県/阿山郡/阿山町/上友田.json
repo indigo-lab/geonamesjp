@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県阿山郡阿山町上友田",
+    "表記": "三重県阿山郡阿山町上友田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "阿山郡",
+      "市区町村": "阿山町",
+      "町名": "上友田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362117",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362118",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362126"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230250/103966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230262/103974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230263/103974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230251/103970.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県阿山郡阿山町上友田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/阿山郡/阿山町/上友田.json",
+    "name": "上友田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県阿山郡阿山町"
+  }
+]

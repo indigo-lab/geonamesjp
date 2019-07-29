@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県山武郡大網白里町北吉田",
+    "表記": "千葉県山武郡大網白里町北吉田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "山武郡",
+      "市区町村": "大網白里町",
+      "町名": "北吉田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401299",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401298",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402208",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402209"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233276/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233275/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233278/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/103391.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県山武郡大網白里町北吉田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/山武郡/大網白里町/北吉田.json",
+    "name": "北吉田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県山武郡大網白里町"
+  }
+]

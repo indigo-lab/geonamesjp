@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県大和高田市池尻",
+    "表記": "奈良県大和高田市池尻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "大和高田市",
+      "町名": "池尻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356529",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356539",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356630"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/104252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/104254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/104253.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県大和高田市池尻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/大和高田市/池尻.json",
+    "name": "池尻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県大和高田市"
+  }
+]

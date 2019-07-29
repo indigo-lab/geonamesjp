@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡宇ノ気町気屋",
+    "表記": "石川県河北郡宇ノ気町気屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "宇ノ気町",
+      "町名": "気屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360578"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/102286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/102286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/102286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/102284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/102285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/102284.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡宇ノ気町気屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/宇ノ気町/気屋.json",
+    "name": "気屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡宇ノ気町"
+  }
+]

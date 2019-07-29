@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県館山市飯沼",
+    "表記": "千葉県館山市飯沼",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "館山市",
+      "町名": "飯沼",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122050540"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052393770"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232932/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232933/103853.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県館山市飯沼",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/館山市/飯沼.json",
+    "name": "飯沼",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県館山市"
+  }
+]

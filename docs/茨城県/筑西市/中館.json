@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県筑西市中館",
+    "表記": "茨城県筑西市中館",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "筑西市",
+      "町名": "中館"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393787",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393788",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393797",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393798"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232998/102645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232999/102645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232999/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232998/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232998/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232997/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232997/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232996/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232996/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232995/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232996/102646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232997/102645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232997/102646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232996/102645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232995/102648.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県筑西市中館",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/筑西市/中館.json",
+    "name": "中館",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県筑西市"
+  }
+]

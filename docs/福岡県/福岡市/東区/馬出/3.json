@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区馬出三丁目",
+    "表記": "福岡県福岡市東区馬出三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "東区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40131006003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303332",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303333",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303323"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226035/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226035/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226038/105057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226035/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226034/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226038/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226038/105062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226034/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226038/105061.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区馬出三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/東区/馬出/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市東区馬出"
+  }
+]

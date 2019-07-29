@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県白山市北安田西",
+    "表記": "石川県白山市北安田西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "白山市",
+      "町名": "北安田西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172100871"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県白山市北安田西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/白山市/北安田西.json",
+    "name": "北安田西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県白山市",
+    "children": [
+      "https://geonames.jp/resource/石川県白山市北安田西一丁目",
+      "https://geonames.jp/resource/石川県白山市北安田西二丁目"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県鹿児島市清和四丁目",
+    "表記": "鹿児島県鹿児島市清和四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "鹿児島市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047302430",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047302431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047302440"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226107/106854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226106/106855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226107/106853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226108/106854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226108/106857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226108/106856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226109/106855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226108/106855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226109/106856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226107/106855.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県鹿児島市清和四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/鹿児島市/清和/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県鹿児島市清和"
+  }
+]

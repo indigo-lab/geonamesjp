@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市荒浜四丁目",
+    "表記": "新潟県柏崎市荒浜四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "柏崎市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S15205087004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380497",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380496",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381407",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381406"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231988/101654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231986/101654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231989/101650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231987/101653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231990/101654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231996/101650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231993/101651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231986/101655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/101654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231986/101653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231987/101654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231987/101655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231988/101652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231988/101653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231987/101652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231992/101652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231988/101650.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市荒浜四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/柏崎市/荒浜/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県柏崎市荒浜"
+  }
+]

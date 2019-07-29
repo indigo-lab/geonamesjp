@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井市丸岡町上金屋",
+    "表記": "福井県坂井市丸岡町上金屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "坂井市",
+      "町名": "丸岡町上金屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361234",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361225"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230329/102842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230331/102842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230329/102841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230328/102841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230329/102840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230327/102840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230328/102840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230328/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230328/102842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230330/102842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230330/102843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230331/102843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230327/102841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230328/102843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230329/102843.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井市丸岡町上金屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井市/丸岡町上金屋.json",
+    "name": "丸岡町上金屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井市"
+  }
+]

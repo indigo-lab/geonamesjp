@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県射水郡大門町市井",
+    "表記": "富山県射水郡大門町市井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "射水郡",
+      "市区町村": "大門町",
+      "町名": "市井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370044",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370054"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/102298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/102303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/102301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/102300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/102299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/102301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/102302.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県射水郡大門町市井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/射水郡/大門町/市井.json",
+    "name": "市井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県射水郡大門町"
+  }
+]

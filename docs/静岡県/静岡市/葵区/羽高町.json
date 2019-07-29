@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市葵区羽高町",
+    "表記": "静岡県静岡市葵区羽高町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "区": "葵区",
+      "町名": "羽高町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384341",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384331"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/103805.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市葵区羽高町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/葵区/羽高町.json",
+    "name": "羽高町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市葵区"
+  }
+]

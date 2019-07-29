@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県岩瀬郡鏡石町大山",
+    "表記": "福島県岩瀬郡鏡石町大山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "岩瀬郡",
+      "市区町村": "鏡石町",
+      "町名": "大山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406277",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406267",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406268",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406278"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233269/101826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233271/101827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233274/101825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233272/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233271/101826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/101823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233272/101827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233274/101826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233274/101827.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県岩瀬郡鏡石町大山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/岩瀬郡/鏡石町/大山.json",
+    "name": "大山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県岩瀬郡鏡石町"
+  }
+]

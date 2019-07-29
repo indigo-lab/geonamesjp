@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県瑞穂市馬場北町",
+    "表記": "岐阜県瑞穂市馬場北町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "馬場北町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212160112"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360594",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361504"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/103464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/103461.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県瑞穂市馬場北町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/瑞穂市/馬場北町.json",
+    "name": "馬場北町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県瑞穂市"
+  }
+]

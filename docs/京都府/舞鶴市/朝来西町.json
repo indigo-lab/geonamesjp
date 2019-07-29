@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市朝来西町",
+    "表記": "京都府舞鶴市朝来西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "朝来西町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351393",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351394",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352303",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352304"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229685/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229684/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229684/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229684/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229685/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229686/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229686/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/103389.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市朝来西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/朝来西町.json",
+    "name": "朝来西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

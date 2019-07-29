@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県関市梅ケ枝町",
+    "表記": "岐阜県関市梅ケ枝町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "梅ケ枝町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212050090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361773"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/103406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/103406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/103407.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県関市梅ケ枝町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/関市/梅ケ枝町.json",
+    "name": "梅ケ枝町",
+    "alternateName": [
+      "梅ヶ枝町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県関市"
+  }
+]

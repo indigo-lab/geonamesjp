@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市小佐波",
+    "表記": "富山県富山市小佐波",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "小佐波",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162017330"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376270",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376169",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376260"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231015/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231013/102439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231016/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/102429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/102439.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市小佐波",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/小佐波.json",
+    "name": "小佐波",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

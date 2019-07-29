@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県八幡平市岩屋",
+    "表記": "岩手県八幡平市岩屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "八幡平市",
+      "町名": "岩屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060411056",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060411065"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233805/99121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/99112.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県八幡平市岩屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/八幡平市/岩屋.json",
+    "name": "岩屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県八幡平市"
+  }
+]

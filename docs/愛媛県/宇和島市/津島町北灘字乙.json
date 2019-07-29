@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市津島町北灘字乙",
+    "表記": "愛媛県宇和島市津島町北灘字乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "宇和島市",
+      "町名": "津島町北灘字乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049325365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049325366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049325367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049325376",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049325377"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227520/105465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227530/105469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227517/105471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227521/105470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227524/105468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227529/105465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227534/105466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/105468.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市津島町北灘字乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/宇和島市/津島町北灘字乙.json",
+    "name": "津島町北灘字乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県宇和島市"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県湖南市石部北",
+    "表記": "滋賀県湖南市石部北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "湖南市",
+      "町名": "石部北",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252110302"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県湖南市石部北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/湖南市/石部北.json",
+    "name": "石部北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県湖南市",
+    "children": [
+      "https://geonames.jp/resource/滋賀県湖南市石部北一丁目",
+      "https://geonames.jp/resource/滋賀県湖南市石部北二丁目",
+      "https://geonames.jp/resource/滋賀県湖南市石部北三丁目",
+      "https://geonames.jp/resource/滋賀県湖南市石部北四丁目",
+      "https://geonames.jp/resource/滋賀県湖南市石部北五丁目"
+    ]
+  }
+]

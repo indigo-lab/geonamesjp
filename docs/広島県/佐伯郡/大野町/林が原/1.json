@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡大野町林が原一丁目",
+    "表記": "広島県佐伯郡大野町林が原一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "佐伯郡",
+      "市区町村": "大野町",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323230",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323231"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227383/104472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227384/104471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227382/104473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227383/104474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227382/104474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227383/104473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227384/104474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227385/104474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227385/104475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227383/104471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227384/104475.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡大野町林が原一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/佐伯郡/大野町/林が原/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県佐伯郡大野町林が原"
+  }
+]

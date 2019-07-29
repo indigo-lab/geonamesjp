@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県愛西市西川端町小城",
+    "表記": "愛知県愛西市西川端町小城",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "愛西市",
+      "町名": "西川端町小城"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366557"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230629/103644.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県愛西市西川端町小城",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/愛西市/西川端町小城.json",
+    "name": "西川端町小城",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県愛西市"
+  }
+]

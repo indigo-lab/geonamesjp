@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県那覇市若狭",
+    "表記": "沖縄県那覇市若狭",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "那覇市",
+      "町名": "若狭",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S472010270"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県那覇市若狭",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/那覇市/若狭.json",
+    "name": "若狭",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県那覇市",
+    "children": [
+      "https://geonames.jp/resource/沖縄県那覇市若狭一丁目",
+      "https://geonames.jp/resource/沖縄県那覇市若狭二丁目",
+      "https://geonames.jp/resource/沖縄県那覇市若狭三丁目"
+    ]
+  }
+]

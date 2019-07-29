@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市一箕町八幡滝沢",
+    "表記": "福島県会津若松市一箕町八幡滝沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "会津若松市",
+      "町名": "一箕町八幡滝沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392705",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392706"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232979/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232978/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232979/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232981/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232980/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232981/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232979/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232980/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/101571.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市一箕町八幡滝沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/一箕町八幡滝沢.json",
+    "name": "一箕町八幡滝沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市"
+  }
+]

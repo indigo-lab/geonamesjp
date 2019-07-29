@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市若林区荒浜字南官林",
+    "表記": "宮城県仙台市若林区荒浜字南官林",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "若林区",
+      "町名": "荒浜字南官林"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402757",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402758",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402768"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233726/100923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233730/100915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233729/100914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233729/100917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233730/100916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233731/100915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233730/100920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233726/100922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233725/100922.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市若林区荒浜字南官林",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/若林区/荒浜字南官林.json",
+    "name": "荒浜字南官林",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市若林区"
+  }
+]

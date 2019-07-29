@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県近江八幡市安土町中屋",
+    "表記": "滋賀県近江八幡市安土町中屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "近江八幡市",
+      "町名": "安土町中屋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252041660"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365150",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365160"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/103717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/103718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/103717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/103718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/103715.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県近江八幡市安土町中屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/近江八幡市/安土町中屋.json",
+    "name": "安土町中屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県近江八幡市"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県足柄上郡山北町中川",
+    "表記": "神奈川県足柄上郡山北町中川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "郡": "足柄上郡",
+      "市区町村": "山北町",
+      "町名": "中川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S143640140"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391023"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/103442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232321/103443.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県足柄上郡山北町中川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/足柄上郡/山北町/中川.json",
+    "name": "中川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県足柄上郡山北町"
+  }
+]

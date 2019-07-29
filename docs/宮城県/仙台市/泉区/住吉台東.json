@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市泉区住吉台東",
+    "表記": "宮城県仙台市泉区住吉台東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "泉区",
+      "町名": "住吉台東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S041050180"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市泉区住吉台東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/泉区/住吉台東.json",
+    "name": "住吉台東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市泉区",
+    "children": [
+      "https://geonames.jp/resource/宮城県仙台市泉区住吉台東一丁目",
+      "https://geonames.jp/resource/宮城県仙台市泉区住吉台東二丁目",
+      "https://geonames.jp/resource/宮城県仙台市泉区住吉台東三丁目",
+      "https://geonames.jp/resource/宮城県仙台市泉区住吉台東四丁目",
+      "https://geonames.jp/resource/宮城県仙台市泉区住吉台東五丁目"
+    ]
+  }
+]

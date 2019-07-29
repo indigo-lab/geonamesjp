@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県高崎市十文字",
+    "表記": "群馬県高崎市十文字",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "高崎市",
+      "町名": "十文字"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384773",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384783",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054385702"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/102575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232233/102579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/102576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/102578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232233/102581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/102566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232219/102563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/102583.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県高崎市十文字",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/高崎市/十文字.json",
+    "name": "十文字",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県高崎市"
+  }
+]

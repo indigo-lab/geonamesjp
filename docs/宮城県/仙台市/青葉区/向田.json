@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市青葉区向田",
+    "表記": "宮城県仙台市青葉区向田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "青葉区",
+      "町名": "向田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S041010880"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403633"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/100858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/100857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/100857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/100858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/100857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233594/100855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233595/100857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233595/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233592/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233593/100855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233596/100856.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市青葉区向田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/青葉区/向田.json",
+    "name": "向田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市青葉区"
+  }
+]

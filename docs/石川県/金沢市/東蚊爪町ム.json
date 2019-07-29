@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市東蚊爪町ム",
+    "表記": "石川県金沢市東蚊爪町ム",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "東蚊爪町ム"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367562"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230581/102364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230583/102364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230582/102363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230582/102364.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市東蚊爪町ム",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/東蚊爪町ム.json",
+    "name": "東蚊爪町ム",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

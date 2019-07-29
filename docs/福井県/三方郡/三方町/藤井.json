@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県三方郡三方町藤井",
+    "表記": "福井県三方郡三方町藤井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "三方郡",
+      "市区町村": "三方町",
+      "町名": "藤井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352733",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352743"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230037/103358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230036/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230036/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230037/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230038/103360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230038/103359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230038/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230039/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230040/103361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230045/103357.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県三方郡三方町藤井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/三方郡/三方町/藤井.json",
+    "name": "藤井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県三方郡三方町"
+  }
+]

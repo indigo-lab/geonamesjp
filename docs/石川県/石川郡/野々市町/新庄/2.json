@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県石川郡野々市町新庄二丁目",
+    "表記": "石川県石川郡野々市町新庄二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "石川郡",
+      "市区町村": "野々市町",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365498",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366408"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230548/102491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230548/102490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230546/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230548/102489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230546/102489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230548/102488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230548/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230548/102486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230549/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230546/102490.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県石川郡野々市町新庄二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/石川郡/野々市町/新庄/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/石川県石川郡野々市町新庄"
+  }
+]

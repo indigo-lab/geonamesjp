@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県名張市桔梗が丘七番町",
+    "表記": "三重県名張市桔梗が丘七番町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "桔梗が丘七番町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367170"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/104149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/104148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230198/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230196/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230195/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230195/104149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230197/104148.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県名張市桔梗が丘七番町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/名張市/桔梗が丘七番町.json",
+    "name": "桔梗が丘七番町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県名張市"
+  }
+]

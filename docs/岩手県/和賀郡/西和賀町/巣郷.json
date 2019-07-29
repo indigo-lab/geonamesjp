@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県和賀郡西和賀町巣郷",
+    "表記": "岩手県和賀郡西和賀町巣郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "和賀郡",
+      "市区町村": "西和賀町",
+      "町名": "巣郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407528"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233545/99930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233544/99928.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県和賀郡西和賀町巣郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/和賀郡/西和賀町/巣郷.json",
+    "name": "巣郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県和賀郡西和賀町"
+  }
+]

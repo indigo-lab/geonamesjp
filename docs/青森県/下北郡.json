@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県下北郡",
+    "表記": "青森県下北郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "下北郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C02420-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県下北郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/下北郡.json",
+    "name": "下北郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県",
+    "children": [
+      "https://geonames.jp/resource/青森県下北郡佐井村",
+      "https://geonames.jp/resource/青森県下北郡風間浦村",
+      "https://geonames.jp/resource/青森県下北郡東通村",
+      "https://geonames.jp/resource/青森県下北郡川内町",
+      "https://geonames.jp/resource/青森県下北郡脇野沢村",
+      "https://geonames.jp/resource/青森県下北郡大間町",
+      "https://geonames.jp/resource/青森県下北郡大畑町",
+      "https://geonames.jp/resource/青森県下北郡大奥村",
+      "https://geonames.jp/resource/青森県下北郡大湊村",
+      "https://geonames.jp/resource/青森県下北郡大畑村",
+      "https://geonames.jp/resource/青森県下北郡田名部町",
+      "https://geonames.jp/resource/青森県下北郡大湊町"
+    ]
+  }
+]

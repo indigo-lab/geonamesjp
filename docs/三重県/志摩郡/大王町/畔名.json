@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県志摩郡大王町畔名",
+    "表記": "三重県志摩郡大王町畔名",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "志摩郡",
+      "市区町村": "大王町",
+      "町名": "畔名"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051363750"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/104457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/104459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/104458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230744/104460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230745/104458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230744/104458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230743/104461.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県志摩郡大王町畔名",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/志摩郡/大王町/畔名.json",
+    "name": "畔名",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県志摩郡大王町"
+  }
+]

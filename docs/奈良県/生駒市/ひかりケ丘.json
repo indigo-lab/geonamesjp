@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県生駒市ひかりケ丘",
+    "表記": "奈良県生駒市ひかりケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "生駒市",
+      "町名": "ひかりケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県生駒市ひかりケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/生駒市/ひかりケ丘.json",
+    "name": "ひかりケ丘",
+    "alternateName": [
+      "ひかりヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県生駒市",
+    "children": [
+      "https://geonames.jp/resource/奈良県生駒市ひかりケ丘一丁目"
+    ]
+  }
+]

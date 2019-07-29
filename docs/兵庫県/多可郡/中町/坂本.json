@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県多可郡中町坂本",
+    "表記": "兵庫県多可郡中町坂本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "多可郡",
+      "市区町村": "中町",
+      "町名": "坂本"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344733",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344734",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344743",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344744"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229319/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229320/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229321/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229322/103806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229321/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229323/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229323/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229324/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229324/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229324/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229325/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229325/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229326/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229326/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229318/103806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229314/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229318/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229318/103811.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県多可郡中町坂本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/多可郡/中町/坂本.json",
+    "name": "坂本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県多可郡中町"
+  }
+]

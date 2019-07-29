@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡河内町和銅谷",
+    "表記": "茨城県稲敷郡河内町和銅谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "稲敷郡",
+      "市区町村": "河内町",
+      "町名": "和銅谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406254",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406264",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406265"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233236/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/103046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/103044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233238/103046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/103046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/103046.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡河内町和銅谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/稲敷郡/河内町/和銅谷.json",
+    "name": "和銅谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県稲敷郡河内町"
+  }
+]

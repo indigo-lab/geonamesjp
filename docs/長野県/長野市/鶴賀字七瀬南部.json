@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県長野市鶴賀字七瀬南部",
+    "表記": "長野県長野市鶴賀字七瀬南部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "長野市",
+      "町名": "鶴賀字七瀬南部"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054387166",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054387175",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054387176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054387165"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231707/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231707/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231708/102361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231703/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231704/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231703/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231705/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231702/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231705/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231704/102359.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県長野市鶴賀字七瀬南部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/長野市/鶴賀字七瀬南部.json",
+    "name": "鶴賀字七瀬南部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県長野市"
+  }
+]

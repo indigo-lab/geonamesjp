@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県周南市大字奥関屋",
+    "表記": "山口県周南市大字奥関屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "周南市",
+      "町名": "大字奥関屋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352151840"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310786",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310766",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310785",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310775"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227155/104658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227155/104665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227147/104658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227155/104667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227151/104659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227148/104661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227151/104657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227152/104660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227154/104661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227154/104662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227156/104659.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県周南市大字奥関屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/周南市/大字奥関屋.json",
+    "name": "大字奥関屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県周南市"
+  }
+]

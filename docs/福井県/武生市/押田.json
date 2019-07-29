@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県武生市押田",
+    "表記": "福井県武生市押田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "武生市",
+      "町名": "押田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県武生市押田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/武生市/押田.json",
+    "name": "押田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県武生市",
+    "children": [
+      "https://geonames.jp/resource/福井県武生市押田一丁目",
+      "https://geonames.jp/resource/福井県武生市押田二丁目"
+    ]
+  }
+]

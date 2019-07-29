@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県茂原市吉井",
+    "表記": "千葉県茂原市吉井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "茂原市",
+      "町名": "吉井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401273",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401282",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401283"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233232/103398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233229/103396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233226/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233227/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233227/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233229/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233227/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233229/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/103406.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県茂原市吉井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/茂原市/吉井.json",
+    "name": "吉井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県茂原市"
+  }
+]

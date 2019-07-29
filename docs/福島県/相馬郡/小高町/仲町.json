@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町仲町",
+    "表記": "福島県相馬郡小高町仲町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "小高町",
+      "町名": "仲町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町仲町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/小高町/仲町.json",
+    "name": "仲町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡小高町",
+    "children": [
+      "https://geonames.jp/resource/福島県相馬郡小高町仲町一丁目",
+      "https://geonames.jp/resource/福島県相馬郡小高町仲町二丁目"
+    ]
+  }
+]

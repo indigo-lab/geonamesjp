@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県宗像市自由ヶ丘（丁目なし）",
+    "表記": "福岡県宗像市自由ヶ丘（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "宗像市",
+      "町名": "（丁目なし）"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305455",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305456"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226153/104894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226156/104895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/104895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/104895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226157/104900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226154/104900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/104896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226158/104899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226154/104894.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県宗像市自由ヶ丘（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/宗像市/自由ヶ丘/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県宗像市自由ヶ丘"
+  }
+]

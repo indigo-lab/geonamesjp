@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県美方郡浜坂町田井",
+    "表記": "兵庫県美方郡浜坂町田井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "美方郡",
+      "市区町村": "浜坂町",
+      "町名": "田井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343347",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343357",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343358",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343368"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228991/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228991/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228991/103275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228992/103275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228992/103273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228996/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228992/103271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228993/103270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228993/103269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228994/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228994/103269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228995/103266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228996/103267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228996/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228998/103266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228997/103267.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県美方郡浜坂町田井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/美方郡/浜坂町/田井.json",
+    "name": "田井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県美方郡浜坂町"
+  }
+]

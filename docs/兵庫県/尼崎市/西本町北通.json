@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県尼崎市西本町北通",
+    "表記": "兵庫県尼崎市西本町北通",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "尼崎市",
+      "町名": "西本町北通"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県尼崎市西本町北通",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/尼崎市/西本町北通.json",
+    "name": "西本町北通",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県尼崎市",
+    "children": [
+      "https://geonames.jp/resource/兵庫県尼崎市西本町北通（丁目なし）",
+      "https://geonames.jp/resource/兵庫県尼崎市西本町北通三丁目",
+      "https://geonames.jp/resource/兵庫県尼崎市西本町北通四丁目",
+      "https://geonames.jp/resource/兵庫県尼崎市西本町北通五丁目"
+    ]
+  }
+]

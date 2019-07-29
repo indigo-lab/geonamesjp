@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡蒲原町",
+    "表記": "静岡県庵原郡蒲原町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "庵原郡",
+      "市区町村": "蒲原町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C22382-20060331",
+        "http://data.e-stat.go.jp/lod/sac/C22382-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡蒲原町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/庵原郡/蒲原町.json",
+    "name": "蒲原町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県庵原郡",
+    "children": [
+      "https://geonames.jp/resource/静岡県庵原郡蒲原町堰沢",
+      "https://geonames.jp/resource/静岡県庵原郡蒲原町蒲原",
+      "https://geonames.jp/resource/静岡県庵原郡蒲原町小金",
+      "https://geonames.jp/resource/静岡県庵原郡蒲原町新栄",
+      "https://geonames.jp/resource/静岡県庵原郡蒲原町新田",
+      "https://geonames.jp/resource/静岡県庵原郡蒲原町神沢",
+      "https://geonames.jp/resource/静岡県庵原郡蒲原町中",
+      "https://geonames.jp/resource/静岡県庵原郡蒲原町東"
+    ]
+  }
+]

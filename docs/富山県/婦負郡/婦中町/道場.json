@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県婦負郡婦中町道場",
+    "表記": "富山県婦負郡婦中町道場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "婦負郡",
+      "市区町村": "婦中町",
+      "町名": "道場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377163",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377172",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377173"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/102353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230948/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230948/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230950/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230951/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230950/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230951/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230952/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230950/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230952/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/102355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230950/102361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/102361.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県婦負郡婦中町道場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/婦負郡/婦中町/道場.json",
+    "name": "道場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県婦負郡婦中町"
+  }
+]

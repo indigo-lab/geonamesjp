@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府茨木市大岩",
+    "表記": "大阪府茨木市大岩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "茨木市",
+      "町名": "大岩"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352453",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352463",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352464"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/103937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/103936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229777/103937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/103943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229776/103940.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府茨木市大岩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/茨木市/大岩.json",
+    "name": "大岩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府茨木市"
+  }
+]

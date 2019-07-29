@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市紙子谷",
+    "表記": "鳥取県鳥取市紙子谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "鳥取市",
+      "町名": "紙子谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312012750"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341139",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341230"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228832/103436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228831/103436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228832/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228831/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228829/103436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228829/103438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228830/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228829/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228830/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228831/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228830/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228831/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228831/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228832/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228832/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228833/103436.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市紙子谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/鳥取市/紙子谷.json",
+    "name": "紙子谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県鳥取市"
+  }
+]

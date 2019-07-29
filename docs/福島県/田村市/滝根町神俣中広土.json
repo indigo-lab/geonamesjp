@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村市滝根町神俣中広土",
+    "表記": "福島県田村市滝根町神俣中広土",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "田村市",
+      "町名": "滝根町神俣中広土"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407582",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407592",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407593"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233497/101737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233498/101738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233498/101737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233498/101736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233499/101736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233500/101736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233497/101738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233497/101736.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村市滝根町神俣中広土",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村市/滝根町神俣中広土.json",
+    "name": "滝根町神俣中広土",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県田村市"
+  }
+]

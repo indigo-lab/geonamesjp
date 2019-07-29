@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市若松区赤島町",
+    "表記": "福岡県北九州市若松区赤島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "若松区",
+      "町名": "赤島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401030030"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306672"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226304/104811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226302/104811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226303/104811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226303/104810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226302/104810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226301/104811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226301/104810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226300/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226302/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226304/104810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226305/104810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226305/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226304/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226303/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226301/104809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226301/104808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226304/104808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226300/104808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226302/104808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226303/104808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226305/104808.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市若松区赤島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/若松区/赤島町.json",
+    "name": "赤島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市若松区"
+  }
+]

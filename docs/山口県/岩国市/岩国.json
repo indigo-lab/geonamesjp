@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県岩国市岩国",
+    "表記": "山口県岩国市岩国",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "岩国市",
+      "町名": "岩国",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352080010"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県岩国市岩国",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/岩国市/岩国.json",
+    "name": "岩国",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県岩国市",
+    "children": [
+      "https://geonames.jp/resource/山口県岩国市岩国一丁目",
+      "https://geonames.jp/resource/山口県岩国市岩国二丁目",
+      "https://geonames.jp/resource/山口県岩国市岩国三丁目",
+      "https://geonames.jp/resource/山口県岩国市岩国四丁目",
+      "https://geonames.jp/resource/山口県岩国市岩国五丁目"
+    ]
+  }
+]

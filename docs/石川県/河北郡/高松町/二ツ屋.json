@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡高松町二ツ屋",
+    "表記": "石川県河北郡高松町二ツ屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "高松町",
+      "町名": "二ツ屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361547",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361548",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361549"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230643/102231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230644/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230643/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230642/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230644/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230645/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/102228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230631/102229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/102228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230642/102230.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡高松町二ツ屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/高松町/二ツ屋.json",
+    "name": "二ツ屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡高松町"
+  }
+]

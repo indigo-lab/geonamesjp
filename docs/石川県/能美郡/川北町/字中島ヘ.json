@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県能美郡川北町字中島ヘ",
+    "表記": "石川県能美郡川北町字中島ヘ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "能美郡",
+      "市区町村": "川北町",
+      "町名": "字中島ヘ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365456"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230531/102521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/102521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230531/102522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/102523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/102522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/102523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/102520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/102520.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県能美郡川北町字中島ヘ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/能美郡/川北町/字中島ヘ.json",
+    "name": "字中島ヘ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県能美郡川北町"
+  }
+]

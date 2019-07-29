@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市伊賀町五丁目",
+    "表記": "愛知県岡崎市伊賀町五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "伊賀町",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373163"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230954/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230955/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230955/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230955/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230955/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230954/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230956/103861.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市伊賀町五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/伊賀町/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市伊賀町"
+  }
+]

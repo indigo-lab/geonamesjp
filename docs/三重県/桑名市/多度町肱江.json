@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名市多度町肱江",
+    "表記": "三重県桑名市多度町肱江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "桑名市",
+      "町名": "多度町肱江",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242051620"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365541",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365551",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365552"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230577/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230577/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230578/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230577/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230571/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230572/103718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230572/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230572/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230572/103724.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名市多度町肱江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名市/多度町肱江.json",
+    "name": "多度町肱江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名市"
+  }
+]

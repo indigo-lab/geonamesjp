@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市中辺路町道湯川",
+    "表記": "和歌山県田辺市中辺路町道湯川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "田辺市",
+      "町名": "中辺路町道湯川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050356504"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229870/104859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229868/104859.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県田辺市中辺路町道湯川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/田辺市/中辺路町道湯川.json",
+    "name": "中辺路町道湯川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県田辺市"
+  }
+]

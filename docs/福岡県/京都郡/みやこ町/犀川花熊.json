@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県京都郡みやこ町犀川花熊",
+    "表記": "福岡県京都郡みやこ町犀川花熊",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "京都郡",
+      "市区町村": "みやこ町",
+      "町名": "犀川花熊",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S406250270"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304706",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304705"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226427/105003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226432/105000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226430/105000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226426/105004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226431/105000.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県京都郡みやこ町犀川花熊",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/京都郡/みやこ町/犀川花熊.json",
+    "name": "犀川花熊",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県京都郡みやこ町"
+  }
+]

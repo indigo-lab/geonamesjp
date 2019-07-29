@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市小西谷",
+    "表記": "鳥取県鳥取市小西谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "鳥取市",
+      "町名": "小西谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312011070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341290",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342201"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228838/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228836/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228839/103385.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市小西谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/鳥取市/小西谷.json",
+    "name": "小西谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県鳥取市"
+  }
+]

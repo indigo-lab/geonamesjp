@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県西白河郡矢吹町南町",
+    "表記": "福島県西白河郡矢吹町南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "西白河郡",
+      "市区町村": "矢吹町",
+      "町名": "南町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07466003001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406265",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406274",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406275",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406264"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/101827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/101833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/101828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233247/101833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233247/101831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/101834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/101833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/101834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/101831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/101832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/101828.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県西白河郡矢吹町南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/西白河郡/矢吹町/南町.json",
+    "name": "南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県西白河郡矢吹町"
+  }
+]

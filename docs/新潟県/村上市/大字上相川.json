@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県村上市大字上相川",
+    "表記": "新潟県村上市大字上相川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "村上市",
+      "町名": "大字上相川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392460"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/100915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/100913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/100914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/100913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/100911.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県村上市大字上相川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/村上市/大字上相川.json",
+    "name": "大字上相川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県村上市"
+  }
+]

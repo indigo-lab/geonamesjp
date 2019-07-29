@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市太白区西多賀三丁目",
+    "表記": "宮城県仙台市太白区西多賀三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "太白区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04104042003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402668",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402678",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402677",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402667"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233639/100910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233640/100910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233638/100910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233639/100909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233638/100909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233637/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233637/100907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233636/100907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233636/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233640/100911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233639/100911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233638/100911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233635/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233634/100907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233635/100907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233638/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233634/100908.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市太白区西多賀三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/太白区/西多賀/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市太白区西多賀"
+  }
+]

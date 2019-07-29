@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道上川郡東神楽町六号",
+    "表記": "北海道上川郡東神楽町六号",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "上川郡",
+      "市区町村": "東神楽町",
+      "町名": "六号"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065424352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065424353",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065424363"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234781/95604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234778/95607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234778/95605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234779/95607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234779/95606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234776/95609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234777/95608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234776/95610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234773/95609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234775/95611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234774/95613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234772/95612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234773/95612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234774/95611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234779/95603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234781/95603.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道上川郡東神楽町六号",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/上川郡/東神楽町/六号.json",
+    "name": "六号",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道上川郡東神楽町"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県東海市富木島町道才",
+    "表記": "愛知県東海市富木島町道才",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "東海市",
+      "町名": "富木島町道才"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364723"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103814.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県東海市富木島町道才",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/東海市/富木島町道才.json",
+    "name": "富木島町道才",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県東海市"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道十勝郡浦幌町字川流布",
+    "表記": "北海道十勝郡浦幌町字川流布",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "十勝郡",
+      "市区町村": "浦幌町",
+      "町名": "字川流布"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064434592",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064434582"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235680/96248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235683/96250.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道十勝郡浦幌町字川流布",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/十勝郡/浦幌町/字川流布.json",
+    "name": "字川流布",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道十勝郡浦幌町"
+  }
+]

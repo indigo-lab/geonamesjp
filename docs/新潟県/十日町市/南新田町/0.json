@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県十日町市南新田町（丁目なし）",
+    "表記": "新潟県十日町市南新田町（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "南新田町",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152101830"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385670",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385671"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/101901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/101901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/101900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232115/101900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232113/101902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/101903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232114/101902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232115/101902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232115/101901.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県十日町市南新田町（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/十日町市/南新田町/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県十日町市南新田町"
+  }
+]

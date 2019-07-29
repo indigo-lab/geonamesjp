@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県大原郡加茂町",
+    "表記": "島根県大原郡加茂町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "大原郡",
+      "市区町村": "加茂町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32362-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C32362-20041101",
+        "http://data.e-stat.go.jp/lod/sac/C32362-19971216"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県大原郡加茂町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/大原郡/加茂町.json",
+    "name": "加茂町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県大原郡",
+    "children": [
+      "https://geonames.jp/resource/島根県大原郡加茂町神原",
+      "https://geonames.jp/resource/島根県大原郡加茂町新宮",
+      "https://geonames.jp/resource/島根県大原郡加茂町東谷",
+      "https://geonames.jp/resource/島根県大原郡加茂町猪尾",
+      "https://geonames.jp/resource/島根県大原郡加茂町大崎",
+      "https://geonames.jp/resource/島根県大原郡加茂町延野",
+      "https://geonames.jp/resource/島根県大原郡加茂町加茂中",
+      "https://geonames.jp/resource/島根県大原郡加茂町宇治",
+      "https://geonames.jp/resource/島根県大原郡加茂町岩倉"
+    ]
+  }
+]

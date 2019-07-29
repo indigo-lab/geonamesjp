@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県下呂市金山町田島",
+    "表記": "岐阜県下呂市金山町田島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "下呂市",
+      "町名": "金山町田島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053373183",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053373184"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230955/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230966/103247.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県下呂市金山町田島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/下呂市/金山町田島.json",
+    "name": "金山町田島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県下呂市"
+  }
+]

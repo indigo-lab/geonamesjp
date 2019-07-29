@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道深川市芽生",
+    "表記": "北海道深川市芽生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "深川市",
+      "町名": "芽生"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065424051",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065424061",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065424062",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065424072"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234492/95600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234489/95600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234496/95597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234485/95603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234487/95604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234485/95605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234488/95607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234485/95608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234482/95609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234494/95597.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道深川市芽生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/深川市/芽生.json",
+    "name": "芽生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道深川市"
+  }
+]

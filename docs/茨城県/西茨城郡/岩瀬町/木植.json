@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県西茨城郡岩瀬町木植",
+    "表記": "茨城県西茨城郡岩瀬町木植",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "西茨城郡",
+      "市区町村": "岩瀬町",
+      "町名": "木植"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403183",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403193",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054404102"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233137/102642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233139/102645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233139/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233135/102645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233135/102639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233135/102642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233135/102643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102639.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県西茨城郡岩瀬町木植",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/西茨城郡/岩瀬町/木植.json",
+    "name": "木植",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県西茨城郡岩瀬町"
+  }
+]

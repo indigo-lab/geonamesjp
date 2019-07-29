@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県安芸郡芸濃町",
+    "表記": "三重県安芸郡芸濃町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "安芸郡",
+      "市区町村": "芸濃町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C24382-19850401",
+        "http://data.e-stat.go.jp/lod/sac/C24382-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C24382-20060101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県安芸郡芸濃町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/安芸郡/芸濃町.json",
+    "name": "芸濃町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県安芸郡",
+    "children": [
+      "https://geonames.jp/resource/三重県安芸郡芸濃町雲林院",
+      "https://geonames.jp/resource/三重県安芸郡芸濃町岡本",
+      "https://geonames.jp/resource/三重県安芸郡芸濃町多門",
+      "https://geonames.jp/resource/三重県安芸郡芸濃町中縄",
+      "https://geonames.jp/resource/三重県安芸郡芸濃町楠原",
+      "https://geonames.jp/resource/三重県安芸郡芸濃町忍田",
+      "https://geonames.jp/resource/三重県安芸郡芸濃町萩野",
+      "https://geonames.jp/resource/三重県安芸郡芸濃町北神山",
+      "https://geonames.jp/resource/三重県安芸郡芸濃町椋本",
+      "https://geonames.jp/resource/三重県安芸郡芸濃町林"
+    ]
+  }
+]

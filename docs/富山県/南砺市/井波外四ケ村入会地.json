@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県南砺市井波外四ケ村入会地",
+    "表記": "富山県南砺市井波外四ケ村入会地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "南砺市",
+      "町名": "井波外四ケ村入会地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366758",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366778"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230820/102444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230822/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230821/102434.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県南砺市井波外四ケ村入会地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/南砺市/井波外四ケ村入会地.json",
+    "name": "井波外四ケ村入会地",
+    "alternateName": [
+      "井波外四ヶ村入会地"
+    ],
+    "parentFeature": "https://geonames.jp/resource/富山県南砺市"
+  }
+]

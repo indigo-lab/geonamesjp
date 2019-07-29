@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県須賀川市舘ケ岡字本郷",
+    "表記": "福島県須賀川市舘ケ岡字本郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "須賀川市",
+      "町名": "舘ケ岡字本郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407293"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/101733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233230/101732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233229/101731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/101733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/101732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233231/101731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/101732.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県須賀川市舘ケ岡字本郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/須賀川市/舘ケ岡字本郷.json",
+    "name": "舘ケ岡字本郷",
+    "alternateName": [
+      "舘ヶ岡字本郷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県須賀川市"
+  }
+]

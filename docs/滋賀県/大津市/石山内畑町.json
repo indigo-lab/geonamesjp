@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県大津市石山内畑町",
+    "表記": "滋賀県大津市石山内畑町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "石山内畑町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252012610"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353710",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353700",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353609",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353619"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230016/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230014/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230014/103902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230011/103903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230016/103898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230012/103899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230013/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230014/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230016/103897.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県大津市石山内畑町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/大津市/石山内畑町.json",
+    "name": "石山内畑町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県大津市"
+  }
+]

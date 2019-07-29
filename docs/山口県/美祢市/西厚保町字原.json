@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県美祢市西厚保町字原",
+    "表記": "山口県美祢市西厚保町字原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "美祢市",
+      "町名": "西厚保町字原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311058",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311029",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311039",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311049"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226541/104607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226548/104616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226548/104627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226551/104615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226544/104610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226549/104612.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県美祢市西厚保町字原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/美祢市/西厚保町字原.json",
+    "name": "西厚保町字原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県美祢市"
+  }
+]

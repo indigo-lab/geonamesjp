@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県大崎市要害",
+    "表記": "宮城県大崎市要害",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "大崎市",
+      "町名": "要害"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400579",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400589",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400670",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400680"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233564/100432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233564/100433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233562/100434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233564/100434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233562/100435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233563/100435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233561/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233565/100437.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県大崎市要害",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/大崎市/要害.json",
+    "name": "要害",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県大崎市"
+  }
+]

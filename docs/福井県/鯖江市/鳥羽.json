@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県鯖江市鳥羽",
+    "表記": "福井県鯖江市鳥羽",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "鯖江市",
+      "町名": "鳥羽"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県鯖江市鳥羽",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/鯖江市/鳥羽.json",
+    "name": "鳥羽",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県鯖江市",
+    "children": [
+      "https://geonames.jp/resource/福井県鯖江市鳥羽（丁目なし）",
+      "https://geonames.jp/resource/福井県鯖江市鳥羽一丁目",
+      "https://geonames.jp/resource/福井県鯖江市鳥羽二丁目",
+      "https://geonames.jp/resource/福井県鯖江市鳥羽三丁目"
+    ]
+  }
+]

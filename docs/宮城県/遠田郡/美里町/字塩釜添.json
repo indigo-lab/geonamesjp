@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡美里町字塩釜添",
+    "表記": "宮城県遠田郡美里町字塩釜添",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "遠田郡",
+      "市区町村": "美里町",
+      "町名": "字塩釜添"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416037"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233815/100627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233816/100628.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡美里町字塩釜添",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/遠田郡/美里町/字塩釜添.json",
+    "name": "字塩釜添",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県遠田郡美里町"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県上閉伊郡大槌町桜木町",
+    "表記": "岩手県上閉伊郡大槌町桜木町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "上閉伊郡",
+      "市区町村": "大槌町",
+      "町名": "桜木町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S034610140"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410730",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410731"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234394/99849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234391/99847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234389/99848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234390/99848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234391/99848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234392/99848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234393/99848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234393/99849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234392/99849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234391/99849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234390/99849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234389/99849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234390/99847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234389/99847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234392/99847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234395/99849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234395/99850.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県上閉伊郡大槌町桜木町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/上閉伊郡/大槌町/桜木町.json",
+    "name": "桜木町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県上閉伊郡大槌町"
+  }
+]

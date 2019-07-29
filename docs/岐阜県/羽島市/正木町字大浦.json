@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県羽島市正木町字大浦",
+    "表記": "岐阜県羽島市正木町字大浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "羽島市",
+      "町名": "正木町字大浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367588",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367598"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230631/103546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/103546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/103547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/103548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/103546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/103547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/103548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/103549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103548.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県羽島市正木町字大浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/羽島市/正木町字大浦.json",
+    "name": "正木町字大浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県羽島市"
+  }
+]

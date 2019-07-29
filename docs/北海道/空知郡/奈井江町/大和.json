@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道空知郡奈井江町大和",
+    "表記": "北海道空知郡奈井江町大和",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "空知郡",
+      "市区町村": "奈井江町",
+      "町名": "大和"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411730",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411731",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411741"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234385/95881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234394/95886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234392/95883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234394/95881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234383/95881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234388/95880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234397/95876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234393/95875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234397/95874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234396/95872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234398/95870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234392/95869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234384/95879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234387/95877.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道空知郡奈井江町大和",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/空知郡/奈井江町/大和.json",
+    "name": "大和",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道空知郡奈井江町"
+  }
+]

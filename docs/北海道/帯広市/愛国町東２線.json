@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道帯広市愛国町東２線",
+    "表記": "北海道帯広市愛国町東２線",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "帯広市",
+      "町名": "愛国町東２線"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064431196",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432106",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432117",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432127",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432137"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235360/96467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235357/96472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235361/96467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235360/96465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235361/96461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235351/96486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235352/96483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235353/96480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235353/96487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235354/96484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235355/96481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235354/96476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235356/96476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235349/96490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235352/96491.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道帯広市愛国町東２線",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/帯広市/愛国町東２線.json",
+    "name": "愛国町東２線",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道帯広市"
+  }
+]

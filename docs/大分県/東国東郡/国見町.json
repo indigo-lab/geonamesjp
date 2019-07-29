@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県東国東郡国見町",
+    "表記": "大分県東国東郡国見町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "郡": "東国東郡",
+      "市区町村": "国見町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C44321-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C44321-20060331"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県東国東郡国見町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/東国東郡/国見町.json",
+    "name": "国見町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県東国東郡"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県江南市上奈良町神明",
+    "表記": "愛知県江南市上奈良町神明",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "江南市",
+      "町名": "上奈良町神明"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367698",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367688"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103546.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県江南市上奈良町神明",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/江南市/上奈良町神明.json",
+    "name": "上奈良町神明",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県江南市"
+  }
+]

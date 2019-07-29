@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県ひたちなか市高場四丁目",
+    "表記": "茨城県ひたちなか市高場四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "ひたちなか市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054405412",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054405413",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054405422"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/102551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/102553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/102552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/102552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/102552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/102553.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県ひたちなか市高場四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/ひたちなか市/高場/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県ひたちなか市高場"
+  }
+]

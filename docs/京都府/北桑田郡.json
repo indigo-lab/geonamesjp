@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府北桑田郡",
+    "表記": "京都府北桑田郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "北桑田郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C26380-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C26380-20060101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府北桑田郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/北桑田郡.json",
+    "name": "北桑田郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府",
+    "children": [
+      "https://geonames.jp/resource/京都府北桑田郡美山町",
+      "https://geonames.jp/resource/京都府北桑田郡京北町",
+      "https://geonames.jp/resource/京都府北桑田郡周山村",
+      "https://geonames.jp/resource/京都府北桑田郡大野村",
+      "https://geonames.jp/resource/京都府北桑田郡宇津村",
+      "https://geonames.jp/resource/京都府北桑田郡宮島村",
+      "https://geonames.jp/resource/京都府北桑田郡山国村",
+      "https://geonames.jp/resource/京都府北桑田郡平屋村",
+      "https://geonames.jp/resource/京都府北桑田郡弓削村",
+      "https://geonames.jp/resource/京都府北桑田郡知井村",
+      "https://geonames.jp/resource/京都府北桑田郡神吉村",
+      "https://geonames.jp/resource/京都府北桑田郡細野村",
+      "https://geonames.jp/resource/京都府北桑田郡鶴ケ岡村",
+      "https://geonames.jp/resource/京都府北桑田郡黒田村",
+      "https://geonames.jp/resource/京都府北桑田郡周山町"
+    ]
+  }
+]

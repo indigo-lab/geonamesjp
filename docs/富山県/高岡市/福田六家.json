@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市福田六家",
+    "表記": "富山県高岡市福田六家",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "高岡市",
+      "町名": "福田六家",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S16202252001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162022520"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360787",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360788",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360797",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360798"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230811/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230811/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230811/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230810/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230810/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230811/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230811/102268.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市福田六家",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/福田六家.json",
+    "name": "福田六家",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市松ノ木町",
+    "表記": "新潟県三条市松ノ木町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "松ノ木町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152040500"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383759",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383758"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101456.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市松ノ木町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/松ノ木町.json",
+    "name": "松ノ木町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市"
+  }
+]

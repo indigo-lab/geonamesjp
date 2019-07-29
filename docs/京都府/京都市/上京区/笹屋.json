@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京都市上京区笹屋",
+    "表記": "京都府京都市上京区笹屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京都市",
+      "区": "上京区",
+      "町名": "笹屋"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京都市上京区笹屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京都市/上京区/笹屋.json",
+    "name": "笹屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京都市上京区",
+    "children": [
+      "https://geonames.jp/resource/京都府京都市上京区笹屋四丁目",
+      "https://geonames.jp/resource/京都府京都市上京区笹屋五丁目"
+    ]
+  }
+]

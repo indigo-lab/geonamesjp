@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市川市相之川三丁目",
+    "表記": "千葉県市川市相之川三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "市川市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12203065003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394712",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394711"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/103230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103231.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市川市相之川三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市川市/相之川/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県市川市相之川"
+  }
+]

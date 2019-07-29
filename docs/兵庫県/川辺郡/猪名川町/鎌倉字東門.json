@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県川辺郡猪名川町鎌倉字東門",
+    "表記": "兵庫県川辺郡猪名川町鎌倉字東門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "川辺郡",
+      "市区町村": "猪名川町",
+      "町名": "鎌倉字東門"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353276"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229618/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229619/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229619/103850.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県川辺郡猪名川町鎌倉字東門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/川辺郡/猪名川町/鎌倉字東門.json",
+    "name": "鎌倉字東門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県川辺郡猪名川町"
+  }
+]

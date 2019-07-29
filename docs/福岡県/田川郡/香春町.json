@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県田川郡香春町",
+    "表記": "福岡県田川郡香春町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "田川郡",
+      "市区町村": "香春町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C40601-19700601",
+        "http://data.e-stat.go.jp/lod/sac/C40601-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県田川郡香春町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/田川郡/香春町.json",
+    "name": "香春町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県田川郡",
+    "children": [
+      "https://geonames.jp/resource/福岡県田川郡香春町大字中津原",
+      "https://geonames.jp/resource/福岡県田川郡香春町大字柿下",
+      "https://geonames.jp/resource/福岡県田川郡香春町大字香春",
+      "https://geonames.jp/resource/福岡県田川郡香春町大字高野",
+      "https://geonames.jp/resource/福岡県田川郡香春町大字鏡山",
+      "https://geonames.jp/resource/福岡県田川郡香春町大字採銅所",
+      "https://geonames.jp/resource/福岡県田川郡香春町採銅所",
+      "https://geonames.jp/resource/福岡県田川郡香春町鏡山",
+      "https://geonames.jp/resource/福岡県田川郡香春町高野",
+      "https://geonames.jp/resource/福岡県田川郡香春町柿下",
+      "https://geonames.jp/resource/福岡県田川郡香春町中津原",
+      "https://geonames.jp/resource/福岡県田川郡香春町香春"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q573632"
+    ]
+  }
+]

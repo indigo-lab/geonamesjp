@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道夕張市鹿ノ谷",
+    "表記": "北海道夕張市鹿ノ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "夕張市",
+      "町名": "鹿ノ谷"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道夕張市鹿ノ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/夕張市/鹿ノ谷.json",
+    "name": "鹿ノ谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道夕張市",
+    "children": [
+      "https://geonames.jp/resource/北海道夕張市鹿ノ谷一丁目",
+      "https://geonames.jp/resource/北海道夕張市鹿ノ谷二丁目",
+      "https://geonames.jp/resource/北海道夕張市鹿ノ谷三丁目"
+    ]
+  }
+]

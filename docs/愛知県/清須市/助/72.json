@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県清須市助七十二丁目",
+    "表記": "愛知県清須市助七十二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "清須市",
+      "町名": "七十二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366647",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366648"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230722/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230723/103652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230723/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230723/103654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230724/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230724/103654.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県清須市助七十二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/清須市/助/72.json",
+    "name": "七十二丁目",
+    "alternateName": [
+      "72",
+      "72丁目",
+      "７２",
+      "７２丁目",
+      "七十二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県清須市助"
+  }
+]

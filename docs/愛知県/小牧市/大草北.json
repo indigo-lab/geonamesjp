@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市大草北",
+    "表記": "愛知県小牧市大草北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "大草北"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367759",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377060"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/103571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230828/103571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230828/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230832/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230827/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/103571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/103563.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市大草北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/大草北.json",
+    "name": "大草北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市"
+  }
+]

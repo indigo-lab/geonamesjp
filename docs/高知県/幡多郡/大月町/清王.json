@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県幡多郡大月町清王",
+    "表記": "高知県幡多郡大月町清王",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "幡多郡",
+      "市区町村": "大月町",
+      "町名": "清王"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049321587"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227716/105743.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県幡多郡大月町清王",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/幡多郡/大月町/清王.json",
+    "name": "清王",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県幡多郡大月町"
+  }
+]

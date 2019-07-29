@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市今泉",
+    "表記": "山形県鶴岡市今泉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "鶴岡市",
+      "町名": "今泉",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06203126051",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062031260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391507",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391518",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391508",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391517"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232819/100409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232814/100412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/100413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/100412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/100412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/100410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/100411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/100409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/100414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232814/100411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232817/100413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/100408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232820/100411.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市今泉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/鶴岡市/今泉.json",
+    "name": "今泉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県鶴岡市"
+  }
+]

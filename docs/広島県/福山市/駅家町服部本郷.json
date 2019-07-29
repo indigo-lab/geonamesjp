@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県福山市駅家町服部本郷",
+    "表記": "広島県福山市駅家町服部本郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "福山市",
+      "町名": "駅家町服部本郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337204",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337205",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337214",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337225"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228143/104191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228147/104186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/104188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/104190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/104193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/104191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/104192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/104195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228146/104191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228146/104200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228146/104197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228146/104196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/104201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228149/104197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228146/104201.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県福山市駅家町服部本郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/福山市/駅家町服部本郷.json",
+    "name": "駅家町服部本郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県福山市"
+  }
+]

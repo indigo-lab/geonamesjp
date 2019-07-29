@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市中央区大戸二丁目",
+    "表記": "埼玉県さいたま市中央区大戸二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "区": "中央区",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11105009002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396530"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232750/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232749/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232750/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/103064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/103064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232750/103063.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市中央区大戸二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/中央区/大戸/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市中央区大戸"
+  }
+]

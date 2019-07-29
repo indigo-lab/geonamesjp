@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県山田市",
+    "表記": "福岡県山田市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "山田市",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C40208-20060327",
+        "http://data.e-stat.go.jp/lod/sac/C40208-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県山田市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/山田市.json",
+    "name": "山田市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県",
+    "children": [
+      "https://geonames.jp/resource/福岡県山田市下山田",
+      "https://geonames.jp/resource/福岡県山田市熊ヶ畑",
+      "https://geonames.jp/resource/福岡県山田市上山田",
+      "https://geonames.jp/resource/福岡県山田市大字猪国"
+    ]
+  }
+]

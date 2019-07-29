@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県千葉市若葉区都賀三丁目",
+    "表記": "千葉県千葉市若葉区都賀三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "千葉市",
+      "区": "若葉区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12104037003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403161"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233126/103267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233126/103266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233127/103266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233126/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233126/103269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233127/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233127/103267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233128/103266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233127/103265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233128/103265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103266.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県千葉市若葉区都賀三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/千葉市/若葉区/都賀/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県千葉市若葉区都賀"
+  }
+]

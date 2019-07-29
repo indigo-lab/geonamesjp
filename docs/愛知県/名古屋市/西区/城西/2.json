@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市西区城西二丁目",
+    "表記": "愛知県名古屋市西区城西二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "西区",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23104052092"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366721"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/103670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/103670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/103669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/103669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/103670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/103669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230752/103669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/103668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/103668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/103668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/103671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/103668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230752/103668.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市西区城西二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/西区/城西/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市西区城西"
+  }
+]

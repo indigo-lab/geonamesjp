@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県所沢市北中四丁目",
+    "表記": "埼玉県所沢市北中四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "所沢市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11208052004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395384",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395374",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395375",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395385"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232608/103107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/103107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232607/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232607/103107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232607/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232608/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232607/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232608/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232605/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232605/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232605/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232607/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232607/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232607/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232609/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232608/103103.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県所沢市北中四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/所沢市/北中/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県所沢市北中"
+  }
+]

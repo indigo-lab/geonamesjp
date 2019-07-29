@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市額乙丸町ハ",
+    "表記": "石川県金沢市額乙丸町ハ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "額乙丸町ハ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366419"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230554/102478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230554/102477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230554/102479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230554/102480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230553/102480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230555/102478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230555/102477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230553/102479.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市額乙丸町ハ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/額乙丸町ハ.json",
+    "name": "額乙丸町ハ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

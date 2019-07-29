@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名郡多度町戸津",
+    "表記": "三重県桑名郡多度町戸津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "桑名郡",
+      "市区町村": "多度町",
+      "町名": "戸津"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365551",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365561"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230572/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230572/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230572/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230571/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103719.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名郡多度町戸津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名郡/多度町/戸津.json",
+    "name": "戸津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名郡多度町"
+  }
+]

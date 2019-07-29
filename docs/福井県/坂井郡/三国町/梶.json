@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井郡三国町梶",
+    "表記": "福井県坂井郡三国町梶",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "坂井郡",
+      "市区町村": "三国町",
+      "町名": "梶"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363101",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363102"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/102719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/102722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/102718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/102717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230217/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/102712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/102710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/102712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/102712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/102720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/102719.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井郡三国町梶",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井郡/三国町/梶.json",
+    "name": "梶",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井郡三国町"
+  }
+]

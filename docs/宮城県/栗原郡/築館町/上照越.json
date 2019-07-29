@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町上照越",
+    "表記": "宮城県栗原郡築館町上照越",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "栗原郡",
+      "市区町村": "築館町",
+      "町名": "上照越"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400749",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400759",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410050"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233739/100457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233740/100457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233741/100455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233742/100455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/100454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233747/100453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233748/100453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233750/100455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233751/100455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233750/100454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233750/100456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/100455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/100460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/100461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/100458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233739/100458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233739/100460.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町上照越",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原郡/築館町/上照越.json",
+    "name": "上照越",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原郡築館町"
+  }
+]

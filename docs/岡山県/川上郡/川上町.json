@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県川上郡川上町",
+    "表記": "岡山県川上郡川上町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "川上郡",
+      "市区町村": "川上町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C33542-20041001",
+        "http://data.e-stat.go.jp/lod/sac/C33542-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C33542-19891001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県川上郡川上町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/川上郡/川上町.json",
+    "name": "川上町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県川上郡"
+  }
+]

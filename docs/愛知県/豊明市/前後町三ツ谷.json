@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊明市前後町三ツ谷",
+    "表記": "愛知県豊明市前後町三ツ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊明市",
+      "町名": "前後町三ツ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364778",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364779"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230822/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230822/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230824/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230822/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230822/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230823/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230822/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230823/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230824/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230824/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230821/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230821/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230822/103777.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊明市前後町三ツ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊明市/前後町三ツ谷.json",
+    "name": "前後町三ツ谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊明市"
+  }
+]

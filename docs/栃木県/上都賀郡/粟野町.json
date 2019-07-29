@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県上都賀郡粟野町",
+    "表記": "栃木県上都賀郡粟野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "上都賀郡",
+      "市区町村": "粟野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C09322-19770601",
+        "http://data.e-stat.go.jp/lod/sac/C09322-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C09322-19820401",
+        "http://data.e-stat.go.jp/lod/sac/C09322-19941201",
+        "http://data.e-stat.go.jp/lod/sac/C09322-20060101",
+        "http://data.e-stat.go.jp/lod/sac/C09322-19860301"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県上都賀郡粟野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/上都賀郡/粟野町.json",
+    "name": "粟野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県上都賀郡",
+    "children": [
+      "https://geonames.jp/resource/栃木県上都賀郡粟野町深程",
+      "https://geonames.jp/resource/栃木県上都賀郡粟野町柏木",
+      "https://geonames.jp/resource/栃木県上都賀郡粟野町中粕尾",
+      "https://geonames.jp/resource/栃木県上都賀郡粟野町久野",
+      "https://geonames.jp/resource/栃木県上都賀郡粟野町北半田",
+      "https://geonames.jp/resource/栃木県上都賀郡粟野町下粕尾",
+      "https://geonames.jp/resource/栃木県上都賀郡粟野町口粟野"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県八千代市八千代台北九丁目",
+    "表記": "千葉県八千代市八千代台北九丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "八千代市",
+      "町名": "九丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12221034009"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404057",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404047"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/103203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/103203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233083/103202.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県八千代市八千代台北九丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/八千代市/八千代台北/9.json",
+    "name": "九丁目",
+    "alternateName": [
+      "9",
+      "9丁目",
+      "９",
+      "９丁目",
+      "九"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県八千代市八千代台北"
+  }
+]

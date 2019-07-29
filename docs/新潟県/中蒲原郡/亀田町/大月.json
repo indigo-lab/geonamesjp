@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中蒲原郡亀田町大月",
+    "表記": "新潟県中蒲原郡亀田町大月",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中蒲原郡",
+      "市区町村": "亀田町",
+      "町名": "大月"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中蒲原郡亀田町大月",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中蒲原郡/亀田町/大月.json",
+    "name": "大月",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中蒲原郡亀田町",
+    "children": [
+      "https://geonames.jp/resource/新潟県中蒲原郡亀田町大月一丁目",
+      "https://geonames.jp/resource/新潟県中蒲原郡亀田町大月二丁目",
+      "https://geonames.jp/resource/新潟県中蒲原郡亀田町大月三丁目"
+    ]
+  }
+]

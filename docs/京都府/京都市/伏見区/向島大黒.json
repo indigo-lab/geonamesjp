@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京都市伏見区向島大黒",
+    "表記": "京都府京都市伏見区向島大黒",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京都市",
+      "区": "伏見区",
+      "町名": "向島大黒"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352690"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229917/103910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229917/103909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/103910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/103908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/103910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/103909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229918/103910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/103910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/103910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/103909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/103910.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京都市伏見区向島大黒",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京都市/伏見区/向島大黒.json",
+    "name": "向島大黒",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京都市伏見区"
+  }
+]

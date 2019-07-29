@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県善通寺市文京町四丁目",
+    "表記": "香川県善通寺市文京町四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "文京町",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S37204016004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051332662",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051332672"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228488/104521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228487/104522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228486/104522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228487/104521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228487/104520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228486/104521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228486/104520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228486/104519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228488/104519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228485/104520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228487/104519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228487/104523.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県善通寺市文京町四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/善通寺市/文京町/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/香川県善通寺市文京町"
+  }
+]

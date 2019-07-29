@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県栗東市手原",
+    "表記": "滋賀県栗東市手原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "栗東市",
+      "町名": "手原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252080150"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県栗東市手原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/栗東市/手原.json",
+    "name": "手原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県栗東市",
+    "children": [
+      "https://geonames.jp/resource/滋賀県栗東市手原一丁目",
+      "https://geonames.jp/resource/滋賀県栗東市手原二丁目",
+      "https://geonames.jp/resource/滋賀県栗東市手原三丁目",
+      "https://geonames.jp/resource/滋賀県栗東市手原四丁目",
+      "https://geonames.jp/resource/滋賀県栗東市手原五丁目",
+      "https://geonames.jp/resource/滋賀県栗東市手原六丁目",
+      "https://geonames.jp/resource/滋賀県栗東市手原七丁目",
+      "https://geonames.jp/resource/滋賀県栗東市手原八丁目"
+    ]
+  }
+]

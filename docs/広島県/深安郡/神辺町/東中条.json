@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県深安郡神辺町東中条",
+    "表記": "広島県深安郡神辺町東中条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "深安郡",
+      "市区町村": "神辺町",
+      "町名": "東中条"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336299"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228187/104209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228189/104210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228191/104210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228187/104210.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県深安郡神辺町東中条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/深安郡/神辺町/東中条.json",
+    "name": "東中条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県深安郡神辺町"
+  }
+]

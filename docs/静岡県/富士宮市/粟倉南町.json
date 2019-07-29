@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士宮市粟倉南町",
+    "表記": "静岡県富士宮市粟倉南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "粟倉南町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222074710"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387501",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052386590"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232026/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232025/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232026/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232025/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232024/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232024/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232023/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232023/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232024/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232023/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232022/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232022/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232022/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232024/103608.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士宮市粟倉南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士宮市/粟倉南町.json",
+    "name": "粟倉南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士宮市"
+  }
+]

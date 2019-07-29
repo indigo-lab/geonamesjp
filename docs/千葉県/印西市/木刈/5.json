@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県印西市木刈五丁目",
+    "表記": "千葉県印西市木刈五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "印西市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12231024005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405068",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405078",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405067"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233090/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233092/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233092/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233092/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233089/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233090/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233089/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/103114.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県印西市木刈五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/印西市/木刈/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県印西市木刈"
+  }
+]

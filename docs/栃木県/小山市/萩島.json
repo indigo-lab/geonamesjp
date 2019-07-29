@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県小山市萩島",
+    "表記": "栃木県小山市萩島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "小山市",
+      "町名": "萩島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393661",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393662",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393671",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393672"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232850/102658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232850/102659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/102661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/102660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232851/102658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/102657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/102661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/102660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/102659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232856/102661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/102662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/102662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232852/102663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232853/102664.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県小山市萩島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/小山市/萩島.json",
+    "name": "萩島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県小山市"
+  }
+]

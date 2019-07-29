@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡能登川町南須田",
+    "表記": "滋賀県神崎郡能登川町南須田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "神崎郡",
+      "市区町村": "能登川町",
+      "町名": "南須田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365181",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365182",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365191",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365192"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/103694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/103695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230210/103696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230210/103697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/103695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/103696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/103693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/103694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/103694.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡能登川町南須田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/神崎郡/能登川町/南須田.json",
+    "name": "南須田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県神崎郡能登川町"
+  }
+]

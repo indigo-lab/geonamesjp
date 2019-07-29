@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県宇陀市大宇陀区春日",
+    "表記": "奈良県宇陀市大宇陀区春日",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "宇陀市",
+      "町名": "大宇陀区春日"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355784",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355774",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355785"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230058/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230057/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230055/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230055/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230055/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230054/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230054/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230060/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230059/104290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230055/104292.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県宇陀市大宇陀区春日",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/宇陀市/大宇陀区春日.json",
+    "name": "大宇陀区春日",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県宇陀市"
+  }
+]

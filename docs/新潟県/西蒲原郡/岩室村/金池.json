@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡岩室村金池",
+    "表記": "新潟県西蒲原郡岩室村金池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "岩室村",
+      "町名": "金池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384656",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384657",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384666",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384667"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232167/101379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232167/101375.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡岩室村金池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/岩室村/金池.json",
+    "name": "金池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡岩室村"
+  }
+]

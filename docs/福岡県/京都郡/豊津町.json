@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県京都郡豊津町",
+    "表記": "福岡県京都郡豊津町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "京都郡",
+      "市区町村": "豊津町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C40624-19890228",
+        "http://data.e-stat.go.jp/lod/sac/C40624-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C40624-19970624",
+        "http://data.e-stat.go.jp/lod/sac/C40624-19981020",
+        "http://data.e-stat.go.jp/lod/sac/C40624-19880601",
+        "http://data.e-stat.go.jp/lod/sac/C40624-20060320"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県京都郡豊津町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/京都郡/豊津町.json",
+    "name": "豊津町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県京都郡"
+  }
+]

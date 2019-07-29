@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市三条",
+    "表記": "兵庫県姫路市三条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "姫路市",
+      "町名": "三条"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市三条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/姫路市/三条.json",
+    "name": "三条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県姫路市",
+    "children": [
+      "https://geonames.jp/resource/兵庫県姫路市三条一丁目",
+      "https://geonames.jp/resource/兵庫県姫路市三条二丁目"
+    ]
+  }
+]

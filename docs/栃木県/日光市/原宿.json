@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県日光市原宿",
+    "表記": "栃木県日光市原宿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "日光市",
+      "町名": "原宿",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092060980"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055391525",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055391526",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055391515"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232796/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232796/102244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232794/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232793/102247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232794/102244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232792/102243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232793/102248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232797/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/102243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232791/102245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232796/102247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232792/102247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232793/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232795/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232795/102248.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県日光市原宿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/日光市/原宿.json",
+    "name": "原宿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県日光市"
+  }
+]

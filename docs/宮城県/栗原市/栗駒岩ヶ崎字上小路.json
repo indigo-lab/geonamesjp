@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原市栗駒岩ヶ崎字上小路",
+    "表記": "宮城県栗原市栗駒岩ヶ崎字上小路",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "栗原市",
+      "町名": "栗駒岩ヶ崎字上小路"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058401798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058401799",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058402708",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058402709"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233736/100341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233737/100341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233737/100342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233737/100343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233736/100342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233736/100343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233735/100343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233734/100343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233735/100342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233733/100341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233734/100341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/100342.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原市栗駒岩ヶ崎字上小路",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原市/栗駒岩ヶ崎字上小路.json",
+    "name": "栗駒岩ヶ崎字上小路",
+    "alternateName": [
+      "栗駒岩ケ崎字上小路"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原市"
+  }
+]

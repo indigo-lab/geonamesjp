@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県七尾市祖浜町",
+    "表記": "石川県七尾市祖浜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "祖浜町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172020790"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364784",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364783"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/101969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/101968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/101971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/101969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/101968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/101969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/101973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/101971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/101969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/101968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/101968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/101969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/101968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/101969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/101971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/101970.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県七尾市祖浜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/七尾市/祖浜町.json",
+    "name": "祖浜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県七尾市"
+  }
+]

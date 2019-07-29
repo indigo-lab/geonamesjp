@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須郡塩原町中塩原",
+    "表記": "栃木県那須郡塩原町中塩原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "那須郡",
+      "市区町村": "塩原町",
+      "町名": "中塩原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393653",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393663",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393673",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393674",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393683",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055393684"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232876/102054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232870/102055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232874/102053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232871/102048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232868/102052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232871/102052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232875/102053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232876/102050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232865/102045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232875/102045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232867/102067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232870/102061.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須郡塩原町中塩原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須郡/塩原町/中塩原.json",
+    "name": "中塩原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須郡塩原町"
+  }
+]

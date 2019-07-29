@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県玉野市八波町波知",
+    "表記": "岡山県玉野市八波町波知",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "玉野市",
+      "町名": "八波町波知"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336756",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336757",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336766",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336767"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228620/104229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228620/104232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228620/104233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228621/104233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228624/104232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228622/104233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228619/104233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228622/104238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228619/104234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228621/104234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228620/104236.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県玉野市八波町波知",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/玉野市/八波町波知.json",
+    "name": "八波町波知",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県玉野市"
+  }
+]

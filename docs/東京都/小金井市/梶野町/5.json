@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都小金井市梶野町五丁目",
+    "表記": "東京都小金井市梶野町五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "梶野町",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13210002005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394441",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394442"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232670/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232671/103207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232669/103207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232670/103207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232669/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232669/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232670/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232671/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232672/103206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232672/103207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232672/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232669/103208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232671/103205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232670/103208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232671/103208.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都小金井市梶野町五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/小金井市/梶野町/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都小金井市梶野町"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県阿武郡阿東町",
+    "表記": "山口県阿武郡阿東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "郡": "阿武郡",
+      "市区町村": "阿東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C35504-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C35504-20100116"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県阿武郡阿東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/阿武郡/阿東町.json",
+    "name": "阿東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県阿武郡",
+    "children": [
+      "https://geonames.jp/resource/山口県阿武郡阿東町生雲東分",
+      "https://geonames.jp/resource/山口県阿武郡阿東町篠目",
+      "https://geonames.jp/resource/山口県阿武郡阿東町生雲西分",
+      "https://geonames.jp/resource/山口県阿武郡阿東町生雲中",
+      "https://geonames.jp/resource/山口県阿武郡阿東町蔵目喜",
+      "https://geonames.jp/resource/山口県阿武郡阿東町地福上",
+      "https://geonames.jp/resource/山口県阿武郡阿東町地福下",
+      "https://geonames.jp/resource/山口県阿武郡阿東町徳佐上",
+      "https://geonames.jp/resource/山口県阿武郡阿東町徳佐中",
+      "https://geonames.jp/resource/山口県阿武郡阿東町徳佐下",
+      "https://geonames.jp/resource/山口県阿武郡阿東町嘉年上",
+      "https://geonames.jp/resource/山口県阿武郡阿東町嘉年下"
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市金ケ沢",
+    "表記": "新潟県魚沼市金ケ沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "魚沼市",
+      "町名": "金ケ沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152250540"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387748",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387749",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387758",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387759"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101771.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市金ケ沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/魚沼市/金ケ沢.json",
+    "name": "金ケ沢",
+    "alternateName": [
+      "金ヶ沢"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県魚沼市"
+  }
+]

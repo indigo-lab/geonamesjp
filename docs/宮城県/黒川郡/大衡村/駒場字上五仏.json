@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県黒川郡大衡村駒場字上五仏",
+    "表記": "宮城県黒川郡大衡村駒場字上五仏",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "黒川郡",
+      "市区町村": "大衡村",
+      "町名": "駒場字上五仏"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405782"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233675/100664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233676/100666.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県黒川郡大衡村駒場字上五仏",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/黒川郡/大衡村/駒場字上五仏.json",
+    "name": "駒場字上五仏",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県黒川郡大衡村"
+  }
+]

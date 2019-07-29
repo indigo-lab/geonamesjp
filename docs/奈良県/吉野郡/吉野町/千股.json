@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡吉野町千股",
+    "表記": "奈良県吉野郡吉野町千股",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "吉野郡",
+      "市区町村": "吉野町",
+      "町名": "千股"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354698",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354699",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355608"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/104347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230002/104364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230005/104361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230000/104344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230000/104362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230002/104361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230002/104359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230003/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230004/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230004/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230002/104362.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡吉野町千股",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/吉野郡/吉野町/千股.json",
+    "name": "千股",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県吉野郡吉野町"
+  }
+]

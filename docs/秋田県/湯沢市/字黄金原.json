@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市字黄金原",
+    "表記": "秋田県湯沢市字黄金原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "湯沢市",
+      "町名": "字黄金原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406329",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406319"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233374/100012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233374/100010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/100011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/100014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/100013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233375/100015.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市字黄金原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/湯沢市/字黄金原.json",
+    "name": "字黄金原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県湯沢市"
+  }
+]

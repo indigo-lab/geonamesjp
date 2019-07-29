@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市七左町",
+    "表記": "埼玉県越谷市七左町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "七左町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112220440"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市七左町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/越谷市/七左町.json",
+    "name": "七左町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県越谷市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県越谷市七左町一丁目",
+      "https://geonames.jp/resource/埼玉県越谷市七左町二丁目",
+      "https://geonames.jp/resource/埼玉県越谷市七左町三丁目",
+      "https://geonames.jp/resource/埼玉県越谷市七左町四丁目",
+      "https://geonames.jp/resource/埼玉県越谷市七左町五丁目",
+      "https://geonames.jp/resource/埼玉県越谷市七左町六丁目",
+      "https://geonames.jp/resource/埼玉県越谷市七左町七丁目",
+      "https://geonames.jp/resource/埼玉県越谷市七左町八丁目"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県小浜市山王前",
+    "表記": "福井県小浜市山王前",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "小浜市",
+      "町名": "山王前",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182041580"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県小浜市山王前",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/小浜市/山王前.json",
+    "name": "山王前",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県小浜市",
+    "children": [
+      "https://geonames.jp/resource/福井県小浜市山王前一丁目",
+      "https://geonames.jp/resource/福井県小浜市山王前二丁目"
+    ]
+  }
+]

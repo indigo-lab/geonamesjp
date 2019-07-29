@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高岡郡四万十町根々崎",
+    "表記": "高知県高岡郡四万十町根々崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "高岡郡",
+      "市区町村": "四万十町",
+      "町名": "根々崎",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S394120200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336160",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336170"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228018/105392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228013/105401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228014/105399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228013/105400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228014/105401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228017/105396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228017/105397.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高岡郡四万十町根々崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高岡郡/四万十町/根々崎.json",
+    "name": "根々崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高岡郡四万十町"
+  }
+]

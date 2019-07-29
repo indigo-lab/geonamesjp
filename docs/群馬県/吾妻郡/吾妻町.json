@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県吾妻郡吾妻町",
+    "表記": "群馬県吾妻郡吾妻町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "吾妻郡",
+      "市区町村": "吾妻町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C10423-20040601",
+        "http://data.e-stat.go.jp/lod/sac/C10423-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C10423-20030301",
+        "http://data.e-stat.go.jp/lod/sac/C10423-20060327",
+        "http://data.e-stat.go.jp/lod/sac/C10423-19800401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県吾妻郡吾妻町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/吾妻郡/吾妻町.json",
+    "name": "吾妻町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県吾妻郡",
+    "children": [
+      "https://geonames.jp/resource/群馬県吾妻郡吾妻町小泉",
+      "https://geonames.jp/resource/群馬県吾妻郡吾妻町植栗",
+      "https://geonames.jp/resource/群馬県吾妻郡吾妻町川戸",
+      "https://geonames.jp/resource/群馬県吾妻郡吾妻町金井",
+      "https://geonames.jp/resource/群馬県吾妻郡吾妻町原町",
+      "https://geonames.jp/resource/群馬県吾妻郡吾妻町岩井"
+    ]
+  }
+]

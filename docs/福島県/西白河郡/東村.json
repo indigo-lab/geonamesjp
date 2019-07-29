@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県西白河郡東村",
+    "表記": "福島県西白河郡東村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "西白河郡",
+      "市区町村": "東村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C07463-19801201",
+        "http://data.e-stat.go.jp/lod/sac/C07463-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C07463-19950911",
+        "http://data.e-stat.go.jp/lod/sac/C07463-20051107",
+        "http://data.e-stat.go.jp/lod/sac/C07463-19901201",
+        "http://data.e-stat.go.jp/lod/sac/C07463-19940501",
+        "http://data.e-stat.go.jp/lod/sac/C07463-19950801"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県西白河郡東村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/西白河郡/東村.json",
+    "name": "東村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県西白河郡"
+  }
+]

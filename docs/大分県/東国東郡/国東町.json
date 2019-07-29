@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県東国東郡国東町",
+    "表記": "大分県東国東郡国東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "郡": "東国東郡",
+      "市区町村": "国東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C44323-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C44323-19920201",
+        "http://data.e-stat.go.jp/lod/sac/C44323-20060331"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県東国東郡国東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/東国東郡/国東町.json",
+    "name": "国東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県東国東郡",
+    "children": [
+      "https://geonames.jp/resource/大分県東国東郡国東町安国寺",
+      "https://geonames.jp/resource/大分県東国東郡国東町原",
+      "https://geonames.jp/resource/大分県東国東郡国東町小原",
+      "https://geonames.jp/resource/大分県東国東郡国東町川原",
+      "https://geonames.jp/resource/大分県東国東郡国東町鶴川",
+      "https://geonames.jp/resource/大分県東国東郡国東町田深",
+      "https://geonames.jp/resource/大分県東国東郡国東町北江"
+    ]
+  }
+]

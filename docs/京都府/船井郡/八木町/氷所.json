@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府船井郡八木町氷所",
+    "表記": "京都府船井郡八木町氷所",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "船井郡",
+      "市区町村": "八木町",
+      "町名": "氷所"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355403",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355414",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355415",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355434"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229777/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229780/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229779/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229779/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229780/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229783/103734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229785/103747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229779/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229781/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229779/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229778/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229780/103757.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府船井郡八木町氷所",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/船井郡/八木町/氷所.json",
+    "name": "氷所",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府船井郡八木町"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県利根郡利根村",
+    "表記": "群馬県利根郡利根村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "利根郡",
+      "市区町村": "利根村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C10442-20040401",
+        "http://data.e-stat.go.jp/lod/sac/C10442-20050213",
+        "http://data.e-stat.go.jp/lod/sac/C10442-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県利根郡利根村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/利根郡/利根村.json",
+    "name": "利根村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県利根郡"
+  }
+]

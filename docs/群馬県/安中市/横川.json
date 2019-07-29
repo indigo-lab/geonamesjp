@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県安中市横川",
+    "表記": "群馬県安中市横川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "安中市",
+      "町名": "横川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383598",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383690",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384508",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384509",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384518",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384538"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232095/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232103/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232108/102642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232104/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232108/102643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232096/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232103/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232092/102642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232092/102632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232092/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232102/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/102639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232104/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232099/102632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232095/102615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232094/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232095/102625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/102636.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県安中市横川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/安中市/横川.json",
+    "name": "横川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県安中市"
+  }
+]

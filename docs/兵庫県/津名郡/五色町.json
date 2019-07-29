@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県津名郡五色町",
+    "表記": "兵庫県津名郡五色町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "津名郡",
+      "市区町村": "五色町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C28685-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C28685-20060211"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県津名郡五色町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/津名郡/五色町.json",
+    "name": "五色町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県津名郡"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡二宮町大字古山",
+    "表記": "栃木県芳賀郡二宮町大字古山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "芳賀郡",
+      "市区町村": "二宮町",
+      "町名": "大字古山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394715",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394735"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232974/102621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232976/102622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232977/102622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232974/102625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232973/102624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232973/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232976/102617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232975/102617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232975/102616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232976/102618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232973/102617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/102615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232972/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/102625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232974/102619.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡二宮町大字古山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/芳賀郡/二宮町/大字古山.json",
+    "name": "大字古山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県芳賀郡二宮町"
+  }
+]

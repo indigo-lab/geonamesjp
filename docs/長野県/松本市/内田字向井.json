@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県松本市内田字向井",
+    "表記": "長野県松本市内田字向井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "松本市",
+      "町名": "内田字向井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054371799",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054372709"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231559/102787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231560/102791.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県松本市内田字向井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/松本市/内田字向井.json",
+    "name": "内田字向井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県松本市"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都渋谷区千駄ヶ谷五丁目",
+    "表記": "東京都渋谷区千駄ヶ谷五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "渋谷区",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394516",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394526"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/103224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232805/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232804/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232803/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232802/103226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232802/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232803/103224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232802/103224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232802/103223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/103223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/103224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/103223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/103222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/103221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/103222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/103222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/103221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232800/103220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232799/103220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232798/103220.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都渋谷区千駄ヶ谷五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/渋谷区/千駄ヶ谷/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都渋谷区千駄ヶ谷"
+  }
+]

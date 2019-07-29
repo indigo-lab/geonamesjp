@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県中津川市福岡",
+    "表記": "岐阜県中津川市福岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "中津川市",
+      "町名": "福岡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109004",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109006",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109007",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109012",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109015",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109011",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109008",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109010",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109005",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109013",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109014",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212061090",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21206109009"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053372376",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053372367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053372394",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053372355",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053372368"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231161/103334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231176/103342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231143/103318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231181/103341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231158/103349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231159/103348.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県中津川市福岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/中津川市/福岡.json",
+    "name": "福岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県中津川市"
+  }
+]

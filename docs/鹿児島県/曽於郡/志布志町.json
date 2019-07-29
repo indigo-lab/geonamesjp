@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県曽於郡志布志町",
+    "表記": "鹿児島県曽於郡志布志町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "曽於郡",
+      "市区町村": "志布志町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C46466-19981218",
+        "http://data.e-stat.go.jp/lod/sac/C46466-19871224",
+        "http://data.e-stat.go.jp/lod/sac/C46466-20060101",
+        "http://data.e-stat.go.jp/lod/sac/C46466-19700501",
+        "http://data.e-stat.go.jp/lod/sac/C46466-19860324"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県曽於郡志布志町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/曽於郡/志布志町.json",
+    "name": "志布志町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県曽於郡",
+    "children": [
+      "https://geonames.jp/resource/鹿児島県曽於郡志布志町志布志",
+      "https://geonames.jp/resource/鹿児島県曽於郡志布志町安楽",
+      "https://geonames.jp/resource/鹿児島県曽於郡志布志町夏井",
+      "https://geonames.jp/resource/鹿児島県曽於郡志布志町帖"
+    ]
+  }
+]

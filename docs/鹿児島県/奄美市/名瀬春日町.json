@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県奄美市名瀬春日町",
+    "表記": "鹿児島県奄美市名瀬春日町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "名瀬春日町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294430",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294440"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225374/109517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225373/109514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225374/109514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225374/109515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225374/109516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225375/109517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225375/109518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225376/109518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225377/109518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225377/109519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225373/109515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225376/109517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225377/109517.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県奄美市名瀬春日町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/奄美市/名瀬春日町.json",
+    "name": "名瀬春日町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県奄美市"
+  }
+]

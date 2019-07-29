@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県婦負郡八尾町上笹原",
+    "表記": "富山県婦負郡八尾町上笹原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "婦負郡",
+      "市区町村": "八尾町",
+      "町名": "上笹原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376161",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376151"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/102441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230939/102441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230937/102441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/102437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/102443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230938/102447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230939/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230936/102442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/102441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230940/102441.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県婦負郡八尾町上笹原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/婦負郡/八尾町/上笹原.json",
+    "name": "上笹原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県婦負郡八尾町"
+  }
+]

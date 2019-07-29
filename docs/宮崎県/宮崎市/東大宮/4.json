@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市東大宮四丁目",
+    "表記": "宮崎県宮崎市東大宮四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "宮崎市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S45201113004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317335",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047317334"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226782/106503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226783/106503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226782/106502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226783/106502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226783/106501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226782/106501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226783/106500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226782/106500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226782/106504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226784/106500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226781/106502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226781/106501.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市東大宮四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/宮崎市/東大宮/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮崎県宮崎市東大宮"
+  }
+]

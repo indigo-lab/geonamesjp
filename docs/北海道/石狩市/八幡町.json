@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道石狩市八幡町",
+    "表記": "北海道石狩市八幡町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "八幡町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417219",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416298",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417300",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416381",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416382",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064416391",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417327"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234014/96065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234007/96078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234008/96078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234023/96072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234030/96083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234032/96083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234037/96084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234087/96053.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道石狩市八幡町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/石狩市/八幡町.json",
+    "name": "八幡町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道石狩市"
+  }
+]

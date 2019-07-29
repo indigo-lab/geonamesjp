@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県伊賀市古山界外",
+    "表記": "三重県伊賀市古山界外",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "伊賀市",
+      "町名": "古山界外",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242161200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360049",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360039"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230188/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230189/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230188/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230187/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230194/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230187/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230189/104101.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県伊賀市古山界外",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/伊賀市/古山界外.json",
+    "name": "古山界外",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県伊賀市"
+  }
+]

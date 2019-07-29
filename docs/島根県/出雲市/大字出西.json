@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県出雲市大字出西",
+    "表記": "島根県出雲市大字出西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "出雲市",
+      "町名": "大字出西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322031590"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320615",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320633",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320634",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320644"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227778/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227777/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227780/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227771/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227774/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227779/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227787/103527.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県出雲市大字出西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/出雲市/大字出西.json",
+    "name": "大字出西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県出雲市"
+  }
+]

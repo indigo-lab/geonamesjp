@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県久慈市長内町第十七地割",
+    "表記": "岩手県久慈市長内町第十七地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "久慈市",
+      "町名": "長内町第十七地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060411691",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060412601",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060412602"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234304/99085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234308/99081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234308/99082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234309/99075.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県久慈市長内町第十七地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/久慈市/長内町第十七地割.json",
+    "name": "長内町第十七地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県久慈市"
+  }
+]

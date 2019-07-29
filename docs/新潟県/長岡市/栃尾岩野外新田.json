@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市栃尾岩野外新田",
+    "表記": "新潟県長岡市栃尾岩野外新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "長岡市",
+      "町名": "栃尾岩野外新田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152024830"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056382709",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381799"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/101575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/101576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/101577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/101576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/101576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/101575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/101574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/101574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/101575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/101577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/101573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/101574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/101578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/101578.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市栃尾岩野外新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/栃尾岩野外新田.json",
+    "name": "栃尾岩野外新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市"
+  }
+]

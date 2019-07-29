@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都青梅市師岡町二丁目",
+    "表記": "東京都青梅市師岡町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "師岡町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13205003002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395252"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232495/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232494/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232495/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232494/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232494/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232495/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232496/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232494/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232493/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232496/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232495/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232497/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232495/103127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232493/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232496/103124.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都青梅市師岡町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/青梅市/師岡町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都青梅市師岡町"
+  }
+]

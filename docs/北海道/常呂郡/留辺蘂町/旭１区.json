@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道常呂郡留辺蘂町旭１区",
+    "表記": "北海道常呂郡留辺蘂町旭１区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "常呂郡",
+      "市区町村": "留辺蘂町",
+      "町名": "旭１区"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435427",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435428",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435437",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435438"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235639/95553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235637/95549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235633/95544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235634/95543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235636/95542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235639/95541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235641/95545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235642/95541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235642/95542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235642/95543.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道常呂郡留辺蘂町旭１区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/常呂郡/留辺蘂町/旭１区.json",
+    "name": "旭１区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道常呂郡留辺蘂町"
+  }
+]

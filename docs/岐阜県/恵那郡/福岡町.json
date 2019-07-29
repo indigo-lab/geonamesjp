@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県恵那郡福岡町",
+    "表記": "岐阜県恵那郡福岡町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "恵那郡",
+      "市区町村": "福岡町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C21565-20050213",
+        "http://data.e-stat.go.jp/lod/sac/C21565-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県恵那郡福岡町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/恵那郡/福岡町.json",
+    "name": "福岡町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県恵那郡"
+  }
+]

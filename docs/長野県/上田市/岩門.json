@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上田市岩門",
+    "表記": "長野県上田市岩門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "上田市",
+      "町名": "岩門"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384261",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384262",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384271",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384272"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231759/102586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231759/102585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231759/102584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231760/102586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231761/102585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231761/102586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231764/102587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231768/102587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231759/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231758/102587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231760/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231761/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231760/102587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231762/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231763/102589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231764/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231765/102589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231765/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231765/102591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231766/102590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231767/102587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231768/102588.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上田市岩門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上田市/岩門.json",
+    "name": "岩門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上田市"
+  }
+]

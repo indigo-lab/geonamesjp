@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府八尾市木本",
+    "表記": "大阪府八尾市木本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "八尾市",
+      "町名": "木本"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357426",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357416"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229801/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229801/104190.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府八尾市木本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/八尾市/木本.json",
+    "name": "木本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府八尾市"
+  }
+]

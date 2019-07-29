@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県朝来郡和田山町市場",
+    "表記": "兵庫県朝来郡和田山町市場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "朝来郡",
+      "市区町村": "和田山町",
+      "町名": "市場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340658",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340659"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229278/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229274/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229274/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229274/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229275/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229275/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229275/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229276/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229276/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229276/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229277/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229278/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229279/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229280/103498.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県朝来郡和田山町市場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/朝来郡/和田山町/市場.json",
+    "name": "市場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県朝来郡和田山町"
+  }
+]

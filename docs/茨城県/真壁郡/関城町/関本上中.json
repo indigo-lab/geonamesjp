@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県真壁郡関城町関本上中",
+    "表記": "茨城県真壁郡関城町関本上中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "真壁郡",
+      "市区町村": "関城町",
+      "町名": "関本上中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393703"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232956/102710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232957/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232958/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232957/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232958/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232954/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232956/102709.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県真壁郡関城町関本上中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/真壁郡/関城町/関本上中.json",
+    "name": "関本上中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県真壁郡関城町"
+  }
+]

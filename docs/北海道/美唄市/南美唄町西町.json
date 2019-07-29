@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道美唄市南美唄町西町",
+    "表記": "北海道美唄市南美唄町西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "南美唄町西町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417770"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234379/96011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234381/96011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234380/96011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234381/96010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234380/96010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234381/96008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234381/96007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234381/96009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234382/96010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234382/96011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234383/96010.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道美唄市南美唄町西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/美唄市/南美唄町西町.json",
+    "name": "南美唄町西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道美唄市"
+  }
+]

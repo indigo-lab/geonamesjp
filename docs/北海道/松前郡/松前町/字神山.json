@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道松前郡松前町字神山",
+    "表記": "北海道松前郡松前町字神山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "松前郡",
+      "市区町村": "松前町",
+      "町名": "字神山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S013310010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062393749"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233009/97684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233010/97685.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道松前郡松前町字神山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/松前郡/松前町/字神山.json",
+    "name": "字神山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道松前郡松前町"
+  }
+]

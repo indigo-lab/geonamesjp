@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県備前市吉永町金谷",
+    "表記": "岡山県備前市吉永町金谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "備前市",
+      "町名": "吉永町金谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33211078001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332110780",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33211078002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33211078003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341179"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228825/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228825/104001.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県備前市吉永町金谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/備前市/吉永町金谷.json",
+    "name": "吉永町金谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県備前市"
+  }
+]

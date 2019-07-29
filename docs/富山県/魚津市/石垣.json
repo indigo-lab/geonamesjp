@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県魚津市石垣",
+    "表記": "富山県魚津市石垣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "魚津市",
+      "町名": "石垣",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162040520"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371375",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371356",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371357",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371346"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231159/102212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231153/102210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231154/102209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231154/102211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231154/102210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231155/102207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231155/102209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231156/102211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231156/102209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231155/102208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231159/102210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231157/102212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231157/102210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231157/102211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231158/102210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231160/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231159/102211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231161/102212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231161/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231162/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231162/102214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231156/102207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231154/102208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231165/102216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231162/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231165/102223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231165/102219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231164/102214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231161/102211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231163/102218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231163/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231170/102222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231166/102223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231164/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231159/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231157/102209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231160/102210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231153/102209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231157/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231160/102214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231162/102211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231164/102218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231168/102219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231166/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231166/102224.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県魚津市石垣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/魚津市/石垣.json",
+    "name": "石垣",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県魚津市"
+  }
+]

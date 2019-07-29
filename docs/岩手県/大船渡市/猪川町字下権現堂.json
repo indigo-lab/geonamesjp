@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県大船渡市猪川町字下権現堂",
+    "表記": "岩手県大船渡市猪川町字下権現堂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "大船渡市",
+      "町名": "猪川町字下権現堂",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S03203005005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415516"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234258/100097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234261/100099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234259/100098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234258/100098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234256/100097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234257/100097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234255/100096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234256/100096.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県大船渡市猪川町字下権現堂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/大船渡市/猪川町字下権現堂.json",
+    "name": "猪川町字下権現堂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県大船渡市"
+  }
+]

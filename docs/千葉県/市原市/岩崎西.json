@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市原市岩崎西",
+    "表記": "千葉県市原市岩崎西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "市原市",
+      "町名": "岩崎西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122190130"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市原市岩崎西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市原市/岩崎西.json",
+    "name": "岩崎西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県市原市",
+    "children": [
+      "https://geonames.jp/resource/千葉県市原市岩崎西一丁目"
+    ]
+  }
+]

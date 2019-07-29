@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市安東三丁目",
+    "表記": "静岡県静岡市安東三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383380",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383381",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383390",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383391"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/103841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/103842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/103839.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市安東三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/安東/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市安東"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県角田市坂津田",
+    "表記": "宮城県角田市坂津田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "角田市",
+      "町名": "坂津田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400615",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400614",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400624"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/101104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233601/101103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233602/101099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233602/101104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233603/101103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233604/101101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233604/101099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233603/101104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233616/101106.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県角田市坂津田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/角田市/坂津田.json",
+    "name": "坂津田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県角田市"
+  }
+]

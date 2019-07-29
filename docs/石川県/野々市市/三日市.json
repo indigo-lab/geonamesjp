@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県野々市市三日市",
+    "表記": "石川県野々市市三日市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "野々市市",
+      "町名": "三日市"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県野々市市三日市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/野々市市/三日市.json",
+    "name": "三日市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県野々市市",
+    "children": [
+      "https://geonames.jp/resource/石川県野々市市三日市一丁目",
+      "https://geonames.jp/resource/石川県野々市市三日市二丁目",
+      "https://geonames.jp/resource/石川県野々市市三日市三丁目"
+    ]
+  }
+]

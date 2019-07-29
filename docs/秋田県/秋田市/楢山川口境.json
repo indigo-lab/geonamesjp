@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県秋田市楢山川口境",
+    "表記": "秋田県秋田市楢山川口境",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "秋田市",
+      "町名": "楢山川口境",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S05201009012"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404049"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233098/99523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233097/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233096/99522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233097/99523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233097/99524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233098/99522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/99523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233098/99524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233100/99524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/99524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/99525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/99522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233097/99522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233098/99525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/99522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233100/99523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233100/99525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233096/99523.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県秋田市楢山川口境",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/秋田市/楢山川口境.json",
+    "name": "楢山川口境",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県秋田市"
+  }
+]

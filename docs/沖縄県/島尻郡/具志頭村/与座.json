@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡具志頭村与座",
+    "表記": "沖縄県島尻郡具志頭村与座",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "島尻郡",
+      "市区町村": "具志頭村",
+      "町名": "与座"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039271527",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039271528",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039271538"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224082/111359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224082/111360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224083/111359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224084/111360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224083/111360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224083/111361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224082/111366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224080/111367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224080/111370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224078/111367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224084/111362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224082/111367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224082/111364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224081/111368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224080/111368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224084/111361.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡具志頭村与座",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/島尻郡/具志頭村/与座.json",
+    "name": "与座",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県島尻郡具志頭村"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市里浦町里浦字平松",
+    "表記": "徳島県鳴門市里浦町里浦字平松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "鳴門市",
+      "町名": "里浦町里浦字平松"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342510"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229107/104564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229109/104563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229108/104566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229107/104565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229107/104566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229108/104565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229106/104564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229106/104565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229108/104559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229110/104564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229108/104561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229108/104562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229108/104564.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市里浦町里浦字平松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/鳴門市/里浦町里浦字平松.json",
+    "name": "里浦町里浦字平松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県鳴門市"
+  }
+]

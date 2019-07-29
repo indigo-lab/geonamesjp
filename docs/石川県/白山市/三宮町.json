@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県白山市三宮町",
+    "表記": "石川県白山市三宮町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "三宮町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172102360"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365521",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365520",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365511",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365510"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230570/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230569/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230568/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230571/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230569/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230570/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230566/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230569/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230568/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230571/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230570/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/102546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230568/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230570/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230568/102550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230568/102545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230567/102547.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県白山市三宮町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/白山市/三宮町.json",
+    "name": "三宮町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県白山市"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都清瀬市元町二丁目",
+    "表記": "東京都清瀬市元町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "元町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13221002002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395420",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395421",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395430"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/103140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103143.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都清瀬市元町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/清瀬市/元町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都清瀬市元町"
+  }
+]

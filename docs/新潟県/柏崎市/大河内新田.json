@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市大河内新田",
+    "表記": "新潟県柏崎市大河内新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "柏崎市",
+      "町名": "大河内新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387493"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231954/101733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231954/101730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231954/101734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231955/101733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231955/101732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231956/101732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/101734.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市大河内新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/柏崎市/大河内新田.json",
+    "name": "大河内新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県柏崎市"
+  }
+]

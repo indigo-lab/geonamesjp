@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県南松浦郡玉之浦町",
+    "表記": "長崎県南松浦郡玉之浦町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "郡": "南松浦郡",
+      "市区町村": "玉之浦町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C42402-20010312",
+        "http://data.e-stat.go.jp/lod/sac/C42402-20040801",
+        "http://data.e-stat.go.jp/lod/sac/C42402-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県南松浦郡玉之浦町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/南松浦郡/玉之浦町.json",
+    "name": "玉之浦町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県南松浦郡"
+  }
+]

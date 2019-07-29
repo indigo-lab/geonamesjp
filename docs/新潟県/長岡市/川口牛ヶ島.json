@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市川口牛ヶ島",
+    "表記": "新潟県長岡市川口牛ヶ島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "長岡市",
+      "町名": "川口牛ヶ島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387637",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387628",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387636",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387638",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387647",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387626"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232173/101780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232182/101775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232182/101777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232173/101771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232172/101781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232176/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232173/101779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232176/101775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/101775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232171/101774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232175/101771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232183/101784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232182/101784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232188/101789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232174/101780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232175/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232164/101783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/101785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/101776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232182/101774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232176/101772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232184/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101779.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市川口牛ヶ島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/川口牛ヶ島.json",
+    "name": "川口牛ヶ島",
+    "alternateName": [
+      "川口牛ケ島"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市"
+  }
+]

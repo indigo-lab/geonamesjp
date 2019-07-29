@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡豊浦町藤掛",
+    "表記": "新潟県北蒲原郡豊浦町藤掛",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "豊浦町",
+      "町名": "藤掛"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397206"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232533/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232533/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232533/101188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232532/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/101188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/101187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/101192.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡豊浦町藤掛",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/豊浦町/藤掛.json",
+    "name": "藤掛",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡豊浦町"
+  }
+]

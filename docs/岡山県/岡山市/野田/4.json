@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市野田四丁目",
+    "表記": "岡山県岡山市野田四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337782",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337791"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228575/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228572/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228576/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228576/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228575/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228575/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228572/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228571/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228571/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228571/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228573/104140.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市野田四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/野田/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市野田"
+  }
+]

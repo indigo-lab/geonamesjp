@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県朝来郡和田山町三波",
+    "表記": "兵庫県朝来郡和田山町三波",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "朝来郡",
+      "市区町村": "和田山町",
+      "町名": "三波"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052347665",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052347675"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229241/103558.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県朝来郡和田山町三波",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/朝来郡/和田山町/三波.json",
+    "name": "三波",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県朝来郡和田山町"
+  }
+]

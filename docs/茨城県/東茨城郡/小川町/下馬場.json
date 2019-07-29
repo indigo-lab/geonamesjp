@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県東茨城郡小川町下馬場",
+    "表記": "茨城県東茨城郡小川町下馬場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "東茨城郡",
+      "市区町村": "小川町",
+      "町名": "下馬場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054401288",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054401298",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054401299"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/102799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/102796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/102797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/102790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/102794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/102792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/102793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/102790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/102794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/102795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233278/102794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/102794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/102791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/102790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/102792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/102797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/102793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/102795.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県東茨城郡小川町下馬場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/東茨城郡/小川町/下馬場.json",
+    "name": "下馬場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県東茨城郡小川町"
+  }
+]

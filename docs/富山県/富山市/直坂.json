@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市直坂",
+    "表記": "富山県富山市直坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "直坂",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162016810"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376177",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376168"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231001/102441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/102432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230993/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/102428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230993/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/102428.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市直坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/直坂.json",
+    "name": "直坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

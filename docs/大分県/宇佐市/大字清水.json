@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県宇佐市大字清水",
+    "表記": "大分県宇佐市大字清水",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "宇佐市",
+      "町名": "大字清水",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S442110720"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050312250",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050312240",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050312260",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050312230"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226651/105116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226650/105118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226652/105115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226652/105116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226651/105117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226652/105118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226654/105112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226653/105121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226652/105124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226651/105119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226649/105121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226647/105127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226649/105128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226648/105127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226652/105112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226654/105114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226653/105112.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県宇佐市大字清水",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/宇佐市/大字清水.json",
+    "name": "大字清水",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県宇佐市"
+  }
+]

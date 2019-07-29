@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県両津市立野",
+    "表記": "新潟県両津市立野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "両津市",
+      "町名": "立野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380361",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380370",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380371"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/101055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/101055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/101058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/101057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/101057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/101058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231848/101062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/101063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101064.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県両津市立野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/両津市/立野.json",
+    "name": "立野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県両津市"
+  }
+]

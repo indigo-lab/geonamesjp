@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県北松浦郡田平町福崎免",
+    "表記": "長崎県北松浦郡田平町福崎免",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "郡": "北松浦郡",
+      "市区町村": "田平町",
+      "町名": "福崎免"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050290438",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050290439",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050290448",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050290449"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225454/105268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225448/105270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225452/105270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225455/105274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225450/105275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225452/105274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225452/105276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225453/105277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225454/105278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225451/105273.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県北松浦郡田平町福崎免",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/北松浦郡/田平町/福崎免.json",
+    "name": "福崎免",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県北松浦郡田平町"
+  }
+]

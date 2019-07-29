@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県滝沢市大釜細屋",
+    "表記": "岩手県滝沢市大釜細屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "滝沢市",
+      "町名": "大釜細屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414045",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414044",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414054",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414055"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233791/99519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233790/99519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233789/99518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233791/99518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/99518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233789/99519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/99519.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県滝沢市大釜細屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/滝沢市/大釜細屋.json",
+    "name": "大釜細屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県滝沢市"
+  }
+]

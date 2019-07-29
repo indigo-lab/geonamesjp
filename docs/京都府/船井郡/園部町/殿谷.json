@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府船井郡園部町殿谷",
+    "表記": "京都府船井郡園部町殿谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "船井郡",
+      "市区町村": "園部町",
+      "町名": "殿谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354376",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354377",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354387"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229713/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229710/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229716/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229711/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229713/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229714/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229714/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229715/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229715/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229715/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229716/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229717/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229708/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229709/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229710/103777.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府船井郡園部町殿谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/船井郡/園部町/殿谷.json",
+    "name": "殿谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府船井郡園部町"
+  }
+]

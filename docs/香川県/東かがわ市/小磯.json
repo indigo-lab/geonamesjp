@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県東かがわ市小磯",
+    "表記": "香川県東かがわ市小磯",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "東かがわ市",
+      "町名": "小磯",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S372070250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343205",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343215",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343225"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/104491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228879/104491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228878/104492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/104486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228880/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228881/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228881/104484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228882/104484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228882/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228881/104482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228882/104485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228881/104485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228879/104486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228879/104489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228879/104490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228878/104491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/104492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228877/104493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228878/104493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228879/104492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228879/104488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228880/104486.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県東かがわ市小磯",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/東かがわ市/小磯.json",
+    "name": "小磯",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県東かがわ市"
+  }
+]

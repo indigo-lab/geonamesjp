@@ -1,0 +1,86 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡宮田村南割",
+    "表記": "長野県上伊那郡宮田村南割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "上伊那郡",
+      "市区町村": "宮田村",
+      "町名": "南割",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S20388001005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375714",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375703",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375704",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375713",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375724"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/103154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231506/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231507/103154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231499/103157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/103159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/103160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231513/103154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/103153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231513/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231513/103153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231514/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/103157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231513/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231498/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231500/103157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231501/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231502/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/103153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/103154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231505/103154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231508/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231509/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231511/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231512/103154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231506/103153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231510/103157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231504/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231506/103156.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡宮田村南割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上伊那郡/宮田村/南割.json",
+    "name": "南割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上伊那郡宮田村"
+  }
+]

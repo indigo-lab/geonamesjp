@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県指宿市湯の浜二丁目",
+    "表記": "鹿児島県指宿市湯の浜二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "指宿市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S46210001002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2046306581",
+        "http://data.e-stat.go.jp/lod/gridCode/G2046306571"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226207/107107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226206/107107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226207/107108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226208/107108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226207/107109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226208/107109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226207/107110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226208/107110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226207/107106.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県指宿市湯の浜二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/指宿市/湯の浜/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県指宿市湯の浜"
+  }
+]

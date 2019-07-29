@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市下山一丁目",
+    "表記": "新潟県新潟市下山一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397039",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397029"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232376/101168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232375/101168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232374/101171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232375/101171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232374/101170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232375/101169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232376/101166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232377/101167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232376/101165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232376/101164.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市下山一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/下山/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市下山"
+  }
+]

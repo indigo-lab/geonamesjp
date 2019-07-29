@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県京都郡苅田町黒添",
+    "表記": "福岡県京都郡苅田町黒添",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "京都郡",
+      "市区町村": "苅田町",
+      "町名": "黒添"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304794"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226410/104940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226412/104940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226409/104940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226411/104938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226409/104941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226412/104939.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県京都郡苅田町黒添",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/京都郡/苅田町/黒添.json",
+    "name": "黒添",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県京都郡苅田町"
+  }
+]

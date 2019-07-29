@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県宇城市不知火町松合",
+    "表記": "熊本県宇城市不知火町松合",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "宇城市",
+      "町名": "不知火町松合"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048307458",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048307468"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226174/105912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226172/105907.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県宇城市不知火町松合",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/宇城市/不知火町松合.json",
+    "name": "不知火町松合",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県宇城市"
+  }
+]

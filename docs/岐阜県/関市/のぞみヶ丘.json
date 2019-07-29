@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県関市のぞみヶ丘",
+    "表記": "岐阜県関市のぞみヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "関市",
+      "町名": "のぞみヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362713",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362714",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362723"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103376.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県関市のぞみヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/関市/のぞみヶ丘.json",
+    "name": "のぞみヶ丘",
+    "alternateName": [
+      "のぞみケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県関市"
+  }
+]

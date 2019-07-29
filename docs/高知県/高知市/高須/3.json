@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高知市高須三丁目",
+    "表記": "高知県高知市高須三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "高知市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S39201157103"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332477"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228348/105101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228348/105102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228349/105102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228349/105103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228350/105103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228350/105102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228350/105101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228349/105101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228348/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228349/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228350/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228351/105102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228351/105103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228351/105101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228349/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228350/105099.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高知市高須三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高知市/高須/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/高知県高知市高須"
+  }
+]

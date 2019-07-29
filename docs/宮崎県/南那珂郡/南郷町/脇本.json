@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県南那珂郡南郷町脇本",
+    "表記": "宮崎県南那珂郡南郷町脇本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "郡": "南那珂郡",
+      "市区町村": "南郷町",
+      "町名": "脇本"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047312228",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047312229",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047312238",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047312239"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226727/106865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226728/106863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226723/106864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226729/106862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226726/106859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226723/106867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226722/106865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226725/106861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226724/106860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226730/106861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226729/106863.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県南那珂郡南郷町脇本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/南那珂郡/南郷町/脇本.json",
+    "name": "脇本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県南那珂郡南郷町"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県東松島市大塩字旗沢",
+    "表記": "宮城県東松島市大塩字旗沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "東松島市",
+      "町名": "大塩字旗沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415114",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415113"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233874/100718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233870/100717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233873/100723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233874/100716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233876/100723.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県東松島市大塩字旗沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/東松島市/大塩字旗沢.json",
+    "name": "大塩字旗沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県東松島市"
+  }
+]

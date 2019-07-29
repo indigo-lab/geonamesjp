@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須郡黒磯町",
+    "表記": "栃木県那須郡黒磯町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "那須郡",
+      "市区町村": "黒磯町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C09408-19701101",
+        "http://data.e-stat.go.jp/lod/sac/C09408-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須郡黒磯町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須郡/黒磯町.json",
+    "name": "黒磯町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須郡"
+  }
+]

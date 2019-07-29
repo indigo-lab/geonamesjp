@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県飽海郡遊佐町豊岡字久田",
+    "表記": "山形県飽海郡遊佐町豊岡字久田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "郡": "飽海郡",
+      "市区町村": "遊佐町",
+      "町名": "豊岡字久田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058393784"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/100195.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県飽海郡遊佐町豊岡字久田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/飽海郡/遊佐町/豊岡字久田.json",
+    "name": "豊岡字久田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県飽海郡遊佐町"
+  }
+]

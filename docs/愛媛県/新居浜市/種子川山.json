@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市種子川山",
+    "表記": "愛媛県新居浜市種子川山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "新居浜市",
+      "町名": "種子川山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382051030"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336296",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336277",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337205"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228157/104796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228166/104806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228152/104790.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市種子川山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/新居浜市/種子川山.json",
+    "name": "種子川山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県新居浜市"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県員弁郡員弁町暮明",
+    "表記": "三重県員弁郡員弁町暮明",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "員弁郡",
+      "市区町村": "員弁町",
+      "町名": "暮明"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365426",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365436"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230528/103733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230531/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/103734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230528/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230530/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230529/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230528/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230527/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230528/103736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230527/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230527/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230528/103740.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県員弁郡員弁町暮明",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/員弁郡/員弁町/暮明.json",
+    "name": "暮明",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県員弁郡員弁町"
+  }
+]

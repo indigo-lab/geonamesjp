@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市堀",
+    "表記": "京都府福知山市堀",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "堀"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357140",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357039",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357049",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357130",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357131",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357150",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357120"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229469/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229477/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229466/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229474/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229474/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229468/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229465/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229467/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229469/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229468/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229469/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229469/103593.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市堀",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/堀.json",
+    "name": "堀",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

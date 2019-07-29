@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県結城郡八千代町中野",
+    "表記": "茨城県結城郡八千代町中野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "結城郡",
+      "市区町村": "八千代町",
+      "町名": "中野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392704",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392714"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102787.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県結城郡八千代町中野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/結城郡/八千代町/中野.json",
+    "name": "中野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県結城郡八千代町"
+  }
+]

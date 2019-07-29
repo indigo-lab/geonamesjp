@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県奥州市江刺区六日町",
+    "表記": "岩手県奥州市江刺区六日町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "江刺区六日町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416134",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416124"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233874/100005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233875/100006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233874/100004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233873/100004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233874/100006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233875/100005.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県奥州市江刺区六日町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/奥州市/江刺区六日町.json",
+    "name": "江刺区六日町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県奥州市"
+  }
+]

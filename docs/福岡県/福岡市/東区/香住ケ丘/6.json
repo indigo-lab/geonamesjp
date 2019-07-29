@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区香住ケ丘六丁目",
+    "表記": "福岡県福岡市東区香住ケ丘六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "東区",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40131044006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304304"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226049/105007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226050/105006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226051/105007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226050/105007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226051/105006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226051/105005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226050/105005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226049/105005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226049/105006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226048/105005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226048/105004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226047/105005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226048/105006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226049/105008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226048/105009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226048/105008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226048/105007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226047/105007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226047/105006.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区香住ケ丘六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/東区/香住ケ丘/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市東区香住ケ丘"
+  }
+]

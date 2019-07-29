@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県磐田市下新島",
+    "表記": "静岡県磐田市下新島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "磐田市",
+      "町名": "下新島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370626",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370636"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231437/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231438/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231437/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231437/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231438/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231439/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231439/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231440/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231440/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231441/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231441/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231440/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231440/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231439/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231438/104107.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県磐田市下新島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/磐田市/下新島.json",
+    "name": "下新島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県磐田市"
+  }
+]

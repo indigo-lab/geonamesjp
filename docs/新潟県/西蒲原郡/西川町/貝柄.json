@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡西川町貝柄",
+    "表記": "新潟県西蒲原郡西川町貝柄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "西川町",
+      "町名": "貝柄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385786",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385787"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232265/101286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232267/101292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232267/101293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232267/101291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232267/101290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232267/101289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232266/101289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232264/101286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232262/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232260/101278.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡西川町貝柄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/西川町/貝柄.json",
+    "name": "貝柄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡西川町"
+  }
+]

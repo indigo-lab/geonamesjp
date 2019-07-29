@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市南区文蔵",
+    "表記": "埼玉県さいたま市南区文蔵",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "区": "南区",
+      "町名": "文蔵",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S111080100"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市南区文蔵",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/南区/文蔵.json",
+    "name": "文蔵",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市南区",
+    "children": [
+      "https://geonames.jp/resource/埼玉県さいたま市南区文蔵一丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市南区文蔵二丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市南区文蔵三丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市南区文蔵四丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市南区文蔵五丁目"
+    ]
+  }
+]

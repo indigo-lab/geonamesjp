@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県伊丹市東桑津",
+    "表記": "兵庫県伊丹市東桑津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "伊丹市",
+      "町名": "東桑津"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351334",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351344",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351345"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229685/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/104025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/104026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/104027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/104027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229691/104025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229686/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/104022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/104023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229694/104024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229692/104023.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県伊丹市東桑津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/伊丹市/東桑津.json",
+    "name": "東桑津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県伊丹市"
+  }
+]

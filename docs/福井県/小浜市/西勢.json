@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県小浜市西勢",
+    "表記": "福井県小浜市西勢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "小浜市",
+      "町名": "西勢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182041490"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351576",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351586"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/103406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229888/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229888/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229886/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229889/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/103405.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県小浜市西勢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/小浜市/西勢.json",
+    "name": "西勢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県小浜市"
+  }
+]

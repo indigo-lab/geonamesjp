@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県石川郡古殿町大字鎌田字吉田",
+    "表記": "福島県石川郡古殿町大字鎌田字吉田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "石川郡",
+      "市区町村": "古殿町",
+      "町名": "大字鎌田字吉田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07505002030"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405400"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233389/101953.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県石川郡古殿町大字鎌田字吉田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/石川郡/古殿町/大字鎌田字吉田.json",
+    "name": "大字鎌田字吉田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県石川郡古殿町"
+  }
+]

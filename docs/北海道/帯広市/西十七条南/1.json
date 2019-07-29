@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道帯広市西十七条南一丁目",
+    "表記": "北海道帯広市西十七条南一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "帯広市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433113",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433114"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235323/96396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235324/96395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235322/96395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235324/96396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235330/96395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235325/96396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235329/96395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235325/96397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235323/96397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235324/96397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235322/96397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235321/96396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235320/96396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235320/96395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235321/96395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235329/96394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235322/96396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235321/96397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235324/96394.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道帯広市西十七条南一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/帯広市/西十七条南/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道帯広市西十七条南"
+  }
+]

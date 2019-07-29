@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県塩竈市浦戸野々島字河岸",
+    "表記": "宮城県塩竈市浦戸野々島字河岸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "塩竈市",
+      "町名": "浦戸野々島字河岸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057414008"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233823/100803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233822/100803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233823/100804.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県塩竈市浦戸野々島字河岸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/塩竈市/浦戸野々島字河岸.json",
+    "name": "浦戸野々島字河岸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県塩竈市"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市長岡",
+    "表記": "富山県富山市長岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "長岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370165",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370164"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230971/102290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230970/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230970/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230971/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230971/102292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230970/102292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230970/102290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230970/102289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230971/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230970/102293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102292.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市長岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/長岡.json",
+    "name": "長岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

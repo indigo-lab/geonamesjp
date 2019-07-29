@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道空知郡奈井江町厳島",
+    "表記": "北海道空知郡奈井江町厳島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "空知郡",
+      "市区町村": "奈井江町",
+      "町名": "厳島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065411733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234408/95891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234408/95890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234406/95889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234401/95886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234411/95885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234406/95881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234414/95882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234402/95881.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道空知郡奈井江町厳島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/空知郡/奈井江町/厳島.json",
+    "name": "厳島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道空知郡奈井江町"
+  }
+]

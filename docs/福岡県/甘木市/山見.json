@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県甘木市山見",
+    "表記": "福岡県甘木市山見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "甘木市",
+      "町名": "山見"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301536",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301537",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301546"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226248/105197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226253/105199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226252/105200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226254/105202.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県甘木市山見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/甘木市/山見.json",
+    "name": "山見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県甘木市"
+  }
+]

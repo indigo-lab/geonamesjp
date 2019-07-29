@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県光市虹ヶ丘三丁目",
+    "表記": "山口県光市虹ヶ丘三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "光市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317772",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317773"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227129/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227128/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227129/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227129/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227128/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227128/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227127/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227127/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227125/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227125/104738.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県光市虹ヶ丘三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/光市/虹ヶ丘/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山口県光市虹ヶ丘"
+  }
+]

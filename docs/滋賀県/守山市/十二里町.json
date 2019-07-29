@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県守山市十二里町",
+    "表記": "滋賀県守山市十二里町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "十二里町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252070280"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354787",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354788"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230081/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230081/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230082/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230082/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230082/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230081/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230079/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230087/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230086/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230079/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230081/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230082/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230083/103771.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県守山市十二里町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/守山市/十二里町.json",
+    "name": "十二里町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県守山市"
+  }
+]

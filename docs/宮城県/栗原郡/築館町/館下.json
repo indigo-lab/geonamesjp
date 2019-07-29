@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町館下",
+    "表記": "宮城県栗原郡築館町館下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "栗原郡",
+      "市区町村": "築館町",
+      "町名": "館下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410070",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410071"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/100440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/100441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233753/100441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233753/100440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233755/100441.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町館下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原郡/築館町/館下.json",
+    "name": "館下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原郡築館町"
+  }
+]

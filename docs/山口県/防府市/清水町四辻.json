@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県防府市清水町四辻",
+    "表記": "山口県防府市清水町四辻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "防府市",
+      "町名": "清水町四辻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310454"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226864/104675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226866/104676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226866/104675.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県防府市清水町四辻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/防府市/清水町四辻.json",
+    "name": "清水町四辻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県防府市"
+  }
+]

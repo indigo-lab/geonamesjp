@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県米子市旗ヶ崎（丁目なし）",
+    "表記": "鳥取県米子市旗ヶ崎（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "米子市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312020481",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312020482"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331215",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331225",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331214"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228149/103449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228148/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228147/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/103447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228147/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228144/103445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228149/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228150/103447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228149/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228149/103447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228147/103447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228144/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228142/103445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228142/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228144/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228146/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/103446.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県米子市旗ヶ崎（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/米子市/旗ヶ崎/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県米子市旗ヶ崎"
+  }
+]

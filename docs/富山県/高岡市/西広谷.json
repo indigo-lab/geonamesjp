@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市西広谷",
+    "表記": "富山県高岡市西広谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "高岡市",
+      "町名": "西広谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162022180"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361713",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361712",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361714"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/102249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/102249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/102247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/102249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/102250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/102250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/102253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230770/102248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/102248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/102249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/102249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/102253.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市西広谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/西広谷.json",
+    "name": "西広谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

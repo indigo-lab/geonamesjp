@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県八幡浜市矢野町字徳雲坊",
+    "表記": "愛媛県八幡浜市矢野町字徳雲坊",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "八幡浜市",
+      "町名": "矢野町字徳雲坊"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050321344"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227506/105196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227507/105197.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県八幡浜市矢野町字徳雲坊",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/八幡浜市/矢野町字徳雲坊.json",
+    "name": "矢野町字徳雲坊",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県八幡浜市"
+  }
+]

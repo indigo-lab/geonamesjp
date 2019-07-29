@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市中央区弁天橋通",
+    "表記": "新潟県新潟市中央区弁天橋通",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "中央区",
+      "町名": "弁天橋通",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S151031560"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市中央区弁天橋通",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/中央区/弁天橋通.json",
+    "name": "弁天橋通",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市中央区",
+    "children": [
+      "https://geonames.jp/resource/新潟県新潟市中央区弁天橋通一丁目",
+      "https://geonames.jp/resource/新潟県新潟市中央区弁天橋通二丁目",
+      "https://geonames.jp/resource/新潟県新潟市中央区弁天橋通三丁目"
+    ]
+  }
+]

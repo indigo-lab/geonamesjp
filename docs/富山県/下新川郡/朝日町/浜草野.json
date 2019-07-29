@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県下新川郡朝日町浜草野",
+    "表記": "富山県下新川郡朝日町浜草野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "下新川郡",
+      "市区町村": "朝日町",
+      "町名": "浜草野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055373454",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055373444",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055373453"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231236/102069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231235/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231234/102072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231236/102072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231236/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231234/102069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231237/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231238/102072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231234/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231233/102069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231233/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231238/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231232/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231235/102071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231236/102071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231237/102071.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県下新川郡朝日町浜草野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/下新川郡/朝日町/浜草野.json",
+    "name": "浜草野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県下新川郡朝日町"
+  }
+]

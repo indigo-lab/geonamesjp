@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県由利本荘市畑谷字新ウルイノ",
+    "表記": "秋田県由利本荘市畑谷字新ウルイノ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "由利本荘市",
+      "町名": "畑谷字新ウルイノ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400095"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233068/99802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233069/99801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233070/99801.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県由利本荘市畑谷字新ウルイノ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/由利本荘市/畑谷字新ウルイノ.json",
+    "name": "畑谷字新ウルイノ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県由利本荘市"
+  }
+]

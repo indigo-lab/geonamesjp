@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都板橋区成増",
+    "表記": "東京都板橋区成増",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "板橋区",
+      "町名": "成増",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131190510"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都板橋区成増",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/板橋区/成増.json",
+    "name": "成増",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都板橋区",
+    "children": [
+      "https://geonames.jp/resource/東京都板橋区成増一丁目",
+      "https://geonames.jp/resource/東京都板橋区成増二丁目",
+      "https://geonames.jp/resource/東京都板橋区成増三丁目",
+      "https://geonames.jp/resource/東京都板橋区成増四丁目",
+      "https://geonames.jp/resource/東京都板橋区成増五丁目"
+    ]
+  }
+]

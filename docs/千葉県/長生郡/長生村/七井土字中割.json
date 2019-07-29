@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県長生郡長生村七井土字中割",
+    "表記": "千葉県長生郡長生村七井土字中割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "長生郡",
+      "市区町村": "長生村",
+      "町名": "七井土字中割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400275"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233252/103479.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県長生郡長生村七井土字中割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/長生郡/長生村/七井土字中割.json",
+    "name": "七井土字中割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県長生郡長生村"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県弘前市末広",
+    "表記": "青森県弘前市末広",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "弘前市",
+      "町名": "末広"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県弘前市末広",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/弘前市/末広.json",
+    "name": "末広",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県弘前市",
+    "children": [
+      "https://geonames.jp/resource/青森県弘前市末広一丁目",
+      "https://geonames.jp/resource/青森県弘前市末広二丁目",
+      "https://geonames.jp/resource/青森県弘前市末広三丁目",
+      "https://geonames.jp/resource/青森県弘前市末広四丁目",
+      "https://geonames.jp/resource/青森県弘前市末広五丁目"
+    ]
+  }
+]

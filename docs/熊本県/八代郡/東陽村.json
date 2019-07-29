@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県八代郡東陽村",
+    "表記": "熊本県八代郡東陽村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "八代郡",
+      "市区町村": "東陽村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43466-20050801",
+        "http://data.e-stat.go.jp/lod/sac/C43466-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県八代郡東陽村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/八代郡/東陽村.json",
+    "name": "東陽村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県八代郡"
+  }
+]

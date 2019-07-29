@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市門司区泉ケ丘",
+    "表記": "福岡県北九州市門司区泉ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "門司区",
+      "町名": "泉ケ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306764",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306774"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226415/104813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226416/104812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226417/104813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226416/104813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226416/104814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226415/104814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226414/104813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226414/104814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226415/104815.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市門司区泉ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/門司区/泉ケ丘.json",
+    "name": "泉ケ丘",
+    "alternateName": [
+      "泉ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市門司区"
+  }
+]

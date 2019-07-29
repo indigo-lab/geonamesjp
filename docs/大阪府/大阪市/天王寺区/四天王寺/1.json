@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府大阪市天王寺区四天王寺一丁目",
+    "表記": "大阪府大阪市天王寺区四天王寺一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "大阪市",
+      "区": "天王寺区",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S27109009001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357481"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229753/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229752/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229751/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229751/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229750/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229750/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229751/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229750/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229750/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229751/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229752/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229752/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229752/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229751/104142.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府大阪市天王寺区四天王寺一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/大阪市/天王寺区/四天王寺/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大阪府大阪市天王寺区四天王寺"
+  }
+]

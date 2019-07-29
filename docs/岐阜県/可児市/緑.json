@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県可児市緑",
+    "表記": "岐阜県可児市緑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "可児市",
+      "町名": "緑",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212140400"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県可児市緑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/可児市/緑.json",
+    "name": "緑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県可児市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県可児市緑一丁目",
+      "https://geonames.jp/resource/岐阜県可児市緑二丁目",
+      "https://geonames.jp/resource/岐阜県可児市緑三丁目",
+      "https://geonames.jp/resource/岐阜県可児市緑四丁目",
+      "https://geonames.jp/resource/岐阜県可児市緑五丁目",
+      "https://geonames.jp/resource/岐阜県可児市緑六丁目",
+      "https://geonames.jp/resource/岐阜県可児市緑七丁目"
+    ]
+  }
+]

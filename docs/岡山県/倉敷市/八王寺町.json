@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市八王寺町",
+    "表記": "岡山県倉敷市八王寺町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "八王寺町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332020440"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337519",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337529",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337610",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337620"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228466/104190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228465/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228466/104188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228467/104188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228466/104187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228466/104186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228467/104186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228468/104186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228468/104187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228467/104187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228468/104188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228467/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228468/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228464/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228462/104190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228467/104190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228463/104191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228462/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228465/104188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228466/104189.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市八王寺町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/倉敷市/八王寺町.json",
+    "name": "八王寺町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県倉敷市"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府木津川市例幣",
+    "表記": "京都府木津川市例幣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "木津川市",
+      "町名": "例幣"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351628",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351638"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230001/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230003/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230002/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230006/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230003/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230012/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230008/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230003/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230007/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230005/104037.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府木津川市例幣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/木津川市/例幣.json",
+    "name": "例幣",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府木津川市"
+  }
+]

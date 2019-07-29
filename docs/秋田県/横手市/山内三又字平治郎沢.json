@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県横手市山内三又字平治郎沢",
+    "表記": "秋田県横手市山内三又字平治郎沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "横手市",
+      "町名": "山内三又字平治郎沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406535"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/100000.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県横手市山内三又字平治郎沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/横手市/山内三又字平治郎沢.json",
+    "name": "山内三又字平治郎沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県横手市"
+  }
+]

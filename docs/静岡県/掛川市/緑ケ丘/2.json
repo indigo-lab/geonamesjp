@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県掛川市緑ケ丘二丁目",
+    "表記": "静岡県掛川市緑ケ丘二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "掛川市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S22213013002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381022",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381021"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231578/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231577/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231579/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231578/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231578/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231580/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231579/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231579/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231579/104041.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県掛川市緑ケ丘二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/掛川市/緑ケ丘/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県掛川市緑ケ丘"
+  }
+]

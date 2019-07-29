@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県南砺市末広町",
+    "表記": "富山県南砺市末広町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "末広町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366731"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/102467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/102465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/102461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/102466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/102463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/102465.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県南砺市末広町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/南砺市/末広町.json",
+    "name": "末広町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県南砺市"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市垂水区多聞町字小束山",
+    "表記": "兵庫県神戸市垂水区多聞町字小束山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "神戸市",
+      "区": "垂水区",
+      "町名": "多聞町字小束山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357094",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350004"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229421/104127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229417/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229418/104128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229415/104129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229417/104131.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市垂水区多聞町字小束山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/神戸市/垂水区/多聞町字小束山.json",
+    "name": "多聞町字小束山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県神戸市垂水区"
+  }
+]

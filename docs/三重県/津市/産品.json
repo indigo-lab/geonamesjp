@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県津市産品",
+    "表記": "三重県津市産品",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "津市",
+      "町名": "産品",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242010880"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360375"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230424/104077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230435/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230435/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230424/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230429/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/104079.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県津市産品",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/津市/産品.json",
+    "name": "産品",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県津市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県宿毛市自由ヶ丘",
+    "表記": "高知県宿毛市自由ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "宿毛市",
+      "町名": "自由ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323515",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323525"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227695/105650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227694/105650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227693/105650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227694/105649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227693/105649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227694/105648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227693/105648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227694/105651.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県宿毛市自由ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/宿毛市/自由ヶ丘.json",
+    "name": "自由ヶ丘",
+    "alternateName": [
+      "自由ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/高知県宿毛市"
+  }
+]

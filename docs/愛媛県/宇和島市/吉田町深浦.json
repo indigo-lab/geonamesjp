@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市吉田町深浦",
+    "表記": "愛媛県宇和島市吉田町深浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "宇和島市",
+      "町名": "吉田町深浦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38203101001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38203101002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38203101004",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38203101003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382031010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049327480",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049327470"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227558/105315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227559/105314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227557/105311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227559/105315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227556/105315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227558/105313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227556/105317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227555/105318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227558/105312.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市吉田町深浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/宇和島市/吉田町深浦.json",
+    "name": "吉田町深浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県宇和島市"
+  }
+]

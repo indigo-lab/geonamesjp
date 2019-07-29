@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県秋田市旭川新藤田西町",
+    "表記": "秋田県秋田市旭川新藤田西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "旭川新藤田西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S05201019003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404180",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404089",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059404190"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/99488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/99489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/99487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/99486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/99487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/99486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/99488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/99489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/99488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/99487.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県秋田市旭川新藤田西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/秋田市/旭川新藤田西町.json",
+    "name": "旭川新藤田西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県秋田市"
+  }
+]

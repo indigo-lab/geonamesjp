@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡香住町境",
+    "表記": "兵庫県城崎郡香住町境",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "城崎郡",
+      "市区町村": "香住町",
+      "町名": "境"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343570",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343571",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343581"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229111/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229112/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229113/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229117/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229114/103257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229117/103251.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡香住町境",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/城崎郡/香住町/境.json",
+    "name": "境",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県城崎郡香住町"
+  }
+]

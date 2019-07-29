@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町広瀬山",
+    "表記": "佐賀県西松浦郡有田町広瀬山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "西松浦郡",
+      "市区町村": "有田町",
+      "町名": "広瀬山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S414010370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296659",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296750",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296760",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296669"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225640/105406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225639/105406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225645/105409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225652/105402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225640/105399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225650/105403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225651/105399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225650/105406.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町広瀬山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/西松浦郡/有田町/広瀬山.json",
+    "name": "広瀬山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県西松浦郡有田町"
+  }
+]

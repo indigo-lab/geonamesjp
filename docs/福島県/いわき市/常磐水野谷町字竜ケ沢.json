@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市常磐水野谷町字竜ケ沢",
+    "表記": "福島県いわき市常磐水野谷町字竜ケ沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "常磐水野谷町字竜ケ沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404609",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404619"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233647/102027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233646/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/102025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233643/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/102021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/102027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/102025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233648/102021.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市常磐水野谷町字竜ケ沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/常磐水野谷町字竜ケ沢.json",
+    "name": "常磐水野谷町字竜ケ沢",
+    "alternateName": [
+      "常磐水野谷町字竜ヶ沢"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

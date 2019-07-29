@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県所沢市けやき台",
+    "表記": "埼玉県所沢市けやき台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "所沢市",
+      "町名": "けやき台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112080210"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県所沢市けやき台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/所沢市/けやき台.json",
+    "name": "けやき台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県所沢市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県所沢市けやき台一丁目",
+      "https://geonames.jp/resource/埼玉県所沢市けやき台二丁目"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市北灘町櫛木字中田",
+    "表記": "徳島県鳴門市北灘町櫛木字中田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "鳴門市",
+      "町名": "北灘町櫛木字中田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342445"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229059/104538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229058/104538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229057/104540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229059/104539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229058/104540.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市北灘町櫛木字中田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/鳴門市/北灘町櫛木字中田.json",
+    "name": "北灘町櫛木字中田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県鳴門市"
+  }
+]

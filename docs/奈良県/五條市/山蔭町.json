@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県五條市山蔭町",
+    "表記": "奈良県五條市山蔭町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "山蔭町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353584",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353594"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229872/104429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229873/104433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229869/104429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229870/104430.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県五條市山蔭町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/五條市/山蔭町.json",
+    "name": "山蔭町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県五條市"
+  }
+]

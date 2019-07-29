@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県海部郡佐屋町内佐屋",
+    "表記": "愛知県海部郡佐屋町内佐屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "海部郡",
+      "市区町村": "佐屋町",
+      "町名": "内佐屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365586",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365596",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365597"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/103695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/103694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/103692.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県海部郡佐屋町内佐屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/海部郡/佐屋町/内佐屋.json",
+    "name": "内佐屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県海部郡佐屋町"
+  }
+]

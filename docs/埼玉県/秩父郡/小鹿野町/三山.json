@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県秩父郡小鹿野町三山",
+    "表記": "埼玉県秩父郡小鹿野町三山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "秩父郡",
+      "市区町村": "小鹿野町",
+      "町名": "三山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11365007004",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11365007006",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11365007005",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11365007001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11365007002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11365007007",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S113650070",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11365007003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054380744",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054380743"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232236/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/102907.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県秩父郡小鹿野町三山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/秩父郡/小鹿野町/三山.json",
+    "name": "三山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県秩父郡小鹿野町"
+  }
+]

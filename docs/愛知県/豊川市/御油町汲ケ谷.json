@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊川市御油町汲ケ谷",
+    "表記": "愛知県豊川市御油町汲ケ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊川市",
+      "町名": "御油町汲ケ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372215",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372216",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372225",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372226"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/103966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/103966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/103967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/103967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231067/103967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/103968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/103968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/103969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/103969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231067/103968.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊川市御油町汲ケ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊川市/御油町汲ケ谷.json",
+    "name": "御油町汲ケ谷",
+    "alternateName": [
+      "御油町汲ヶ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊川市"
+  }
+]

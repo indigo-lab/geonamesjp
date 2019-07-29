@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県上野市緑ケ丘東町",
+    "表記": "三重県上野市緑ケ丘東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "緑ケ丘東町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361111"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230209/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230210/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230211/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230210/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104045.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県上野市緑ケ丘東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/上野市/緑ケ丘東町.json",
+    "name": "緑ケ丘東町",
+    "alternateName": [
+      "緑ヶ丘東町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/三重県上野市"
+  }
+]

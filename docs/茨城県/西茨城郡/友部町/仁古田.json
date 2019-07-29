@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県西茨城郡友部町仁古田",
+    "表記": "茨城県西茨城郡友部町仁古田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "西茨城郡",
+      "市区町村": "友部町",
+      "町名": "仁古田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403257",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403258",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403267",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403268"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233269/102669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233272/102670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233274/102669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233276/102670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233274/102666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233272/102666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/102666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/102671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/102668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233274/102662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/102671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233274/102670.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県西茨城郡友部町仁古田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/西茨城郡/友部町/仁古田.json",
+    "name": "仁古田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県西茨城郡友部町"
+  }
+]

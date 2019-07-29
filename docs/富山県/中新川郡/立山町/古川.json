@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町古川",
+    "表記": "富山県中新川郡立山町古川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "中新川郡",
+      "市区町村": "立山町",
+      "町名": "古川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377265",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377275"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102362.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町古川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/中新川郡/立山町/古川.json",
+    "name": "古川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県中新川郡立山町"
+  }
+]

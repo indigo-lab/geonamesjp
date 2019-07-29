@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市乙狩北",
+    "表記": "岐阜県美濃市乙狩北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "美濃市",
+      "町名": "乙狩北"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053363618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053363638"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230731/103302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230731/103301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230728/103291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230730/103287.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市乙狩北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/美濃市/乙狩北.json",
+    "name": "乙狩北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県美濃市"
+  }
+]

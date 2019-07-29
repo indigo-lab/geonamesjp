@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡那賀町藤崎",
+    "表記": "和歌山県那賀郡那賀町藤崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "那賀郡",
+      "市区町村": "那賀町",
+      "町名": "藤崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353313",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353314",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353323",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353324"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229684/104484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229684/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229684/104481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229683/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229686/104481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229685/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229685/104482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229686/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229686/104482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/104481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/104480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/104479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229685/104480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229686/104480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229684/104480.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡那賀町藤崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/那賀郡/那賀町/藤崎.json",
+    "name": "藤崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県那賀郡那賀町"
+  }
+]

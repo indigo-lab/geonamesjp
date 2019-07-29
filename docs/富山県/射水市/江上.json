@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県射水市江上",
+    "表記": "富山県射水市江上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "射水市",
+      "町名": "江上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370068",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370069"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230912/102292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230912/102291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/102292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/102291.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県射水市江上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/射水市/江上.json",
+    "name": "江上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県射水市"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県一宮市伝法寺十二丁目",
+    "表記": "愛知県一宮市伝法寺十二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "一宮市",
+      "町名": "十二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367617"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103603.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県一宮市伝法寺十二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/一宮市/伝法寺/12.json",
+    "name": "十二丁目",
+    "alternateName": [
+      "12",
+      "12丁目",
+      "１２",
+      "１２丁目",
+      "十二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県一宮市伝法寺"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府宮津市中野",
+    "表記": "京都府宮津市中野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "宮津市",
+      "町名": "中野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352194",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053353105"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229513/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229514/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229513/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229512/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229514/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229515/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229515/103315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229516/103315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229513/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229512/103318.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府宮津市中野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/宮津市/中野.json",
+    "name": "中野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府宮津市"
+  }
+]

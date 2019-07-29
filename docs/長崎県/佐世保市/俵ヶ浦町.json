@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市俵ヶ浦町",
+    "表記": "長崎県佐世保市俵ヶ浦町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "俵ヶ浦町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049295544",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049295543"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225499/105484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225491/105489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225497/105486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225490/105488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225500/105483.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市俵ヶ浦町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/佐世保市/俵ヶ浦町.json",
+    "name": "俵ヶ浦町",
+    "alternateName": [
+      "俵ケ浦町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/長崎県佐世保市"
+  }
+]

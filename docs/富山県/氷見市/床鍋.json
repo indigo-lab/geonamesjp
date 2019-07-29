@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県氷見市床鍋",
+    "表記": "富山県氷見市床鍋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "氷見市",
+      "町名": "床鍋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162050750"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362619",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362710"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/102174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/102169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/102171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/102176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/102175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/102175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230743/102174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/102172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230743/102176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/102172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/102174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/102175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230736/102175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/102173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/102174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/102172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/102173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/102175.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県氷見市床鍋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/氷見市/床鍋.json",
+    "name": "床鍋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県氷見市"
+  }
+]

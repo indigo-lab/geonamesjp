@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新発田市三日市",
+    "表記": "新潟県新発田市三日市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新発田市",
+      "町名": "三日市",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152061070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397259",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397258",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397268",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397269"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232553/101149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232552/101149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232552/101152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232552/101146.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新発田市三日市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新発田市/三日市.json",
+    "name": "三日市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新発田市"
+  }
+]

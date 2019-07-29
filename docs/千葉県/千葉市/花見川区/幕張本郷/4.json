@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県千葉市花見川区幕張本郷四丁目",
+    "表記": "千葉県千葉市花見川区幕張本郷四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "千葉市",
+      "区": "花見川区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12102025004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404003",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403093"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/103238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/103239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/103237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/103237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/103238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/103238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/103237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/103237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/103238.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県千葉市花見川区幕張本郷四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/千葉市/花見川区/幕張本郷/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県千葉市花見川区幕張本郷"
+  }
+]

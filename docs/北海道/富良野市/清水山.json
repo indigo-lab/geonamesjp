@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道富良野市清水山",
+    "表記": "北海道富良野市清水山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "富良野市",
+      "町名": "清水山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065420239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065420249",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065420312",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065420330"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234773/95981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234771/95979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234770/95978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234767/95978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234743/95962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234745/95962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234747/95961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234744/95957.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道富良野市清水山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/富良野市/清水山.json",
+    "name": "清水山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道富良野市"
+  }
+]

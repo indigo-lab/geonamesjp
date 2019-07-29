@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市ひじ渕",
+    "表記": "兵庫県豊岡市ひじ渕",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "豊岡市",
+      "町名": "ひじ渕"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342605",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053342604"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229245/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229242/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229244/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229244/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229236/103386.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市ひじ渕",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/豊岡市/ひじ渕.json",
+    "name": "ひじ渕",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県豊岡市"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県十和田市三本木字中掫",
+    "表記": "青森県十和田市三本木字中掫",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "十和田市",
+      "町名": "三本木字中掫"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417111",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417112"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233855/98671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233855/98672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233853/98670.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県十和田市三本木字中掫",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/十和田市/三本木字中掫.json",
+    "name": "三本木字中掫",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県十和田市"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県三豊郡豊中町",
+    "表記": "香川県三豊郡豊中町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "三豊郡",
+      "市区町村": "豊中町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C37425-19841201",
+        "http://data.e-stat.go.jp/lod/sac/C37425-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C37425-20060101",
+        "http://data.e-stat.go.jp/lod/sac/C37425-19950301",
+        "http://data.e-stat.go.jp/lod/sac/C37425-19890201",
+        "http://data.e-stat.go.jp/lod/sac/C37425-19870601"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県三豊郡豊中町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/三豊郡/豊中町.json",
+    "name": "豊中町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県三豊郡",
+    "children": [
+      "https://geonames.jp/resource/香川県三豊郡豊中町岡本",
+      "https://geonames.jp/resource/香川県三豊郡豊中町下高野",
+      "https://geonames.jp/resource/香川県三豊郡豊中町笠田笠岡",
+      "https://geonames.jp/resource/香川県三豊郡豊中町笠田竹田",
+      "https://geonames.jp/resource/香川県三豊郡豊中町上高野",
+      "https://geonames.jp/resource/香川県三豊郡豊中町比地大",
+      "https://geonames.jp/resource/香川県三豊郡豊中町本山乙",
+      "https://geonames.jp/resource/香川県三豊郡豊中町本山甲"
+    ]
+  }
+]

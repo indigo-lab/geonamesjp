@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県茂原市緑ケ丘",
+    "表記": "千葉県茂原市緑ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "茂原市",
+      "町名": "緑ケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県茂原市緑ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/茂原市/緑ケ丘.json",
+    "name": "緑ケ丘",
+    "alternateName": [
+      "緑ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県茂原市",
+    "children": [
+      "https://geonames.jp/resource/千葉県茂原市緑ケ丘一丁目",
+      "https://geonames.jp/resource/千葉県茂原市緑ケ丘二丁目",
+      "https://geonames.jp/resource/千葉県茂原市緑ケ丘三丁目",
+      "https://geonames.jp/resource/千葉県茂原市緑ケ丘四丁目",
+      "https://geonames.jp/resource/千葉県茂原市緑ケ丘五丁目"
+    ]
+  }
+]

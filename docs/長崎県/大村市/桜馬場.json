@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県大村市桜馬場",
+    "表記": "長崎県大村市桜馬場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "大村市",
+      "町名": "桜馬場"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県大村市桜馬場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/大村市/桜馬場.json",
+    "name": "桜馬場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県大村市",
+    "children": [
+      "https://geonames.jp/resource/長崎県大村市桜馬場（丁目なし）",
+      "https://geonames.jp/resource/長崎県大村市桜馬場一丁目",
+      "https://geonames.jp/resource/長崎県大村市桜馬場二丁目"
+    ]
+  }
+]

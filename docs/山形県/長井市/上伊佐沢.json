@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県長井市上伊佐沢",
+    "表記": "山形県長井市上伊佐沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "長井市",
+      "町名": "上伊佐沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062090360"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401037",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401014",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401004"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/101013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/101029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/101031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/101030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/101010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233056/101032.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県長井市上伊佐沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/長井市/上伊佐沢.json",
+    "name": "上伊佐沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県長井市"
+  }
+]

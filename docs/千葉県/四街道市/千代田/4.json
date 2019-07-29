@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県四街道市千代田四丁目",
+    "表記": "千葉県四街道市千代田四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "四街道市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12228026004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404135",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404134"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233153/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233149/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233149/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233148/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233149/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233149/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233150/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233150/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233150/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233151/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233151/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233151/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233152/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233152/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233153/103213.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県四街道市千代田四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/四街道市/千代田/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県四街道市千代田"
+  }
+]

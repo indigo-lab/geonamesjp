@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下関市菊川町西中山",
+    "表記": "山口県下関市菊川町西中山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "下関市",
+      "町名": "菊川町西中山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311072",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311073",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311083",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311093"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226488/104586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226493/104578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226492/104589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226496/104581.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下関市菊川町西中山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下関市/菊川町西中山.json",
+    "name": "菊川町西中山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下関市"
+  }
+]

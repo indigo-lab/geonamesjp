@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県南安曇郡堀金村",
+    "表記": "長野県南安曇郡堀金村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "南安曇郡",
+      "市区町村": "堀金村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20467-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C20467-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C20467-19810901",
+        "http://data.e-stat.go.jp/lod/sac/C20467-19861201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県南安曇郡堀金村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/南安曇郡/堀金村.json",
+    "name": "堀金村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県南安曇郡",
+    "children": [
+      "https://geonames.jp/resource/長野県南安曇郡堀金村下堀",
+      "https://geonames.jp/resource/長野県南安曇郡堀金村岩原",
+      "https://geonames.jp/resource/長野県南安曇郡堀金村小田多井",
+      "https://geonames.jp/resource/長野県南安曇郡堀金村上堀",
+      "https://geonames.jp/resource/長野県南安曇郡堀金村扇町",
+      "https://geonames.jp/resource/長野県南安曇郡堀金村倉田",
+      "https://geonames.jp/resource/長野県南安曇郡堀金村中堀",
+      "https://geonames.jp/resource/長野県南安曇郡堀金村田尻",
+      "https://geonames.jp/resource/長野県南安曇郡堀金村田多井",
+      "https://geonames.jp/resource/長野県南安曇郡堀金村烏川"
+    ]
+  }
+]

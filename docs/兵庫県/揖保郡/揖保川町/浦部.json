@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡揖保川町浦部",
+    "表記": "兵庫県揖保郡揖保川町浦部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "揖保郡",
+      "市区町村": "揖保川町",
+      "町名": "浦部"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341472"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229035/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229035/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/104007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229037/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229038/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229036/104006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229037/104007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229037/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229037/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229037/104006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229038/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229038/104006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229038/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229038/104007.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡揖保川町浦部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/揖保郡/揖保川町/浦部.json",
+    "name": "浦部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県揖保郡揖保川町"
+  }
+]

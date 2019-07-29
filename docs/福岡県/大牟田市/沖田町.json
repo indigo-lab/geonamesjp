@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県大牟田市沖田町",
+    "表記": "福岡県大牟田市沖田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "沖田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402020330"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304305",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304306",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304315",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304316"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226061/105580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226060/105582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226061/105583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226064/105584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226064/105582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226064/105583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226065/105583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226065/105584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226065/105582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226059/105584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226059/105583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226060/105581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226061/105581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105581.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県大牟田市沖田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/大牟田市/沖田町.json",
+    "name": "沖田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県大牟田市"
+  }
+]

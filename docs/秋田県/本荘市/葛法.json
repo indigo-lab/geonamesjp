@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県本荘市葛法",
+    "表記": "秋田県本荘市葛法",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "本荘市",
+      "町名": "葛法"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400003",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400013",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400014"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/99863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/99863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/99866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/99867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/99866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/99864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/99868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/99866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/99863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/99868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/99867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233062/99864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233061/99862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/99864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/99862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233056/99863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/99862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99861.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県本荘市葛法",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/本荘市/葛法.json",
+    "name": "葛法",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県本荘市"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市黒髪五丁目",
+    "表記": "熊本県熊本市黒髪五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301588"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226266/105753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226267/105753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226266/105752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226267/105752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226266/105751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226267/105751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226268/105751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226268/105752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226269/105751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226269/105750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226270/105750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226268/105750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226267/105750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226266/105750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226266/105749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226267/105749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226268/105748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226268/105749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226269/105749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226270/105749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226270/105748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226267/105748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226269/105748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226271/105748.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市黒髪五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/黒髪/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市黒髪"
+  }
+]

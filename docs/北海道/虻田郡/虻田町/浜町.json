@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道虻田郡虻田町浜町",
+    "表記": "北海道虻田郡虻田町浜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "虻田郡",
+      "市区町村": "虻田町",
+      "町名": "浜町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406650",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406651"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233572/96772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233571/96771.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道虻田郡虻田町浜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/虻田郡/虻田町/浜町.json",
+    "name": "浜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道虻田郡虻田町"
+  }
+]

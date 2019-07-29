@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市妙字大開",
+    "表記": "青森県八戸市妙字大開",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "妙字大開"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060415474",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060415475",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060415485"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234154/98783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234153/98783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234148/98782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234153/98781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234157/98780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234157/98781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234159/98780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234152/98781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234150/98782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234151/98781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234152/98782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234151/98784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234151/98783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234149/98783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234148/98783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234147/98783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234147/98784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234150/98783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234149/98786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234146/98784.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市妙字大開",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/妙字大開.json",
+    "name": "妙字大開",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市"
+  }
+]

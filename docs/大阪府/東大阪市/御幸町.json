@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府東大阪市御幸町",
+    "表記": "大阪府東大阪市御幸町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "御幸町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S272271940"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357591",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357581"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229841/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229841/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229840/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229840/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229839/104137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229839/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229838/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229838/104137.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府東大阪市御幸町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/東大阪市/御幸町.json",
+    "name": "御幸町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府東大阪市"
+  }
+]

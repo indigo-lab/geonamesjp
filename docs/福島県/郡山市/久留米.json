@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県郡山市久留米",
+    "表記": "福島県郡山市久留米",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "郡山市",
+      "町名": "久留米",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072030310"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県郡山市久留米",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/郡山市/久留米.json",
+    "name": "久留米",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県郡山市",
+    "children": [
+      "https://geonames.jp/resource/福島県郡山市久留米一丁目",
+      "https://geonames.jp/resource/福島県郡山市久留米二丁目",
+      "https://geonames.jp/resource/福島県郡山市久留米三丁目",
+      "https://geonames.jp/resource/福島県郡山市久留米四丁目",
+      "https://geonames.jp/resource/福島県郡山市久留米五丁目",
+      "https://geonames.jp/resource/福島県郡山市久留米六丁目"
+    ]
+  }
+]

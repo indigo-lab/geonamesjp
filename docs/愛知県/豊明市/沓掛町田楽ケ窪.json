@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊明市沓掛町田楽ケ窪",
+    "表記": "愛知県豊明市沓掛町田楽ケ窪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊明市",
+      "町名": "沓掛町田楽ケ窪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374080",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364789"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230836/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103773.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊明市沓掛町田楽ケ窪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊明市/沓掛町田楽ケ窪.json",
+    "name": "沓掛町田楽ケ窪",
+    "alternateName": [
+      "沓掛町田楽ヶ窪"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊明市"
+  }
+]

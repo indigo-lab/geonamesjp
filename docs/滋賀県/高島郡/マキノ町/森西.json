@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県高島郡マキノ町森西",
+    "表記": "滋賀県高島郡マキノ町森西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "高島郡",
+      "市区町村": "マキノ町",
+      "町名": "森西"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361042",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361051",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361052"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230125/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230125/103421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230126/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230123/103426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230122/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230123/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230122/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230123/103424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230123/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230123/103427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230124/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230124/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230124/103427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230124/103424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230125/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230125/103424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230126/103424.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県高島郡マキノ町森西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/高島郡/マキノ町/森西.json",
+    "name": "森西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県高島郡マキノ町"
+  }
+]

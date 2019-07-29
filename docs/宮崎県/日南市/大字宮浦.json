@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県日南市大字宮浦",
+    "表記": "宮崎県日南市大字宮浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "日南市",
+      "町名": "大字宮浦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S452040570"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047314305",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047313385"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226790/106736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226786/106753.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県日南市大字宮浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/日南市/大字宮浦.json",
+    "name": "大字宮浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県日南市"
+  }
+]

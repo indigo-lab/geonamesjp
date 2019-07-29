@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県中頭郡与那城町上原",
+    "表記": "沖縄県中頭郡与那城町上原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "中頭郡",
+      "市区町村": "与那城町",
+      "町名": "上原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039274748",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039274758"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224266/111154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224266/111153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224265/111152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224266/111152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224264/111150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224266/111155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224265/111146.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県中頭郡与那城町上原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/中頭郡/与那城町/上原.json",
+    "name": "上原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県中頭郡与那城町"
+  }
+]

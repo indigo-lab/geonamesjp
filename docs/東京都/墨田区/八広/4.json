@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都墨田区八広四丁目",
+    "表記": "東京都墨田区八広四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "墨田区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13107024004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394666",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394676"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/103190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/103190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/103191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/103187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232891/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/103188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/103189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/103190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/103190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232892/103191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232893/103191.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都墨田区八広四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/墨田区/八広/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都墨田区八広"
+  }
+]

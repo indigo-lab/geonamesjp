@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上田市大久保",
+    "表記": "長野県上田市大久保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "上田市",
+      "町名": "大久保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384292",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054385201",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054385202"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231759/102563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231759/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231761/102563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231761/102565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231761/102566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231761/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231761/102562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231761/102560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231762/102561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231762/102562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231762/102560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231762/102563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231762/102566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231763/102565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231764/102561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231763/102563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231763/102566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231764/102564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231766/102562.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上田市大久保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上田市/大久保.json",
+    "name": "大久保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上田市"
+  }
+]

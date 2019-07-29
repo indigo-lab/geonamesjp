@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県福井市舟橋新町",
+    "表記": "福井県福井市舟橋新町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "舟橋新町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361126",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361127"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/102848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/102849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/102848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230259/102849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/102849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230259/102848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/102849.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県福井市舟橋新町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/福井市/舟橋新町.json",
+    "name": "舟橋新町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県福井市"
+  }
+]

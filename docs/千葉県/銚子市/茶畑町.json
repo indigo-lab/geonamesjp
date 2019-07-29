@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県銚子市茶畑町",
+    "表記": "千葉県銚子市茶畑町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "茶畑町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122020940"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404588",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404589"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233550/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233549/103181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233552/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233552/103179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233555/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233555/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233555/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233554/103179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233553/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233548/103181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233551/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233554/103178.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県銚子市茶畑町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/銚子市/茶畑町.json",
+    "name": "茶畑町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県銚子市"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県東御市滋野字乙",
+    "表記": "長野県東御市滋野字乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "東御市",
+      "町名": "滋野字乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384218",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384219",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384228",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384229"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231819/102628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231819/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231821/102623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231820/102624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231825/102625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231826/102627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231830/102628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231820/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231819/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231820/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231819/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231821/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231828/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231828/102625.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県東御市滋野字乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/東御市/滋野字乙.json",
+    "name": "滋野字乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県東御市"
+  }
+]

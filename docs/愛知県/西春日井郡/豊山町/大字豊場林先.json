@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西春日井郡豊山町大字豊場林先",
+    "表記": "愛知県西春日井郡豊山町大字豊場林先",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "西春日井郡",
+      "市区町村": "豊山町",
+      "町名": "大字豊場林先"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366794"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103614.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西春日井郡豊山町大字豊場林先",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西春日井郡/豊山町/大字豊場林先.json",
+    "name": "大字豊場林先",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県西春日井郡豊山町"
+  }
+]

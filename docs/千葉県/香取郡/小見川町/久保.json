@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県香取郡小見川町久保",
+    "表記": "千葉県香取郡小見川町久保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "香取郡",
+      "市区町村": "小見川町",
+      "町名": "久保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405479",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405488",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405489"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233463/103098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233463/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233466/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233468/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233462/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233463/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233463/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233464/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233464/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233465/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233464/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233465/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233466/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233466/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233466/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233466/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233469/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233467/103103.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県香取郡小見川町久保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/香取郡/小見川町/久保.json",
+    "name": "久保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県香取郡小見川町"
+  }
+]

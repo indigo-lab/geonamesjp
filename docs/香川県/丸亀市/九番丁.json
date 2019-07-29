@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県丸亀市九番丁",
+    "表記": "香川県丸亀市九番丁",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "丸亀市",
+      "町名": "九番丁",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S372020220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333633",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333634",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333644"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228502/104469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228503/104469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/104468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/104467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228501/104469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228500/104469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228500/104470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228503/104468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/104469.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県丸亀市九番丁",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/丸亀市/九番丁.json",
+    "name": "九番丁",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県丸亀市"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市緑ケ丘",
+    "表記": "岐阜県多治見市緑ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "多治見市",
+      "町名": "緑ケ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370110",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370100",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370111"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230930/103528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230931/103530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230932/103527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230930/103529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230929/103529.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市緑ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/多治見市/緑ケ丘.json",
+    "name": "緑ケ丘",
+    "alternateName": [
+      "緑ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県多治見市"
+  }
+]

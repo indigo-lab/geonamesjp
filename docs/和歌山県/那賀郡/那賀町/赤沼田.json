@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡那賀町赤沼田",
+    "表記": "和歌山県那賀郡那賀町赤沼田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "那賀郡",
+      "市区町村": "那賀町",
+      "町名": "赤沼田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353316"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229707/104490.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡那賀町赤沼田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/那賀郡/那賀町/赤沼田.json",
+    "name": "赤沼田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県那賀郡那賀町"
+  }
+]

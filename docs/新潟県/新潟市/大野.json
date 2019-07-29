@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市大野",
+    "表記": "新潟県新潟市大野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "大野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386736",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386735",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056386746"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/101241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/101242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/101244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/101243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/101243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/101242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/101242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/101241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/101240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/101240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/101239.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市大野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/大野.json",
+    "name": "大野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

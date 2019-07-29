@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字天台",
+    "表記": "京都府舞鶴市字天台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "字天台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351238",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351248",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351249"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229636/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229636/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229643/103439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229636/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229638/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229639/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229642/103436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229636/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229643/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229643/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229641/103434.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字天台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/字天台.json",
+    "name": "字天台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

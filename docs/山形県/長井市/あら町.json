@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県長井市あら町",
+    "表記": "山形県長井市あら町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "あら町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062090070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401023",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401022"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/101023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/101022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/101022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/101021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/101020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/101021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/101022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/101021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/101020.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県長井市あら町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/長井市/あら町.json",
+    "name": "あら町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県長井市"
+  }
+]

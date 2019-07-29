@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県甲府市下飯田四丁目",
+    "表記": "山梨県甲府市下飯田四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "甲府市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S19201042004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383493",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383494"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231960/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231957/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231957/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231961/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231960/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231959/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231959/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231956/103242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231956/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231959/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231956/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231957/103245.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県甲府市下飯田四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/甲府市/下飯田/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山梨県甲府市下飯田"
+  }
+]

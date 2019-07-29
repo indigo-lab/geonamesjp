@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市鼠ケ関乙",
+    "表記": "山形県鶴岡市鼠ケ関乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "鶴岡市",
+      "町名": "鼠ケ関乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057396463",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057396473"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232688/100597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232687/100598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232686/100599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232686/100600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232687/100600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232687/100599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232688/100599.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市鼠ケ関乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/鶴岡市/鼠ケ関乙.json",
+    "name": "鼠ケ関乙",
+    "alternateName": [
+      "鼠ヶ関乙"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山形県鶴岡市"
+  }
+]

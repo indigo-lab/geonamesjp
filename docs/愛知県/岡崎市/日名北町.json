@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市日名北町",
+    "表記": "愛知県岡崎市日名北町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "日名北町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232020870"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373172"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230944/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230944/103854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230944/103853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/103853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/103854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/103855.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市日名北町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/日名北町.json",
+    "name": "日名北町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

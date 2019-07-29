@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市葵区平山",
+    "表記": "静岡県静岡市葵区平山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "区": "葵区",
+      "町名": "平山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S221011260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384373",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384363",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384364",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384383",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384374"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231870/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231867/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231867/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231869/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231869/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231867/103769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231869/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231869/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231869/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231871/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231870/103776.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市葵区平山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/葵区/平山.json",
+    "name": "平山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市葵区"
+  }
+]

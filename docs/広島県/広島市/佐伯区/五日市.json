@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市佐伯区五日市",
+    "表記": "広島県広島市佐伯区五日市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "佐伯区",
+      "町名": "五日市",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S341089410"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市佐伯区五日市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/佐伯区/五日市.json",
+    "name": "五日市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市佐伯区",
+    "children": [
+      "https://geonames.jp/resource/広島県広島市佐伯区五日市一丁目",
+      "https://geonames.jp/resource/広島県広島市佐伯区五日市二丁目",
+      "https://geonames.jp/resource/広島県広島市佐伯区五日市三丁目",
+      "https://geonames.jp/resource/広島県広島市佐伯区五日市四丁目",
+      "https://geonames.jp/resource/広島県広島市佐伯区五日市五丁目",
+      "https://geonames.jp/resource/広島県広島市佐伯区五日市六丁目",
+      "https://geonames.jp/resource/広島県広島市佐伯区五日市七丁目"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県白山市森島町字以",
+    "表記": "石川県白山市森島町字以",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "白山市",
+      "町名": "森島町字以"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365467"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230538/102516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230538/102517.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県白山市森島町字以",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/白山市/森島町字以.json",
+    "name": "森島町字以",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県白山市"
+  }
+]

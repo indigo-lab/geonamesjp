@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県岩瀬郡鏡石町笠石豊郷中",
+    "表記": "福島県岩瀬郡鏡石町笠石豊郷中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "岩瀬郡",
+      "市区町村": "鏡石町",
+      "町名": "笠石豊郷中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406288",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406299"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/101812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233277/101814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/101817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233278/101816.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県岩瀬郡鏡石町笠石豊郷中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/岩瀬郡/鏡石町/笠石豊郷中.json",
+    "name": "笠石豊郷中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県岩瀬郡鏡石町"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県丹生郡宮崎村野",
+    "表記": "福井県丹生郡宮崎村野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "丹生郡",
+      "市区町村": "宮崎村",
+      "町名": "野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367029"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230189/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230188/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230189/102996.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県丹生郡宮崎村野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/丹生郡/宮崎村/野.json",
+    "name": "野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県丹生郡宮崎村"
+  }
+]

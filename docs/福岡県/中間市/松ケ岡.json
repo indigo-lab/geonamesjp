@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県中間市松ケ岡",
+    "表記": "福岡県中間市松ケ岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "中間市",
+      "町名": "松ケ岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305587"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226259/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226258/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226259/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226258/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226260/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226259/104880.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県中間市松ケ岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/中間市/松ケ岡.json",
+    "name": "松ケ岡",
+    "alternateName": [
+      "松ヶ岡"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県中間市"
+  }
+]

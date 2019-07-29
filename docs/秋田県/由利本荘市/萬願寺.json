@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県由利本荘市萬願寺",
+    "表記": "秋田県由利本荘市萬願寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "由利本荘市",
+      "町名": "萬願寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400016",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400017",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400026",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400027"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233072/99860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/99862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/99858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233083/99852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/99854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/99853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/99857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/99854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/99860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/99858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/99856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/99856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/99858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233087/99854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233081/99858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233086/99853.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県由利本荘市萬願寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/由利本荘市/萬願寺.json",
+    "name": "萬願寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県由利本荘市"
+  }
+]

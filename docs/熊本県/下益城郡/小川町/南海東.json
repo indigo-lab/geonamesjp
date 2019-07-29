@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県下益城郡小川町南海東",
+    "表記": "熊本県下益城郡小川町南海東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "下益城郡",
+      "市区町村": "小川町",
+      "町名": "南海東"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306588",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306597",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306598",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306599"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226262/105958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226265/105958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226264/105959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226265/105961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226271/105958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226270/105956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226273/105954.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県下益城郡小川町南海東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/下益城郡/小川町/南海東.json",
+    "name": "南海東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県下益城郡小川町"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市岩滝町",
+    "表記": "愛知県豊田市岩滝町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岩滝町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232111070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375126",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375115",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375125",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375107",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375117",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375127"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230978/103746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/103746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/103746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230983/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/103746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230977/103745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230976/103745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/103743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230978/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230977/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230978/103745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/103743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/103742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/103742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/103743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230983/103743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/103743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230981/103745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230987/103745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230980/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/103745.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/103742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230979/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/103747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230987/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230983/103742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230982/103745.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市岩滝町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/岩滝町.json",
+    "name": "岩滝町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

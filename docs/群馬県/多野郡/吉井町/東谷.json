@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県多野郡吉井町東谷",
+    "表記": "群馬県多野郡吉井町東谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "多野郡",
+      "市区町村": "吉井町",
+      "町名": "東谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382766",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382767",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382777"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232263/102737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232261/102735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232261/102737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232258/102742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232262/102743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232261/102736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232259/102743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232261/102744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232261/102743.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県多野郡吉井町東谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/多野郡/吉井町/東谷.json",
+    "name": "東谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県多野郡吉井町"
+  }
+]

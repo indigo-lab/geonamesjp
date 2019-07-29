@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県坂出市室町",
+    "表記": "香川県坂出市室町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "室町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S372030140"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県坂出市室町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/坂出市/室町.json",
+    "name": "室町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県坂出市",
+    "children": [
+      "https://geonames.jp/resource/香川県坂出市室町一丁目",
+      "https://geonames.jp/resource/香川県坂出市室町二丁目",
+      "https://geonames.jp/resource/香川県坂出市室町三丁目"
+    ]
+  }
+]

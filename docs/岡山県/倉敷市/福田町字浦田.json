@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市福田町字浦田",
+    "表記": "岡山県倉敷市福田町字浦田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "倉敷市",
+      "町名": "福田町字浦田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336670",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336579",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336660"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228466/104223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228465/104222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228466/104222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228465/104230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228466/104225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228469/104228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228469/104224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228468/104224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228468/104225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228469/104225.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市福田町字浦田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/倉敷市/福田町字浦田.json",
+    "name": "福田町字浦田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県倉敷市"
+  }
+]

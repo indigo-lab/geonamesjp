@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市千種町河内",
+    "表記": "兵庫県宍粟市千種町河内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "宍粟市",
+      "町名": "千種町河内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052346336",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052346356"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228979/103657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228981/103646.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市千種町河内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/宍粟市/千種町河内.json",
+    "name": "千種町河内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県宍粟市"
+  }
+]

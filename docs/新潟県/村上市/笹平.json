@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県村上市笹平",
+    "表記": "新潟県村上市笹平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "村上市",
+      "町名": "笹平",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152122040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392475",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392474",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392484",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392445",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392483",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392495"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232698/100903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232698/100902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/100900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232690/100894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/100896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232704/100904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232697/100894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232688/100893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232703/100924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/100898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232705/100904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/100891.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県村上市笹平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/村上市/笹平.json",
+    "name": "笹平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県村上市"
+  }
+]

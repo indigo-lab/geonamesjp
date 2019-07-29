@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県御所市古瀬",
+    "表記": "奈良県御所市古瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "御所市",
+      "町名": "古瀬"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355509",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355600",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355610"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229924/104345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229924/104344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229925/104343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229927/104342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229926/104341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229925/104342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/104345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/104346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/104353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229914/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229913/104356.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県御所市古瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/御所市/古瀬.json",
+    "name": "古瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県御所市"
+  }
+]

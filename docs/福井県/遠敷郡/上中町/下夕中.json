@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県遠敷郡上中町下夕中",
+    "表記": "福井県遠敷郡上中町下夕中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "遠敷郡",
+      "市区町村": "上中町",
+      "町名": "下夕中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351770",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351780"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230013/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230013/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230013/103406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230014/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230017/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230016/103406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230017/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230018/103406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230019/103407.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県遠敷郡上中町下夕中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/遠敷郡/上中町/下夕中.json",
+    "name": "下夕中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県遠敷郡上中町"
+  }
+]

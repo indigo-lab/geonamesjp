@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市町北町大字中沢字中地",
+    "表記": "福島県会津若松市町北町大字中沢字中地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "会津若松市",
+      "町名": "町北町大字中沢字中地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392732"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232947/101552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/101555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/101554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/101555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/101553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/101552.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市町北町大字中沢字中地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/町北町大字中沢字中地.json",
+    "name": "町北町大字中沢字中地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市示野町リ",
+    "表記": "石川県金沢市示野町リ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "示野町リ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366498",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367408"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230548/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230546/102413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230545/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230545/102413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230546/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230546/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230545/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230548/102413.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市示野町リ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/示野町リ.json",
+    "name": "示野町リ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

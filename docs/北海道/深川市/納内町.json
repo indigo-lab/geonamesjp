@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道深川市納内町",
+    "表記": "北海道深川市納内町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "納内町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道深川市納内町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/深川市/納内町.json",
+    "name": "納内町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道深川市",
+    "children": [
+      "https://geonames.jp/resource/北海道深川市納内町（丁目なし）",
+      "https://geonames.jp/resource/北海道深川市納内町二丁目",
+      "https://geonames.jp/resource/北海道深川市納内町三丁目"
+    ]
+  }
+]

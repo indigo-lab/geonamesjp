@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡上牧町大字下牧",
+    "表記": "奈良県北葛城郡上牧町大字下牧",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "北葛城郡",
+      "市区町村": "上牧町",
+      "町名": "大字下牧",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S294240024"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356586"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229899/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/104215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/104215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229898/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229898/104213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229899/104213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229900/104213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229901/104213.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡上牧町大字下牧",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/北葛城郡/上牧町/大字下牧.json",
+    "name": "大字下牧",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県北葛城郡上牧町"
+  }
+]

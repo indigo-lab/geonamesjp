@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県北本市下石戸六丁目",
+    "表記": "埼玉県北本市下石戸六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "北本市",
+      "町名": "六丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390413"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232685/102928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232684/102927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232684/102928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232684/102929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232685/102927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232685/102929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232686/102929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232686/102928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232687/102928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232688/102929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232686/102927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232683/102928.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県北本市下石戸六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/北本市/下石戸/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県北本市下石戸"
+  }
+]

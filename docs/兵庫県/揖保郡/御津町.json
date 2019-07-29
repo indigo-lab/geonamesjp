@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡御津町",
+    "表記": "兵庫県揖保郡御津町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "揖保郡",
+      "市区町村": "御津町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C28463-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C28463-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡御津町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/揖保郡/御津町.json",
+    "name": "御津町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県揖保郡",
+    "children": [
+      "https://geonames.jp/resource/兵庫県揖保郡御津町釜屋",
+      "https://geonames.jp/resource/兵庫県揖保郡御津町苅屋",
+      "https://geonames.jp/resource/兵庫県揖保郡御津町岩見",
+      "https://geonames.jp/resource/兵庫県揖保郡御津町黒崎",
+      "https://geonames.jp/resource/兵庫県揖保郡御津町室津",
+      "https://geonames.jp/resource/兵庫県揖保郡御津町中島",
+      "https://geonames.jp/resource/兵庫県揖保郡御津町朝臣",
+      "https://geonames.jp/resource/兵庫県揖保郡御津町碇岩"
+    ]
+  }
+]

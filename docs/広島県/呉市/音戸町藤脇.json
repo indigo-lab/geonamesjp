@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県呉市音戸町藤脇",
+    "表記": "広島県呉市音戸町藤脇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "呉市",
+      "町名": "音戸町藤脇",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342022020"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県呉市音戸町藤脇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/呉市/音戸町藤脇.json",
+    "name": "音戸町藤脇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県呉市",
+    "children": [
+      "https://geonames.jp/resource/広島県呉市音戸町藤脇一丁目",
+      "https://geonames.jp/resource/広島県呉市音戸町藤脇二丁目",
+      "https://geonames.jp/resource/広島県呉市音戸町藤脇三丁目"
+    ]
+  }
+]

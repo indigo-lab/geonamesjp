@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府宇治市木幡熊小路",
+    "表記": "京都府宇治市木幡熊小路",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "宇治市",
+      "町名": "木幡熊小路",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S26204003011"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353603",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353613"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229957/103906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229955/103905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229956/103905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229956/103906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229957/103905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229952/103903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229953/103904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229952/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229952/103904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229952/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229951/103903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229952/103902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229953/103902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229953/103899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229953/103903.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府宇治市木幡熊小路",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/宇治市/木幡熊小路.json",
+    "name": "木幡熊小路",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府宇治市"
+  }
+]

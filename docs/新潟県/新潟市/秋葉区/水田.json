@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市秋葉区水田",
+    "表記": "新潟県新潟市秋葉区水田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "秋葉区",
+      "町名": "水田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S151050940"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394075",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394065",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394085"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/101364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/101366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/101362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101369.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市秋葉区水田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/秋葉区/水田.json",
+    "name": "水田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市秋葉区"
+  }
+]

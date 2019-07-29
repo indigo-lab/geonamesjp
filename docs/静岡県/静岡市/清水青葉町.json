@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水青葉町",
+    "表記": "静岡県静岡市清水青葉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "清水青葉町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384307",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384308",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384317",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384318"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231906/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231905/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231906/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231906/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231907/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231908/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231908/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231907/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231906/103828.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水青葉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/清水青葉町.json",
+    "name": "清水青葉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市"
+  }
+]

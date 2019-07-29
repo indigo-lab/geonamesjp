@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市南雑賀町",
+    "表記": "和歌山県和歌山市南雑賀町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "南雑賀町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S302012010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352174"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229505/104513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229506/104513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229506/104514.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市南雑賀町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/和歌山市/南雑賀町.json",
+    "name": "南雑賀町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県和歌山市"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県糟屋郡粕屋町柚須",
+    "表記": "福岡県糟屋郡粕屋町柚須",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "糟屋郡",
+      "市区町村": "粕屋町",
+      "町名": "柚須"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303335",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303336",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303345"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226060/105055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226058/105057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226059/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226059/105055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226059/105056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226059/105057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226060/105056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226061/105054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226061/105055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226062/105056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226063/105055.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県糟屋郡粕屋町柚須",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/糟屋郡/粕屋町/柚須.json",
+    "name": "柚須",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県糟屋郡粕屋町"
+  }
+]

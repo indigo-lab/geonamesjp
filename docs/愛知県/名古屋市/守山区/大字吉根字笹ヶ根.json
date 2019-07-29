@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市守山区大字吉根字笹ヶ根",
+    "表記": "愛知県名古屋市守山区大字吉根字笹ヶ根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "守山区",
+      "町名": "大字吉根字笹ヶ根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376070",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376080"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230836/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230836/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230837/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230836/103626.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市守山区大字吉根字笹ヶ根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/守山区/大字吉根字笹ヶ根.json",
+    "name": "大字吉根字笹ヶ根",
+    "alternateName": [
+      "大字吉根字笹ケ根"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市守山区"
+  }
+]

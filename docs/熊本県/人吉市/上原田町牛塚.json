@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県人吉市上原田町牛塚",
+    "表記": "熊本県人吉市上原田町牛塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "人吉市",
+      "町名": "上原田町牛塚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302589",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302599"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226273/106251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226272/106247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226274/106248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226273/106248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226273/106246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226273/106247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226274/106245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226274/106246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226275/106249.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県人吉市上原田町牛塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/人吉市/上原田町牛塚.json",
+    "name": "上原田町牛塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県人吉市"
+  }
+]

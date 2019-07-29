@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県高松市新田町乙",
+    "表記": "香川県高松市新田町乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "高松市",
+      "町名": "新田町乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343078",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343079",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343088",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343089"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228729/104440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228728/104436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228730/104437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228733/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228737/104440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228732/104437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228731/104437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228729/104442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228727/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228726/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228727/104443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228727/104442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228726/104443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228724/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228725/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228723/104445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228733/104439.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県高松市新田町乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/高松市/新田町乙.json",
+    "name": "新田町乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県高松市"
+  }
+]

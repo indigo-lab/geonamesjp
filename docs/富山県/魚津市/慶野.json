@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県魚津市慶野",
+    "表記": "富山県魚津市慶野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "魚津市",
+      "町名": "慶野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162040220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371362",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371352"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231124/102216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/102214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231129/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/102214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231127/102214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231128/102214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231128/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231124/102215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/102215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/102216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/102217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231127/102215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231128/102216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231128/102215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231129/102215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/102215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/102212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231126/102213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/102216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231127/102218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231125/102212.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県魚津市慶野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/魚津市/慶野.json",
+    "name": "慶野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県魚津市"
+  }
+]

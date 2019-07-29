@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県土佐郡鏡村",
+    "表記": "高知県土佐郡鏡村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "土佐郡",
+      "市区町村": "鏡村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C39361-20050101",
+        "http://data.e-stat.go.jp/lod/sac/C39361-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県土佐郡鏡村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/土佐郡/鏡村.json",
+    "name": "鏡村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県土佐郡"
+  }
+]

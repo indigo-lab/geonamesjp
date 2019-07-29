@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県大島郡大和村大棚",
+    "表記": "鹿児島県大島郡大和村大棚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "大島郡",
+      "市区町村": "大和村",
+      "町名": "大棚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294228"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225267/109524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225268/109526.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県大島郡大和村大棚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/大島郡/大和村/大棚.json",
+    "name": "大棚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県大島郡大和村"
+  }
+]

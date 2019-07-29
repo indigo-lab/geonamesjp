@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市大江町千原",
+    "表記": "京都府福知山市大江町千原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "大江町千原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350153"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229484/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229489/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229486/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229496/103495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229488/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229480/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229496/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229488/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229484/103495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229480/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229492/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229487/103497.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市大江町千原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/大江町千原.json",
+    "name": "大江町千原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区大高町字三番割",
+    "表記": "愛知県名古屋市緑区大高町字三番割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "緑区",
+      "町名": "大高町字三番割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364773"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/103779.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区大高町字三番割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/緑区/大高町字三番割.json",
+    "name": "大高町字三番割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市緑区"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県石巻市桃生町樫崎",
+    "表記": "宮城県石巻市桃生町樫崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "石巻市",
+      "町名": "桃生町樫崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416274",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416283"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/100592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233956/100588.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県石巻市桃生町樫崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/石巻市/桃生町樫崎.json",
+    "name": "桃生町樫崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県石巻市"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県刈田郡七ヶ宿町字板木",
+    "表記": "宮城県刈田郡七ヶ宿町字板木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "刈田郡",
+      "市区町村": "七ヶ宿町",
+      "町名": "字板木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400206",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056407296"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/101112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/101118.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県刈田郡七ヶ宿町字板木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/刈田郡/七ヶ宿町/字板木.json",
+    "name": "字板木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県刈田郡七ヶ宿町"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県大網白里市経田",
+    "表記": "千葉県大網白里市経田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "大網白里市",
+      "町名": "経田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122390030"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402216",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402215",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402207",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402225"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233254/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233251/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233252/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233251/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233252/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233251/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233253/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233251/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233252/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233250/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233252/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233252/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233250/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233251/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233251/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233263/103384.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県大網白里市経田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/大網白里市/経田.json",
+    "name": "経田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県大網白里市"
+  }
+]

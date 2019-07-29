@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県佐野市米山南町",
+    "表記": "栃木県佐野市米山南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "米山南町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092040470"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393488"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232731/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232728/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232729/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232729/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232729/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232730/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232731/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232730/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232730/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232731/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232731/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232732/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232733/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232732/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232733/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232732/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232732/102648.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県佐野市米山南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/佐野市/米山南町.json",
+    "name": "米山南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県佐野市"
+  }
+]

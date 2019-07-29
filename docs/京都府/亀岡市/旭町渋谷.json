@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府亀岡市旭町渋谷",
+    "表記": "京都府亀岡市旭町渋谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "亀岡市",
+      "町名": "旭町渋谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355416",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355405",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355406",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355407",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355415"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229797/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229791/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229784/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229785/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229805/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229795/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229788/103756.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府亀岡市旭町渋谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/亀岡市/旭町渋谷.json",
+    "name": "旭町渋谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府亀岡市"
+  }
+]

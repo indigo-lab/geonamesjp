@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市朝日ヶ丘三丁目",
+    "表記": "愛知県豊田市朝日ヶ丘三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374181",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374191"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230935/103767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230936/103767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230934/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230935/103768.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市朝日ヶ丘三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/朝日ヶ丘/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市朝日ヶ丘"
+  }
+]

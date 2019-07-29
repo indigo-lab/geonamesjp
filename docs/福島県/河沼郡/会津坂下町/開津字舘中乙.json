@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県河沼郡会津坂下町開津字舘中乙",
+    "表記": "福島県河沼郡会津坂下町開津字舘中乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "河沼郡",
+      "市区町村": "会津坂下町",
+      "町名": "開津字舘中乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392648"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232908/101544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232908/101543.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県河沼郡会津坂下町開津字舘中乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/河沼郡/会津坂下町/開津字舘中乙.json",
+    "name": "開津字舘中乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県河沼郡会津坂下町"
+  }
+]

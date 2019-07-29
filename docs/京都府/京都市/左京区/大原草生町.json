@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京都市左京区大原草生町",
+    "表記": "京都府京都市左京区大原草生町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京都市",
+      "区": "左京区",
+      "町名": "大原草生町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355635",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355646",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355655",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355656"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229972/103718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229975/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229975/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229977/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229975/103731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229976/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229977/103730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229976/103730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229972/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229973/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229976/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229975/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229976/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229976/103731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229976/103732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229977/103729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229977/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229978/103729.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京都市左京区大原草生町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京都市/左京区/大原草生町.json",
+    "name": "大原草生町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京都市左京区"
+  }
+]

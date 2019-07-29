@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県美濃加茂市加茂野町字加茂野",
+    "表記": "岐阜県美濃加茂市加茂野町字加茂野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "美濃加茂市",
+      "町名": "加茂野町字加茂野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361738",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361748",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361758"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230819/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230818/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230817/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230818/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230818/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230819/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230817/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/103425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/103425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230817/103425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/103424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/103424.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県美濃加茂市加茂野町字加茂野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/美濃加茂市/加茂野町字加茂野.json",
+    "name": "加茂野町字加茂野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県美濃加茂市"
+  }
+]

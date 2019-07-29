@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県掛川市旭ヶ丘二丁目",
+    "表記": "静岡県掛川市旭ヶ丘二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "掛川市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381031",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381032",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381041",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381042"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231578/104029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231579/104027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231578/104028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231578/104027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231577/104027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231577/104026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231578/104026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231577/104029.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県掛川市旭ヶ丘二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/掛川市/旭ヶ丘/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県掛川市旭ヶ丘"
+  }
+]

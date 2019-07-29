@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県五條市野原中六丁目",
+    "表記": "奈良県五條市野原中六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "五條市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S29207023206"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354516",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354517",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354507"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/104414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/104416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/104415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/104415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/104416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/104416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/104417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/104417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/104417.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県五條市野原中六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/五條市/野原中/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県五條市野原中"
+  }
+]

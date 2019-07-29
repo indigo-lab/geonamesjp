@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県川越市芳野台二丁目",
+    "表記": "埼玉県川越市芳野台二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "川越市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397440",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397430",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397441"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232659/102984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232655/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232656/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232655/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232655/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232656/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/102984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232657/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232656/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232659/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232656/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232657/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/102984.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県川越市芳野台二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/川越市/芳野台/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県川越市芳野台"
+  }
+]

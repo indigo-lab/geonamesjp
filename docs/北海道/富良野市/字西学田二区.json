@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道富良野市字西学田二区",
+    "表記": "北海道富良野市字西学田二区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "富良野市",
+      "区": "字西学田二区",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012290310"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065420340",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065420229",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065420330",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065420320"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234752/95953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234744/95967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234751/95959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234748/95968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234748/95964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234747/95968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234747/95957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234747/95954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234747/95955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234749/95959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234749/95967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234749/95963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234750/95957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234751/95961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234751/95958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234750/95967.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道富良野市字西学田二区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/富良野市/字西学田二区.json",
+    "name": "字西学田二区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道富良野市"
+  }
+]

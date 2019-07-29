@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市別所町乙",
+    "表記": "奈良県奈良市別所町乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "奈良市",
+      "町名": "別所町乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357784",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357785",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357795"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230062/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230061/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230060/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230059/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230059/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230060/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230061/104135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230060/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230061/104136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230059/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230060/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230059/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230058/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230059/104137.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市別所町乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/別所町乙.json",
+    "name": "別所町乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市"
+  }
+]

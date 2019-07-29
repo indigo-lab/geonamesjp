@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県真壁郡明野町吉田",
+    "表記": "茨城県真壁郡明野町吉田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "真壁郡",
+      "市区町村": "明野町",
+      "町名": "吉田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403010",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403011",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403020",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403021"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233027/102696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233025/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233027/102698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233019/102700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/102699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233026/102702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233025/102702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233025/102698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233026/102697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233027/102697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233027/102699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233026/102700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233026/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233026/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233028/102703.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県真壁郡明野町吉田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/真壁郡/明野町/吉田.json",
+    "name": "吉田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県真壁郡明野町"
+  }
+]

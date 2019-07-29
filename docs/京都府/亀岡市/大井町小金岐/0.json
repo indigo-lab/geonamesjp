@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府亀岡市大井町小金岐（丁目なし）",
+    "表記": "京都府亀岡市大井町小金岐（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "亀岡市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S26206040007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354443",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354433"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229774/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229774/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229771/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229772/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229774/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229773/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229770/103798.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府亀岡市大井町小金岐（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/亀岡市/大井町小金岐/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府亀岡市大井町小金岐"
+  }
+]

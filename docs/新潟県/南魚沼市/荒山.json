@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼市荒山",
+    "表記": "新潟県南魚沼市荒山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "南魚沼市",
+      "町名": "荒山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152260890"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385779",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055395071",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055395081",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055395070",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055395080"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232288/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232300/101903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/101899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232301/101903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/101898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232299/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232291/101893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232291/101902.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼市荒山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/南魚沼市/荒山.json",
+    "name": "荒山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県南魚沼市"
+  }
+]

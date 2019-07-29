@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県弘前市常盤野字黒森",
+    "表記": "青森県弘前市常盤野字黒森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "弘前市",
+      "町名": "常盤野字黒森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407250",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407251"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233205/98638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233207/98639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233210/98637.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県弘前市常盤野字黒森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/弘前市/常盤野字黒森.json",
+    "name": "常盤野字黒森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県弘前市"
+  }
+]

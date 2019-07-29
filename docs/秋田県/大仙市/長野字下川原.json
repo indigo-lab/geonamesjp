@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大仙市長野字下川原",
+    "表記": "秋田県大仙市長野字下川原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大仙市",
+      "町名": "長野字下川原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059402422",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059402432"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233400/99690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/99690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/99691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/99692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/99689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/99687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/99689.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大仙市長野字下川原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大仙市/長野字下川原.json",
+    "name": "長野字下川原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大仙市"
+  }
+]

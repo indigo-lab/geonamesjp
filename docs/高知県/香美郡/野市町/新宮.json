@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県香美郡野市町新宮",
+    "表記": "高知県香美郡野市町新宮",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "香美郡",
+      "市区町村": "野市町",
+      "町名": "新宮"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332576",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332586",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332577"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228436/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228436/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228440/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228438/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228438/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228438/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228436/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228442/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228440/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228441/105096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228443/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228441/105098.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県香美郡野市町新宮",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/香美郡/野市町/新宮.json",
+    "name": "新宮",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県香美郡野市町"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県西津軽郡稲垣村",
+    "表記": "青森県西津軽郡稲垣村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "西津軽郡",
+      "市区町村": "稲垣村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C02327-19811201",
+        "http://data.e-stat.go.jp/lod/sac/C02327-19760201",
+        "http://data.e-stat.go.jp/lod/sac/C02327-19871001",
+        "http://data.e-stat.go.jp/lod/sac/C02327-19710801",
+        "http://data.e-stat.go.jp/lod/sac/C02327-19780901",
+        "http://data.e-stat.go.jp/lod/sac/C02327-19861001",
+        "http://data.e-stat.go.jp/lod/sac/C02327-19781201",
+        "http://data.e-stat.go.jp/lod/sac/C02327-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C02327-20050211"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県西津軽郡稲垣村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/西津軽郡/稲垣村.json",
+    "name": "稲垣村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県西津軽郡"
+  }
+]

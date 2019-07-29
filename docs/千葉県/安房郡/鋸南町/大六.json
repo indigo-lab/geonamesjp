@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県安房郡鋸南町大六",
+    "表記": "千葉県安房郡鋸南町大六",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "安房郡",
+      "市区町村": "鋸南町",
+      "町名": "大六",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S124630060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052395647"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232902/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/103724.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県安房郡鋸南町大六",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/安房郡/鋸南町/大六.json",
+    "name": "大六",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県安房郡鋸南町"
+  }
+]

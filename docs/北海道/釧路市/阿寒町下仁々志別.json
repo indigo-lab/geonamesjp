@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路市阿寒町下仁々志別",
+    "表記": "北海道釧路市阿寒町下仁々志別",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "釧路市",
+      "町名": "阿寒町下仁々志別",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012062270"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064445200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064445136",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064444197",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064444198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064444290",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064445211"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236117/96240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236081/96213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236092/96245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236096/96244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236100/96246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236112/96245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236121/96228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236119/96243.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路市阿寒町下仁々志別",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路市/阿寒町下仁々志別.json",
+    "name": "阿寒町下仁々志別",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路市"
+  }
+]

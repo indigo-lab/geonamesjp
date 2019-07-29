@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新発田市赤橋",
+    "表記": "新潟県新発田市赤橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新発田市",
+      "町名": "赤橋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152061430"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397206",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396296"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/101192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/101192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/101192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/101195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/101195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/101196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/101192.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新発田市赤橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新発田市/赤橋.json",
+    "name": "赤橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新発田市"
+  }
+]

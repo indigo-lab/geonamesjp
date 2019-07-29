@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県伊予三島市豊岡町岡銅",
+    "表記": "愛媛県伊予三島市豊岡町岡銅",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "伊予三島市",
+      "町名": "豊岡町岡銅"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337347",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337357",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337358"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228263/104753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228262/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228263/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228263/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228264/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228265/104752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228265/104753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228264/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228264/104753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228265/104751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228266/104751.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県伊予三島市豊岡町岡銅",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/伊予三島市/豊岡町岡銅.json",
+    "name": "豊岡町岡銅",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県伊予三島市"
+  }
+]

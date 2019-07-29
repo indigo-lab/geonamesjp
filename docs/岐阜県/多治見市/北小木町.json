@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市北小木町",
+    "表記": "岐阜県多治見市北小木町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "北小木町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212040250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370024",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370015",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370044",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370014",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370034",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370035"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/103521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230868/103518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103511.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市北小木町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/多治見市/北小木町.json",
+    "name": "北小木町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県多治見市"
+  }
+]

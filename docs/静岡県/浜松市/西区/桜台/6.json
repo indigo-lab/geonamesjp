@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市西区桜台六丁目",
+    "表記": "静岡県浜松市西区桜台六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜松市",
+      "区": "西区",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S22133021006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371523",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371533"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231320/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231319/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231319/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231320/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231320/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231321/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231321/104032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231320/104032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231322/104031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231319/104034.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市西区桜台六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/西区/桜台/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市西区桜台"
+  }
+]

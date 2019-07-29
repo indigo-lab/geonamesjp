@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県勢多郡粕川村前皆戸",
+    "表記": "群馬県勢多郡粕川村前皆戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "勢多郡",
+      "市区町村": "粕川村",
+      "町名": "前皆戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394197",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054395107"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232444/102566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232445/102563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232446/102564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232445/102564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232445/102565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/102565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/102566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232446/102566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/102566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/102568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/102568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232446/102568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232445/102566.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県勢多郡粕川村前皆戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/勢多郡/粕川村/前皆戸.json",
+    "name": "前皆戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県勢多郡粕川村"
+  }
+]

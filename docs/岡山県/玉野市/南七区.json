@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県玉野市南七区",
+    "表記": "岡山県玉野市南七区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "玉野市",
+      "区": "南七区",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332049380"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336743",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336744",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336733",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336753"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228594/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228590/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228586/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228582/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228579/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228584/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228577/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228585/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228590/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228582/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228585/104248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228587/104248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228589/104248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228588/104239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228589/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228590/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228590/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228589/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228593/104248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228593/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228594/104248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228595/104247.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県玉野市南七区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/玉野市/南七区.json",
+    "name": "南七区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県玉野市"
+  }
+]

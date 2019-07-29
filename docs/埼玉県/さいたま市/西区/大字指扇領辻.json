@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市西区大字指扇領辻",
+    "表記": "埼玉県さいたま市西区大字指扇領辻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "区": "西区",
+      "町名": "大字指扇領辻",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S111010070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397414",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397424"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/103002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232696/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232696/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232696/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232697/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232696/103007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232697/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232697/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232697/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232697/103006.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市西区大字指扇領辻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/西区/大字指扇領辻.json",
+    "name": "大字指扇領辻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市西区"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡佐敷町",
+    "表記": "沖縄県島尻郡佐敷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "島尻郡",
+      "市区町村": "佐敷町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C47347-19800601",
+        "http://data.e-stat.go.jp/lod/sac/C47347-20060101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡佐敷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/島尻郡/佐敷町.json",
+    "name": "佐敷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県島尻郡",
+    "children": [
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町伊原",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町屋比久",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町兼久",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町佐敷",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町手登根",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町小谷",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町新開",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町新里",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町仲伊保",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町津波古",
+      "https://geonames.jp/resource/沖縄県島尻郡佐敷町冨祖崎"
+    ]
+  }
+]

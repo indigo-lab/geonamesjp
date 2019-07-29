@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県津市西丸之内",
+    "表記": "三重県津市西丸之内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "津市",
+      "町名": "西丸之内",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242010480"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360450",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360460"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230471/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230471/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230470/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230468/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230470/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230471/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230471/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230470/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230470/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230470/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230471/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230471/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230472/104084.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県津市西丸之内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/津市/西丸之内.json",
+    "name": "西丸之内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県津市"
+  }
+]

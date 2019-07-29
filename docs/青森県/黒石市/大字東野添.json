@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県黒石市大字東野添",
+    "表記": "青森県黒石市大字東野添",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "黒石市",
+      "町名": "大字東野添",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022041580"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407479",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407489"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233463/98612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233464/98611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233468/98623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233464/98612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233465/98624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233464/98624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233467/98623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233464/98618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233465/98618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233466/98623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233464/98616.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県黒石市大字東野添",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/黒石市/大字東野添.json",
+    "name": "大字東野添",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県黒石市"
+  }
+]

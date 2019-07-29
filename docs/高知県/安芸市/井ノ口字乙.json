@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県安芸市井ノ口字乙",
+    "表記": "高知県安芸市井ノ口字乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "安芸市",
+      "町名": "井ノ口字乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332751",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332752"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228570/105113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228570/105116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228570/105117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228569/105115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228571/105114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228570/105115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/105114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228572/105113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228573/105114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228580/105115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228571/105113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228571/105119.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県安芸市井ノ口字乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/安芸市/井ノ口字乙.json",
+    "name": "井ノ口字乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県安芸市"
+  }
+]

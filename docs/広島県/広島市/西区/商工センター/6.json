@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市西区商工センター六丁目",
+    "表記": "広島県広島市西区商工センター六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "西区",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34104430006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324340",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324341"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227474/104393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227472/104394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227473/104394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227475/104393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227475/104394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227473/104395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227474/104394.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市西区商工センター六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/西区/商工センター/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市西区商工センター"
+  }
+]

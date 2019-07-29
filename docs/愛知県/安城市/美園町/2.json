@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県安城市美園町二丁目",
+    "表記": "愛知県安城市美園町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "美園町",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23212076002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373064",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373073",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373074"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230868/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230868/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103859.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県安城市美園町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/安城市/美園町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県安城市美園町"
+  }
+]

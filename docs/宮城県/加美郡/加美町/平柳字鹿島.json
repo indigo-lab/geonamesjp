@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県加美郡加美町平柳字鹿島",
+    "表記": "宮城県加美郡加美町平柳字鹿島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "加美郡",
+      "市区町村": "加美町",
+      "町名": "平柳字鹿島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406780"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/100585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233660/100583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/100583.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県加美郡加美町平柳字鹿島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/加美郡/加美町/平柳字鹿島.json",
+    "name": "平柳字鹿島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県加美郡加美町"
+  }
+]

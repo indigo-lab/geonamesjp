@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県真庭郡落合町上河内",
+    "表記": "岡山県真庭郡落合町上河内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "真庭郡",
+      "市区町村": "落合町",
+      "町名": "上河内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334664",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334673",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334674",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334684",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334694"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228503/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/103767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228503/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228500/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228503/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228503/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/103782.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県真庭郡落合町上河内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/真庭郡/落合町/上河内.json",
+    "name": "上河内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県真庭郡落合町"
+  }
+]

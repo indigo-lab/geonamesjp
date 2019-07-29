@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県郡山市西田町丹伊田字舘",
+    "表記": "福島県郡山市西田町丹伊田字舘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "郡山市",
+      "町名": "西田町丹伊田字舘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401367"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/101601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/101601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233356/101600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233357/101601.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県郡山市西田町丹伊田字舘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/郡山市/西田町丹伊田字舘.json",
+    "name": "西田町丹伊田字舘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県郡山市"
+  }
+]

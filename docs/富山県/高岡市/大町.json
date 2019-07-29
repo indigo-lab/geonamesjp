@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市大町",
+    "表記": "富山県高岡市大町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "大町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162020380"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371000",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370091",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371001"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/102260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/102260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/102261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/102262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/102262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/102261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/102259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/102261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/102260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/102260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/102259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/102258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/102259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230843/102260.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市大町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/大町.json",
+    "name": "大町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県佐野市町谷町",
+    "表記": "栃木県佐野市町谷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "町谷町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092040490"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393489",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393590"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232748/102646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232744/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232743/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232748/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232744/102648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232743/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232748/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232743/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232749/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232749/102646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232750/102646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232744/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/102650.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県佐野市町谷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/佐野市/町谷町.json",
+    "name": "町谷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県佐野市"
+  }
+]

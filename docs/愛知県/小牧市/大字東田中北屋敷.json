@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市大字東田中北屋敷",
+    "表記": "愛知県小牧市大字東田中北屋敷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "大字東田中北屋敷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367765"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230789/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230790/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230790/103564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230789/103564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230790/103563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230789/103563.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市大字東田中北屋敷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/大字東田中北屋敷.json",
+    "name": "大字東田中北屋敷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市"
+  }
+]

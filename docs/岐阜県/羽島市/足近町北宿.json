@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県羽島市足近町北宿",
+    "表記": "岐阜県羽島市足近町北宿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "羽島市",
+      "町名": "足近町北宿",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212090030"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県羽島市足近町北宿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/羽島市/足近町北宿.json",
+    "name": "足近町北宿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県羽島市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県羽島市足近町北宿（丁目なし）",
+      "https://geonames.jp/resource/岐阜県羽島市足近町北宿一丁目",
+      "https://geonames.jp/resource/岐阜県羽島市足近町北宿二丁目",
+      "https://geonames.jp/resource/岐阜県羽島市足近町北宿三丁目"
+    ]
+  }
+]

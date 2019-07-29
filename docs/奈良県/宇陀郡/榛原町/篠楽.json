@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県宇陀郡榛原町篠楽",
+    "表記": "奈良県宇陀郡榛原町篠楽",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "宇陀郡",
+      "市区町村": "榛原町",
+      "町名": "篠楽"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356735"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230058/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230062/104259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230059/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230061/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230062/104254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230063/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230064/104254.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県宇陀郡榛原町篠楽",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/宇陀郡/榛原町/篠楽.json",
+    "name": "篠楽",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県宇陀郡榛原町"
+  }
+]

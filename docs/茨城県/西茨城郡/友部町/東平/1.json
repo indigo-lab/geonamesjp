@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県西茨城郡友部町東平一丁目",
+    "表記": "茨城県西茨城郡友部町東平一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "西茨城郡",
+      "市区町村": "友部町",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054404214",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054404224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054404225"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/102624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/102623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/102623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/102622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/102622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/102622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/102624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/102624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/102623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/102624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/102624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233246/102623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/102623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/102624.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県西茨城郡友部町東平一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/西茨城郡/友部町/東平/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県西茨城郡友部町東平"
+  }
+]

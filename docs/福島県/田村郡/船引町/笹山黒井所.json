@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村郡船引町笹山黒井所",
+    "表記": "福島県田村郡船引町笹山黒井所",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "田村郡",
+      "市区町村": "船引町",
+      "町名": "笹山黒井所"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401432",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401433",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401442",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401443"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/101622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/101623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/101621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233409/101622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233409/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233409/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/101621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/101624.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村郡船引町笹山黒井所",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村郡/船引町/笹山黒井所.json",
+    "name": "笹山黒井所",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県田村郡船引町"
+  }
+]

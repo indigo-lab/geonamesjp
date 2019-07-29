@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県大崎市古川塚目字北原",
+    "表記": "宮城県大崎市古川塚目字北原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "大崎市",
+      "町名": "古川塚目字北原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04215046006",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04215046005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057407704",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057407705"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233699/100571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233699/100572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233699/100569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233697/100568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233700/100571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233699/100573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233699/100568.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県大崎市古川塚目字北原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/大崎市/古川塚目字北原.json",
+    "name": "古川塚目字北原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県大崎市"
+  }
+]

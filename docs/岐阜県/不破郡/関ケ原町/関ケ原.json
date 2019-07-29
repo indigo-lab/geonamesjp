@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県不破郡関ケ原町関ケ原",
+    "表記": "岐阜県不破郡関ケ原町関ケ原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "不破郡",
+      "市区町村": "関ケ原町",
+      "町名": "関ケ原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360337",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360348",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360345",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360346",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360356",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360357",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360338"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230441/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230454/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230449/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230437/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230435/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230447/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230437/103493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230454/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230453/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230455/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230455/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230453/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230455/103508.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県不破郡関ケ原町関ケ原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/不破郡/関ケ原町/関ケ原.json",
+    "name": "関ケ原",
+    "alternateName": [
+      "関ヶ原"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県不破郡関ケ原町"
+  }
+]

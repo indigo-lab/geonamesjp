@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県館山市川名",
+    "表記": "千葉県館山市川名",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "館山市",
+      "町名": "川名",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122050220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052394648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052394628",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052394638"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232912/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/103811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232913/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232911/103808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232911/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232915/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232915/103808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232909/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232909/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232911/103806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232912/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232911/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232912/103808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232909/103811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232912/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232911/103811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232911/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232913/103808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232914/103806.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県館山市川名",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/館山市/川名.json",
+    "name": "川名",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県館山市"
+  }
+]

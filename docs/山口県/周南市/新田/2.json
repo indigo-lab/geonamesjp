@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県周南市新田二丁目",
+    "表記": "山口県周南市新田二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "周南市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35215165002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310579"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226999/104662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226997/104662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226996/104662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226996/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226995/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226997/104664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226997/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226999/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227000/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227001/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226998/104663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226995/104662.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県周南市新田二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/周南市/新田/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山口県周南市新田"
+  }
+]

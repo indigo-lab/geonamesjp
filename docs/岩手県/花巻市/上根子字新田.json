@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県花巻市上根子字新田",
+    "表記": "岩手県花巻市上根子字新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "花巻市",
+      "町名": "上根子字新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410066",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410065"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/99825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/99824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233800/99825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/99825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/99826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/99826.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県花巻市上根子字新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/花巻市/上根子字新田.json",
+    "name": "上根子字新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県花巻市"
+  }
+]

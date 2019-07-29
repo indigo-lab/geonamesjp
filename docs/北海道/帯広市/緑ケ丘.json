@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道帯広市緑ケ丘",
+    "表記": "北海道帯広市緑ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "帯広市",
+      "町名": "緑ケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道帯広市緑ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/帯広市/緑ケ丘.json",
+    "name": "緑ケ丘",
+    "alternateName": [
+      "緑ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道帯広市",
+    "children": [
+      "https://geonames.jp/resource/北海道帯広市緑ケ丘（丁目なし）",
+      "https://geonames.jp/resource/北海道帯広市緑ケ丘七丁目",
+      "https://geonames.jp/resource/北海道帯広市緑ケ丘八丁目",
+      "https://geonames.jp/resource/北海道帯広市緑ケ丘九丁目"
+    ]
+  }
+]

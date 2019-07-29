@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県山辺郡都祁村",
+    "表記": "奈良県山辺郡都祁村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "山辺郡",
+      "市区町村": "都祁村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C29321-20050401",
+        "http://data.e-stat.go.jp/lod/sac/C29321-19911024",
+        "http://data.e-stat.go.jp/lod/sac/C29321-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県山辺郡都祁村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/山辺郡/都祁村.json",
+    "name": "都祁村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県山辺郡",
+    "children": [
+      "https://geonames.jp/resource/奈良県山辺郡都祁村小山戸",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村甲岡",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村針",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村白石",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村吐山",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村南之庄",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村相河",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村来迎寺",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村友田",
+      "https://geonames.jp/resource/奈良県山辺郡都祁村藺生"
+    ]
+  }
+]

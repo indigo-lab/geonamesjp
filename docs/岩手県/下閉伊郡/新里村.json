@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県下閉伊郡新里村",
+    "表記": "岩手県下閉伊郡新里村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "下閉伊郡",
+      "市区町村": "新里村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C03486-20050606",
+        "http://data.e-stat.go.jp/lod/sac/C03486-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県下閉伊郡新里村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/下閉伊郡/新里村.json",
+    "name": "新里村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県下閉伊郡"
+  }
+]

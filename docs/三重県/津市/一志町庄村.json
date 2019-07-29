@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県津市一志町庄村",
+    "表記": "三重県津市一志町庄村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "一志町庄村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242012720"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367395",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367375",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367396",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367385"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/104131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/104131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230429/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/104131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230434/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230433/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230432/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/104135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230431/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230428/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230430/104136.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県津市一志町庄村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/津市/一志町庄村.json",
+    "name": "一志町庄村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県津市"
+  }
+]

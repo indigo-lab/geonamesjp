@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県新治郡霞ヶ浦町下大堤",
+    "表記": "茨城県新治郡霞ヶ浦町下大堤",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "新治郡",
+      "市区町村": "霞ヶ浦町",
+      "町名": "下大堤"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054401205",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054401206",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054401215"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233257/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/102862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233261/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233260/102862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233260/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233254/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233253/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233253/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233250/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233247/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233249/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233250/102852.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県新治郡霞ヶ浦町下大堤",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/新治郡/霞ヶ浦町/下大堤.json",
+    "name": "下大堤",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県新治郡霞ヶ浦町"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県豊浦郡豊浦町室津上",
+    "表記": "山口県豊浦郡豊浦町室津上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "郡": "豊浦郡",
+      "市区町村": "豊浦町",
+      "町名": "室津上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051301649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051301730",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051301731",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051301740",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051301741"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226381/104619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226379/104619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226377/104614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226383/104612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226379/104618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226386/104610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226380/104617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226367/104611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226382/104611.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県豊浦郡豊浦町室津上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/豊浦郡/豊浦町/室津上.json",
+    "name": "室津上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県豊浦郡豊浦町"
+  }
+]

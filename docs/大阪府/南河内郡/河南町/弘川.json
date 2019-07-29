@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府南河内郡河南町弘川",
+    "表記": "大阪府南河内郡河南町弘川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "郡": "南河内郡",
+      "市区町村": "河南町",
+      "町名": "弘川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355562"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229850/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229849/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229850/104299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229851/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229850/104301.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府南河内郡河南町弘川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/南河内郡/河南町/弘川.json",
+    "name": "弘川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府南河内郡河南町"
+  }
+]

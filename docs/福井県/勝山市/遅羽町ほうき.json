@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県勝山市遅羽町ほうき",
+    "表記": "福井県勝山市遅羽町ほうき",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "勝山市",
+      "町名": "遅羽町ほうき"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360349",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360339"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/102910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230462/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230462/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230463/102910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230463/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230463/102911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230463/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230464/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230464/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230465/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230465/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230464/102905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230464/102906.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県勝山市遅羽町ほうき",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/勝山市/遅羽町ほうき.json",
+    "name": "遅羽町ほうき",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県勝山市"
+  }
+]

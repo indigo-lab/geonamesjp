@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県那珂郡東海村大山台",
+    "表記": "茨城県那珂郡東海村大山台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "那珂郡",
+      "市区町村": "東海村",
+      "町名": "大山台"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県那珂郡東海村大山台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/那珂郡/東海村/大山台.json",
+    "name": "大山台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県那珂郡東海村",
+    "children": [
+      "https://geonames.jp/resource/茨城県那珂郡東海村大山台一丁目",
+      "https://geonames.jp/resource/茨城県那珂郡東海村大山台二丁目"
+    ]
+  }
+]

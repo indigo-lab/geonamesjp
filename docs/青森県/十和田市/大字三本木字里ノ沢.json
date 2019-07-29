@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県十和田市大字三本木字里ノ沢",
+    "表記": "青森県十和田市大字三本木字里ノ沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "十和田市",
+      "町名": "大字三本木字里ノ沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417159",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417240",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417250"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233924/98647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233924/98645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233927/98649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233920/98644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233924/98651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233922/98648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233918/98641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233923/98644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233925/98643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233926/98643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233927/98643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233920/98642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233921/98644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233923/98651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233924/98642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233928/98642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233924/98649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233925/98650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233923/98650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233926/98651.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県十和田市大字三本木字里ノ沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/十和田市/大字三本木字里ノ沢.json",
+    "name": "大字三本木字里ノ沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県十和田市"
+  }
+]

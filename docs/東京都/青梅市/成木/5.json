@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都青梅市成木五丁目",
+    "表記": "東京都青梅市成木五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "青梅市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13205042005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395198"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232464/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232468/103097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232469/103099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232464/103090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232463/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232460/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232461/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232462/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232464/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232463/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232467/103096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232467/103097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232468/103099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232464/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232466/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232466/103096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232469/103097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232468/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232462/103096.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都青梅市成木五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/青梅市/成木/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都青梅市成木"
+  }
+]

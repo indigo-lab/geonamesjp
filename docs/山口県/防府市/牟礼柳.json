@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県防府市牟礼柳",
+    "表記": "山口県防府市牟礼柳",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "防府市",
+      "町名": "牟礼柳",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352060870"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310468",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310478"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226900/104668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226900/104667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226900/104665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/104665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/104666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/104666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/104668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/104668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/104667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/104665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/104665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/104668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226900/104669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226900/104666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/104667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226901/104669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226902/104669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/104666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/104667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226903/104669.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県防府市牟礼柳",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/防府市/牟礼柳.json",
+    "name": "牟礼柳",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県防府市"
+  }
+]

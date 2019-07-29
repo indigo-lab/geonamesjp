@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市大津区字長松",
+    "表記": "兵庫県姫路市大津区字長松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "姫路市",
+      "町名": "大津区字長松"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341458",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341468"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229088/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229087/104013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229087/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229086/104013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229087/104011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229086/104010.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市大津区字長松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/姫路市/大津区字長松.json",
+    "name": "大津区字長松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県姫路市"
+  }
+]

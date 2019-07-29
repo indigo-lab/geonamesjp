@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県名張市八幡",
+    "表記": "三重県名張市八幡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "名張市",
+      "町名": "八幡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242080480"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367076",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367077",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367078",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367087",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367088"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230168/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230166/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230168/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230169/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230168/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230174/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230174/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230175/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230169/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230169/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230170/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230169/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230180/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230178/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230180/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230179/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230176/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230172/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230173/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230171/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230176/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230180/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230180/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230172/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230167/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230170/104148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230168/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230173/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230177/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230175/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230176/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230177/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230178/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230177/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230179/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230179/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230176/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230177/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230180/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230179/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230173/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230173/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230174/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230172/104138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230166/104149.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県名張市八幡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/名張市/八幡.json",
+    "name": "八幡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県名張市"
+  }
+]

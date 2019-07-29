@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市寿町",
+    "表記": "新潟県柏崎市寿町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "寿町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152050610"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380432",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380422"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231950/101704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231949/101705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231950/101706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231949/101706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231950/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231948/101704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231948/101706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231949/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231947/101706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231948/101705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231949/101704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231951/101702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231951/101703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231949/101703.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市寿町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/柏崎市/寿町.json",
+    "name": "寿町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県柏崎市"
+  }
+]

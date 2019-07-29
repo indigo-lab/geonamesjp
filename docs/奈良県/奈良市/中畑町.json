@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市中畑町",
+    "表記": "奈良県奈良市中畑町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "中畑町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292018090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357740",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357741",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357750",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357751"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230020/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230020/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230017/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230019/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104168.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市中畑町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/中畑町.json",
+    "name": "中畑町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市"
+  }
+]

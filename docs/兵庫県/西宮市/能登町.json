@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県西宮市能登町",
+    "表記": "兵庫県西宮市能登町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "能登町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282040530"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350298",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351207",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351208"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229630/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229630/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229630/104054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/104054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/104053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104056.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県西宮市能登町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/西宮市/能登町.json",
+    "name": "能登町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県西宮市"
+  }
+]

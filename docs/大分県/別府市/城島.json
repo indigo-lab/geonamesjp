@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県別府市城島",
+    "表記": "大分県別府市城島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "別府市",
+      "町名": "城島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317314",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317303",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317304",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317323"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226773/105366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226773/105368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226774/105370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226774/105368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226772/105367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226770/105370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226773/105365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226772/105359.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県別府市城島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/別府市/城島.json",
+    "name": "城島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県別府市"
+  }
+]

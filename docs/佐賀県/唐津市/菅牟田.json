@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県唐津市菅牟田",
+    "表記": "佐賀県唐津市菅牟田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "唐津市",
+      "町名": "菅牟田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S412020890"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050291704",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050290794"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225685/105228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225689/105226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225683/105227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225683/105226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225685/105223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225681/105227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225684/105230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225686/105232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225687/105229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225684/105227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225684/105229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225685/105225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225685/105232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225687/105232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225687/105227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225689/105232.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県唐津市菅牟田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/唐津市/菅牟田.json",
+    "name": "菅牟田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県唐津市"
+  }
+]

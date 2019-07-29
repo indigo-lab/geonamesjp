@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市川市中国分四丁目",
+    "表記": "千葉県市川市中国分四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "市川市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12203025004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395702",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394792"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232947/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/103160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232947/103160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/103164.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市川市中国分四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市川市/中国分/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県市川市中国分"
+  }
+]

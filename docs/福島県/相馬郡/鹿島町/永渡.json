@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡鹿島町永渡",
+    "表記": "福島県相馬郡鹿島町永渡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "鹿島町",
+      "町名": "永渡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404786",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404794",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404795",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404796"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233709/101360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233710/101363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233705/101353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233709/101367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233695/101353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233702/101353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233711/101362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233710/101353.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡鹿島町永渡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/鹿島町/永渡.json",
+    "name": "永渡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡鹿島町"
+  }
+]

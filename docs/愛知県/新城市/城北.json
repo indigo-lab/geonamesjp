@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県新城市城北",
+    "表記": "愛知県新城市城北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "新城市",
+      "町名": "城北"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県新城市城北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/新城市/城北.json",
+    "name": "城北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県新城市",
+    "children": [
+      "https://geonames.jp/resource/愛知県新城市城北（丁目なし）",
+      "https://geonames.jp/resource/愛知県新城市城北一丁目",
+      "https://geonames.jp/resource/愛知県新城市城北二丁目",
+      "https://geonames.jp/resource/愛知県新城市城北三丁目"
+    ]
+  }
+]

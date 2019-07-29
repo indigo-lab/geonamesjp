@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市北灘町櫛木字竹下",
+    "表記": "徳島県鳴門市北灘町櫛木字竹下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "鳴門市",
+      "町名": "北灘町櫛木字竹下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342454",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342464"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229056/104530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229055/104526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229055/104531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229055/104530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229055/104529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229055/104528.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市北灘町櫛木字竹下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/鳴門市/北灘町櫛木字竹下.json",
+    "name": "北灘町櫛木字竹下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県鳴門市"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市横枕町",
+    "表記": "新潟県長岡市横枕町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "横枕町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152020890"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380678",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380687",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380697",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380698"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/101660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/101661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232177/101663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/101666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/101662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/101664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232182/101664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232182/101663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232185/101664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232187/101661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232187/101667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232188/101667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232183/101669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232183/101665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/101663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232178/101665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232179/101666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232181/101664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232176/101661.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市横枕町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/横枕町.json",
+    "name": "横枕町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市"
+  }
+]

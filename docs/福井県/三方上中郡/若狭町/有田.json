@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県三方上中郡若狭町有田",
+    "表記": "福井県三方上中郡若狭町有田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "三方上中郡",
+      "市区町村": "若狭町",
+      "町名": "有田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S185010640"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351678"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230005/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230006/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230006/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230007/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230007/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230007/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230007/103400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230008/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230008/103405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230008/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230001/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230008/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230006/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230007/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230008/103404.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県三方上中郡若狭町有田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/三方上中郡/若狭町/有田.json",
+    "name": "有田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県三方上中郡若狭町"
+  }
+]

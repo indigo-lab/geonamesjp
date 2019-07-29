@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県双葉郡富岡町大字大菅",
+    "表記": "福島県双葉郡富岡町大字大菅",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "双葉郡",
+      "市区町村": "富岡町",
+      "町名": "大字大菅",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S075430080"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400749",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400757",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400758",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056410040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400748"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233747/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233735/101689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233728/101689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233740/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233725/101686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233726/101687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233747/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233740/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233728/101687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233730/101688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233730/101690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233741/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233750/101697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233737/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233733/101689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233743/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233734/101690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233736/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233739/101695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233747/101697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233751/101697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233742/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233743/101695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233735/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233723/101687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233724/101688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233734/101689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233733/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233733/101690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233734/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233736/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233736/101692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/101691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233741/101695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233742/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233746/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/101695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233748/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/101697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233737/101695.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県双葉郡富岡町大字大菅",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/双葉郡/富岡町/大字大菅.json",
+    "name": "大字大菅",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県双葉郡富岡町"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区曽根北町",
+    "表記": "福岡県北九州市小倉南区曽根北町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "小倉南区",
+      "町名": "曽根北町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401070301"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306705",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306706"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226425/104862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226422/104862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226418/104861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226419/104859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226420/104859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226420/104861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226422/104861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226421/104863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226422/104863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226423/104861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226427/104863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226430/104863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226420/104860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226421/104861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226418/104860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226419/104861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226421/104862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226423/104862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226429/104863.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区曽根北町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/小倉南区/曽根北町.json",
+    "name": "曽根北町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市小倉南区"
+  }
+]

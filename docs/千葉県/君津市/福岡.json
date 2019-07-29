@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県君津市福岡",
+    "表記": "千葉県君津市福岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "君津市",
+      "町名": "福岡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122250650"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397758",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397747",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397748"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232999/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232998/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232996/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232998/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232997/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232998/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233003/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232997/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232999/103576.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県君津市福岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/君津市/福岡.json",
+    "name": "福岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県君津市"
+  }
+]

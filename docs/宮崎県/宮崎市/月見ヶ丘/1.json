@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市月見ヶ丘一丁目",
+    "表記": "宮崎県宮崎市月見ヶ丘一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "宮崎市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047316353",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047316354",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047316363"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226771/106554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226769/106555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226770/106555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226771/106555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226771/106556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226770/106556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226770/106557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226769/106556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226769/106557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226771/106557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226772/106557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226772/106555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226772/106556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226770/106554.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226773/106556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226770/106553.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市月見ヶ丘一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/宮崎市/月見ヶ丘/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮崎県宮崎市月見ヶ丘"
+  }
+]

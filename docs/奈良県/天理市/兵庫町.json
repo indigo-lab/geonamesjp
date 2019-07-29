@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県天理市兵庫町",
+    "表記": "奈良県天理市兵庫町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "兵庫町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292040540"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356686",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356687",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356696"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229982/104211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229988/104211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/104212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/104212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229982/104213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/104213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/104213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229988/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229982/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229983/104212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229984/104213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229982/104212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229982/104210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229983/104213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229983/104211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229984/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229984/104211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229985/104211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229984/104212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104211.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県天理市兵庫町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/天理市/兵庫町.json",
+    "name": "兵庫町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県天理市"
+  }
+]

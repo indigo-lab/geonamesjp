@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県清水市谷田",
+    "表記": "静岡県清水市谷田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "清水市",
+      "町名": "谷田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383395"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231883/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231882/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231883/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231882/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231881/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231880/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231880/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231879/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231879/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231883/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231884/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231884/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231885/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231884/103837.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県清水市谷田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/清水市/谷田.json",
+    "name": "谷田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県清水市"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県真壁郡明野町下川中子",
+    "表記": "茨城県真壁郡明野町下川中子",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "真壁郡",
+      "市区町村": "明野町",
+      "町名": "下川中子"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393719",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393729",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403010"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/102702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233013/102694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102699.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県真壁郡明野町下川中子",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/真壁郡/明野町/下川中子.json",
+    "name": "下川中子",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県真壁郡明野町"
+  }
+]

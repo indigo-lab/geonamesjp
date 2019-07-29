@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道中川郡池田町利別南町",
+    "表記": "北海道中川郡池田町利別南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "中川郡",
+      "市区町村": "池田町",
+      "町名": "利別南町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433313",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433303",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433314",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433304"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235509/96398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235507/96399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235510/96397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235512/96399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235512/96397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235512/96398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235513/96396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235506/96402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235508/96400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235510/96400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235514/96400.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道中川郡池田町利別南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/中川郡/池田町/利別南町.json",
+    "name": "利別南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道中川郡池田町"
+  }
+]

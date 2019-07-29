@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県北安曇郡松川村中村",
+    "表記": "長野県北安曇郡松川村中村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "北安曇郡",
+      "市区町村": "松川村",
+      "町名": "中村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054375618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054375617",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054375627",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054375628"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231452/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231452/102548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231451/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231450/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231451/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231453/102549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231449/102547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231453/102548.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県北安曇郡松川村中村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/北安曇郡/松川村/中村.json",
+    "name": "中村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県北安曇郡松川村"
+  }
+]

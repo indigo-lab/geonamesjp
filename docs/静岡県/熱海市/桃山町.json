@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県熱海市桃山町",
+    "表記": "静岡県熱海市桃山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "桃山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222050190"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052395025",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052395026",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052395036"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/103742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/103741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232347/103740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232347/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232347/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232347/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/103736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/103741.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県熱海市桃山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/熱海市/桃山町.json",
+    "name": "桃山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県熱海市"
+  }
+]

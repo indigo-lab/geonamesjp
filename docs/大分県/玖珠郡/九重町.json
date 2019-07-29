@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県玖珠郡九重町",
+    "表記": "大分県玖珠郡九重町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "郡": "玖珠郡",
+      "市区町村": "九重町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C44461-19810101",
+        "http://data.e-stat.go.jp/lod/sac/C44461-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C44461-19741201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県玖珠郡九重町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/玖珠郡/九重町.json",
+    "name": "九重町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県玖珠郡",
+    "children": [
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字松木",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字恵良",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字野上",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字湯坪",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字右田",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字粟野",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字引治",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字後野上",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字田野",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字菅原",
+      "https://geonames.jp/resource/大分県玖珠郡九重町大字町田"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1184672"
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県東茨城郡茨城町下雨ヶ谷",
+    "表記": "茨城県東茨城郡茨城町下雨ヶ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "東茨城郡",
+      "市区町村": "茨城町",
+      "町名": "下雨ヶ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402372",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402382"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/102732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/102728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/102730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/102732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/102731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/102733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233313/102733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/102731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/102732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233313/102730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233313/102729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/102730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/102727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/102727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/102729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/102731.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県東茨城郡茨城町下雨ヶ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/東茨城郡/茨城町/下雨ヶ谷.json",
+    "name": "下雨ヶ谷",
+    "alternateName": [
+      "下雨ケ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県東茨城郡茨城町"
+  }
+]

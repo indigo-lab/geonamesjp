@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県玉野市和田六丁目",
+    "表記": "岡山県玉野市和田六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "玉野市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33204701006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335763"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228590/104304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228589/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228590/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228588/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228588/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228587/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228587/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228587/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228589/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228589/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228586/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228588/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228587/104301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228590/104302.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県玉野市和田六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/玉野市/和田/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県玉野市和田"
+  }
+]

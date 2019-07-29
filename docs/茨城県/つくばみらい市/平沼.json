@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県つくばみらい市平沼",
+    "表記": "茨城県つくばみらい市平沼",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "つくばみらい市",
+      "町名": "平沼"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397769",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407060"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233013/102965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/102968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/102966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233019/102967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/102967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/102968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102964.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県つくばみらい市平沼",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/つくばみらい市/平沼.json",
+    "name": "平沼",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県つくばみらい市"
+  }
+]

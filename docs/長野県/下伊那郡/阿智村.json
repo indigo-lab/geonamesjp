@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県下伊那郡阿智村",
+    "表記": "長野県下伊那郡阿智村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "下伊那郡",
+      "市区町村": "阿智村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20407-20090331",
+        "http://data.e-stat.go.jp/lod/sac/C20407-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C20407-20060101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県下伊那郡阿智村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/下伊那郡/阿智村.json",
+    "name": "阿智村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県下伊那郡",
+    "children": [
+      "https://geonames.jp/resource/長野県下伊那郡阿智村春日",
+      "https://geonames.jp/resource/長野県下伊那郡阿智村駒場",
+      "https://geonames.jp/resource/長野県下伊那郡阿智村智里",
+      "https://geonames.jp/resource/長野県下伊那郡阿智村清内路",
+      "https://geonames.jp/resource/長野県下伊那郡阿智村伍和",
+      "https://geonames.jp/resource/長野県下伊那郡阿智村浪合",
+      "https://geonames.jp/resource/長野県下伊那郡阿智村駒"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1203279"
+    ]
+  }
+]

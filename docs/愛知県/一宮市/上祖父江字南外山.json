@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県一宮市上祖父江字南外山",
+    "表記": "愛知県一宮市上祖父江字南外山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "一宮市",
+      "町名": "上祖父江字南外山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367526",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367536",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367537"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/103589.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県一宮市上祖父江字南外山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/一宮市/上祖父江字南外山.json",
+    "name": "上祖父江字南外山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県一宮市"
+  }
+]

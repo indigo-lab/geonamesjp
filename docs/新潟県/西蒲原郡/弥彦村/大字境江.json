@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡弥彦村大字境江",
+    "表記": "新潟県西蒲原郡弥彦村大字境江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "弥彦村",
+      "町名": "大字境江"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384606",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384616",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384617"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232164/101418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232169/101414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232168/101414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/101416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232170/101413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/101418.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡弥彦村大字境江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/弥彦村/大字境江.json",
+    "name": "大字境江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡弥彦村"
+  }
+]

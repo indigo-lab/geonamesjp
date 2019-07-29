@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県一関市滝沢字矢ノ目沢",
+    "表記": "岩手県一関市滝沢字矢ノ目沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "一関市",
+      "町名": "滝沢字矢ノ目沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S03209304014"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412193",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412183",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412192"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/100264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233860/100267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/100270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/100269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233866/100268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233867/100271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233866/100270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/100271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/100265.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県一関市滝沢字矢ノ目沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/一関市/滝沢字矢ノ目沢.json",
+    "name": "滝沢字矢ノ目沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県一関市"
+  }
+]

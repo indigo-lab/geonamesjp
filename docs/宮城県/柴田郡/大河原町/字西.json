@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県柴田郡大河原町字西",
+    "表記": "宮城県柴田郡大河原町字西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "柴田郡",
+      "市区町村": "大河原町",
+      "町名": "字西"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400578"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233543/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233550/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233545/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233542/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233551/101059.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県柴田郡大河原町字西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/柴田郡/大河原町/字西.json",
+    "name": "字西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県柴田郡大河原町"
+  }
+]

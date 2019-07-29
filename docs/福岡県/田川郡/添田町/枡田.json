@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県田川郡添田町枡田",
+    "表記": "福岡県田川郡添田町枡田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "田川郡",
+      "市区町村": "添田町",
+      "町名": "枡田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302639",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302659"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226360/105125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226361/105121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226363/105123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226363/105128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226363/105120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226364/105118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226364/105119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226365/105127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226365/105122.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県田川郡添田町枡田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/田川郡/添田町/枡田.json",
+    "name": "枡田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県田川郡添田町"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市大搦目山",
+    "表記": "福島県白河市大搦目山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "大搦目山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405128",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405129",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405139"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233186/101939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233187/101939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233188/101939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233185/101939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233185/101938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233187/101937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233194/101940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233193/101934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233187/101940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233188/101935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233189/101938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233187/101936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233187/101938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233188/101940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233190/101940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233192/101940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233198/101936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233189/101935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233192/101935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233191/101929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233194/101937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233185/101937.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市大搦目山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/大搦目山.json",
+    "name": "大搦目山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

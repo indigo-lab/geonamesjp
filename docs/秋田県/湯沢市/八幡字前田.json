@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市八幡字前田",
+    "表記": "秋田県湯沢市八幡字前田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "湯沢市",
+      "町名": "八幡字前田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406346",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058406347"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/99995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/99994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/99996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/99995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/99995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/99995.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県湯沢市八幡字前田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/湯沢市/八幡字前田.json",
+    "name": "八幡字前田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県湯沢市"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町成田松木",
+    "表記": "宮城県栗原郡築館町成田松木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "栗原郡",
+      "市区町村": "築館町",
+      "町名": "成田松木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400789"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/100432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/100431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/100430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/100433.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町成田松木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原郡/築館町/成田松木.json",
+    "name": "成田松木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原郡築館町"
+  }
+]

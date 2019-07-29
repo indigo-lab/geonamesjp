@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市湯沢三地割",
+    "表記": "岩手県盛岡市湯沢三地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "湯沢三地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059413077"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233813/99578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233811/99578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233812/99577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233814/99578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233815/99577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233817/99577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233816/99577.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市湯沢三地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/湯沢三地割.json",
+    "name": "湯沢三地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県東蒲原郡阿賀町赤岩",
+    "表記": "新潟県東蒲原郡阿賀町赤岩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "東蒲原郡",
+      "市区町村": "阿賀町",
+      "町名": "赤岩"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394323",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394324"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232595/101404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232593/101404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/101405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232596/101405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232596/101404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/101406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232594/101403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232594/101404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232595/101405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232595/101403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/101406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232596/101406.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県東蒲原郡阿賀町赤岩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/東蒲原郡/阿賀町/赤岩.json",
+    "name": "赤岩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県東蒲原郡阿賀町"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京都市伏見区横大路下三栖宮ノ後",
+    "表記": "京都府京都市伏見区横大路下三栖宮ノ後",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京都市",
+      "区": "伏見区",
+      "町名": "横大路下三栖宮ノ後"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353509",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353519"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/103899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/103898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/103902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/103902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/103901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/103905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229919/103906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229918/103901.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京都市伏見区横大路下三栖宮ノ後",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京都市/伏見区/横大路下三栖宮ノ後.json",
+    "name": "横大路下三栖宮ノ後",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京都市伏見区"
+  }
+]

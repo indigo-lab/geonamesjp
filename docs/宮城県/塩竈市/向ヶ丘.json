@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県塩竈市向ヶ丘",
+    "表記": "宮城県塩竈市向ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "塩竈市",
+      "町名": "向ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057413070",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057413080",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403789"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233748/100823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233747/100823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233746/100822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/100823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233746/100823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/100822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/100821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233746/100821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233747/100822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/100821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/100822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233745/100820.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県塩竈市向ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/塩竈市/向ヶ丘.json",
+    "name": "向ヶ丘",
+    "alternateName": [
+      "向ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県塩竈市"
+  }
+]

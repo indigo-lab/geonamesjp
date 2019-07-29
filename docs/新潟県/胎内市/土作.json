@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県胎内市土作",
+    "表記": "新潟県胎内市土作",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "胎内市",
+      "町名": "土作",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152270540"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057391302",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390393",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057391303",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057391313"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/101039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232591/101040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/101039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232591/101035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232591/101039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/101038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232592/101039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/101037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232590/101031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/101037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/101040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/101038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232592/101034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232591/101033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/101037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232592/101040.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県胎内市土作",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/胎内市/土作.json",
+    "name": "土作",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県胎内市"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県夷隅郡岬町鴨根",
+    "表記": "千葉県夷隅郡岬町鴨根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "夷隅郡",
+      "市区町村": "岬町",
+      "町名": "鴨根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052407238",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052407248",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052407249",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052407259"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233276/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233275/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233276/103578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233278/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233280/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233286/103579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233277/103589.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県夷隅郡岬町鴨根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/夷隅郡/岬町/鴨根.json",
+    "name": "鴨根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県夷隅郡岬町"
+  }
+]

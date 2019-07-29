@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県四日市市大字羽津甲",
+    "表記": "三重県四日市市大字羽津甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "四日市市",
+      "町名": "大字羽津甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363571",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363581",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364409",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364500"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230560/103832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230555/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103843.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県四日市市大字羽津甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/四日市市/大字羽津甲.json",
+    "name": "大字羽津甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県四日市市"
+  }
+]

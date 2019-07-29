@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県能美郡寺井町小杉",
+    "表記": "石川県能美郡寺井町小杉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "能美郡",
+      "市区町村": "寺井町",
+      "町名": "小杉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364398",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365308",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365309"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230460/102559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230456/102562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230456/102564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230460/102557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230456/102563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230456/102561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102558.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県能美郡寺井町小杉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/能美郡/寺井町/小杉.json",
+    "name": "小杉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県能美郡寺井町"
+  }
+]

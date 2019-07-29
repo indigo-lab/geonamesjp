@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡茂木町大字竹原",
+    "表記": "栃木県芳賀郡茂木町大字竹原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "芳賀郡",
+      "市区町村": "茂木町",
+      "町名": "大字竹原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S093430360"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054407103",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054407104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054407114",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054407113"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233143/102409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233140/102408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233140/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233143/102406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233145/102411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/102409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233146/102404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233144/102407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233143/102408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233146/102405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233137/102405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233141/102410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/102408.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡茂木町大字竹原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/芳賀郡/茂木町/大字竹原.json",
+    "name": "大字竹原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県芳賀郡茂木町"
+  }
+]

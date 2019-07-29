@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県東茨城郡常北町",
+    "表記": "茨城県東茨城郡常北町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "東茨城郡",
+      "市区町村": "常北町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C08306-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C08306-19711115",
+        "http://data.e-stat.go.jp/lod/sac/C08306-19730201",
+        "http://data.e-stat.go.jp/lod/sac/C08306-20050201",
+        "http://data.e-stat.go.jp/lod/sac/C08306-19881201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県東茨城郡常北町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/東茨城郡/常北町.json",
+    "name": "常北町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県東茨城郡",
+    "children": [
+      "https://geonames.jp/resource/茨城県東茨城郡常北町上青山",
+      "https://geonames.jp/resource/茨城県東茨城郡常北町上泉",
+      "https://geonames.jp/resource/茨城県東茨城郡常北町石塚",
+      "https://geonames.jp/resource/茨城県東茨城郡常北町那珂西",
+      "https://geonames.jp/resource/茨城県東茨城郡常北町増井",
+      "https://geonames.jp/resource/茨城県東茨城郡常北町下青山"
+    ]
+  }
+]

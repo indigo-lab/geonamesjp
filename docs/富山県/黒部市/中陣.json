@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県黒部市中陣",
+    "表記": "富山県黒部市中陣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "黒部市",
+      "町名": "中陣",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162070830"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372306",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372316",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372307"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231168/102179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231162/102178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231163/102179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231163/102180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231167/102180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231166/102178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231164/102180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231165/102181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231164/102179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231165/102180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231168/102181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231168/102180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231169/102181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231169/102180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231170/102180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231171/102180.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県黒部市中陣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/黒部市/中陣.json",
+    "name": "中陣",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県黒部市"
+  }
+]

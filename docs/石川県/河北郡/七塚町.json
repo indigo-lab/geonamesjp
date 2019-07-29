@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡七塚町",
+    "表記": "石川県河北郡七塚町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "七塚町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C17363-20040301",
+        "http://data.e-stat.go.jp/lod/sac/C17363-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡七塚町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/七塚町.json",
+    "name": "七塚町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡",
+    "children": [
+      "https://geonames.jp/resource/石川県河北郡七塚町遠塚",
+      "https://geonames.jp/resource/石川県河北郡七塚町外日角",
+      "https://geonames.jp/resource/石川県河北郡七塚町秋浜",
+      "https://geonames.jp/resource/石川県河北郡七塚町松浜",
+      "https://geonames.jp/resource/石川県河北郡七塚町白尾",
+      "https://geonames.jp/resource/石川県河北郡七塚町浜北",
+      "https://geonames.jp/resource/石川県河北郡七塚町木津"
+    ]
+  }
+]

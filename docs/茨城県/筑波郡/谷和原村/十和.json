@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡谷和原村十和",
+    "表記": "茨城県筑波郡谷和原村十和",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "筑波郡",
+      "市区町村": "谷和原村",
+      "町名": "十和"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397799",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390709"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233013/102939.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡谷和原村十和",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/筑波郡/谷和原村/十和.json",
+    "name": "十和",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県筑波郡谷和原村"
+  }
+]

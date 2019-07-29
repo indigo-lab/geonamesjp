@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県村上市新町",
+    "表記": "新潟県村上市新町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152120320"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057392379"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232644/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/100907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232643/100909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232646/100909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232646/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232647/100909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232641/100907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232643/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232645/100909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232641/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232645/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232646/100910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232642/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232643/100907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232647/100908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232644/100909.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県村上市新町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/村上市/新町.json",
+    "name": "新町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県村上市"
+  }
+]

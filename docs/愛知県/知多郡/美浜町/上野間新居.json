@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知多郡美浜町上野間新居",
+    "表記": "愛知県知多郡美浜町上野間新居",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "知多郡",
+      "市区町村": "美浜町",
+      "町名": "上野間新居"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361668"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/104007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230730/104007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230730/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230731/104009.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知多郡美浜町上野間新居",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知多郡/美浜町/上野間新居.json",
+    "name": "上野間新居",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知多郡美浜町"
+  }
+]

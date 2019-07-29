@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市東金山",
+    "表記": "千葉県成田市東金山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "東金山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122110740"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405257",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405256"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233262/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233265/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233263/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233262/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233261/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233263/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233263/103122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233261/103122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233260/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233261/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233260/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233261/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233260/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233260/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233264/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233264/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233264/103121.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市東金山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/東金山.json",
+    "name": "東金山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市"
+  }
+]

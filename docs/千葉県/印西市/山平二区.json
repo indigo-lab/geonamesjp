@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県印西市山平二区",
+    "表記": "千葉県印西市山平二区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "印西市",
+      "区": "山平二区"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405139",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405230"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233195/103136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233199/103140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233198/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233198/103140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233197/103139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233196/103137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233195/103137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233195/103135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233194/103134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233195/103134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233197/103138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233199/103141.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県印西市山平二区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/印西市/山平二区.json",
+    "name": "山平二区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県印西市"
+  }
+]

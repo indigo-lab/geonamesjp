@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県名護市世富慶",
+    "表記": "沖縄県名護市世富慶",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "名護市",
+      "町名": "世富慶"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276779",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276788",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276789",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039276799"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224270/110988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224271/110989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224277/110986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224278/110986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224277/110995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224277/110989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224277/110991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224278/110992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224267/110985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224267/110986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224267/110987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224268/110986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224268/110988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224268/110987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224269/110988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224276/110994.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県名護市世富慶",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/名護市/世富慶.json",
+    "name": "世富慶",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県名護市"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市はまなす",
+    "表記": "青森県青森市はまなす",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "はまなす"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市はまなす",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/はまなす.json",
+    "name": "はまなす",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市",
+    "children": [
+      "https://geonames.jp/resource/青森県青森市はまなす一丁目",
+      "https://geonames.jp/resource/青森県青森市はまなす二丁目"
+    ]
+  }
+]

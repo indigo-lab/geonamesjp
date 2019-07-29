@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西加茂郡三好町三好丘四丁目",
+    "表記": "愛知県西加茂郡三好町三好丘四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "西加茂郡",
+      "市区町村": "三好町",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375049"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230915/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230916/103725.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西加茂郡三好町三好丘四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西加茂郡/三好町/三好丘/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県西加茂郡三好町三好丘"
+  }
+]

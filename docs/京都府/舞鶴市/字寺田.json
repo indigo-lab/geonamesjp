@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字寺田",
+    "表記": "京都府舞鶴市字寺田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "字寺田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351311",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351209",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351300",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351301"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229659/103447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229664/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229664/103452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229644/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/103458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/103457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229652/103457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229658/103446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229654/103456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229660/103456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229664/103449.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字寺田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/字寺田.json",
+    "name": "字寺田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

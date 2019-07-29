@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県清水市大手",
+    "表記": "静岡県清水市大手",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "清水市",
+      "町名": "大手"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県清水市大手",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/清水市/大手.json",
+    "name": "大手",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県清水市",
+    "children": [
+      "https://geonames.jp/resource/静岡県清水市大手一丁目",
+      "https://geonames.jp/resource/静岡県清水市大手二丁目",
+      "https://geonames.jp/resource/静岡県清水市大手三丁目"
+    ]
+  }
+]

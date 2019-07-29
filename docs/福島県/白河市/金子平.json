@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市金子平",
+    "表記": "福島県白河市金子平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "金子平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405167",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405168"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233179/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/101912.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市金子平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/金子平.json",
+    "name": "金子平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

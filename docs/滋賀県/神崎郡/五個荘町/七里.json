@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡五個荘町七里",
+    "表記": "滋賀県神崎郡五個荘町七里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "神崎郡",
+      "市区町村": "五個荘町",
+      "町名": "七里"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365193",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365194",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366103",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366104"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230229/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230231/103684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230231/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230232/103684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230232/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230232/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/103685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230231/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230232/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103690.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡五個荘町七里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/神崎郡/五個荘町/七里.json",
+    "name": "七里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県神崎郡五個荘町"
+  }
+]

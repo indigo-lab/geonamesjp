@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県袖ケ浦市久保田代宿入会地",
+    "表記": "千葉県袖ケ浦市久保田代宿入会地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "袖ケ浦市",
+      "町名": "久保田代宿入会地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401022",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053401023"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233038/103443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/103439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/103437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/103446.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県袖ケ浦市久保田代宿入会地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/袖ケ浦市/久保田代宿入会地.json",
+    "name": "久保田代宿入会地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県袖ケ浦市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県安城市赤松町堀切",
+    "表記": "愛知県安城市赤松町堀切",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "安城市",
+      "町名": "赤松町堀切"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373024"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103890.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県安城市赤松町堀切",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/安城市/赤松町堀切.json",
+    "name": "赤松町堀切",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県安城市"
+  }
+]

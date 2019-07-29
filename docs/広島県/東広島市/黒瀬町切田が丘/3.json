@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県東広島市黒瀬町切田が丘三丁目",
+    "表記": "広島県東広島市黒瀬町切田が丘三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "東広島市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323591",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323592"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227666/104430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227665/104430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227666/104429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227664/104428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227664/104427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227665/104428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227665/104429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227667/104429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227667/104428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227668/104428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227668/104429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227667/104430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227668/104430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227669/104429.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県東広島市黒瀬町切田が丘三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/東広島市/黒瀬町切田が丘/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県東広島市黒瀬町切田が丘"
+  }
+]

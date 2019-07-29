@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県西白河郡大信村中新城赤坂裏",
+    "表記": "福島県西白河郡大信村中新城赤坂裏",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "西白河郡",
+      "市区町村": "大信村",
+      "町名": "中新城赤坂裏"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406252",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406261"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/101833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/101838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233216/101833.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県西白河郡大信村中新城赤坂裏",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/西白河郡/大信村/中新城赤坂裏.json",
+    "name": "中新城赤坂裏",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県西白河郡大信村"
+  }
+]

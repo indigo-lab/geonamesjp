@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県東海市加木屋町西御嶽",
+    "表記": "愛知県東海市加木屋町西御嶽",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "東海市",
+      "町名": "加木屋町西御嶽"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363782",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363772"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/103843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103843.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県東海市加木屋町西御嶽",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/東海市/加木屋町西御嶽.json",
+    "name": "加木屋町西御嶽",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県東海市"
+  }
+]

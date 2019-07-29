@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市金川",
+    "表記": "秋田県男鹿市金川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "男鹿市",
+      "町名": "金川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059396668",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059396678",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059396687",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059396688"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232913/99337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232913/99336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232914/99337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232914/99340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232913/99338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232913/99339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232914/99338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/99344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232908/99345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232909/99343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/99334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232907/99336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232910/99329.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市金川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/男鹿市/金川.json",
+    "name": "金川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県男鹿市"
+  }
+]

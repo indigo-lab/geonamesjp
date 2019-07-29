@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県白石市斎川字上向山",
+    "表記": "宮城県白石市斎川字上向山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "白石市",
+      "町名": "斎川字上向山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056407449"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233463/101159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233465/101154.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県白石市斎川字上向山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/白石市/斎川字上向山.json",
+    "name": "斎川字上向山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県白石市"
+  }
+]

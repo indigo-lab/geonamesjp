@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県新城市杉山字荒井",
+    "表記": "愛知県新城市杉山字荒井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "新城市",
+      "町名": "杉山字荒井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372388",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372389"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231186/103919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231187/103921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231188/103921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231188/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231186/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231188/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231187/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231187/103919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231187/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231185/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231185/103919.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県新城市杉山字荒井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/新城市/杉山字荒井.json",
+    "name": "杉山字荒井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県新城市"
+  }
+]

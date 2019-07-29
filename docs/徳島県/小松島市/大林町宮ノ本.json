@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県小松島市大林町宮ノ本",
+    "表記": "徳島県小松島市大林町宮ノ本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "小松島市",
+      "町名": "大林町宮ノ本"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347469",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347478",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347479"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229093/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229095/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229094/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229095/104739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229095/104740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229095/104741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229096/104740.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県小松島市大林町宮ノ本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/小松島市/大林町宮ノ本.json",
+    "name": "大林町宮ノ本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県小松島市"
+  }
+]

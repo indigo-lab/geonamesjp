@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県山武市松尾町下野",
+    "表記": "千葉県山武市松尾町下野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "山武市",
+      "町名": "松尾町下野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403328",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403327",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403337"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/103297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/103296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233369/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233368/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/103297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233365/103296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/103298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233365/103297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/103297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233365/103298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/103298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233361/103297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233365/103293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/103296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/103290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/103297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/103293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233368/103295.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県山武市松尾町下野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/山武市/松尾町下野.json",
+    "name": "松尾町下野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県山武市"
+  }
+]

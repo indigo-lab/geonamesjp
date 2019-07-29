@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県児玉郡美里村",
+    "表記": "埼玉県児玉郡美里村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "児玉郡",
+      "市区町村": "美里村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C11381-19810601",
+        "http://data.e-stat.go.jp/lod/sac/C11381-19760401",
+        "http://data.e-stat.go.jp/lod/sac/C11381-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県児玉郡美里村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/児玉郡/美里村.json",
+    "name": "美里村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県児玉郡",
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q924129"
+    ]
+  }
+]

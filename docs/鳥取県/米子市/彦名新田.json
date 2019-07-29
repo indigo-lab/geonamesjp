@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県米子市彦名新田",
+    "表記": "鳥取県米子市彦名新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "米子市",
+      "町名": "彦名新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331233",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331231",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331232"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228129/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228119/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228124/103439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228118/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228128/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228127/103438.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県米子市彦名新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/米子市/彦名新田.json",
+    "name": "彦名新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県米子市"
+  }
+]

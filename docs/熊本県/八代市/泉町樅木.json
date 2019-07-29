@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県八代市泉町樅木",
+    "表記": "熊本県八代市泉町樅木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "八代市",
+      "町名": "泉町樅木",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S432021990"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306707",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306717"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/106021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226443/106017.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県八代市泉町樅木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/八代市/泉町樅木.json",
+    "name": "泉町樅木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県八代市"
+  }
+]

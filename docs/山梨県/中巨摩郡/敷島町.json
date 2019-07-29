@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡敷島町",
+    "表記": "山梨県中巨摩郡敷島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "中巨摩郡",
+      "市区町村": "敷島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C19382-20040901",
+        "http://data.e-stat.go.jp/lod/sac/C19382-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡敷島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/中巨摩郡/敷島町.json",
+    "name": "敷島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県中巨摩郡",
+    "children": [
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町島上条",
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町天狗沢",
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町牛句",
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町境",
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町中下条",
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町長塚",
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町大久保",
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町大下条",
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町吉沢",
+      "https://geonames.jp/resource/山梨県中巨摩郡敷島町亀沢"
+    ]
+  }
+]

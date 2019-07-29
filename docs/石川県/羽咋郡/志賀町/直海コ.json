@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡志賀町直海コ",
+    "表記": "石川県羽咋郡志賀町直海コ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "羽咋郡",
+      "市区町村": "志賀町",
+      "町名": "直海コ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364682"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230670/101969.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡志賀町直海コ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/羽咋郡/志賀町/直海コ.json",
+    "name": "直海コ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県羽咋郡志賀町"
+  }
+]

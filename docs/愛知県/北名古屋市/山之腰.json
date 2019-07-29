@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県北名古屋市山之腰",
+    "表記": "愛知県北名古屋市山之腰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "北名古屋市",
+      "町名": "山之腰",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232340250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367607",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367617"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/103603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/103603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/103603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230721/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230721/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230721/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/103607.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県北名古屋市山之腰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/北名古屋市/山之腰.json",
+    "name": "山之腰",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県北名古屋市"
+  }
+]

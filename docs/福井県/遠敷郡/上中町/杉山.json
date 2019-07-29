@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県遠敷郡上中町杉山",
+    "表記": "福井県遠敷郡上中町杉山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "遠敷郡",
+      "市区町村": "上中町",
+      "町名": "杉山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351698"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/103396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/103398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229995/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/103400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/103400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/103400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/103399.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県遠敷郡上中町杉山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/遠敷郡/上中町/杉山.json",
+    "name": "杉山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県遠敷郡上中町"
+  }
+]

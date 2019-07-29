@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県鹿角市尾去沢字新山",
+    "表記": "秋田県鹿角市尾去沢字新山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "鹿角市",
+      "町名": "尾去沢字新山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402621",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402622",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402631"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233580/99062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233579/99060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233583/99066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233582/99066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/99062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233576/99060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233578/99062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233576/99061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233576/99059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/99064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233578/99064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/99063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233578/99063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233574/99059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233575/99058.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県鹿角市尾去沢字新山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/鹿角市/尾去沢字新山.json",
+    "name": "尾去沢字新山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県鹿角市"
+  }
+]

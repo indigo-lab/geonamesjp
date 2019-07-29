@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市梅田町",
+    "表記": "石川県金沢市梅田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "梅田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172015980"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367546",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367556"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230617/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230617/102375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/102374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230617/102374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230618/102374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230614/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230614/102375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230618/102373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/102373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/102375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/102375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/102374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/102373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/102373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230618/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230618/102375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230618/102377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102378.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市梅田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/梅田町.json",
+    "name": "梅田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

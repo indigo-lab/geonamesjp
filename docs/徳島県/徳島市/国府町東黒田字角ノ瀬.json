@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県徳島市国府町東黒田字角ノ瀬",
+    "表記": "徳島県徳島市国府町東黒田字角ノ瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "徳島市",
+      "町名": "国府町東黒田字角ノ瀬",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S36201174006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341319",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341328"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229003/104630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229004/104630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229001/104630.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県徳島市国府町東黒田字角ノ瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/徳島市/国府町東黒田字角ノ瀬.json",
+    "name": "国府町東黒田字角ノ瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県徳島市"
+  }
+]

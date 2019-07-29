@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県大崎市三本木斉田",
+    "表記": "宮城県大崎市三本木斉田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "大崎市",
+      "町名": "三本木斉田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S042151170"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406731",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406732"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/100636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233667/100638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/100625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233668/100626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233667/100636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233668/100634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/100629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/100638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/100635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233667/100632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233670/100631.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県大崎市三本木斉田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/大崎市/三本木斉田.json",
+    "name": "三本木斉田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県大崎市"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市高屋敷",
+    "表記": "青森県青森市高屋敷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "高屋敷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400476",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400477",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400486",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400487",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400496"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/98541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233442/98538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233447/98533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/98542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/98536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/98544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233442/98533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/98543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/98539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/98545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233446/98543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233437/98531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233438/98535.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市高屋敷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/高屋敷.json",
+    "name": "高屋敷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市"
+  }
+]

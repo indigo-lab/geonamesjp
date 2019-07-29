@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県射水市一番町",
+    "表記": "富山県射水市一番町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "一番町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370066",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370067"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230896/102289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230895/102289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230897/102289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230895/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230896/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230897/102288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230897/102287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230898/102289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/102289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230897/102286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230898/102290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230898/102287.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県射水市一番町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/射水市/一番町.json",
+    "name": "一番町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県射水市"
+  }
+]

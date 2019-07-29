@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県伊達市保原町高成田",
+    "表記": "福島県伊達市保原町高成田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "伊達市",
+      "町名": "保原町高成田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072130230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405432",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405441",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405442",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405452",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405431"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/101311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/101310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233400/101319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/101310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/101310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233400/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/101311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/101305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/101309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233400/101311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/101308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/101319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/101314.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県伊達市保原町高成田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/伊達市/保原町高成田.json",
+    "name": "保原町高成田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県伊達市"
+  }
+]

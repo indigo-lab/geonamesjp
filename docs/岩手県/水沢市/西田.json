@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県水沢市西田",
+    "表記": "岩手県水沢市西田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "水沢市",
+      "町名": "西田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415059",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415069"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/100062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/100060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233830/100060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233830/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233829/100060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233832/100062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233833/100060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233834/100061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233834/100060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/100062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233830/100062.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県水沢市西田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/水沢市/西田.json",
+    "name": "西田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県水沢市"
+  }
+]

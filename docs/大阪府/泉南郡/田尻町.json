@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府泉南郡田尻町",
+    "表記": "大阪府泉南郡田尻町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "郡": "泉南郡",
+      "市区町村": "田尻町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C27362-19870926",
+        "http://data.e-stat.go.jp/lod/sac/C27362-19711101",
+        "http://data.e-stat.go.jp/lod/sac/C27362-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C27362-19740801"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府泉南郡田尻町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/泉南郡/田尻町.json",
+    "name": "田尻町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府泉南郡",
+    "children": [
+      "https://geonames.jp/resource/大阪府泉南郡田尻町泉州空港中",
+      "https://geonames.jp/resource/大阪府泉南郡田尻町吉見",
+      "https://geonames.jp/resource/大阪府泉南郡田尻町りんくうポート南",
+      "https://geonames.jp/resource/大阪府泉南郡田尻町嘉祥寺",
+      "https://geonames.jp/resource/大阪府泉南郡田尻町りんくうポート北",
+      "https://geonames.jp/resource/大阪府泉南郡田尻町大字吉見",
+      "https://geonames.jp/resource/大阪府泉南郡田尻町大字嘉祥寺"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1347129"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県南相馬市鹿島区小島田字立谷",
+    "表記": "福島県南相馬市鹿島区小島田字立谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "南相馬市",
+      "町名": "鹿島区小島田字立谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404728",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404738"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233731/101400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233732/101401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233731/101401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233730/101400.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県南相馬市鹿島区小島田字立谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/南相馬市/鹿島区小島田字立谷.json",
+    "name": "鹿島区小島田字立谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県南相馬市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下関市菊川町下保木",
+    "表記": "山口県下関市菊川町下保木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "下関市",
+      "町名": "菊川町下保木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311025",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311034",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311035",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311044",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311045"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226501/104613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226502/104612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226502/104614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226504/104613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226503/104615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226504/104618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226503/104614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226504/104616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226506/104613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226505/104619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226511/104613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226508/104621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226509/104621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226509/104622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226510/104623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226513/104623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226510/104621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226515/104617.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下関市菊川町下保木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下関市/菊川町下保木.json",
+    "name": "菊川町下保木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下関市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿郡関町萩原",
+    "表記": "三重県鈴鹿郡関町萩原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "鈴鹿郡",
+      "市区町村": "関町",
+      "町名": "萩原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362301",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362302"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230396/103976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230395/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230394/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230391/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230394/103976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230392/103976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230391/103976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230390/103976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230395/103976.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿郡関町萩原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/鈴鹿郡/関町/萩原.json",
+    "name": "萩原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県鈴鹿郡関町"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市美の里",
+    "表記": "新潟県新潟市美の里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "美の里"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396056",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396066"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/101224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232344/101223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/101224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/101225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/101225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/101223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232346/101223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232345/101222.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市美の里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/美の里.json",
+    "name": "美の里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県印旛郡富里村",
+    "表記": "千葉県印旛郡富里村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "印旛郡",
+      "市区町村": "富里村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C12324-19810201",
+        "http://data.e-stat.go.jp/lod/sac/C12324-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C12324-19770901",
+        "http://data.e-stat.go.jp/lod/sac/C12324-19781201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県印旛郡富里村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/印旛郡/富里村.json",
+    "name": "富里村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県印旛郡"
+  }
+]

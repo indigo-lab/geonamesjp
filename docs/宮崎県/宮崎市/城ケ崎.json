@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市城ケ崎",
+    "表記": "宮崎県宮崎市城ケ崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "宮崎市",
+      "町名": "城ケ崎"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県宮崎市城ケ崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/宮崎市/城ケ崎.json",
+    "name": "城ケ崎",
+    "alternateName": [
+      "城ヶ崎"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮崎県宮崎市",
+    "children": [
+      "https://geonames.jp/resource/宮崎県宮崎市城ケ崎一丁目",
+      "https://geonames.jp/resource/宮崎県宮崎市城ケ崎二丁目",
+      "https://geonames.jp/resource/宮崎県宮崎市城ケ崎三丁目",
+      "https://geonames.jp/resource/宮崎県宮崎市城ケ崎四丁目"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岩倉市神野町",
+    "表記": "愛知県岩倉市神野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "神野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232280120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367659",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367649"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230738/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103573.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岩倉市神野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岩倉市/神野町.json",
+    "name": "神野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岩倉市"
+  }
+]

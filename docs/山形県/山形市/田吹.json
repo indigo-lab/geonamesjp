@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市田吹",
+    "表記": "山形県山形市田吹",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "田吹"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402272",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402281",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402282"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/100898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233219/100897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/100899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233217/100900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233219/100898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233220/100899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233218/100898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233218/100899.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市田吹",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/田吹.json",
+    "name": "田吹",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

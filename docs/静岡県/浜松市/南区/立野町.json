@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市南区立野町",
+    "表記": "静岡県浜松市南区立野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜松市",
+      "区": "南区",
+      "町名": "立野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S221340370"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370621",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370611",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370612",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370622"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231395/104114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231397/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231397/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231396/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231397/104113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231396/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231395/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231396/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231395/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231395/104113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231394/104113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231394/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231394/104114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231395/104115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231396/104114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231396/104113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231397/104115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231396/104115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231396/104116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231395/104116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231394/104116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231397/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231395/104117.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市南区立野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/南区/立野町.json",
+    "name": "立野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市南区"
+  }
+]

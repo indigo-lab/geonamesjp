@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市大川原町",
+    "表記": "新潟県長岡市大川原町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "大川原町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152021110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380635",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380646",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380636"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232159/101699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232157/101701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232157/101699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/101700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/101698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/101699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232159/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/101698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/101697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/101699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/101696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/101695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/101694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/101693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/101699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232159/101698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232159/101697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/101697.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市大川原町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/大川原町.json",
+    "name": "大川原町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市樺上",
+    "表記": "熊本県荒尾市樺上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "荒尾市",
+      "町名": "樺上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303460",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303450",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303451"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226108/105615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226107/105614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226098/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226099/105616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226101/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226105/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226105/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226107/105616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226104/105617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226099/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226096/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226104/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226106/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226103/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226097/105619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226097/105618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226108/105622.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市樺上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/荒尾市/樺上.json",
+    "name": "樺上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県荒尾市"
+  }
+]

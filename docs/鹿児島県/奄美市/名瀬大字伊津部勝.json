@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県奄美市名瀬大字伊津部勝",
+    "表記": "鹿児島県奄美市名瀬大字伊津部勝",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "奄美市",
+      "町名": "名瀬大字伊津部勝"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2042293490",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294420",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294421",
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294401"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225379/109547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225376/109525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225379/109523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225380/109529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225383/109526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225381/109538.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県奄美市名瀬大字伊津部勝",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/奄美市/名瀬大字伊津部勝.json",
+    "name": "名瀬大字伊津部勝",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県奄美市"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市幸区塚越三丁目",
+    "表記": "神奈川県川崎市幸区塚越三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "川崎市",
+      "区": "幸区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14132222003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392554",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392544"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232782/103351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232781/103352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232782/103348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232782/103349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232783/103352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232782/103353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232782/103352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232783/103351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232782/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232781/103349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232781/103351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232781/103353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232782/103347.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市幸区塚越三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/川崎市/幸区/塚越/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県川崎市幸区塚越"
+  }
+]

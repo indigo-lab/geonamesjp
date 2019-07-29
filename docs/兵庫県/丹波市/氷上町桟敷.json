@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県丹波市氷上町桟敷",
+    "表記": "兵庫県丹波市氷上町桟敷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "丹波市",
+      "町名": "氷上町桟敷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282230570"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052356023",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052356033"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229408/103664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229408/103666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229409/103665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229407/103665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229407/103663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229408/103665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229408/103660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229408/103663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229408/103661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229409/103664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229409/103661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229410/103659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229410/103665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229411/103661.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県丹波市氷上町桟敷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/丹波市/氷上町桟敷.json",
+    "name": "氷上町桟敷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県丹波市"
+  }
+]

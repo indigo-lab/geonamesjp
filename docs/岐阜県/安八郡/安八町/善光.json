@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県安八郡安八町善光",
+    "表記": "岐阜県安八郡安八町善光",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "安八郡",
+      "市区町村": "安八町",
+      "町名": "善光",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S213830060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367583",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367593"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230590/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230588/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230589/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230589/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230587/103546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230587/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230586/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230589/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230591/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230591/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230590/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230592/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230589/103546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230588/103544.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県安八郡安八町善光",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/安八郡/安八町/善光.json",
+    "name": "善光",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県安八郡安八町"
+  }
+]

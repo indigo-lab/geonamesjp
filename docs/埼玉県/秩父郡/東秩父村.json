@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県秩父郡東秩父村",
+    "表記": "埼玉県秩父郡東秩父村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "秩父郡",
+      "市区町村": "東秩父村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C11369-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県秩父郡東秩父村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/秩父郡/東秩父村.json",
+    "name": "東秩父村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県秩父郡",
+    "children": [
+      "https://geonames.jp/resource/埼玉県秩父郡東秩父村大字坂本",
+      "https://geonames.jp/resource/埼玉県秩父郡東秩父村大字奥沢",
+      "https://geonames.jp/resource/埼玉県秩父郡東秩父村大字大内沢",
+      "https://geonames.jp/resource/埼玉県秩父郡東秩父村大字皆谷",
+      "https://geonames.jp/resource/埼玉県秩父郡東秩父村大字白石",
+      "https://geonames.jp/resource/埼玉県秩父郡東秩父村大字安戸",
+      "https://geonames.jp/resource/埼玉県秩父郡東秩父村大字御堂"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1357435"
+    ]
+  }
+]

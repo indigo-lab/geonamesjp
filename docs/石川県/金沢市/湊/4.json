@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市湊四丁目",
+    "表記": "石川県金沢市湊四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S17201481004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367428",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367429",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367439"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230549/102391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230549/102392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230550/102392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230550/102393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230553/102392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230554/102392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230555/102392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/102392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/102390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/102391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230553/102393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230553/102391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230555/102391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/102391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230557/102392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230558/102389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230551/102393.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市湊四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/湊/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市湊"
+  }
+]

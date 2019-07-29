@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道千歳市若草三丁目",
+    "表記": "北海道千歳市若草三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "千歳市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01224052003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064411457",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064411458"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234181/96528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234183/96529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234182/96529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234183/96528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234182/96530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234181/96529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234182/96528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234182/96527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234181/96530.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道千歳市若草三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/千歳市/若草/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道千歳市若草"
+  }
+]

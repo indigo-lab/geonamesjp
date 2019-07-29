@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県海部郡大治町大字三本木屋形",
+    "表記": "愛知県海部郡大治町大字三本木屋形",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "海部郡",
+      "市区町村": "大治町",
+      "町名": "大字三本木屋形"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365695",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366605"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230700/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230700/103685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230700/103684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230701/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230701/103685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230701/103687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230702/103684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230702/103685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230702/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230703/103685.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県海部郡大治町大字三本木屋形",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/海部郡/大治町/大字三本木屋形.json",
+    "name": "大字三本木屋形",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県海部郡大治町"
+  }
+]

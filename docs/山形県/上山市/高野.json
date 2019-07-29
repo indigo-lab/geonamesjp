@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県上山市高野",
+    "表記": "山形県上山市高野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "上山市",
+      "町名": "高野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062070380",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06207038000",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062070430"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401294",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401285",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401286",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401295",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402204"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/100967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233236/100966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233243/100968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233250/100975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233254/100976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233235/100960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233242/100966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/100963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233244/100966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233245/100967.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県上山市高野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/上山市/高野.json",
+    "name": "高野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県上山市"
+  }
+]

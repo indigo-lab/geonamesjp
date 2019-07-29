@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都羽村市羽西三丁目",
+    "表記": "東京都羽村市羽西三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "羽村市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13227018003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395223",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395233"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232504/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232505/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232504/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/103141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/103142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232501/103142.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都羽村市羽西三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/羽村市/羽西/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都羽村市羽西"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県一関市東山町長坂字里前",
+    "表記": "岩手県一関市東山町長坂字里前",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "一関市",
+      "町名": "東山町長坂字里前"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413292",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413282"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233952/100192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233950/100194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233949/100193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233949/100194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233953/100193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233947/100193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233949/100191.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県一関市東山町長坂字里前",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/一関市/東山町長坂字里前.json",
+    "name": "東山町長坂字里前",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県一関市"
+  }
+]

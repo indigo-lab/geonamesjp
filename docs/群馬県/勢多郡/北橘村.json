@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県勢多郡北橘村",
+    "表記": "群馬県勢多郡北橘村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "勢多郡",
+      "市区町村": "北橘村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C10301-19781001",
+        "http://data.e-stat.go.jp/lod/sac/C10301-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C10301-19770501",
+        "http://data.e-stat.go.jp/lod/sac/C10301-20060220",
+        "http://data.e-stat.go.jp/lod/sac/C10301-19930901"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県勢多郡北橘村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/勢多郡/北橘村.json",
+    "name": "北橘村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県勢多郡",
+    "children": [
+      "https://geonames.jp/resource/群馬県勢多郡北橘村真壁",
+      "https://geonames.jp/resource/群馬県勢多郡北橘村小室",
+      "https://geonames.jp/resource/群馬県勢多郡北橘村上箱田",
+      "https://geonames.jp/resource/群馬県勢多郡北橘村上南室",
+      "https://geonames.jp/resource/群馬県勢多郡北橘村箱田",
+      "https://geonames.jp/resource/群馬県勢多郡北橘村八崎",
+      "https://geonames.jp/resource/群馬県勢多郡北橘村下箱田",
+      "https://geonames.jp/resource/群馬県勢多郡北橘村下南室",
+      "https://geonames.jp/resource/群馬県勢多郡北橘村分郷八崎"
+    ]
+  }
+]

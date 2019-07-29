@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道留萌郡",
+    "表記": "北海道留萌郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "留萌郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道留萌郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/留萌郡.json",
+    "name": "留萌郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道留萌郡小平町",
+      "https://geonames.jp/resource/北海道留萌郡小平蘂村",
+      "https://geonames.jp/resource/北海道留萌郡留萌町",
+      "https://geonames.jp/resource/北海道留萌郡鬼鹿村",
+      "https://geonames.jp/resource/北海道留萌郡小平村"
+    ]
+  }
+]

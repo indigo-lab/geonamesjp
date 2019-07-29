@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県東松浦郡浜玉町平原",
+    "表記": "佐賀県東松浦郡浜玉町平原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "東松浦郡",
+      "市区町村": "浜玉町",
+      "町名": "平原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301005",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301014",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301015"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225785/105216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225787/105217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225783/105217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225784/105218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225781/105218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225781/105219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225780/105219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225781/105220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225779/105223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225780/105224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225781/105224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225782/105224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225781/105222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225782/105221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225786/105219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225786/105222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225787/105220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225787/105218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225780/105221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225788/105225.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県東松浦郡浜玉町平原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/東松浦郡/浜玉町/平原.json",
+    "name": "平原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県東松浦郡浜玉町"
+  }
+]

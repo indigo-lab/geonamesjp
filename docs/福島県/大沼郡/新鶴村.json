@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県大沼郡新鶴村",
+    "表記": "福島県大沼郡新鶴村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "大沼郡",
+      "市区町村": "新鶴村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C07443-19980601",
+        "http://data.e-stat.go.jp/lod/sac/C07443-19910901",
+        "http://data.e-stat.go.jp/lod/sac/C07443-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C07443-19940201",
+        "http://data.e-stat.go.jp/lod/sac/C07443-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県大沼郡新鶴村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/大沼郡/新鶴村.json",
+    "name": "新鶴村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県大沼郡"
+  }
+]

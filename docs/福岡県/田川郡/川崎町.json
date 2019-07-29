@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県田川郡川崎町",
+    "表記": "福岡県田川郡川崎町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "田川郡",
+      "市区町村": "川崎町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C40605-19861001",
+        "http://data.e-stat.go.jp/lod/sac/C40605-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C40605-19830601"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県田川郡川崎町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/田川郡/川崎町.json",
+    "name": "川崎町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県田川郡",
+    "children": [
+      "https://geonames.jp/resource/福岡県田川郡川崎町大字池尻",
+      "https://geonames.jp/resource/福岡県田川郡川崎町大字田原",
+      "https://geonames.jp/resource/福岡県田川郡川崎町大字川崎",
+      "https://geonames.jp/resource/福岡県田川郡川崎町大字安真木",
+      "https://geonames.jp/resource/福岡県田川郡川崎町安真木",
+      "https://geonames.jp/resource/福岡県田川郡川崎町川崎",
+      "https://geonames.jp/resource/福岡県田川郡川崎町池尻",
+      "https://geonames.jp/resource/福岡県田川郡川崎町田原",
+      "https://geonames.jp/resource/福岡県田川郡川崎町安眞木",
+      "https://geonames.jp/resource/福岡県田川郡川崎町大字安眞木",
+      "https://geonames.jp/resource/福岡県田川郡川崎町池尻字小倉畔",
+      "https://geonames.jp/resource/福岡県田川郡川崎町池尻小倉畔"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1206042"
+    ]
+  }
+]

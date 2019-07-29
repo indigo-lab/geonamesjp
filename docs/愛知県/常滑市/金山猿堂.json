@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県常滑市金山猿堂",
+    "表記": "愛知県常滑市金山猿堂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "常滑市",
+      "町名": "金山猿堂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363616",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363617"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/103899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/103900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/103898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/103899.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県常滑市金山猿堂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/常滑市/金山猿堂.json",
+    "name": "金山猿堂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県常滑市"
+  }
+]

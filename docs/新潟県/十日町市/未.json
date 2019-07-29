@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県十日町市未",
+    "表記": "新潟県十日町市未",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "十日町市",
+      "町名": "未"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385644",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385653",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385654"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232141/101919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232141/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/101917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232147/101927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/101925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232154/101921.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県十日町市未",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/十日町市/未.json",
+    "name": "未",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県十日町市"
+  }
+]

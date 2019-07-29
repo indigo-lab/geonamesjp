@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県伊賀市下郡",
+    "表記": "三重県伊賀市下郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "伊賀市",
+      "町名": "下郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242161060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360141",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360161"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230209/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230212/104084.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230213/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230211/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230211/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230211/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230214/104090.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県伊賀市下郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/伊賀市/下郡.json",
+    "name": "下郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県伊賀市"
+  }
+]

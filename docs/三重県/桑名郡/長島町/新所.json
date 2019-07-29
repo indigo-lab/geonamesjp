@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名郡長島町新所",
+    "表記": "三重県桑名郡長島町新所",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "桑名郡",
+      "市区町村": "長島町",
+      "町名": "新所"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365544",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365554"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230604/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230602/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230600/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230603/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230601/103723.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名郡長島町新所",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名郡/長島町/新所.json",
+    "name": "新所",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名郡長島町"
+  }
+]

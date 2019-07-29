@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県浦添市前田",
+    "表記": "沖縄県浦添市前田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "浦添市",
+      "町名": "前田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県浦添市前田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/浦添市/前田.json",
+    "name": "前田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県浦添市",
+    "children": [
+      "https://geonames.jp/resource/沖縄県浦添市前田（丁目なし）",
+      "https://geonames.jp/resource/沖縄県浦添市前田一丁目",
+      "https://geonames.jp/resource/沖縄県浦添市前田二丁目",
+      "https://geonames.jp/resource/沖縄県浦添市前田三丁目",
+      "https://geonames.jp/resource/沖縄県浦添市前田四丁目"
+    ]
+  }
+]

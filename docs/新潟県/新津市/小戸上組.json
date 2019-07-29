@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新津市小戸上組",
+    "表記": "新潟県新津市小戸上組",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新津市",
+      "町名": "小戸上組"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395057"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232352/101306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232356/101305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232350/101309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232354/101305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232355/101305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232356/101307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232354/101304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232355/101303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232355/101304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232356/101304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232357/101305.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新津市小戸上組",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新津市/小戸上組.json",
+    "name": "小戸上組",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新津市"
+  }
+]

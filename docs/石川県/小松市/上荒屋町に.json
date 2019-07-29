@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県小松市上荒屋町に",
+    "表記": "石川県小松市上荒屋町に",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "小松市",
+      "町名": "上荒屋町に"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363395",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363384",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363394",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363385"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230422/102646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230422/102647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230423/102647.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県小松市上荒屋町に",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/小松市/上荒屋町に.json",
+    "name": "上荒屋町に",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県小松市"
+  }
+]

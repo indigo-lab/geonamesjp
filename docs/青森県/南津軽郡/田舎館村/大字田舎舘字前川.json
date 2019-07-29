@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡田舎館村大字田舎舘字前川",
+    "表記": "青森県南津軽郡田舎館村大字田舎舘字前川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "南津軽郡",
+      "市区町村": "田舎館村",
+      "町名": "大字田舎舘字前川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407453",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407454"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233415/98642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/98641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/98642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/98641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233413/98640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233415/98641.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡田舎館村大字田舎舘字前川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/南津軽郡/田舎館村/大字田舎舘字前川.json",
+    "name": "大字田舎舘字前川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県南津軽郡田舎館村"
+  }
+]

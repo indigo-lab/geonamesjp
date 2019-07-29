@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須郡馬頭町和見",
+    "表記": "栃木県那須郡馬頭町和見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "那須郡",
+      "市区町村": "馬頭町",
+      "町名": "和見"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400193"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233134/102268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233132/102268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233136/102266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/102268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233131/102268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233133/102267.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須郡馬頭町和見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須郡/馬頭町/和見.json",
+    "name": "和見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須郡馬頭町"
+  }
+]

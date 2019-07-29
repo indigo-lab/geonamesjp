@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大館市芦田子字獅子ケ森",
+    "表記": "秋田県大館市芦田子字獅子ケ森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大館市",
+      "町名": "芦田子字獅子ケ森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060403466",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060403456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060403457"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/98953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233443/98952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/98957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233442/98958.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大館市芦田子字獅子ケ森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大館市/芦田子字獅子ケ森.json",
+    "name": "芦田子字獅子ケ森",
+    "alternateName": [
+      "芦田子字獅子ヶ森"
+    ],
+    "parentFeature": "https://geonames.jp/resource/秋田県大館市"
+  }
+]

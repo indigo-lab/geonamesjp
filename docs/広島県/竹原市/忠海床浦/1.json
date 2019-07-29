@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県竹原市忠海床浦一丁目",
+    "表記": "広島県竹原市忠海床浦一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "竹原市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324708",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323799",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324709"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227910/104424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227909/104424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227911/104423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227911/104424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227910/104425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227910/104423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227909/104423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227909/104425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227908/104425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227908/104424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227907/104426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227907/104425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227911/104425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227912/104424.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県竹原市忠海床浦一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/竹原市/忠海床浦/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県竹原市忠海床浦"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県十和田市米田字万内",
+    "表記": "青森県十和田市米田字万内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "十和田市",
+      "町名": "米田字万内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416167",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416177"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233903/98708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233902/98709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233900/98710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233898/98707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233907/98711.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県十和田市米田字万内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/十和田市/米田字万内.json",
+    "name": "米田字万内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県十和田市"
+  }
+]

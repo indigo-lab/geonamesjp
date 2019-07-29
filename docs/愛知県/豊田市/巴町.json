@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市巴町",
+    "表記": "愛知県豊田市巴町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "巴町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232112610"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374166",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374177"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230987/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230987/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230984/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230985/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230987/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230986/103780.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市巴町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/巴町.json",
+    "name": "巴町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

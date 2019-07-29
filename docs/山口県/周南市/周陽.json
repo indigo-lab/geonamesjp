@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県周南市周陽",
+    "表記": "山口県周南市周陽",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "周南市",
+      "町名": "周陽",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352150060"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県周南市周陽",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/周南市/周陽.json",
+    "name": "周陽",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県周南市",
+    "children": [
+      "https://geonames.jp/resource/山口県周南市周陽一丁目",
+      "https://geonames.jp/resource/山口県周南市周陽二丁目",
+      "https://geonames.jp/resource/山口県周南市周陽三丁目"
+    ]
+  }
+]

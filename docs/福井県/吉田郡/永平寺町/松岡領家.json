@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県吉田郡永平寺町松岡領家",
+    "表記": "福井県吉田郡永平寺町松岡領家",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "吉田郡",
+      "市区町村": "永平寺町",
+      "町名": "松岡領家"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361242",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054361232"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230310/102833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230310/102834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230309/102837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230310/102835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230310/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230308/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230309/102838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230309/102836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/102835.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県吉田郡永平寺町松岡領家",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/吉田郡/永平寺町/松岡領家.json",
+    "name": "松岡領家",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県吉田郡永平寺町"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県大分市ふじが丘ニュータウン北区",
+    "表記": "大分県大分市ふじが丘ニュータウン北区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "大分市",
+      "区": "ふじが丘ニュータウン北区"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316417",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316427"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226899/105431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226898/105432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226898/105431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226898/105433.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県大分市ふじが丘ニュータウン北区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/大分市/ふじが丘ニュータウン北区.json",
+    "name": "ふじが丘ニュータウン北区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県大分市"
+  }
+]

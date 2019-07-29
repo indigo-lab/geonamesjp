@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県大津市松が丘六丁目",
+    "表記": "滋賀県大津市松が丘六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "大津市",
+      "町名": "六丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353766",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353767",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353776"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230077/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230077/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230075/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230075/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230075/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230075/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230074/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230075/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230075/103861.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県大津市松が丘六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/大津市/松が丘/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/滋賀県大津市松が丘"
+  }
+]

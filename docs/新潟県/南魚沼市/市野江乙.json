@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼市市野江乙",
+    "表記": "新潟県南魚沼市市野江乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "南魚沼市",
+      "町名": "市野江乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385698",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385699",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386608"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232186/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/101883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232184/101886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232184/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232186/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232185/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232186/101892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232189/101895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232187/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232188/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232197/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232187/101879.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼市市野江乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/南魚沼市/市野江乙.json",
+    "name": "市野江乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県南魚沼市"
+  }
+]

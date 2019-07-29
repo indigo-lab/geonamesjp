@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市平豊間兎渡路",
+    "表記": "福島県いわき市平豊間兎渡路",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "平豊間兎渡路"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403786",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403787"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/102053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/102052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/102051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/102053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/102051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/102052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/102048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233721/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/102048.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市平豊間兎渡路",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/平豊間兎渡路.json",
+    "name": "平豊間兎渡路",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

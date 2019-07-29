@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道河東郡音更町共栄台東",
+    "表記": "北海道河東郡音更町共栄台東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "河東郡",
+      "市区町村": "音更町",
+      "町名": "共栄台東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016310300"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道河東郡音更町共栄台東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/河東郡/音更町/共栄台東.json",
+    "name": "共栄台東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道河東郡音更町",
+    "children": [
+      "https://geonames.jp/resource/北海道河東郡音更町共栄台東十丁目",
+      "https://geonames.jp/resource/北海道河東郡音更町共栄台東十一丁目",
+      "https://geonames.jp/resource/北海道河東郡音更町共栄台東十二丁目",
+      "https://geonames.jp/resource/北海道河東郡音更町共栄台東十三丁目"
+    ]
+  }
+]

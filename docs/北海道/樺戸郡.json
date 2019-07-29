@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道樺戸郡",
+    "表記": "北海道樺戸郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "樺戸郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道樺戸郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/樺戸郡.json",
+    "name": "樺戸郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道樺戸郡新十津川町",
+      "https://geonames.jp/resource/北海道樺戸郡月形町",
+      "https://geonames.jp/resource/北海道樺戸郡浦臼町",
+      "https://geonames.jp/resource/北海道樺戸郡新十津川村",
+      "https://geonames.jp/resource/北海道樺戸郡月形村",
+      "https://geonames.jp/resource/北海道樺戸郡浦臼村"
+    ]
+  }
+]

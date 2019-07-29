@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下松市東柳",
+    "表記": "山口県下松市東柳",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "下松市",
+      "町名": "東柳",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352070230"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下松市東柳",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下松市/東柳.json",
+    "name": "東柳",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下松市",
+    "children": [
+      "https://geonames.jp/resource/山口県下松市東柳一丁目",
+      "https://geonames.jp/resource/山口県下松市東柳二丁目"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県鯖江市和田町",
+    "表記": "福井県鯖江市和田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "和田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182070710"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367130",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367131",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367140",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367141"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/102984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230210/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230209/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/102989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/102984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/102984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/102984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/102984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/102988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230210/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/102989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/102989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/102985.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県鯖江市和田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/鯖江市/和田町.json",
+    "name": "和田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県鯖江市"
+  }
+]

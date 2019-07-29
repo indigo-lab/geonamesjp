@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県多気郡大台町茂原",
+    "表記": "三重県多気郡大台町茂原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "多気郡",
+      "市区町村": "大台町",
+      "町名": "茂原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051364236",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051364226"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230345/104402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230342/104409.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県多気郡大台町茂原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/多気郡/大台町/茂原.json",
+    "name": "茂原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県多気郡大台町"
+  }
+]

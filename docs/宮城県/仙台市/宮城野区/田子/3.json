@@ -1,0 +1,67 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区田子三丁目",
+    "表記": "宮城県仙台市宮城野区田子三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "宮城野区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04102032103"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403737",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403736",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403746",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403747"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/100856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/100855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233721/100853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/100852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/100851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/100851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/100854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/100853.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区田子三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/宮城野区/田子/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市宮城野区田子"
+  }
+]

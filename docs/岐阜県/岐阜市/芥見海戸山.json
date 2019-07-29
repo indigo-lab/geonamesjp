@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市芥見海戸山",
+    "表記": "岐阜県岐阜市芥見海戸山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "岐阜市",
+      "町名": "芥見海戸山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212018500"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361646",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361647"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230712/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230712/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230711/103430.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市芥見海戸山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/岐阜市/芥見海戸山.json",
+    "name": "芥見海戸山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県岐阜市"
+  }
+]

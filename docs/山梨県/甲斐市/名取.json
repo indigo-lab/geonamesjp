@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県甲斐市名取",
+    "表記": "山梨県甲斐市名取",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "甲斐市",
+      "町名": "名取",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S192100060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383492",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383491",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384401",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384402"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231943/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231940/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231939/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231941/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231941/103239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231940/103239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231941/103238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231942/103238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231942/103239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231942/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231941/103241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231944/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231942/103241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231944/103241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231945/103239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231946/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231945/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231945/103241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231946/103242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231945/103242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231939/103239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231941/103237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231942/103237.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県甲斐市名取",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/甲斐市/名取.json",
+    "name": "名取",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県甲斐市"
+  }
+]

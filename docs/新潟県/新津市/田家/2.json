@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新津市田家二丁目",
+    "表記": "新潟県新津市田家二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新津市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395049",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395130",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395140"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232377/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232378/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232377/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232379/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232380/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232379/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232378/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232381/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232380/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232380/101316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232378/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232378/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232379/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232380/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232381/101316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232381/101318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232377/101314.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新津市田家二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新津市/田家/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県新津市田家"
+  }
+]

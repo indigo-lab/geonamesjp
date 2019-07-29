@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県本吉郡志津川町御前下",
+    "表記": "宮城県本吉郡志津川町御前下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "本吉郡",
+      "市区町村": "志津川町",
+      "町名": "御前下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410325"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234064/100477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234064/100478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234066/100480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234066/100478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234067/100480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234065/100480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234067/100481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234065/100479.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県本吉郡志津川町御前下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/本吉郡/志津川町/御前下.json",
+    "name": "御前下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県本吉郡志津川町"
+  }
+]

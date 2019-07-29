@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市川市八幡六丁目",
+    "表記": "千葉県市川市八幡六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "市川市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12203011006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394774",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394775"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232969/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232969/103184.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/103185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/103184.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/103183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/103183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/103184.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232972/103184.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/103182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232972/103182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232972/103183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232973/103182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232973/103181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/103186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232973/103183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232974/103181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/103184.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市川市八幡六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市川市/八幡/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県市川市八幡"
+  }
+]

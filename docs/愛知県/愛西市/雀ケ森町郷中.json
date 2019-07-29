@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県愛西市雀ケ森町郷中",
+    "表記": "愛知県愛西市雀ケ森町郷中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "愛西市",
+      "町名": "雀ケ森町郷中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365596"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230617/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/103693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/103693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/103691.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県愛西市雀ケ森町郷中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/愛西市/雀ケ森町郷中.json",
+    "name": "雀ケ森町郷中",
+    "alternateName": [
+      "雀ヶ森町郷中"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県愛西市"
+  }
+]

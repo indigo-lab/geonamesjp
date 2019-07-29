@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県徳島市西須賀町中開",
+    "表記": "徳島県徳島市西須賀町中開",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "徳島市",
+      "町名": "西須賀町中開",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S36201144005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340433"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229045/104692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229047/104693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229046/104692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229047/104692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229046/104691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229046/104693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229047/104694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229047/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229048/104695.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県徳島市西須賀町中開",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/徳島市/西須賀町中開.json",
+    "name": "西須賀町中開",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県徳島市"
+  }
+]

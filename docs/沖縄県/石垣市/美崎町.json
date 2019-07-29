@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県石垣市美崎町",
+    "表記": "沖縄県石垣市美崎町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "美崎町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S472070050"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2036244102",
+        "http://data.e-stat.go.jp/lod/gridCode/G2036244112"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221478/112791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221479/112790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221480/112790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221478/112790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221476/112793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221478/112789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221478/112788.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221479/112789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221480/112791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/221481/112794.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県石垣市美崎町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/石垣市/美崎町.json",
+    "name": "美崎町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県石垣市"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都中央区湊",
+    "表記": "東京都中央区湊",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "中央区",
+      "町名": "湊",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131020060"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都中央区湊",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/中央区/湊.json",
+    "name": "湊",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都中央区",
+    "children": [
+      "https://geonames.jp/resource/東京都中央区湊一丁目",
+      "https://geonames.jp/resource/東京都中央区湊二丁目",
+      "https://geonames.jp/resource/東京都中央区湊三丁目"
+    ]
+  }
+]

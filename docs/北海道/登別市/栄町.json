@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道登別市栄町",
+    "表記": "北海道登別市栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "栄町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012300280"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道登別市栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/登別市/栄町.json",
+    "name": "栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道登別市",
+    "children": [
+      "https://geonames.jp/resource/北海道登別市栄町一丁目",
+      "https://geonames.jp/resource/北海道登別市栄町二丁目",
+      "https://geonames.jp/resource/北海道登別市栄町三丁目",
+      "https://geonames.jp/resource/北海道登別市栄町四丁目"
+    ]
+  }
+]

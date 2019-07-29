@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県小松市古府町ヌ",
+    "表記": "石川県小松市古府町ヌ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "小松市",
+      "町名": "古府町ヌ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364399",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364490"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/102570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230467/102569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230468/102568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230469/102569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230468/102569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230468/102570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230467/102568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230467/102567.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県小松市古府町ヌ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/小松市/古府町ヌ.json",
+    "name": "古府町ヌ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県小松市"
+  }
+]

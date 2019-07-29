@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都府中市四谷六丁目",
+    "表記": "東京都府中市四谷六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "府中市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13206035006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394304",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394305"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232604/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232607/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232605/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232605/103237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232604/103237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/103235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232604/103235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232605/103235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232603/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232603/103235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232604/103234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/103237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232603/103234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232602/103234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232602/103235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232607/103237.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都府中市四谷六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/府中市/四谷/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都府中市四谷"
+  }
+]

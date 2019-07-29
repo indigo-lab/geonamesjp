@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県東松山市大字上押垂",
+    "表記": "埼玉県東松山市大字上押垂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "東松山市",
+      "町名": "大字上押垂",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112120490"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390311",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390312",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390321"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/102927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/102927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/102926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232580/102926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/102925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/102927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/102926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/102924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232579/102927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/102924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/102925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/102926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232581/102927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232582/102926.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県東松山市大字上押垂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/東松山市/大字上押垂.json",
+    "name": "大字上押垂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県東松山市"
+  }
+]

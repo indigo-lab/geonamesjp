@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道旭川市パルプ町",
+    "表記": "北海道旭川市パルプ町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "パルプ町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012043200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425331",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425341"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234759/95544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234758/95542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234758/95538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234761/95550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234760/95544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234758/95549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234760/95550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234760/95548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234760/95541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234762/95539.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道旭川市パルプ町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/旭川市/パルプ町.json",
+    "name": "パルプ町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道旭川市"
+  }
+]

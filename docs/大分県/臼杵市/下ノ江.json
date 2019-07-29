@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県臼杵市下ノ江",
+    "表記": "大分県臼杵市下ノ江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "臼杵市",
+      "町名": "下ノ江"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049315685",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049315686",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049315695"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227059/105450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227057/105453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227059/105454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227058/105454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227064/105459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227061/105453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227060/105457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227061/105459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227062/105457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227064/105455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227064/105454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227061/105456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227059/105451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227060/105456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227063/105457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227065/105456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227065/105455.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県臼杵市下ノ江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/臼杵市/下ノ江.json",
+    "name": "下ノ江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県臼杵市"
+  }
+]

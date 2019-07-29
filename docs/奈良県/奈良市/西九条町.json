@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市西九条町",
+    "表記": "奈良県奈良市西九条町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "西九条町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市西九条町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/西九条町.json",
+    "name": "西九条町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市",
+    "children": [
+      "https://geonames.jp/resource/奈良県奈良市西九条町（丁目なし）",
+      "https://geonames.jp/resource/奈良県奈良市西九条町一丁目",
+      "https://geonames.jp/resource/奈良県奈良市西九条町二丁目",
+      "https://geonames.jp/resource/奈良県奈良市西九条町三丁目",
+      "https://geonames.jp/resource/奈良県奈良市西九条町四丁目",
+      "https://geonames.jp/resource/奈良県奈良市西九条町五丁目"
+    ]
+  }
+]

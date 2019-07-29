@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京丹後市弥栄町吉沢",
+    "表記": "京都府京丹後市弥栄町吉沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京丹後市",
+      "町名": "弥栄町吉沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053353066",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053353067"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229438/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229436/103264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229446/103267.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京丹後市弥栄町吉沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京丹後市/弥栄町吉沢.json",
+    "name": "弥栄町吉沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京丹後市"
+  }
+]

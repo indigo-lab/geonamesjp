@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県御津郡加茂川町上加茂",
+    "表記": "岡山県御津郡加茂川町上加茂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "御津郡",
+      "市区町村": "加茂川町",
+      "町名": "上加茂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052332603",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052332604"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228495/103977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228501/103981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228502/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228503/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228504/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228505/103978.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県御津郡加茂川町上加茂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/御津郡/加茂川町/上加茂.json",
+    "name": "上加茂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県御津郡加茂川町"
+  }
+]

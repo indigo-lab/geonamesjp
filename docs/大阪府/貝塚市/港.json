@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府貝塚市港",
+    "表記": "大阪府貝塚市港",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "貝塚市",
+      "町名": "港",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S272080190"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355237",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355238",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355248",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355258"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/104317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229629/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/104321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229630/104324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229630/104322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229638/104314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229635/104318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229634/104319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/104318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229634/104320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229634/104318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/104314.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府貝塚市港",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/貝塚市/港.json",
+    "name": "港",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府貝塚市"
+  }
+]

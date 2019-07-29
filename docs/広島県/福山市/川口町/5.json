@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県福山市川口町五丁目",
+    "表記": "広島県福山市川口町五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "川口町",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34207019005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335350"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228195/104309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228196/104311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228197/104310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228199/104310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228198/104311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228196/104309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228200/104312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228199/104312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228201/104312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228200/104311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228196/104310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228195/104310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228194/104310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228197/104311.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県福山市川口町五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/福山市/川口町/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県福山市川口町"
+  }
+]

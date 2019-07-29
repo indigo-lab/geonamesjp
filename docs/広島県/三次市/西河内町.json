@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県三次市西河内町",
+    "表記": "広島県三次市西河内町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "西河内町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209011003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209011002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209011001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342090110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052322618"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227813/103974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227817/103967.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県三次市西河内町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/三次市/西河内町.json",
+    "name": "西河内町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県三次市"
+  }
+]

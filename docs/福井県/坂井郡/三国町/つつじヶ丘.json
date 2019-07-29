@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井郡三国町つつじヶ丘",
+    "表記": "福井県坂井郡三国町つつじヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "坂井郡",
+      "市区町村": "三国町",
+      "町名": "つつじヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362161"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230209/102740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/102740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230209/102739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230209/102741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/102741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/102740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230208/102739.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井郡三国町つつじヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井郡/三国町/つつじヶ丘.json",
+    "name": "つつじヶ丘",
+    "alternateName": [
+      "つつじケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井郡三国町"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須塩原市共墾社一丁目",
+    "表記": "栃木県那須塩原市共墾社一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "那須塩原市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403053",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403043",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403054"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/102069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/102068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/102067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/102068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/102069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/102072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/102072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/102073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/102071.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須塩原市共墾社一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須塩原市/共墾社/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須塩原市共墾社"
+  }
+]

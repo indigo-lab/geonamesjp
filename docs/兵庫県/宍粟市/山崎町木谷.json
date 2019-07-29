@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市山崎町木谷",
+    "表記": "兵庫県宍粟市山崎町木谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "宍粟市",
+      "町名": "山崎町木谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344411",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344401",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344402",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344412"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/103824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229032/103828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229028/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229025/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229028/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229031/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229031/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229021/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229023/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229023/103830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229028/103829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229031/103821.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市山崎町木谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/宍粟市/山崎町木谷.json",
+    "name": "山崎町木谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県宍粟市"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県小松市向本折町字午",
+    "表記": "石川県小松市向本折町字午",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "小松市",
+      "町名": "向本折町字午"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364375"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230429/102585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230428/102584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230428/102585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230429/102584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230426/102584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/102584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230426/102583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230427/102583.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県小松市向本折町字午",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/小松市/向本折町字午.json",
+    "name": "向本折町字午",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県小松市"
+  }
+]

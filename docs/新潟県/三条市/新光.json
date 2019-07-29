@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市新光",
+    "表記": "新潟県三条市新光",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三条市",
+      "町名": "新光"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383787"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232262/101441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232261/101442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232265/101442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232265/101440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232264/101440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232264/101442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232263/101442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232264/101438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232265/101438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232266/101437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232265/101436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232265/101437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232265/101435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232266/101436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232265/101439.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市新光",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/新光.json",
+    "name": "新光",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県朝倉市長渕",
+    "表記": "福岡県朝倉市長渕",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "朝倉市",
+      "町名": "長渕"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300546",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300536"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226248/105271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105272.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県朝倉市長渕",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/朝倉市/長渕.json",
+    "name": "長渕",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県朝倉市"
+  }
+]

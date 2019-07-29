@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県多紀郡多紀町",
+    "表記": "兵庫県多紀郡多紀町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "多紀郡",
+      "市区町村": "多紀町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C28663-19750328",
+        "http://data.e-stat.go.jp/lod/sac/C28663-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C28663-19740501"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県多紀郡多紀町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/多紀郡/多紀町.json",
+    "name": "多紀町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県多紀郡"
+  }
+]

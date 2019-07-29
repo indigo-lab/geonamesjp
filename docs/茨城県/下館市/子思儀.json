@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県下館市子思儀",
+    "表記": "茨城県下館市子思儀",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "下館市",
+      "町名": "子思儀"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394716"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232986/102630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232985/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232985/102628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/102628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/102625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/102630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/102630.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県下館市子思儀",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/下館市/子思儀.json",
+    "name": "子思儀",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県下館市"
+  }
+]

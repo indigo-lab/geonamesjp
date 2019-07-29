@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市波路上向原",
+    "表記": "宮城県気仙沼市波路上向原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "気仙沼市",
+      "町名": "波路上向原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411496"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234166/100347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234169/100348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234168/100348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234165/100345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234165/100344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234164/100346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234165/100346.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市波路上向原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/気仙沼市/波路上向原.json",
+    "name": "波路上向原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県気仙沼市"
+  }
+]

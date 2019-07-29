@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市三本柳二地割",
+    "表記": "岩手県盛岡市三本柳二地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "三本柳二地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059413193",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059413192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414102",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414103"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/99559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/99557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/99561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/99557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/99558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/99559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/99560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/99560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/99559.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市三本柳二地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/三本柳二地割.json",
+    "name": "三本柳二地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

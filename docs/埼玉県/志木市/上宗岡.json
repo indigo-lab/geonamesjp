@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県志木市上宗岡",
+    "表記": "埼玉県志木市上宗岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "志木市",
+      "町名": "上宗岡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112280040"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県志木市上宗岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/志木市/上宗岡.json",
+    "name": "上宗岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県志木市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県志木市上宗岡一丁目",
+      "https://geonames.jp/resource/埼玉県志木市上宗岡二丁目",
+      "https://geonames.jp/resource/埼玉県志木市上宗岡三丁目",
+      "https://geonames.jp/resource/埼玉県志木市上宗岡四丁目",
+      "https://geonames.jp/resource/埼玉県志木市上宗岡五丁目"
+    ]
+  }
+]

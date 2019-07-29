@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県袋井市西ヶ崎",
+    "表記": "静岡県袋井市西ヶ崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "袋井市",
+      "町名": "西ヶ崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231495/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231496/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231501/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231498/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231498/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231500/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231497/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231497/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231498/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231499/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231499/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231498/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231497/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231499/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231499/104104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231500/104104.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県袋井市西ヶ崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/袋井市/西ヶ崎.json",
+    "name": "西ヶ崎",
+    "alternateName": [
+      "西ケ崎"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県袋井市"
+  }
+]

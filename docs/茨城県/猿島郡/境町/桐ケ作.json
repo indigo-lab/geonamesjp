@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県猿島郡境町桐ケ作",
+    "表記": "茨城県猿島郡境町桐ケ作",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "猿島郡",
+      "市区町村": "境町",
+      "町名": "桐ケ作"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390675",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390685"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232883/102881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/102878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232882/102879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232884/102880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232885/102881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232886/102883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232887/102884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232888/102882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232888/102885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232889/102883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232890/102885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232889/102884.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県猿島郡境町桐ケ作",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/猿島郡/境町/桐ケ作.json",
+    "name": "桐ケ作",
+    "alternateName": [
+      "桐ヶ作"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県猿島郡境町"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県因島市鏡浦町",
+    "表記": "広島県因島市鏡浦町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "鏡浦町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333185",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333196"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228064/104427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228060/104429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228062/104428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228063/104428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228061/104429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228060/104435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228065/104429.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県因島市鏡浦町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/因島市/鏡浦町.json",
+    "name": "鏡浦町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県因島市"
+  }
+]

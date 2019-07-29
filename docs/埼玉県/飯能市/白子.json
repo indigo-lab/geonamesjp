@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市白子",
+    "表記": "埼玉県飯能市白子",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "飯能市",
+      "町名": "白子"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396261",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396262",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396271"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232486/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232491/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232490/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232489/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232488/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232485/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232485/103039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232485/103038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232485/103037.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市白子",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/飯能市/白子.json",
+    "name": "白子",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県飯能市"
+  }
+]

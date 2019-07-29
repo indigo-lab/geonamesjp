@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県羽生市南羽生二丁目",
+    "表記": "埼玉県羽生市南羽生二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "羽生市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391474",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391475",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391484",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391485"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232697/102805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/102805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/102805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232696/102805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232698/102805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232698/102804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/102805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232700/102806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232699/102806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232698/102806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232697/102806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232696/102806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/102804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232697/102804.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県羽生市南羽生二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/羽生市/南羽生/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県羽生市南羽生"
+  }
+]

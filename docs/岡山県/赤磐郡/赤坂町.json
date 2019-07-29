@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県赤磐郡赤坂町",
+    "表記": "岡山県赤磐郡赤坂町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "赤磐郡",
+      "市区町村": "赤坂町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C33323-20050307",
+        "http://data.e-stat.go.jp/lod/sac/C33323-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県赤磐郡赤坂町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/赤磐郡/赤坂町.json",
+    "name": "赤坂町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県赤磐郡"
+  }
+]

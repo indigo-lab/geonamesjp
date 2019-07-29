@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市嵩山町下角庵",
+    "表記": "愛知県豊橋市嵩山町下角庵",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "嵩山町下角庵"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371367"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231171/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231172/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231172/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231173/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231173/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231173/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231174/104009.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市嵩山町下角庵",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/嵩山町下角庵.json",
+    "name": "嵩山町下角庵",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

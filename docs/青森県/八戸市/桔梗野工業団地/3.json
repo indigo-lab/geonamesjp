@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市桔梗野工業団地三丁目",
+    "表記": "青森県八戸市桔梗野工業団地三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416386",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416387",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416396",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416397"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234080/98694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234077/98698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234079/98696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234080/98695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234081/98692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234082/98693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234083/98692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234083/98691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234082/98691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234080/98692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234076/98698.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市桔梗野工業団地三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/桔梗野工業団地/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市桔梗野工業団地"
+  }
+]

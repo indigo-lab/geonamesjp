@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県香取市内野",
+    "表記": "千葉県香取市内野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "香取市",
+      "町名": "内野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406415",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406414",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406405",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406424"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/103080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233428/103081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233428/103080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/103080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/103081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/103082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233422/103077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/103079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/103077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233422/103083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/103081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/103077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/103077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233422/103072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/103078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/103082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/103082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/103081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/103079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/103082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/103082.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県香取市内野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/香取市/内野.json",
+    "name": "内野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県香取市"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道空知郡栗沢町北幸穂",
+    "表記": "北海道空知郡栗沢町北幸穂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "空知郡",
+      "市区町村": "栗沢町",
+      "町名": "北幸穂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415549",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415559",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415569"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234287/96201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234287/96193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234288/96199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234287/96200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234288/96200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234285/96195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234287/96190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234288/96193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234288/96196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234287/96199.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道空知郡栗沢町北幸穂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/空知郡/栗沢町/北幸穂.json",
+    "name": "北幸穂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道空知郡栗沢町"
+  }
+]

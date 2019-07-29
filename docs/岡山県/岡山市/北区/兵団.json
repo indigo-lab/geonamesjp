@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市北区兵団",
+    "表記": "岡山県岡山市北区兵団",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "区": "北区",
+      "町名": "兵団",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S331010310"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330714",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228597/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228597/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228598/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228598/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228597/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228596/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228597/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228596/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228597/104120.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市北区兵団",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/北区/兵団.json",
+    "name": "兵団",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市北区"
+  }
+]

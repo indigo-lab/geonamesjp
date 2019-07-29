@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡姶良町豊留",
+    "表記": "鹿児島県姶良郡姶良町豊留",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "姶良郡",
+      "市区町村": "姶良町",
+      "町名": "豊留"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305408",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305409",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305419"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226182/106662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226182/106666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226184/106666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226184/106667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226184/106668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226182/106667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226181/106666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226181/106665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226182/106665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226182/106661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226181/106663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226181/106662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226181/106660.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡姶良町豊留",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/姶良郡/姶良町/豊留.json",
+    "name": "豊留",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県姶良郡姶良町"
+  }
+]

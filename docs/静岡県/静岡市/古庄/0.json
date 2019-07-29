@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市古庄（丁目なし）",
+    "表記": "静岡県静岡市古庄（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "町名": "（丁目なし）"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383393",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384303",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384304"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231867/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231865/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231862/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231864/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231863/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231864/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231866/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231865/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231866/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231867/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231867/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231868/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231869/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231869/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231870/103834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231871/103833.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市古庄（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/古庄/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市古庄"
+  }
+]

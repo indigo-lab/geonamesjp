@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県高崎市並榎町",
+    "表記": "群馬県高崎市並榎町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "並榎町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S102021640"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384709",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383799",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384719"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232287/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232286/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102636.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/102637.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102638.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232285/102640.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県高崎市並榎町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/高崎市/並榎町.json",
+    "name": "並榎町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県高崎市"
+  }
+]

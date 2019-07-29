@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県桜井市黒崎",
+    "表記": "奈良県桜井市黒崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "桜井市",
+      "町名": "黒崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356730"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230017/104252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230017/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230014/104259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230016/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230018/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230016/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230017/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230014/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230017/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230018/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230017/104258.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県桜井市黒崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/桜井市/黒崎.json",
+    "name": "黒崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県桜井市"
+  }
+]

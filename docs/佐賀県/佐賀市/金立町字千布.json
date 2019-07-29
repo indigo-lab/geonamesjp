@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市金立町字千布",
+    "表記": "佐賀県佐賀市金立町字千布",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "佐賀市",
+      "町名": "金立町字千布"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307274",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307273"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225955/105320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225955/105319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225954/105319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225953/105319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225953/105322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225953/105320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225954/105322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225955/105322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225955/105321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225956/105321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225956/105320.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市金立町字千布",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/佐賀市/金立町字千布.json",
+    "name": "金立町字千布",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県佐賀市"
+  }
+]

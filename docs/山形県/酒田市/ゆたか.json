@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県酒田市ゆたか",
+    "表記": "山形県酒田市ゆたか",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "酒田市",
+      "町名": "ゆたか",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062041470"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県酒田市ゆたか",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/酒田市/ゆたか.json",
+    "name": "ゆたか",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県酒田市",
+    "children": [
+      "https://geonames.jp/resource/山形県酒田市ゆたか一丁目",
+      "https://geonames.jp/resource/山形県酒田市ゆたか二丁目",
+      "https://geonames.jp/resource/山形県酒田市ゆたか三丁目"
+    ]
+  }
+]

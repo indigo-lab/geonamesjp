@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市川北",
+    "表記": "熊本県荒尾市川北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "荒尾市",
+      "町名": "川北"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303397",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303398",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304307",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304308"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226085/105590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/105589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226081/105590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226080/105590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/105590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/105591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226080/105591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226083/105593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/105592.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県荒尾市川北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/荒尾市/川北.json",
+    "name": "川北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県荒尾市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県丹羽郡扶桑町大字斎藤字北脇",
+    "表記": "愛知県丹羽郡扶桑町大字斎藤字北脇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "丹羽郡",
+      "市区町村": "扶桑町",
+      "町名": "大字斎藤字北脇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360722"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103516.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県丹羽郡扶桑町大字斎藤字北脇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/丹羽郡/扶桑町/大字斎藤字北脇.json",
+    "name": "大字斎藤字北脇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県丹羽郡扶桑町"
+  }
+]

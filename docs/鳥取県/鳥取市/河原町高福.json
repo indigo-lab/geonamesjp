@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市河原町高福",
+    "表記": "鳥取県鳥取市河原町高福",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "鳥取市",
+      "町名": "河原町高福",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312013470"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340165",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340166",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340176"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228793/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228792/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228793/103492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228797/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228797/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228795/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228797/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228795/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228792/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228792/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228793/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228793/103488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228795/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228796/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228795/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228796/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228796/103484.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県鳥取市河原町高福",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/鳥取市/河原町高福.json",
+    "name": "河原町高福",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県鳥取市"
+  }
+]

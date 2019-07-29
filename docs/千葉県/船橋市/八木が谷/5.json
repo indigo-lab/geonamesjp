@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県船橋市八木が谷五丁目",
+    "表記": "千葉県船橋市八木が谷五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "船橋市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12204059005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405013",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405012",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405022",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405023"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/103150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/103152.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県船橋市八木が谷五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/船橋市/八木が谷/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県船橋市八木が谷"
+  }
+]

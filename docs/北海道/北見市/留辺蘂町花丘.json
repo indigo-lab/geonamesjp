@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道北見市留辺蘂町花丘",
+    "表記": "北海道北見市留辺蘂町花丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "北見市",
+      "町名": "留辺蘂町花丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435420",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435410",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435411",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065435430"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235565/95551.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235576/95563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235569/95561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235567/95563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235565/95563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235572/95545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235568/95561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235568/95563.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道北見市留辺蘂町花丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/北見市/留辺蘂町花丘.json",
+    "name": "留辺蘂町花丘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道北見市"
+  }
+]

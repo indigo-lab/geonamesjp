@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県宇部市沖の旦",
+    "表記": "山口県宇部市沖の旦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "宇部市",
+      "町名": "沖の旦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317188",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317199"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226635/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226633/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226632/104724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226632/104723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226633/104723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226637/104723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226634/104720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226633/104722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226634/104721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226631/104723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226631/104722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226630/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226631/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226629/104719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226627/104721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226628/104719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226629/104722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226629/104723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226628/104722.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県宇部市沖の旦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/宇部市/沖の旦.json",
+    "name": "沖の旦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県宇部市"
+  }
+]

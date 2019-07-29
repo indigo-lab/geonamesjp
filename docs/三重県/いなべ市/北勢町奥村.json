@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県いなべ市北勢町奥村",
+    "表記": "三重県いなべ市北勢町奥村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "北勢町奥村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365359",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365450"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230470/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230470/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230471/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230471/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230468/103720.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県いなべ市北勢町奥村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/いなべ市/北勢町奥村.json",
+    "name": "北勢町奥村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県いなべ市"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県加東郡社町大門",
+    "表記": "兵庫県加東郡社町大門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "加東郡",
+      "市区町村": "社町",
+      "町名": "大門"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342775",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342785"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229331/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229331/103922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229331/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229331/103923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229332/103922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229332/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229332/103929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229332/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229332/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229332/103923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229333/103927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229333/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229333/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229333/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229333/103923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229334/103929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229334/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229334/103923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229334/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229334/103928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229335/103926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229335/103924.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県加東郡社町大門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/加東郡/社町/大門.json",
+    "name": "大門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県加東郡社町"
+  }
+]

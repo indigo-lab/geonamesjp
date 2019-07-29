@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県雲仙市国見町神代甲",
+    "表記": "長崎県雲仙市国見町神代甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "雲仙市",
+      "町名": "国見町神代甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302242",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302221",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302231",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302232",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302241"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225935/105705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225937/105702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225934/105702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225932/105703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225933/105703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225934/105704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225935/105704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225936/105703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225934/105712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225934/105705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225937/105706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225935/105706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225934/105706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225935/105709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225936/105713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225934/105710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225933/105713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225935/105716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225935/105710.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県雲仙市国見町神代甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/雲仙市/国見町神代甲.json",
+    "name": "国見町神代甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県雲仙市"
+  }
+]

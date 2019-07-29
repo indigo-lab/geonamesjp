@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下関市関西町",
+    "表記": "山口県下関市関西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "関西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352010260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307744",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050307754"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226410/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226410/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226409/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226409/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226411/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226411/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226411/104756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226410/104756.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下関市関西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下関市/関西町.json",
+    "name": "関西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下関市"
+  }
+]

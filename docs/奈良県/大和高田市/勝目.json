@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県大和高田市勝目",
+    "表記": "奈良県大和高田市勝目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "大和高田市",
+      "町名": "勝目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355690"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229925/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229924/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229926/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104279.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県大和高田市勝目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/大和高田市/勝目.json",
+    "name": "勝目",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県大和高田市"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県十日町市馬場庚",
+    "表記": "新潟県十日町市馬場庚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "十日町市",
+      "町名": "馬場庚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384660",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384579"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232106/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232102/101980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232104/101980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232105/101981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232105/101980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232104/101979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232107/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232103/101984.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県十日町市馬場庚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/十日町市/馬場庚.json",
+    "name": "馬場庚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県十日町市"
+  }
+]

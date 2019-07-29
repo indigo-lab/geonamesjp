@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県安城市新田町吉池",
+    "表記": "愛知県安城市新田町吉池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "安城市",
+      "町名": "新田町吉池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373067",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373068",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373077",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373078"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230903/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230903/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230904/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230906/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230904/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230906/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/103854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230906/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230905/103857.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県安城市新田町吉池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/安城市/新田町吉池.json",
+    "name": "新田町吉池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県安城市"
+  }
+]

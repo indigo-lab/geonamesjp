@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市守山区脇田町",
+    "表記": "愛知県名古屋市守山区脇田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "守山区",
+      "町名": "脇田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S231130620"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376040"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/103654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230836/103654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230837/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230836/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230836/103652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230837/103652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230837/103654.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市守山区脇田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/守山区/脇田町.json",
+    "name": "脇田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市守山区"
+  }
+]

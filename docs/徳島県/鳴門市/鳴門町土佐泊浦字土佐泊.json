@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市鳴門町土佐泊浦字土佐泊",
+    "表記": "徳島県鳴門市鳴門町土佐泊浦字土佐泊",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "鳴門市",
+      "町名": "鳴門町土佐泊浦字土佐泊"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342429",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342439"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229101/104550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229101/104549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229095/104546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229099/104549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229101/104547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229100/104548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229098/104549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229099/104550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229100/104550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229100/104553.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229100/104552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229099/104551.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市鳴門町土佐泊浦字土佐泊",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/鳴門市/鳴門町土佐泊浦字土佐泊.json",
+    "name": "鳴門町土佐泊浦字土佐泊",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県鳴門市"
+  }
+]

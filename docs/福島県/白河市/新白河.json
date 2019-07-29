@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市新白河",
+    "表記": "福島県白河市新白河",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "新白河"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市新白河",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/新白河.json",
+    "name": "新白河",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市",
+    "children": [
+      "https://geonames.jp/resource/福島県白河市新白河一丁目",
+      "https://geonames.jp/resource/福島県白河市新白河二丁目",
+      "https://geonames.jp/resource/福島県白河市新白河三丁目",
+      "https://geonames.jp/resource/福島県白河市新白河四丁目",
+      "https://geonames.jp/resource/福島県白河市新白河五丁目"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県徳島市寺島本町西",
+    "表記": "徳島県徳島市寺島本町西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "徳島市",
+      "町名": "寺島本町西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S362010060"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県徳島市寺島本町西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/徳島市/寺島本町西.json",
+    "name": "寺島本町西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県徳島市",
+    "children": [
+      "https://geonames.jp/resource/徳島県徳島市寺島本町西一丁目",
+      "https://geonames.jp/resource/徳島県徳島市寺島本町西二丁目"
+    ]
+  }
+]

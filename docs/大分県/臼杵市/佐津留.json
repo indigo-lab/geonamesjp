@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県臼杵市佐津留",
+    "表記": "大分県臼杵市佐津留",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "臼杵市",
+      "町名": "佐津留"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049315600"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/105512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227014/105514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227015/105514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227014/105517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227011/105516.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県臼杵市佐津留",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/臼杵市/佐津留.json",
+    "name": "佐津留",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県臼杵市"
+  }
+]

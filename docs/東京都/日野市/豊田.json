@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都日野市豊田",
+    "表記": "東京都日野市豊田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "日野市",
+      "町名": "豊田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都日野市豊田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/日野市/豊田.json",
+    "name": "豊田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都日野市",
+    "children": [
+      "https://geonames.jp/resource/東京都日野市豊田（丁目なし）",
+      "https://geonames.jp/resource/東京都日野市豊田一丁目",
+      "https://geonames.jp/resource/東京都日野市豊田二丁目",
+      "https://geonames.jp/resource/東京都日野市豊田三丁目",
+      "https://geonames.jp/resource/東京都日野市豊田四丁目"
+    ]
+  }
+]

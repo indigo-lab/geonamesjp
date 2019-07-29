@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡亘理町吉田字松元",
+    "表記": "宮城県亘理郡亘理町吉田字松元",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "亘理郡",
+      "市区町村": "亘理町",
+      "町名": "吉田字松元"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057400710"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233659/101100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233658/101098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233658/101096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233659/101097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233659/101098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233660/101099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233658/101102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233660/101102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233659/101102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233659/101103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233658/101103.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県亘理郡亘理町吉田字松元",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/亘理郡/亘理町/吉田字松元.json",
+    "name": "吉田字松元",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県亘理郡亘理町"
+  }
+]

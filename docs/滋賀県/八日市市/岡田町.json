@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県八日市市岡田町",
+    "表記": "滋賀県八日市市岡田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "岡田町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365109",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365119",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365210"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103752.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県八日市市岡田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/八日市市/岡田町.json",
+    "name": "岡田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県八日市市"
+  }
+]

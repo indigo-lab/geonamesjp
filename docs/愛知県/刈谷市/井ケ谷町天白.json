@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市井ケ谷町天白",
+    "表記": "愛知県刈谷市井ケ谷町天白",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "刈谷市",
+      "町名": "井ケ谷町天白"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374073",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374074"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230867/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230868/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230867/103777.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市井ケ谷町天白",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/刈谷市/井ケ谷町天白.json",
+    "name": "井ケ谷町天白",
+    "alternateName": [
+      "井ヶ谷町天白"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県刈谷市"
+  }
+]

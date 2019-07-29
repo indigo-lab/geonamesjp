@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県下益城郡富合町大字西田尻",
+    "表記": "熊本県下益城郡富合町大字西田尻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "下益城郡",
+      "市区町村": "富合町",
+      "町名": "大字西田尻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049300543",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049300552"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/105845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/105846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226217/105845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226216/105844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226217/105843.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県下益城郡富合町大字西田尻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/下益城郡/富合町/大字西田尻.json",
+    "name": "大字西田尻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県下益城郡富合町"
+  }
+]

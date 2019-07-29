@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡甲南町下馬杉",
+    "表記": "滋賀県甲賀郡甲南町下馬杉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "甲賀郡",
+      "市区町村": "甲南町",
+      "町名": "下馬杉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362165"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/103937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230241/103938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/103941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/103936.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀郡甲南町下馬杉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀郡/甲南町/下馬杉.json",
+    "name": "下馬杉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀郡甲南町"
+  }
+]

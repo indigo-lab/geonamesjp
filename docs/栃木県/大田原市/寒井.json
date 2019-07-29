@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県大田原市寒井",
+    "表記": "栃木県大田原市寒井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "大田原市",
+      "町名": "寒井",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092100730"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402099",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402098",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403007",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402097"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/102116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233092/102116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233090/102114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233088/102109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233089/102111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/102112.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県大田原市寒井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/大田原市/寒井.json",
+    "name": "寒井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県大田原市"
+  }
+]

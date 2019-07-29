@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県小松島市日開野町行地",
+    "表記": "徳島県小松島市日開野町行地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "小松島市",
+      "町名": "日開野町行地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347496",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347497",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340406",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340407"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229074/104718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229075/104717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229077/104717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229077/104718.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県小松島市日開野町行地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/小松島市/日開野町行地.json",
+    "name": "日開野町行地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県小松島市"
+  }
+]

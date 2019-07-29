@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県長浜市高月町洞戸",
+    "表記": "滋賀県長浜市高月町洞戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "長浜市",
+      "町名": "高月町洞戸",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252032120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362109"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103390.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県長浜市高月町洞戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/長浜市/高月町洞戸.json",
+    "name": "高月町洞戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県長浜市"
+  }
+]

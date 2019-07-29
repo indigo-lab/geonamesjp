@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県栃尾市巻渕四丁目",
+    "表記": "新潟県栃尾市巻渕四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "栃尾市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391080"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232289/101587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232289/101589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232291/101587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232291/101586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/101586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/101585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/101587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/101587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232290/101587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232291/101588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/101588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232290/101586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232291/101585.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県栃尾市巻渕四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/栃尾市/巻渕/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県栃尾市巻渕"
+  }
+]

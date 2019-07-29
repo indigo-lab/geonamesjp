@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県宇陀市榛原山路",
+    "表記": "奈良県宇陀市榛原山路",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "宇陀市",
+      "町名": "榛原山路"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356707",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356706"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230077/104277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230074/104279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230072/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/104275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230074/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/104281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230075/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230075/104281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/104279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/104277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230078/104276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230073/104282.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県宇陀市榛原山路",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/宇陀市/榛原山路.json",
+    "name": "榛原山路",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県宇陀市"
+  }
+]

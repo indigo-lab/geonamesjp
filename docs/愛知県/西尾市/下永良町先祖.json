@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西尾市下永良町先祖",
+    "表記": "愛知県西尾市下永良町先祖",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "西尾市",
+      "町名": "下永良町先祖"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372058"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230907/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230907/103946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230908/103946.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西尾市下永良町先祖",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西尾市/下永良町先祖.json",
+    "name": "下永良町先祖",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県西尾市"
+  }
+]

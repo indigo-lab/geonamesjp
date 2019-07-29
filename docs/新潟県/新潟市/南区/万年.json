@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市南区万年",
+    "表記": "新潟県新潟市南区万年",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "南区",
+      "町名": "万年",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S151060910"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394083"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232321/101359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232320/101356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232321/101356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232320/101357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232323/101358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232323/101357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/101358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232319/101357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232319/101356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/101356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232321/101358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232320/101358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232321/101357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232322/101357.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市南区万年",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/南区/万年.json",
+    "name": "万年",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市南区"
+  }
+]

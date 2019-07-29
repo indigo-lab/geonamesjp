@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県三次市三良坂町長田",
+    "表記": "広島県三次市三良坂町長田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "三次市",
+      "町名": "三良坂町長田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342090880"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052321705",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052321706",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052321715",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052320785"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227879/104049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227884/104050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227879/104050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227879/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227880/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227876/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227880/104049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227879/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227879/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227880/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227882/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227881/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227883/104050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227875/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227878/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227877/104049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227877/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227875/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227880/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227882/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227883/104048.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県三次市三良坂町長田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/三次市/三良坂町長田.json",
+    "name": "三良坂町長田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県三次市"
+  }
+]

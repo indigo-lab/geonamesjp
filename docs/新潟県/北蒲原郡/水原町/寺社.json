@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡水原町寺社",
+    "表記": "新潟県北蒲原郡水原町寺社",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "水原町",
+      "町名": "寺社"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395157",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395158",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395159",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395168"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232462/101301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232452/101302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232454/101298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232457/101302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232456/101302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232456/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232455/101298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232456/101299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232457/101298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232454/101300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232452/101301.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡水原町寺社",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/水原町/寺社.json",
+    "name": "寺社",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡水原町"
+  }
+]

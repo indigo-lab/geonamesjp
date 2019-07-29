@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都調布市多摩川",
+    "表記": "東京都調布市多摩川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "調布市",
+      "町名": "多摩川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S132080100"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都調布市多摩川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/調布市/多摩川.json",
+    "name": "多摩川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都調布市",
+    "children": [
+      "https://geonames.jp/resource/東京都調布市多摩川一丁目",
+      "https://geonames.jp/resource/東京都調布市多摩川二丁目",
+      "https://geonames.jp/resource/東京都調布市多摩川三丁目",
+      "https://geonames.jp/resource/東京都調布市多摩川四丁目",
+      "https://geonames.jp/resource/東京都調布市多摩川五丁目",
+      "https://geonames.jp/resource/東京都調布市多摩川六丁目",
+      "https://geonames.jp/resource/東京都調布市多摩川七丁目"
+    ]
+  }
+]

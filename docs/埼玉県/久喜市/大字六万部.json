@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県久喜市大字六万部",
+    "表記": "埼玉県久喜市大字六万部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "久喜市",
+      "町名": "大字六万部"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390591",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390581",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391501"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/102869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/102862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/102867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/102866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/102869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/102868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/102868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/102870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/102869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/102868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/102869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232750/102870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/102870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/102871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/102871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/102872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/102873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/102874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/102873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/102872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/102874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/102879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/102876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/102875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/102876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/102877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/102878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/102879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/102874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/102879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/102876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/102870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/102870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/102867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/102863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/102862.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県久喜市大字六万部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/久喜市/大字六万部.json",
+    "name": "大字六万部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県久喜市"
+  }
+]

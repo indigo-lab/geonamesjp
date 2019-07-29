@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府宇治市琵琶台",
+    "表記": "京都府宇治市琵琶台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "宇治市",
+      "町名": "琵琶台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S262040260"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府宇治市琵琶台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/宇治市/琵琶台.json",
+    "name": "琵琶台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府宇治市",
+    "children": [
+      "https://geonames.jp/resource/京都府宇治市琵琶台一丁目",
+      "https://geonames.jp/resource/京都府宇治市琵琶台二丁目",
+      "https://geonames.jp/resource/京都府宇治市琵琶台三丁目"
+    ]
+  }
+]

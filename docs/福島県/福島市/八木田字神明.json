@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県福島市八木田字神明",
+    "表記": "福島県福島市八木田字神明",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "福島市",
+      "町名": "八木田字神明"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404395",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405305"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233337/101349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/101347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233337/101347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233338/101347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233338/101346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233337/101348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233339/101346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/101348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233335/101348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/101349.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県福島市八木田字神明",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/福島市/八木田字神明.json",
+    "name": "八木田字神明",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県福島市"
+  }
+]

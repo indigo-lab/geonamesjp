@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市柱町字福部池",
+    "表記": "愛知県岡崎市柱町字福部池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "柱町字福部池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373102",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373103"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230951/103905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230952/103905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230951/103903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/103904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230950/103904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230952/103903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230951/103904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230952/103904.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市柱町字福部池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/柱町字福部池.json",
+    "name": "柱町字福部池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

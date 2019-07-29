@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡津幡町字七野",
+    "表記": "石川県河北郡津幡町字七野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "津幡町",
+      "町名": "字七野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S173617680"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367691",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367681",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367690"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230660/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230662/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230658/102349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230663/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230662/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230657/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230658/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230659/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230658/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230661/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230661/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230659/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230663/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230664/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230660/102346.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡津幡町字七野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/津幡町/字七野.json",
+    "name": "字七野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡津幡町"
+  }
+]

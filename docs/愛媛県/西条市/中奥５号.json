@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西条市中奥５号",
+    "表記": "愛媛県西条市中奥５号",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "西条市",
+      "町名": "中奥５号"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335192"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228031/104868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228029/104870.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西条市中奥５号",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西条市/中奥５号.json",
+    "name": "中奥５号",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西条市"
+  }
+]

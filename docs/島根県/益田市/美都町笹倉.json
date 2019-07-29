@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県益田市美都町笹倉",
+    "表記": "島根県益田市美都町笹倉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "益田市",
+      "町名": "美都町笹倉",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322040830"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051317793"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227131/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227133/104132.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県益田市美都町笹倉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/益田市/美都町笹倉.json",
+    "name": "美都町笹倉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県益田市"
+  }
+]

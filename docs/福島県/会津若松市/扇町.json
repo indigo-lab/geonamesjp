@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市扇町",
+    "表記": "福島県会津若松市扇町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "扇町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072021030"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392714"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232969/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232969/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232969/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232969/101566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/101566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232970/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232969/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/101567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/101565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232968/101566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232971/101566.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市扇町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/扇町.json",
+    "name": "扇町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市南区滝春町",
+    "表記": "愛知県名古屋市南区滝春町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "南区",
+      "町名": "滝春町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S231120580"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364792"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230766/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230764/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230763/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230762/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230762/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230763/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230764/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230764/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230763/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230762/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230764/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230763/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230763/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230764/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230764/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230766/103761.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市南区滝春町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/南区/滝春町.json",
+    "name": "滝春町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市南区"
+  }
+]

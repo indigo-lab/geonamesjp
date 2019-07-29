@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県八日市市今代町",
+    "表記": "滋賀県八日市市今代町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "今代町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365210"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230290/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230290/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230290/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230291/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230291/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230291/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230292/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230291/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230292/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230292/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230293/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230292/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230293/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230293/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230293/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230293/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230293/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230292/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230294/103758.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県八日市市今代町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/八日市市/今代町.json",
+    "name": "今代町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県八日市市"
+  }
+]

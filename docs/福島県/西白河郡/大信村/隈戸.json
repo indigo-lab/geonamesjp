@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県西白河郡大信村隈戸",
+    "表記": "福島県西白河郡大信村隈戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "西白河郡",
+      "市区町村": "大信村",
+      "町名": "隈戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406136",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406145",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406156",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406166",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406174",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406175",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406184"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233157/101844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233145/101817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/101819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/101838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233153/101825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233145/101820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/101837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233150/101824.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233152/101825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233154/101826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233146/101820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233166/101858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/101834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/101835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233166/101836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233167/101837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/101840.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県西白河郡大信村隈戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/西白河郡/大信村/隈戸.json",
+    "name": "隈戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県西白河郡大信村"
+  }
+]

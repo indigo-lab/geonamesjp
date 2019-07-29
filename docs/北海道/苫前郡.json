@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道苫前郡",
+    "表記": "北海道苫前郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "苫前郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道苫前郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/苫前郡.json",
+    "name": "苫前郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道苫前郡羽幌町",
+      "https://geonames.jp/resource/北海道苫前郡苫前町",
+      "https://geonames.jp/resource/北海道苫前郡初山別村",
+      "https://geonames.jp/resource/北海道苫前郡天売村",
+      "https://geonames.jp/resource/北海道苫前郡焼尻村",
+      "https://geonames.jp/resource/北海道苫前郡羽幌村",
+      "https://geonames.jp/resource/北海道苫前郡苫前村"
+    ]
+  }
+]

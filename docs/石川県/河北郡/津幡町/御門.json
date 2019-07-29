@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡津幡町御門",
+    "表記": "石川県河北郡津幡町御門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "津幡町",
+      "町名": "御門"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360538",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230632/102311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230632/102310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/102310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/102310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/102305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230632/102307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/102309.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡津幡町御門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/津幡町/御門.json",
+    "name": "御門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡津幡町"
+  }
+]

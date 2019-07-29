@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市新栄町",
+    "表記": "愛知県豊橋市新栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "新栄町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232011250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371219",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371218",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371228",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371229"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231096/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231098/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231096/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231100/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231097/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231095/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231099/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231096/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231098/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231094/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231099/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231095/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231098/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231097/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231096/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231096/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231099/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231095/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231096/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231095/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231095/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231095/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231096/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231097/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231100/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231097/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231099/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231100/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231101/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231094/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231094/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231097/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231098/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231099/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231098/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231095/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231097/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231100/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231100/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231097/104048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231098/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231099/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231097/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231101/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231094/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231099/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231101/104040.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市新栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/新栄町.json",
+    "name": "新栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

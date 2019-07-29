@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県龍野市清水新",
+    "表記": "兵庫県龍野市清水新",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "龍野市",
+      "町名": "清水新"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342421",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342422",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342432"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229028/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229029/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229030/103961.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県龍野市清水新",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/龍野市/清水新.json",
+    "name": "清水新",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県龍野市"
+  }
+]

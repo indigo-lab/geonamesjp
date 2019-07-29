@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市中川区中川運河",
+    "表記": "愛知県名古屋市中川区中川運河",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "中川区",
+      "町名": "中川運河"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365780",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365760"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230750/103697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230743/103700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103715.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市中川区中川運河",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/中川区/中川運河.json",
+    "name": "中川運河",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市中川区"
+  }
+]

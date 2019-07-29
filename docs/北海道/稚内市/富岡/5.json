@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道稚内市富岡五丁目",
+    "表記": "北海道稚内市富岡五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "稚内市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01214181005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2068410567"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234275/93898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234270/93896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234271/93896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234272/93898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234272/93896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234273/93897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234273/93896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234271/93897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234270/93897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234270/93898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234271/93898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234272/93899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234271/93899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234271/93900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234272/93900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234271/93901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234273/93899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234272/93897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234274/93901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234273/93900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234274/93898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234273/93898.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道稚内市富岡五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/稚内市/富岡/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道稚内市富岡"
+  }
+]

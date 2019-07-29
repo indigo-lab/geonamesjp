@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市乙部ケ丘",
+    "表記": "愛知県豊田市乙部ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "乙部ケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市乙部ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/乙部ケ丘.json",
+    "name": "乙部ケ丘",
+    "alternateName": [
+      "乙部ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市",
+    "children": [
+      "https://geonames.jp/resource/愛知県豊田市乙部ケ丘一丁目",
+      "https://geonames.jp/resource/愛知県豊田市乙部ケ丘二丁目",
+      "https://geonames.jp/resource/愛知県豊田市乙部ケ丘三丁目",
+      "https://geonames.jp/resource/愛知県豊田市乙部ケ丘四丁目"
+    ]
+  }
+]

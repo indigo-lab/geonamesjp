@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県美方郡香美町香住区相谷",
+    "表記": "兵庫県美方郡香美町香住区相谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "美方郡",
+      "市区町村": "香美町",
+      "町名": "香住区相谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S285850250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343598",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343597"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229178/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229178/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229176/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229177/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229176/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229177/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229173/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229172/103256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229172/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229179/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229174/103244.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県美方郡香美町香住区相谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/美方郡/香美町/香住区相谷.json",
+    "name": "香住区相谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県美方郡香美町"
+  }
+]

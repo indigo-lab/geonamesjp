@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府八幡市八幡一ノ坪",
+    "表記": "京都府八幡市八幡一ノ坪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "八幡市",
+      "町名": "八幡一ノ坪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352536",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352526",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352527",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352537"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/103959.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府八幡市八幡一ノ坪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/八幡市/八幡一ノ坪.json",
+    "name": "八幡一ノ坪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府八幡市"
+  }
+]

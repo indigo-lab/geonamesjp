@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県紀の川市名手下",
+    "表記": "和歌山県紀の川市名手下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "紀の川市",
+      "町名": "名手下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353346",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353345",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353355",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353356"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/104462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229702/104462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/104461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/104459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/104463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229702/104465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/104465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229701/104461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229699/104457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/104457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/104464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229701/104459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229699/104456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/104459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229701/104455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229702/104466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229704/104461.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県紀の川市名手下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/紀の川市/名手下.json",
+    "name": "名手下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県紀の川市"
+  }
+]

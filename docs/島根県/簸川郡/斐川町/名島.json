@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県簸川郡斐川町名島",
+    "表記": "島根県簸川郡斐川町名島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "簸川郡",
+      "市区町村": "斐川町",
+      "町名": "名島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320652",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320653",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320662",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320663"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227766/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227767/103494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227767/103493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227763/103496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227766/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227764/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227764/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227766/103494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227766/103495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227764/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227764/103495.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県簸川郡斐川町名島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/簸川郡/斐川町/名島.json",
+    "name": "名島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県簸川郡斐川町"
+  }
+]

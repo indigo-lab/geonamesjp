@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県岩美郡国府町麻生",
+    "表記": "鳥取県岩美郡国府町麻生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "岩美郡",
+      "市区町村": "国府町",
+      "町名": "麻生"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341253",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341262",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341263"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228858/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228856/103417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228857/103416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228857/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228855/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228856/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228856/103416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228855/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228855/103416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228855/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228854/103416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228860/103419.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県岩美郡国府町麻生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/岩美郡/国府町/麻生.json",
+    "name": "麻生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県岩美郡国府町"
+  }
+]

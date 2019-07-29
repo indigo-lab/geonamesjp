@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡吉野町大字平尾",
+    "表記": "奈良県吉野郡吉野町大字平尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "吉野郡",
+      "市区町村": "吉野町",
+      "町名": "大字平尾",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S294410240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354790",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354791"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230020/104356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230020/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230029/104362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230020/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/104356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104356.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡吉野町大字平尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/吉野郡/吉野町/大字平尾.json",
+    "name": "大字平尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県吉野郡吉野町"
+  }
+]

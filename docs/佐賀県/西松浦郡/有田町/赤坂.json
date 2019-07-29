@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町赤坂",
+    "表記": "佐賀県西松浦郡有田町赤坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "西松浦郡",
+      "市区町村": "有田町",
+      "町名": "赤坂",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S414010160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296639",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296730"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225643/105423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225643/105425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225642/105420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225643/105424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225643/105422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225641/105423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225642/105423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225645/105422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225642/105422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225644/105425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225641/105421.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町赤坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/西松浦郡/有田町/赤坂.json",
+    "name": "赤坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県西松浦郡有田町"
+  }
+]

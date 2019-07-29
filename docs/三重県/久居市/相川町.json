@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県久居市相川町",
+    "表記": "三重県久居市相川町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "相川町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360328",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360329"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/104114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230460/104114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230460/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/104113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/104114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/104113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/104114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/104112.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県久居市相川町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/久居市/相川町.json",
+    "name": "相川町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県久居市"
+  }
+]

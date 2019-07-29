@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県安来市沢町",
+    "表記": "島根県安来市沢町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "沢町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322060320"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330179",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330168",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330169"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228096/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228093/103482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228092/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228095/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228095/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228096/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228092/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228096/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228092/103482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228098/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228094/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228095/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228096/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228096/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/103486.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県安来市沢町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/安来市/沢町.json",
+    "name": "沢町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県安来市"
+  }
+]

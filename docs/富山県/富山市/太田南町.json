@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市太田南町",
+    "表記": "富山県富山市太田南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "太田南町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162013490"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377280"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231011/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231009/102345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231015/102351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231014/102349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231010/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231011/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231009/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231010/102345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231009/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231010/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231009/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231009/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231007/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231011/102351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231010/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231008/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231007/102342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/102341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231011/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231008/102347.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市太田南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/太田南町.json",
+    "name": "太田南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

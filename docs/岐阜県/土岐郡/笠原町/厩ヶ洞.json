@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県土岐郡笠原町厩ヶ洞",
+    "表記": "岐阜県土岐郡笠原町厩ヶ洞",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "土岐郡",
+      "市区町村": "笠原町",
+      "町名": "厩ヶ洞"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377161",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377162"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230940/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/103560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230941/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/103562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230943/103561.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県土岐郡笠原町厩ヶ洞",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/土岐郡/笠原町/厩ヶ洞.json",
+    "name": "厩ヶ洞",
+    "alternateName": [
+      "厩ケ洞"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県土岐郡笠原町"
+  }
+]

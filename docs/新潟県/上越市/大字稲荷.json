@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市大字稲荷",
+    "表記": "新潟県上越市大字稲荷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "大字稲荷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152220930"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384179",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384280"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231738/101968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231738/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231737/101971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231738/101972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231738/101971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101971.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231740/101969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231737/101973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231737/101974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231742/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101972.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市大字稲荷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/大字稲荷.json",
+    "name": "大字稲荷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

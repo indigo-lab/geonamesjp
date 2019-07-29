@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県長岡郡本山町屋所",
+    "表記": "高知県長岡郡本山町屋所",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "長岡郡",
+      "市区町村": "本山町",
+      "町名": "屋所",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S393410240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335444",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335443"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228321/104906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228319/104907.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県長岡郡本山町屋所",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/長岡郡/本山町/屋所.json",
+    "name": "屋所",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県長岡郡本山町"
+  }
+]

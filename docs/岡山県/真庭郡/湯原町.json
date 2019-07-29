@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県真庭郡湯原町",
+    "表記": "岡山県真庭郡湯原町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "真庭郡",
+      "市区町村": "湯原町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C33583-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C33583-20050331"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県真庭郡湯原町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/真庭郡/湯原町.json",
+    "name": "湯原町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県真庭郡",
+    "children": [
+      "https://geonames.jp/resource/岡山県真庭郡湯原町下湯原",
+      "https://geonames.jp/resource/岡山県真庭郡湯原町三世七原",
+      "https://geonames.jp/resource/岡山県真庭郡湯原町小童谷",
+      "https://geonames.jp/resource/岡山県真庭郡湯原町田羽根",
+      "https://geonames.jp/resource/岡山県真庭郡湯原町湯本",
+      "https://geonames.jp/resource/岡山県真庭郡湯原町豊栄"
+    ]
+  }
+]

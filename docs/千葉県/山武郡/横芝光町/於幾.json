@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県山武郡横芝光町於幾",
+    "表記": "千葉県山武郡横芝光町於幾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "山武郡",
+      "市区町村": "横芝光町",
+      "町名": "於幾",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S124100240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404308",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404307",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404317",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404318"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/103234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/103229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/103230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/103231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/103230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/103232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/103232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/103233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/103234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233360/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233361/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/103235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233365/103236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/103231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/103233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/103231.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/103236.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県山武郡横芝光町於幾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/山武郡/横芝光町/於幾.json",
+    "name": "於幾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県山武郡横芝光町"
+  }
+]

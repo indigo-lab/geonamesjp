@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県射水市海老江浜開",
+    "表記": "富山県射水市海老江浜開",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "射水市",
+      "町名": "海老江浜開",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162110510"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371121",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371120",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371111"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230934/102245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230935/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230933/102245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230931/102244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230932/102245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230933/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230934/102247.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県射水市海老江浜開",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/射水市/海老江浜開.json",
+    "name": "海老江浜開",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県射水市"
+  }
+]

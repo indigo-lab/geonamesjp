@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県小笠郡菊川町小沢",
+    "表記": "静岡県小笠郡菊川町小沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "小笠郡",
+      "市区町村": "菊川町",
+      "町名": "小沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380089",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380099",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380190",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381100"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231643/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231644/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231643/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231644/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231645/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231655/104054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231656/104053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231656/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231655/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231656/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231652/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231643/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231644/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231645/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231643/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231655/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231644/104065.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県小笠郡菊川町小沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/小笠郡/菊川町/小沢.json",
+    "name": "小沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県小笠郡菊川町"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区鳴海町伝治山",
+    "表記": "愛知県名古屋市緑区鳴海町伝治山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "緑区",
+      "町名": "鳴海町伝治山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365716"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230800/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/103749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103752.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区鳴海町伝治山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/緑区/鳴海町伝治山.json",
+    "name": "鳴海町伝治山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市緑区"
+  }
+]

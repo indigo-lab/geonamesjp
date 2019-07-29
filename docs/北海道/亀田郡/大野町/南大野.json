@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道亀田郡大野町南大野",
+    "表記": "北海道亀田郡大野町南大野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "亀田郡",
+      "市区町村": "大野町",
+      "町名": "南大野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406521",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406531",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406532",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406541",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406542"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233484/97440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233485/97437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233484/97441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233489/97439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233487/97440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233491/97439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233485/97444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233485/97441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233486/97445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233487/97446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233487/97448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233487/97449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233489/97444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233488/97449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233490/97450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233488/97450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233489/97452.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道亀田郡大野町南大野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/亀田郡/大野町/南大野.json",
+    "name": "南大野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道亀田郡大野町"
+  }
+]

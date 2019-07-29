@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県上尾市向山",
+    "表記": "埼玉県上尾市向山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "上尾市",
+      "町名": "向山"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県上尾市向山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/上尾市/向山.json",
+    "name": "向山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県上尾市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県上尾市向山（丁目なし）",
+      "https://geonames.jp/resource/埼玉県上尾市向山一丁目",
+      "https://geonames.jp/resource/埼玉県上尾市向山二丁目",
+      "https://geonames.jp/resource/埼玉県上尾市向山三丁目",
+      "https://geonames.jp/resource/埼玉県上尾市向山四丁目"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県板野郡藍住町富吉地神",
+    "表記": "徳島県板野郡藍住町富吉地神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "板野郡",
+      "市区町村": "藍住町",
+      "町名": "富吉地神"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341378"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229001/104596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229001/104592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229001/104597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229001/104591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229002/104596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229002/104597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229003/104597.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県板野郡藍住町富吉地神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/板野郡/藍住町/富吉地神.json",
+    "name": "富吉地神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県板野郡藍住町"
+  }
+]

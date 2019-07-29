@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡岩室村富岡",
+    "表記": "新潟県西蒲原郡岩室村富岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "岩室村",
+      "町名": "富岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384751",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384761",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384762",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056384771"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232213/101375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232213/101373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/101372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/101371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/101370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/101375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/101374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232214/101373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232215/101370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232215/101372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232215/101371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232215/101373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232215/101375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232216/101370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232216/101372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232216/101375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232216/101373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/101372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/101371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/101370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232213/101378.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡岩室村富岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/岩室村/富岡.json",
+    "name": "富岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡岩室村"
+  }
+]

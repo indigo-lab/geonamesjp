@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県新治郡八郷町佐久",
+    "表記": "茨城県新治郡八郷町佐久",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "新治郡",
+      "市区町村": "八郷町",
+      "町名": "佐久"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403115",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403116"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/102705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/102706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/102700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233160/102700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/102702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/102702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/102701.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県新治郡八郷町佐久",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/新治郡/八郷町/佐久.json",
+    "name": "佐久",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県新治郡八郷町"
+  }
+]

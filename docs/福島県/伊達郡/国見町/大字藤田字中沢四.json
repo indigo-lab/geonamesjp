@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県伊達郡国見町大字藤田字中沢四",
+    "表記": "福島県伊達郡国見町大字藤田字中沢四",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "伊達郡",
+      "市区町村": "国見町",
+      "町名": "大字藤田字中沢四"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406443"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/101235.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県伊達郡国見町大字藤田字中沢四",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/伊達郡/国見町/大字藤田字中沢四.json",
+    "name": "大字藤田字中沢四",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県伊達郡国見町"
+  }
+]

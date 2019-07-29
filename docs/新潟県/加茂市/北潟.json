@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県加茂市北潟",
+    "表記": "新潟県加茂市北潟",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "加茂市",
+      "町名": "北潟"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394031",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394041"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232302/101392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232302/101394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232306/101390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232303/101391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232304/101390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232305/101390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232305/101389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232304/101389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232303/101389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232303/101390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232302/101391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232305/101391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232306/101389.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県加茂市北潟",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/加茂市/北潟.json",
+    "name": "北潟",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県加茂市"
+  }
+]

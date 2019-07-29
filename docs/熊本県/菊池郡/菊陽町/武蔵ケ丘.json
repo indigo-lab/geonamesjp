@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県菊池郡菊陽町武蔵ケ丘",
+    "表記": "熊本県菊池郡菊陽町武蔵ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "菊池郡",
+      "市区町村": "菊陽町",
+      "町名": "武蔵ケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県菊池郡菊陽町武蔵ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/菊池郡/菊陽町/武蔵ケ丘.json",
+    "name": "武蔵ケ丘",
+    "alternateName": [
+      "武蔵ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/熊本県菊池郡菊陽町",
+    "children": [
+      "https://geonames.jp/resource/熊本県菊池郡菊陽町武蔵ケ丘一丁目",
+      "https://geonames.jp/resource/熊本県菊池郡菊陽町武蔵ケ丘二丁目",
+      "https://geonames.jp/resource/熊本県菊池郡菊陽町武蔵ケ丘三丁目"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県黒磯市東栄一丁目",
+    "表記": "栃木県黒磯市東栄一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "黒磯市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403064",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403054",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403065"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/102063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/102064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233062/102059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/102065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/102062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233062/102060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233063/102058.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県黒磯市東栄一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/黒磯市/東栄/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/栃木県黒磯市東栄"
+  }
+]

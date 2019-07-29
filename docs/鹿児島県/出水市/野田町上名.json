@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県出水市野田町上名",
+    "表記": "鹿児島県出水市野田町上名",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "出水市",
+      "町名": "野田町上名"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300261",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300222"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225929/106407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225938/106434.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県出水市野田町上名",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/出水市/野田町上名.json",
+    "name": "野田町上名",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県出水市"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県長生郡長南町又富",
+    "表記": "千葉県長生郡長南町又富",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "長生郡",
+      "市区町村": "長南町",
+      "町名": "又富",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S124270110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400197",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400177"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233173/103473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233172/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233178/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233185/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/103466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233184/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233184/103466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233186/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233185/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233185/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233186/103466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233172/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/103468.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県長生郡長南町又富",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/長生郡/長南町/又富.json",
+    "name": "又富",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県長生郡長南町"
+  }
+]

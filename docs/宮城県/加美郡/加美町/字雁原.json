@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県加美郡加美町字雁原",
+    "表記": "宮城県加美郡加美町字雁原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "加美郡",
+      "市区町村": "加美町",
+      "町名": "字雁原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04445011013"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406780"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/100586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233647/100586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233648/100586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233649/100587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233651/100588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233653/100590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233648/100585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233649/100586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233655/100587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/100585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233654/100586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233651/100585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233657/100585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/100587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233653/100586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233653/100589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233658/100585.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県加美郡加美町字雁原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/加美郡/加美町/字雁原.json",
+    "name": "字雁原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県加美郡加美町"
+  }
+]

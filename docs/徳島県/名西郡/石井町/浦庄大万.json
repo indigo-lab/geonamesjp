@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県名西郡石井町浦庄大万",
+    "表記": "徳島県名西郡石井町浦庄大万",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "名西郡",
+      "市区町村": "石井町",
+      "町名": "浦庄大万"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340384",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051340394"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228959/104648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228958/104647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228958/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228958/104651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228958/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228958/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228959/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228959/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228959/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228960/104651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228960/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228960/104652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228960/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228960/104653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228961/104652.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県名西郡石井町浦庄大万",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/名西郡/石井町/浦庄大万.json",
+    "name": "浦庄大万",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県名西郡石井町"
+  }
+]

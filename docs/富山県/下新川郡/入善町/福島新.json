@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県下新川郡入善町福島新",
+    "表記": "富山県下新川郡入善町福島新",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "下新川郡",
+      "市区町村": "入善町",
+      "町名": "福島新"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372389",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372399",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372398"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231191/102120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231192/102122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231191/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231190/102122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231191/102122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231192/102120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231190/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231189/102118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231187/102116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231188/102117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231187/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231189/102121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231191/102121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231186/102116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231188/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231189/102120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231193/102122.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県下新川郡入善町福島新",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/下新川郡/入善町/福島新.json",
+    "name": "福島新",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県下新川郡入善町"
+  }
+]

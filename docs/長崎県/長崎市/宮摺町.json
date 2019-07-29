@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県長崎市宮摺町",
+    "表記": "長崎県長崎市宮摺町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "宮摺町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422012670"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290712",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290722"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225665/105866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225654/105870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225658/105864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225657/105864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225657/105869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225660/105862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225661/105865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225664/105868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225661/105871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225663/105868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225663/105872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225662/105865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225662/105866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225662/105868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225663/105867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225663/105866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225664/105865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225664/105866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225667/105862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225666/105864.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県長崎市宮摺町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/長崎市/宮摺町.json",
+    "name": "宮摺町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県長崎市"
+  }
+]

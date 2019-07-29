@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市神奈川区白楽",
+    "表記": "神奈川県横浜市神奈川区白楽",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "神奈川区",
+      "町名": "白楽",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S141020960"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391570"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/103400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/103404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232748/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232748/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/103400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232747/103399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/103398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/103398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232748/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232746/103403.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市神奈川区白楽",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/神奈川区/白楽.json",
+    "name": "白楽",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市神奈川区"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県宗像市大谷",
+    "表記": "福岡県宗像市大谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "宗像市",
+      "町名": "大谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402200140"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305475",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305485"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226147/104880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226147/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226147/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226148/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226148/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/104877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/104880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226151/104880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/104880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226151/104881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/104881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226148/104877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226148/104880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/104881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/104882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226151/104879.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県宗像市大谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/宗像市/大谷.json",
+    "name": "大谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県宗像市"
+  }
+]

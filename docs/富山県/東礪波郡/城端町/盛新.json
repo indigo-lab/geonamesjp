@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡城端町盛新",
+    "表記": "富山県東礪波郡城端町盛新",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "東礪波郡",
+      "市区町村": "城端町",
+      "町名": "盛新"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365780",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365790",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365791"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/102494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230750/102495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230751/102495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230752/102495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230752/102494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230751/102497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230752/102497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/102497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/102496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/102497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/102497.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡城端町盛新",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/東礪波郡/城端町/盛新.json",
+    "name": "盛新",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県東礪波郡城端町"
+  }
+]

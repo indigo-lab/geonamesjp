@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県桃生郡河北町大森",
+    "表記": "宮城県桃生郡河北町大森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "桃生郡",
+      "市区町村": "河北町",
+      "町名": "大森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416204",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416205"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233966/100650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/100650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/100647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233967/100648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233968/100648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233969/100650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233969/100648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233969/100649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233970/100647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233970/100650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233970/100649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233971/100648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233971/100646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233973/100649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233972/100648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233972/100646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233972/100647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233973/100645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233975/100645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233974/100646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233973/100646.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県桃生郡河北町大森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/桃生郡/河北町/大森.json",
+    "name": "大森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県桃生郡河北町"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県相模原市南区上鶴間八丁目",
+    "表記": "神奈川県相模原市南区上鶴間八丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "相模原市",
+      "区": "南区",
+      "町名": "八丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392315",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392325"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232612/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232610/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232609/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232611/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232610/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232611/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232610/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232611/103375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232612/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/103374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232611/103376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/103373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232609/103372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232610/103372.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県相模原市南区上鶴間八丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/相模原市/南区/上鶴間/8.json",
+    "name": "八丁目",
+    "alternateName": [
+      "8",
+      "8丁目",
+      "８",
+      "８丁目",
+      "八"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県相模原市南区上鶴間"
+  }
+]

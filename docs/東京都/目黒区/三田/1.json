@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都目黒区三田一丁目",
+    "表記": "東京都目黒区三田一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "目黒区",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13110007001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393567",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393566",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393576"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232809/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232810/103261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232810/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232809/103263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232807/103264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232807/103263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232807/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232807/103261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232808/103262.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都目黒区三田一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/目黒区/三田/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都目黒区三田"
+  }
+]

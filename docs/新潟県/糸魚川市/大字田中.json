@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字田中",
+    "表記": "新潟県糸魚川市大字田中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "糸魚川市",
+      "町名": "大字田中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374700",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374702",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374712",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374721"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231483/102020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231480/102017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231476/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231477/102027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231488/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231489/102027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231490/102028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231485/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231486/102029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231490/102027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231487/102026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231492/102029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231494/102030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231486/102026.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字田中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/糸魚川市/大字田中.json",
+    "name": "大字田中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県糸魚川市"
+  }
+]

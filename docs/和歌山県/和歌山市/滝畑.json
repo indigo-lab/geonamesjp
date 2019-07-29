@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市滝畑",
+    "表記": "和歌山県和歌山市滝畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "和歌山市",
+      "町名": "滝畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353261",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353251",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353270",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353250",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353260",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353271"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229569/104450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/104460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229573/104451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229564/104445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229572/104448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229571/104448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229569/104449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229567/104452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/104456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229560/104445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229569/104443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229563/104447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229564/104454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229567/104445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229571/104456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/104450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229570/104449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229572/104449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229572/104445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229573/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229573/104452.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市滝畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/和歌山市/滝畑.json",
+    "name": "滝畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県和歌山市"
+  }
+]

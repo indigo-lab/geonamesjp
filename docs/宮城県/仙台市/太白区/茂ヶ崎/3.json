@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市太白区茂ヶ崎三丁目",
+    "表記": "宮城県仙台市太白区茂ヶ崎三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "太白区",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402780"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233655/100897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233655/100898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233654/100897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233654/100896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233653/100897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233653/100896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233655/100896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233652/100896.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市太白区茂ヶ崎三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/太白区/茂ヶ崎/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市太白区茂ヶ崎"
+  }
+]

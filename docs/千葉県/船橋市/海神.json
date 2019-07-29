@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県船橋市海神",
+    "表記": "千葉県船橋市海神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "船橋市",
+      "町名": "海神",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122040160"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県船橋市海神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/船橋市/海神.json",
+    "name": "海神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県船橋市",
+    "children": [
+      "https://geonames.jp/resource/千葉県船橋市海神一丁目",
+      "https://geonames.jp/resource/千葉県船橋市海神二丁目",
+      "https://geonames.jp/resource/千葉県船橋市海神三丁目",
+      "https://geonames.jp/resource/千葉県船橋市海神四丁目",
+      "https://geonames.jp/resource/千葉県船橋市海神五丁目",
+      "https://geonames.jp/resource/千葉県船橋市海神六丁目"
+    ]
+  }
+]

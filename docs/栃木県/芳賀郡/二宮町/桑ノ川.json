@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡二宮町桑ノ川",
+    "表記": "栃木県芳賀郡二宮町桑ノ川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "芳賀郡",
+      "市区町村": "二宮町",
+      "町名": "桑ノ川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394759",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394769",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054404050",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054404060"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233020/102598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/102595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233014/102598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/102593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233020/102596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/102591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233020/102593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233015/102596.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県芳賀郡二宮町桑ノ川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/芳賀郡/二宮町/桑ノ川.json",
+    "name": "桑ノ川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県芳賀郡二宮町"
+  }
+]

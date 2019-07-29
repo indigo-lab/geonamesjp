@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県登米市津山町横山字上鴻巣",
+    "表記": "宮城県登米市津山町横山字上鴻巣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "登米市",
+      "町名": "津山町横山字上鴻巣"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057417258",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057417268"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234004/100530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234006/100528.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234008/100527.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234004/100531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234008/100529.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234004/100529.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県登米市津山町横山字上鴻巣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/登米市/津山町横山字上鴻巣.json",
+    "name": "津山町横山字上鴻巣",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県登米市"
+  }
+]

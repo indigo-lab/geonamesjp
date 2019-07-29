@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県福山市高西町南",
+    "表記": "広島県福山市高西町南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "福山市",
+      "町名": "高西町南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342071105"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335119",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051335129"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228096/104339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228095/104335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228095/104334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228095/104336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228095/104337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228096/104338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/104341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228096/104337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228096/104340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/104344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228097/104342.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県福山市高西町南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/福山市/高西町南.json",
+    "name": "高西町南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県福山市"
+  }
+]

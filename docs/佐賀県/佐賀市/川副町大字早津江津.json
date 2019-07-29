@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市川副町大字早津江津",
+    "表記": "佐賀県佐賀市川副町大字早津江津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "佐賀市",
+      "町名": "川副町大字早津江津",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S412011610"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306247",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306257",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306256"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/105414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/105412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/105413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225981/105414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225981/105413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225979/105411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225979/105412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/105411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225981/105411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225981/105412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225982/105410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225981/105410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/105416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/105410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/105415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225980/105417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225981/105415.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市川副町大字早津江津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/佐賀市/川副町大字早津江津.json",
+    "name": "川副町大字早津江津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県佐賀市"
+  }
+]

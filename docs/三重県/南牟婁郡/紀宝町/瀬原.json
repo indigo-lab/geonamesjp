@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県南牟婁郡紀宝町瀬原",
+    "表記": "三重県南牟婁郡紀宝町瀬原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "南牟婁郡",
+      "市区町村": "紀宝町",
+      "町名": "瀬原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050354785",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050354786"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230065/104950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230068/104948.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県南牟婁郡紀宝町瀬原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/南牟婁郡/紀宝町/瀬原.json",
+    "name": "瀬原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県南牟婁郡紀宝町"
+  }
+]

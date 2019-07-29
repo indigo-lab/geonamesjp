@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県井原市芳井町天神山",
+    "表記": "岡山県井原市芳井町天神山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "井原市",
+      "町名": "芳井町天神山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S332070390"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337362",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337352"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228212/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228215/104161.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県井原市芳井町天神山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/井原市/芳井町天神山.json",
+    "name": "芳井町天神山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県井原市"
+  }
+]

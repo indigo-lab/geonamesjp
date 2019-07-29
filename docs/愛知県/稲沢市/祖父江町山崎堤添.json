@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県稲沢市祖父江町山崎堤添",
+    "表記": "愛知県稲沢市祖父江町山崎堤添",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "稲沢市",
+      "町名": "祖父江町山崎堤添"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367518"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/103598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/103598.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県稲沢市祖父江町山崎堤添",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/稲沢市/祖父江町山崎堤添.json",
+    "name": "祖父江町山崎堤添",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県稲沢市"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町塩沢字佐武内",
+    "表記": "福島県石川郡石川町塩沢字佐武内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "石川郡",
+      "市区町村": "石川町",
+      "町名": "塩沢字佐武内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405394",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405395",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406305"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/101884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/101885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233334/101883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233335/101882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/101880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233333/101884.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町塩沢字佐武内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/石川郡/石川町/塩沢字佐武内.json",
+    "name": "塩沢字佐武内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県石川郡石川町"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡姶良町深水",
+    "表記": "鹿児島県姶良郡姶良町深水",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "姶良郡",
+      "市区町村": "姶良町",
+      "町名": "深水"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305419"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226186/106661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226184/106660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226185/106661.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡姶良町深水",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/姶良郡/姶良町/深水.json",
+    "name": "深水",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県姶良郡姶良町"
+  }
+]

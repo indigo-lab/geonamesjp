@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県つくば市緑ヶ原",
+    "表記": "茨城県つくば市緑ヶ原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "つくば市",
+      "町名": "緑ヶ原"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県つくば市緑ヶ原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/つくば市/緑ヶ原.json",
+    "name": "緑ヶ原",
+    "alternateName": [
+      "緑ケ原"
+    ],
+    "parentFeature": "https://geonames.jp/resource/茨城県つくば市",
+    "children": [
+      "https://geonames.jp/resource/茨城県つくば市緑ヶ原一丁目",
+      "https://geonames.jp/resource/茨城県つくば市緑ヶ原二丁目",
+      "https://geonames.jp/resource/茨城県つくば市緑ヶ原三丁目",
+      "https://geonames.jp/resource/茨城県つくば市緑ヶ原四丁目"
+    ]
+  }
+]

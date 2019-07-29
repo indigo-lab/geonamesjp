@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県入間市久保稲荷一丁目",
+    "表記": "埼玉県入間市久保稲荷一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "入間市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11225007001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395391"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232576/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232575/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232575/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232575/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232574/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232575/103096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232574/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232577/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232578/103093.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県入間市久保稲荷一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/入間市/久保稲荷/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県入間市久保稲荷"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府枚方市片鉾東町",
+    "表記": "大阪府枚方市片鉾東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "片鉾東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S272100840"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351593",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351594",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352503",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352504"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229866/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229866/103983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229867/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229868/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229866/103981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229866/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229869/103983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229868/103983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229867/103981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229867/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229868/103981.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229867/103983.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府枚方市片鉾東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/枚方市/片鉾東町.json",
+    "name": "片鉾東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府枚方市"
+  }
+]

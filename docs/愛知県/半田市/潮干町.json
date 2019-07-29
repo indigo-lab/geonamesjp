@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県半田市潮干町",
+    "表記": "愛知県半田市潮干町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "潮干町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232051150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362787",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362797",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362786"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230807/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230808/103913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230809/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230807/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230809/103919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230808/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230808/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230810/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230806/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230807/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230807/103913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230805/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230805/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230810/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230806/103914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230808/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230810/103913.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県半田市潮干町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/半田市/潮干町.json",
+    "name": "潮干町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県半田市"
+  }
+]

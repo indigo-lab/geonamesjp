@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県豊栄市上大月",
+    "表記": "新潟県豊栄市上大月",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "豊栄市",
+      "町名": "上大月"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396137",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396138",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396147",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396148"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232450/101240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/101240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232452/101241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232452/101240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232451/101240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232454/101240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232455/101240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232454/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232452/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232451/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232450/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232449/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232452/101238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232450/101238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232449/101238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232451/101237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232449/101240.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県豊栄市上大月",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/豊栄市/上大月.json",
+    "name": "上大月",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県豊栄市"
+  }
+]

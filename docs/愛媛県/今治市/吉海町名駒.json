@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県今治市吉海町名駒",
+    "表記": "愛媛県今治市吉海町名駒",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "今治市",
+      "町名": "吉海町名駒",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382021850"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051331032",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051331031"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227939/104621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227929/104618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227938/104621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227937/104622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227940/104621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227941/104619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227938/104619.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県今治市吉海町名駒",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/今治市/吉海町名駒.json",
+    "name": "吉海町名駒",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県今治市"
+  }
+]

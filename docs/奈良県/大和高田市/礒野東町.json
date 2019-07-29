@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県大和高田市礒野東町",
+    "表記": "奈良県大和高田市礒野東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "礒野東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292020120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356509",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356519"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229915/104269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229915/104270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229914/104270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229915/104271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229913/104270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229916/104270.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県大和高田市礒野東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/大和高田市/礒野東町.json",
+    "name": "礒野東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県大和高田市"
+  }
+]

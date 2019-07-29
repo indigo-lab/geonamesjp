@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道中川郡本別町押帯",
+    "表記": "北海道中川郡本別町押帯",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "中川郡",
+      "市区町村": "本別町",
+      "町名": "押帯",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016460070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064435343",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064435372"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235507/96200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235494/96183.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道中川郡本別町押帯",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/中川郡/本別町/押帯.json",
+    "name": "押帯",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道中川郡本別町"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県南秋田郡若美町",
+    "表記": "秋田県南秋田郡若美町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "南秋田郡",
+      "市区町村": "若美町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C05367-19701101",
+        "http://data.e-stat.go.jp/lod/sac/C05367-19730201",
+        "http://data.e-stat.go.jp/lod/sac/C05367-19751101",
+        "http://data.e-stat.go.jp/lod/sac/C05367-20050322",
+        "http://data.e-stat.go.jp/lod/sac/C05367-19770331"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県南秋田郡若美町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/南秋田郡/若美町.json",
+    "name": "若美町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県南秋田郡"
+  }
+]

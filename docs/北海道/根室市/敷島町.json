@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道根室市敷島町",
+    "表記": "北海道根室市敷島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "敷島町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道根室市敷島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/根室市/敷島町.json",
+    "name": "敷島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道根室市",
+    "children": [
+      "https://geonames.jp/resource/北海道根室市敷島町（丁目なし）",
+      "https://geonames.jp/resource/北海道根室市敷島町一丁目",
+      "https://geonames.jp/resource/北海道根室市敷島町二丁目"
+    ]
+  }
+]

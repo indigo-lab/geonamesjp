@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市麻生区高石二丁目",
+    "表記": "神奈川県川崎市麻生区高石二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "川崎市",
+      "区": "麻生区",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14137709002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393430"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103288.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市麻生区高石二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/川崎市/麻生区/高石/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県川崎市麻生区高石"
+  }
+]

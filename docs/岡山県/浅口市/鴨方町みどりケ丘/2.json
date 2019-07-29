@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県浅口市鴨方町みどりケ丘二丁目",
+    "表記": "岡山県浅口市鴨方町みどりケ丘二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "浅口市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336445"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228334/104241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228335/104241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228335/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228336/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228334/104242.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県浅口市鴨方町みどりケ丘二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/浅口市/鴨方町みどりケ丘/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県浅口市鴨方町みどりケ丘"
+  }
+]

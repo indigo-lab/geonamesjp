@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県七尾市直津町",
+    "表記": "石川県七尾市直津町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "直津町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172020820"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364753",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364763",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364764",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364754",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364762"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230770/101995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/101989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/101989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/101994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/101994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230766/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/101982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/101989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/101984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/101990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/101991.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県七尾市直津町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/七尾市/直津町.json",
+    "name": "直津町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県七尾市"
+  }
+]

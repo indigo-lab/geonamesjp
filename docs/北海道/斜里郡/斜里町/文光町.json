@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道斜里郡斜里町文光町",
+    "表記": "北海道斜里郡斜里町文光町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "斜里郡",
+      "市区町村": "斜里町",
+      "町名": "文光町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S015450043"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065446582",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065446583",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065446592",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065446593",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065446581"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236410/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236405/95411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236406/95411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236405/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236406/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236406/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236406/95412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236408/95410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236407/95411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236407/95412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236408/95412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236407/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236407/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236408/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236409/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236412/95411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236410/95411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236410/95412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236409/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236410/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236411/95411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236411/95412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236411/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236411/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236412/95412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236412/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236413/95412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236414/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236415/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236416/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236405/95415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236406/95415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236408/95415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236411/95415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236410/95415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236412/95415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236413/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236415/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236415/95415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236406/95410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236401/95414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236405/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236407/95410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236415/95412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236414/95412.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道斜里郡斜里町文光町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/斜里郡/斜里町/文光町.json",
+    "name": "文光町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道斜里郡斜里町"
+  }
+]

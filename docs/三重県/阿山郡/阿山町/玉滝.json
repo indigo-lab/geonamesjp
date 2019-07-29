@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県阿山郡阿山町玉滝",
+    "表記": "三重県阿山郡阿山町玉滝",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "阿山郡",
+      "市区町村": "阿山町",
+      "町名": "玉滝"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362123"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/103966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230226/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230228/103966.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県阿山郡阿山町玉滝",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/阿山郡/阿山町/玉滝.json",
+    "name": "玉滝",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県阿山郡阿山町"
+  }
+]

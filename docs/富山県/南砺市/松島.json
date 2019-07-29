@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県南砺市松島",
+    "表記": "富山県南砺市松島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "南砺市",
+      "町名": "松島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366778",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366767",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366768",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366777"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/102433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/102436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/102434.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県南砺市松島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/南砺市/松島.json",
+    "name": "松島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県南砺市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村郡常葉町久保",
+    "表記": "福島県田村郡常葉町久保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "田村郡",
+      "市区町村": "常葉町",
+      "町名": "久保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401429",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401520",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401530",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401531"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233473/101634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233475/101630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233473/101633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233473/101632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233472/101629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233472/101631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233475/101626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233481/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233474/101630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233472/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233480/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233470/101631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233482/101626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233475/101631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233473/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233480/101627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233472/101633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233471/101632.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村郡常葉町久保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村郡/常葉町/久保.json",
+    "name": "久保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県田村郡常葉町"
+  }
+]

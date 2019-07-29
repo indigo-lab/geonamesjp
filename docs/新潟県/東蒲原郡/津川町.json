@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県東蒲原郡津川町",
+    "表記": "新潟県東蒲原郡津川町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "東蒲原郡",
+      "市区町村": "津川町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C15381-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C15381-19770901",
+        "http://data.e-stat.go.jp/lod/sac/C15381-20050401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県東蒲原郡津川町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/東蒲原郡/津川町.json",
+    "name": "津川町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県東蒲原郡",
+    "children": [
+      "https://geonames.jp/resource/新潟県東蒲原郡津川町雲和田",
+      "https://geonames.jp/resource/新潟県東蒲原郡津川町三郷",
+      "https://geonames.jp/resource/新潟県東蒲原郡津川町上ノ山",
+      "https://geonames.jp/resource/新潟県東蒲原郡津川町常浪",
+      "https://geonames.jp/resource/新潟県東蒲原郡津川町清川",
+      "https://geonames.jp/resource/新潟県東蒲原郡津川町西",
+      "https://geonames.jp/resource/新潟県東蒲原郡津川町津川"
+    ]
+  }
+]

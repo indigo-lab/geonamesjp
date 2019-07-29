@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市小糸山町",
+    "表記": "熊本県熊本市小糸山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "小糸山町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302565",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302566",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302575"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226250/105691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226250/105690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226249/105690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226250/105689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226249/105689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226247/105690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226248/105690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226248/105691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226246/105691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226242/105690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226239/105689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226241/105687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226239/105685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226239/105684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226240/105685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226247/105691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226241/105689.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市小糸山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/小糸山町.json",
+    "name": "小糸山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県妙高市三ツ俣",
+    "表記": "新潟県妙高市三ツ俣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "妙高市",
+      "町名": "三ツ俣"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384126"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/102020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231712/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231711/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231714/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/102022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231709/102021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231709/102022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231710/102021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231714/102020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231708/102021.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県妙高市三ツ俣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/妙高市/三ツ俣.json",
+    "name": "三ツ俣",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県妙高市"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県小田原市小八幡",
+    "表記": "神奈川県小田原市小八幡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "小田原市",
+      "町名": "小八幡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県小田原市小八幡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/小田原市/小八幡.json",
+    "name": "小八幡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県小田原市",
+    "children": [
+      "https://geonames.jp/resource/神奈川県小田原市小八幡（丁目なし）",
+      "https://geonames.jp/resource/神奈川県小田原市小八幡一丁目",
+      "https://geonames.jp/resource/神奈川県小田原市小八幡二丁目",
+      "https://geonames.jp/resource/神奈川県小田原市小八幡三丁目",
+      "https://geonames.jp/resource/神奈川県小田原市小八幡四丁目"
+    ]
+  }
+]

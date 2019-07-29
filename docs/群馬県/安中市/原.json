@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県安中市原",
+    "表記": "群馬県安中市原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "安中市",
+      "町名": "原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383597",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384507",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384508",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384517",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384518"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232091/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232090/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232090/102634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232089/102631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232084/102633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232087/102641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232089/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232087/102627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232085/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232086/102629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232084/102635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232082/102637.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県安中市原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/安中市/原.json",
+    "name": "原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県安中市"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知多市新知北新生",
+    "表記": "愛知県知多市新知北新生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "知多市",
+      "町名": "新知北新生"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363678",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363688"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230725/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230725/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230726/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230726/103849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230727/103848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230727/103851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230727/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230729/103849.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知多市新知北新生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知多市/新知北新生.json",
+    "name": "新知北新生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知多市"
+  }
+]

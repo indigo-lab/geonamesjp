@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県三池郡高田町舞鶴",
+    "表記": "福岡県三池郡高田町舞鶴",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "三池郡",
+      "市区町村": "高田町",
+      "町名": "舞鶴"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305431",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305432",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049305441"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226117/105495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226118/105495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226112/105492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/105492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/105494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/105494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/105493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/105492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/105496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226117/105493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226117/105496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226109/105487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226110/105488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226110/105487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226111/105488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226111/105487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226113/105487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226113/105489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/105489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/105491.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県三池郡高田町舞鶴",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/三池郡/高田町/舞鶴.json",
+    "name": "舞鶴",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県三池郡高田町"
+  }
+]

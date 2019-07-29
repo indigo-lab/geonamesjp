@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西頸城郡能生町鬼伏",
+    "表記": "新潟県西頸城郡能生町鬼伏",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西頸城郡",
+      "市区町村": "能生町",
+      "町名": "鬼伏"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374795",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055375706"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231525/101955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231528/101954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231528/101955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231531/101954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231525/101962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/101958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231518/101962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/101959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/101961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/101960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231522/101960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231524/101963.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西頸城郡能生町鬼伏",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西頸城郡/能生町/鬼伏.json",
+    "name": "鬼伏",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西頸城郡能生町"
+  }
+]

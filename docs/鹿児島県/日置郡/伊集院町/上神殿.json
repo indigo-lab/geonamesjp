@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡伊集院町上神殿",
+    "表記": "鹿児島県日置郡伊集院町上神殿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "日置郡",
+      "市区町村": "伊集院町",
+      "町名": "上神殿"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047303395",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304304",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304313"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226044/106728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226045/106739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226053/106734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226052/106739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226054/106741.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡伊集院町上神殿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/日置郡/伊集院町/上神殿.json",
+    "name": "上神殿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県日置郡伊集院町"
+  }
+]

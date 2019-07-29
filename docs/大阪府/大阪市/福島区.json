@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府大阪市福島区",
+    "表記": "大阪府大阪市福島区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "大阪市",
+      "区": "福島区",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C27103-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府大阪市福島区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/大阪市/福島区.json",
+    "name": "福島区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府大阪市",
+    "children": [
+      "https://geonames.jp/resource/大阪府大阪市福島区吉野",
+      "https://geonames.jp/resource/大阪府大阪市福島区野田",
+      "https://geonames.jp/resource/大阪府大阪市福島区福島",
+      "https://geonames.jp/resource/大阪府大阪市福島区大開",
+      "https://geonames.jp/resource/大阪府大阪市福島区海老江",
+      "https://geonames.jp/resource/大阪府大阪市福島区鷺洲",
+      "https://geonames.jp/resource/大阪府大阪市福島区玉川"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q985728"
+    ]
+  }
+]

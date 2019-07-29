@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県丹生郡清水町大森",
+    "表記": "福井県丹生郡清水町大森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "丹生郡",
+      "市区町村": "清水町",
+      "町名": "大森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360120",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054360130"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/102919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/102915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/102911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/102912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/102918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/102916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/102915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/102914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/102919.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県丹生郡清水町大森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/丹生郡/清水町/大森.json",
+    "name": "大森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県丹生郡清水町"
+  }
+]

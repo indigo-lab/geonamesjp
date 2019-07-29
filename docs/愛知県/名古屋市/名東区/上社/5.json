@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市名東区上社五丁目",
+    "表記": "愛知県名古屋市名東区上社五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "名東区",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23115036095"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376000",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376001"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/103682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/103683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/103684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103684.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市名東区上社五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/名東区/上社/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市名東区上社"
+  }
+]

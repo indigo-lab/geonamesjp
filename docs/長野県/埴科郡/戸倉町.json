@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県埴科郡戸倉町",
+    "表記": "長野県埴科郡戸倉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "埴科郡",
+      "市区町村": "戸倉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20522-19841201",
+        "http://data.e-stat.go.jp/lod/sac/C20522-19880301",
+        "http://data.e-stat.go.jp/lod/sac/C20522-20030901",
+        "http://data.e-stat.go.jp/lod/sac/C20522-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県埴科郡戸倉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/埴科郡/戸倉町.json",
+    "name": "戸倉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県埴科郡",
+    "children": [
+      "https://geonames.jp/resource/長野県埴科郡戸倉町須坂",
+      "https://geonames.jp/resource/長野県埴科郡戸倉町小船山",
+      "https://geonames.jp/resource/長野県埴科郡戸倉町上徳間",
+      "https://geonames.jp/resource/長野県埴科郡戸倉町若宮",
+      "https://geonames.jp/resource/長野県埴科郡戸倉町千本柳",
+      "https://geonames.jp/resource/長野県埴科郡戸倉町内川",
+      "https://geonames.jp/resource/長野県埴科郡戸倉町磯部",
+      "https://geonames.jp/resource/長野県埴科郡戸倉町羽尾",
+      "https://geonames.jp/resource/長野県埴科郡戸倉町戸倉"
+    ]
+  }
+]

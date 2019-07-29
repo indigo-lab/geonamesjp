@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県大崎市鹿島台木間塚字竹谷",
+    "表記": "宮城県大崎市鹿島台木間塚字竹谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "大崎市",
+      "町名": "鹿島台木間塚字竹谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415069",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415079",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415170"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233836/100676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233835/100675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233835/100677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233835/100678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233834/100680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233834/100679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233834/100678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233836/100675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233835/100676.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県大崎市鹿島台木間塚字竹谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/大崎市/鹿島台木間塚字竹谷.json",
+    "name": "鹿島台木間塚字竹谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県大崎市"
+  }
+]

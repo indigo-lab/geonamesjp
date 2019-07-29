@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区榴岡四丁目",
+    "表記": "宮城県仙台市宮城野区榴岡四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "宮城野区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04102035004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403700",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403710",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403711"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/100877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/100876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/100876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/100877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/100878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/100878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233666/100878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/100877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233666/100877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/100876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/100878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/100878.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市宮城野区榴岡四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/宮城野区/榴岡/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市宮城野区榴岡"
+  }
+]

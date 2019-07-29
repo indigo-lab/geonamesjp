@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市森末",
+    "表記": "岡山県岡山市森末",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "森末"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340094",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341004"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228692/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228691/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228691/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228689/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228688/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228688/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228689/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228690/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228689/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228690/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228689/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228686/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228691/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228688/104057.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市森末",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/森末.json",
+    "name": "森末",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

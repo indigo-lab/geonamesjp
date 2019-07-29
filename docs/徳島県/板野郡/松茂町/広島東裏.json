@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県板野郡松茂町広島東裏",
+    "表記": "徳島県板野郡松茂町広島東裏",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "板野郡",
+      "市区町村": "松茂町",
+      "町名": "広島東裏"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341466"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229069/104601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229070/104600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229069/104600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229070/104602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229070/104601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229071/104601.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県板野郡松茂町広島東裏",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/板野郡/松茂町/広島東裏.json",
+    "name": "広島東裏",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県板野郡松茂町"
+  }
+]

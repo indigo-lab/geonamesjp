@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県簸川郡大社町",
+    "表記": "島根県簸川郡大社町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "簸川郡",
+      "市区町村": "大社町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32405-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C32405-20050322",
+        "http://data.e-stat.go.jp/lod/sac/C32405-19700801"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県簸川郡大社町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/簸川郡/大社町.json",
+    "name": "大社町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県簸川郡",
+    "children": [
+      "https://geonames.jp/resource/島根県簸川郡大社町修理免",
+      "https://geonames.jp/resource/島根県簸川郡大社町入南",
+      "https://geonames.jp/resource/島根県簸川郡大社町中荒木",
+      "https://geonames.jp/resource/島根県簸川郡大社町杵築西",
+      "https://geonames.jp/resource/島根県簸川郡大社町杵築南",
+      "https://geonames.jp/resource/島根県簸川郡大社町杵築東",
+      "https://geonames.jp/resource/島根県簸川郡大社町杵築北",
+      "https://geonames.jp/resource/島根県簸川郡大社町北荒木",
+      "https://geonames.jp/resource/島根県簸川郡大社町遥堪",
+      "https://geonames.jp/resource/島根県簸川郡大社町菱根"
+    ]
+  }
+]

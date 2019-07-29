@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市石江高間",
+    "表記": "青森県青森市石江高間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "石江高間"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401595",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402505"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/98448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/98449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/98448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/98449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/98447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/98447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233524/98448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/98444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/98449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/98449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/98450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/98450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/98451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/98451.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市石江高間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/石江高間.json",
+    "name": "石江高間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市"
+  }
+]

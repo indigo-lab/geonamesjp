@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県いすみ市岬町東小高",
+    "表記": "千葉県いすみ市岬町東小高",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "いすみ市",
+      "町名": "岬町東小高"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052407239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052407249"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/103584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/103587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/103582.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県いすみ市岬町東小高",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/いすみ市/岬町東小高.json",
+    "name": "岬町東小高",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県いすみ市"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県黒部市大開",
+    "表記": "富山県黒部市大開",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "黒部市",
+      "町名": "大開"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372383",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372384",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372393",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372394"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231139/102118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231147/102120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231139/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231142/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231140/102117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231140/102119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231142/102117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231142/102118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231141/102116.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県黒部市大開",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/黒部市/大開.json",
+    "name": "大開",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県黒部市"
+  }
+]

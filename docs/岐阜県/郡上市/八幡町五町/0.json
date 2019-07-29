@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県郡上市八幡町五町（丁目なし）",
+    "表記": "岐阜県郡上市八幡町五町（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "八幡町五町",
+      "町名": "（丁目なし）"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053365705",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053365715"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230793/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230794/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230789/103158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230793/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230792/103159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230792/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230790/103160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230792/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230793/103159.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県郡上市八幡町五町（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/郡上市/八幡町五町/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県郡上市八幡町五町"
+  }
+]

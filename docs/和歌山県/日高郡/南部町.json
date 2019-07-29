@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県日高郡南部町",
+    "表記": "和歌山県日高郡南部町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "日高郡",
+      "市区町村": "南部町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C30389-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C30389-20041001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県日高郡南部町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/日高郡/南部町.json",
+    "name": "南部町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県日高郡",
+    "children": [
+      "https://geonames.jp/resource/和歌山県日高郡南部町堺",
+      "https://geonames.jp/resource/和歌山県日高郡南部町芝",
+      "https://geonames.jp/resource/和歌山県日高郡南部町山内",
+      "https://geonames.jp/resource/和歌山県日高郡南部町埴田",
+      "https://geonames.jp/resource/和歌山県日高郡南部町南道",
+      "https://geonames.jp/resource/和歌山県日高郡南部町東吉田",
+      "https://geonames.jp/resource/和歌山県日高郡南部町気佐藤",
+      "https://geonames.jp/resource/和歌山県日高郡南部町北道"
+    ]
+  }
+]

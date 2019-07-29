@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県明石市大久保町字大窪",
+    "表記": "兵庫県明石市大久保町字大窪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "明石市",
+      "町名": "大久保町字大窪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340715",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340724",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340736",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340746"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229339/104113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229329/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229332/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229332/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229331/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229336/104115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229339/104112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229333/104111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229343/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229341/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229339/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229342/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229342/104105.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県明石市大久保町字大窪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/明石市/大久保町字大窪.json",
+    "name": "大久保町字大窪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県明石市"
+  }
+]

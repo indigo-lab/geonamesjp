@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜名郡湖西町",
+    "表記": "静岡県浜名郡湖西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "浜名郡",
+      "市区町村": "湖西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C22504-19720101",
+        "http://data.e-stat.go.jp/lod/sac/C22504-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜名郡湖西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜名郡/湖西町.json",
+    "name": "湖西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜名郡"
+  }
+]

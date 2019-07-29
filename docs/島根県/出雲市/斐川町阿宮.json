@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県出雲市斐川町阿宮",
+    "表記": "島根県出雲市斐川町阿宮",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "出雲市",
+      "町名": "斐川町阿宮"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320627",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053320626"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227807/103522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227793/103519.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県出雲市斐川町阿宮",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/出雲市/斐川町阿宮.json",
+    "name": "斐川町阿宮",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県出雲市"
+  }
+]

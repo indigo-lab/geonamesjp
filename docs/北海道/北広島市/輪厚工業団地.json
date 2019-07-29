@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道北広島市輪厚工業団地",
+    "表記": "北海道北広島市輪厚工業団地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "北広島市",
+      "町名": "輪厚工業団地"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道北広島市輪厚工業団地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/北広島市/輪厚工業団地.json",
+    "name": "輪厚工業団地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道北広島市",
+    "children": [
+      "https://geonames.jp/resource/北海道北広島市輪厚工業団地一丁目",
+      "https://geonames.jp/resource/北海道北広島市輪厚工業団地二丁目"
+    ]
+  }
+]

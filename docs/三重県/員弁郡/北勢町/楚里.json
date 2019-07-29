@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県員弁郡北勢町楚里",
+    "表記": "三重県員弁郡北勢町楚里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "員弁郡",
+      "市区町村": "北勢町",
+      "町名": "楚里"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365463",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365472",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365473"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230495/103704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230494/103709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230495/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230494/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230493/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230494/103707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230495/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230496/103707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230495/103709.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県員弁郡北勢町楚里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/員弁郡/北勢町/楚里.json",
+    "name": "楚里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県員弁郡北勢町"
+  }
+]

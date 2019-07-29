@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市門田町堤沢中田",
+    "表記": "福島県会津若松市門田町堤沢中田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "会津若松市",
+      "町名": "門田町堤沢中田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391743",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391744"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/101616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/101616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232960/101615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/101618.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市門田町堤沢中田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/門田町堤沢中田.json",
+    "name": "門田町堤沢中田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市"
+  }
+]

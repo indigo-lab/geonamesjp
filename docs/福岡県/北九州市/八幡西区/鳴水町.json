@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市八幡西区鳴水町",
+    "表記": "福岡県北九州市八幡西区鳴水町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "八幡西区",
+      "町名": "鳴水町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401091260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306612",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306621",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306622",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306611"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226300/104848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226299/104849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226301/104849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226301/104848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226301/104847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226302/104848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226300/104849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226300/104850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226298/104849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226299/104848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226299/104850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226297/104851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226298/104850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226300/104847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226297/104849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226303/104851.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市八幡西区鳴水町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/八幡西区/鳴水町.json",
+    "name": "鳴水町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市八幡西区"
+  }
+]

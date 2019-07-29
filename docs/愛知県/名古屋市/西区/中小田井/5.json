@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市西区中小田井五丁目",
+    "表記": "愛知県名古屋市西区中小田井五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "西区",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23104079095"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366659",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366669",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366750",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366760"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230739/103641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103638.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市西区中小田井五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/西区/中小田井/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市西区中小田井"
+  }
+]

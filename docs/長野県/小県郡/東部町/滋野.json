@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県小県郡東部町滋野",
+    "表記": "長野県小県郡東部町滋野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "小県郡",
+      "市区町村": "東部町",
+      "町名": "滋野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384228"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231819/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231819/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231820/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231821/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231820/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231821/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231822/102619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231822/102620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231819/102621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231820/102621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231821/102621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231821/102622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231822/102621.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県小県郡東部町滋野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/小県郡/東部町/滋野.json",
+    "name": "滋野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県小県郡東部町"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県秋田市太平八田字和岱",
+    "表記": "秋田県秋田市太平八田字和岱",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "秋田市",
+      "町名": "太平八田字和岱",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S05201047015"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405116",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059405105"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/99470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/99472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/99473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233160/99471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/99473.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県秋田市太平八田字和岱",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/秋田市/太平八田字和岱.json",
+    "name": "太平八田字和岱",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県秋田市"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市上飯塚",
+    "表記": "新潟県阿賀野市上飯塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "阿賀野市",
+      "町名": "上飯塚",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152231310"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396139",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396149"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/101237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232464/101233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232464/101238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232464/101241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/101232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/101233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/101242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232466/101241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/101236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232466/101237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232465/101238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232466/101232.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232466/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232463/101235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232464/101236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232466/101233.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市上飯塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/阿賀野市/上飯塚.json",
+    "name": "上飯塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県阿賀野市"
+  }
+]

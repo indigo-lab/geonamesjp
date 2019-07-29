@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西尾市南中根町曽根",
+    "表記": "愛知県西尾市南中根町曽根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "西尾市",
+      "町名": "南中根町曽根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372084",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372094"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103917.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西尾市南中根町曽根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西尾市/南中根町曽根.json",
+    "name": "南中根町曽根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県西尾市"
+  }
+]

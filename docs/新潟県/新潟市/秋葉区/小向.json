@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市秋葉区小向",
+    "表記": "新潟県新潟市秋葉区小向",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "秋葉区",
+      "町名": "小向",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S151050930"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394085",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394095",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394096"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232343/101353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101354.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市秋葉区小向",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/秋葉区/小向.json",
+    "name": "小向",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市秋葉区"
+  }
+]

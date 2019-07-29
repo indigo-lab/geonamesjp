@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県北上市和賀町煤孫一地割",
+    "表記": "岩手県北上市和賀町煤孫一地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "北上市",
+      "町名": "和賀町煤孫一地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407737",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407749",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407718",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407728"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233726/99925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233738/99913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233729/99932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233734/99936.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県北上市和賀町煤孫一地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/北上市/和賀町煤孫一地割.json",
+    "name": "和賀町煤孫一地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県北上市"
+  }
+]

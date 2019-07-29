@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県三郷市番匠免三丁目",
+    "表記": "埼玉県三郷市番匠免三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "三郷市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396609",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396608"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/103087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232920/103085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/103086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/103087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/103088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/103086.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県三郷市番匠免三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/三郷市/番匠免/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県三郷市番匠免"
+  }
+]

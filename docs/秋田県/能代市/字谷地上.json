@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県能代市字谷地上",
+    "表記": "秋田県能代市字谷地上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "能代市",
+      "町名": "字谷地上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402038",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402110",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402029"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/99055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/99068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233101/99060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/99057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/99057.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県能代市字谷地上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/能代市/字谷地上.json",
+    "name": "字谷地上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県能代市"
+  }
+]

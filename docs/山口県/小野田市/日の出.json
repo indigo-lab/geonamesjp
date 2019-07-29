@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県小野田市日の出",
+    "表記": "山口県小野田市日の出",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "小野田市",
+      "町名": "日の出"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県小野田市日の出",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/小野田市/日の出.json",
+    "name": "日の出",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県小野田市",
+    "children": [
+      "https://geonames.jp/resource/山口県小野田市日の出一丁目",
+      "https://geonames.jp/resource/山口県小野田市日の出二丁目",
+      "https://geonames.jp/resource/山口県小野田市日の出三丁目"
+    ]
+  }
+]

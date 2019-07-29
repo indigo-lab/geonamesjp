@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市南一ヶ岡",
+    "表記": "宮崎県延岡市南一ヶ岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "延岡市",
+      "町名": "南一ヶ岡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市南一ヶ岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/延岡市/南一ヶ岡.json",
+    "name": "南一ヶ岡",
+    "alternateName": [
+      "南一ケ岡"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮崎県延岡市",
+    "children": [
+      "https://geonames.jp/resource/宮崎県延岡市南一ヶ岡一丁目",
+      "https://geonames.jp/resource/宮崎県延岡市南一ヶ岡二丁目",
+      "https://geonames.jp/resource/宮崎県延岡市南一ヶ岡三丁目",
+      "https://geonames.jp/resource/宮崎県延岡市南一ヶ岡四丁目",
+      "https://geonames.jp/resource/宮崎県延岡市南一ヶ岡五丁目",
+      "https://geonames.jp/resource/宮崎県延岡市南一ヶ岡六丁目"
+    ]
+  }
+]

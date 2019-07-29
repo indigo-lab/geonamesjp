@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岩倉市下本町下寺廻",
+    "表記": "愛知県岩倉市下本町下寺廻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岩倉市",
+      "町名": "下本町下寺廻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367639",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367720"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230740/103588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/103592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/103589.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岩倉市下本町下寺廻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岩倉市/下本町下寺廻.json",
+    "name": "下本町下寺廻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岩倉市"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県別府市山の口",
+    "表記": "大分県別府市山の口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "別府市",
+      "町名": "山の口"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316394",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317303"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226775/105380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226764/105372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226767/105373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226778/105380.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県別府市山の口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/別府市/山の口.json",
+    "name": "山の口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県別府市"
+  }
+]

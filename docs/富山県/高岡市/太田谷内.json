@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市太田谷内",
+    "表記": "富山県高岡市太田谷内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "高岡市",
+      "町名": "太田谷内",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S16202033016"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371060",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371061",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371070",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371071"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230838/102207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230838/102206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/102206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/102208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/102208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/102210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/102204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230843/102206.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市太田谷内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/太田谷内.json",
+    "name": "太田谷内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

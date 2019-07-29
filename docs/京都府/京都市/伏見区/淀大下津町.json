@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京都市伏見区淀大下津町",
+    "表記": "京都府京都市伏見区淀大下津町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京都市",
+      "区": "伏見区",
+      "町名": "淀大下津町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352586",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352596",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352597"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/103914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/103915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/103919.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/103918.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/103917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/103916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/103915.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京都市伏見区淀大下津町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京都市/伏見区/淀大下津町.json",
+    "name": "淀大下津町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京都市伏見区"
+  }
+]

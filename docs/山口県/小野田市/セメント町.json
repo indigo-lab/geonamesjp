@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県小野田市セメント町",
+    "表記": "山口県小野田市セメント町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "セメント町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317174"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226591/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226591/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226591/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226591/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226591/104739.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県小野田市セメント町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/小野田市/セメント町.json",
+    "name": "セメント町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県小野田市"
+  }
+]

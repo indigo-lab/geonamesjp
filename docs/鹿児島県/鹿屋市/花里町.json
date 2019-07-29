@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県鹿屋市花里町",
+    "表記": "鹿児島県鹿屋市花里町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "花里町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S462030520"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047301602",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047301612",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047301613"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226310/106941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226312/106941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226311/106941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226313/106941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226305/106945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226305/106947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226309/106945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226311/106946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226306/106944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226312/106940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226305/106943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226307/106945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226302/106944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226306/106946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226309/106944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226312/106943.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県鹿屋市花里町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/鹿屋市/花里町.json",
+    "name": "花里町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県鹿屋市"
+  }
+]

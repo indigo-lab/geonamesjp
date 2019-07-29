@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県北上市相去町小門岡",
+    "表記": "岩手県北上市相去町小門岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "北上市",
+      "町名": "相去町小門岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417006",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416096",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417007"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233805/99950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233811/99949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233806/99952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233807/99951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233808/99951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233810/99950.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県北上市相去町小門岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/北上市/相去町小門岡.json",
+    "name": "相去町小門岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県北上市"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都目黒区鷹番三丁目",
+    "表記": "東京都目黒区鷹番三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "目黒区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13110019003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393554"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232786/103273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232787/103273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232788/103273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232787/103274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232787/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232788/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232788/103271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232787/103271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232786/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232786/103274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232785/103274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232785/103273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232785/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232784/103274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232784/103273.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都目黒区鷹番三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/目黒区/鷹番/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都目黒区鷹番"
+  }
+]

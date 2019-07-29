@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県岩美郡国府町国分寺",
+    "表記": "鳥取県岩美郡国府町国分寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "岩美郡",
+      "市区町村": "国府町",
+      "町名": "国分寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341260",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341261"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228838/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228838/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228839/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228839/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228841/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228839/103416.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県岩美郡国府町国分寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/岩美郡/国府町/国分寺.json",
+    "name": "国分寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県岩美郡国府町"
+  }
+]

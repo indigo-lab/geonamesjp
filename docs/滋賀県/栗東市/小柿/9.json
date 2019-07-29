@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県栗東市小柿九丁目",
+    "表記": "滋賀県栗東市小柿九丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "栗東市",
+      "町名": "九丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25208009109"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354727",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354728"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230086/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230087/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230085/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230086/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230085/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230085/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230084/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230085/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230086/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230084/103817.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県栗東市小柿九丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/栗東市/小柿/9.json",
+    "name": "九丁目",
+    "alternateName": [
+      "9",
+      "9丁目",
+      "９",
+      "９丁目",
+      "九"
+    ],
+    "parentFeature": "https://geonames.jp/resource/滋賀県栗東市小柿"
+  }
+]

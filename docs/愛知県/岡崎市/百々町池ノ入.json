@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市百々町池ノ入",
+    "表記": "愛知県岡崎市百々町池ノ入",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "百々町池ノ入"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373183",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373184"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230957/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230957/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/103848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/103844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230961/103845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/103846.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市百々町池ノ入",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/百々町池ノ入.json",
+    "name": "百々町池ノ入",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

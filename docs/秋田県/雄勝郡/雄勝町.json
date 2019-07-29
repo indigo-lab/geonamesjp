@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県雄勝郡雄勝町",
+    "表記": "秋田県雄勝郡雄勝町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "雄勝郡",
+      "市区町村": "雄勝町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C05462-19871201",
+        "http://data.e-stat.go.jp/lod/sac/C05462-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C05462-20050322",
+        "http://data.e-stat.go.jp/lod/sac/C05462-19880801"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県雄勝郡雄勝町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/雄勝郡/雄勝町.json",
+    "name": "雄勝町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県雄勝郡"
+  }
+]

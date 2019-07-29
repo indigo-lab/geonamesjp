@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県伊万里市大坪町字乙",
+    "表記": "佐賀県伊万里市大坪町字乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "伊万里市",
+      "町名": "大坪町字乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297731"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225659/105351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225659/105348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225657/105351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225657/105352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225658/105348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225655/105353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225656/105352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225658/105354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225658/105351.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県伊万里市大坪町字乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/伊万里市/大坪町字乙.json",
+    "name": "大坪町字乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県伊万里市"
+  }
+]

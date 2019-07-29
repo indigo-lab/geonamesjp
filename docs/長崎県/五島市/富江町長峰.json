@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県五島市富江町長峰",
+    "表記": "長崎県五島市富江町長峰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "五島市",
+      "町名": "富江町長峰",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42211106032",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42211106030",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42211106033",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422111060",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S42211106031"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048287534",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048287536"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224774/105928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224796/105924.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県五島市富江町長峰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/五島市/富江町長峰.json",
+    "name": "富江町長峰",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県五島市"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡真野町名古屋",
+    "表記": "新潟県佐渡郡真野町名古屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "佐渡郡",
+      "市区町村": "真野町",
+      "町名": "名古屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056387258",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056387268"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231821/101140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231817/101142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231818/101144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231816/101144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231820/101146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231817/101143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231816/101143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231821/101141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231819/101147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231823/101142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231818/101142.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡真野町名古屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/佐渡郡/真野町/名古屋.json",
+    "name": "名古屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県佐渡郡真野町"
+  }
+]

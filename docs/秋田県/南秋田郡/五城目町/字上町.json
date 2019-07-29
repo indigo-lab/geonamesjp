@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県南秋田郡五城目町字上町",
+    "表記": "秋田県南秋田郡五城目町字上町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "南秋田郡",
+      "市区町村": "五城目町",
+      "町名": "字上町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059407029",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059407039"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233103/99297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/99293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/99295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/99296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/99294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/99294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233105/99293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233105/99292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/99295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/99292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233105/99294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233105/99295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/99297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233105/99296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233103/99298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/99292.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県南秋田郡五城目町字上町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/南秋田郡/五城目町/字上町.json",
+    "name": "字上町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県南秋田郡五城目町"
+  }
+]

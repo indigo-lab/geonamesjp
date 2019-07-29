@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県今治市東村南",
+    "表記": "愛媛県今治市東村南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "今治市",
+      "町名": "東村南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382020860"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県今治市東村南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/今治市/東村南.json",
+    "name": "東村南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県今治市",
+    "children": [
+      "https://geonames.jp/resource/愛媛県今治市東村南一丁目",
+      "https://geonames.jp/resource/愛媛県今治市東村南二丁目"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市原市根田三丁目",
+    "表記": "千葉県市原市根田三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "市原市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12219039003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402008"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/103386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/103384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/103385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/103384.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市原市根田三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市原市/根田/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県市原市根田"
+  }
+]

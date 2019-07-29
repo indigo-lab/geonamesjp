@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市戸畑区千防三丁目",
+    "表記": "福岡県北九州市戸畑区千防三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "戸畑区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40105023003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306686"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226340/104807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226339/104807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226342/104807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226341/104807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226340/104806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226339/104806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226341/104806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226342/104806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226342/104805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226341/104805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226340/104805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226339/104805.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市戸畑区千防三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/戸畑区/千防/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市戸畑区千防"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市灘崎町奥迫川",
+    "表記": "岡山県岡山市灘崎町奥迫川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "灘崎町奥迫川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336639",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336638",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336628"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228549/104254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228547/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228548/104253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228552/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228549/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228551/104254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228552/104254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228540/104252.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市灘崎町奥迫川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/灘崎町奥迫川.json",
+    "name": "灘崎町奥迫川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

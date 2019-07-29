@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市沼館",
+    "表記": "青森県八戸市沼館",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "沼館"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市沼館",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/沼館.json",
+    "name": "沼館",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市",
+    "children": [
+      "https://geonames.jp/resource/青森県八戸市沼館（丁目なし）",
+      "https://geonames.jp/resource/青森県八戸市沼館一丁目",
+      "https://geonames.jp/resource/青森県八戸市沼館二丁目",
+      "https://geonames.jp/resource/青森県八戸市沼館三丁目",
+      "https://geonames.jp/resource/青森県八戸市沼館四丁目"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡相川町下寺町",
+    "表記": "新潟県佐渡郡相川町下寺町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "佐渡郡",
+      "市区町村": "相川町",
+      "町名": "下寺町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380139",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380149"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231738/101086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231739/101085.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県佐渡郡相川町下寺町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/佐渡郡/相川町/下寺町.json",
+    "name": "下寺町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県佐渡郡相川町"
+  }
+]

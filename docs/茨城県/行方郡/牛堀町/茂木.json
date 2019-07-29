@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県行方郡牛堀町茂木",
+    "表記": "茨城県行方郡牛堀町茂木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "行方郡",
+      "市区町村": "牛堀町",
+      "町名": "茂木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407471",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407472",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407482",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407492"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/102955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/102951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/102953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233400/102948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/102946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/102948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/102944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/102948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/102951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/102951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/102956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233400/102946.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県行方郡牛堀町茂木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/行方郡/牛堀町/茂木.json",
+    "name": "茂木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県行方郡牛堀町"
+  }
+]

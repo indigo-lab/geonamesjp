@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡新地町杉目雁小屋",
+    "表記": "福島県相馬郡新地町杉目雁小屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "新地町",
+      "町名": "杉目雁小屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406731",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406732"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233667/101247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/101245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/101247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/101242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233677/101240.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡新地町杉目雁小屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/新地町/杉目雁小屋.json",
+    "name": "杉目雁小屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡新地町"
+  }
+]

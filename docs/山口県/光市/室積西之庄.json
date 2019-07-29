@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県光市室積西之庄",
+    "表記": "山口県光市室積西之庄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "光市",
+      "町名": "室積西之庄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317727",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317728"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227176/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227174/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227173/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227173/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227175/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227174/104772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227173/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227172/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227171/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227172/104772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227172/104771.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県光市室積西之庄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/光市/室積西之庄.json",
+    "name": "室積西之庄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県光市"
+  }
+]

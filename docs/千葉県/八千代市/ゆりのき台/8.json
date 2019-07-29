@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県八千代市ゆりのき台八丁目",
+    "表記": "千葉県八千代市ゆりのき台八丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "八千代市",
+      "町名": "八丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12221035008"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404088"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/103175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/103175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/103174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/103174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233095/103173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/103174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/103175.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県八千代市ゆりのき台八丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/八千代市/ゆりのき台/8.json",
+    "name": "八丁目",
+    "alternateName": [
+      "8",
+      "8丁目",
+      "８",
+      "８丁目",
+      "八"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県八千代市ゆりのき台"
+  }
+]

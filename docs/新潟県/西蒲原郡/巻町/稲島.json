@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町稲島",
+    "表記": "新潟県西蒲原郡巻町稲島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "巻町",
+      "町名": "稲島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385638",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385648"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232186/101320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232185/101321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232185/101320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232186/101319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232185/101316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232184/101318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232185/101318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232186/101318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232186/101316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232186/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232185/101319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232183/101319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232184/101321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232184/101320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232182/101317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232188/101324.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町稲島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/巻町/稲島.json",
+    "name": "稲島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡巻町"
+  }
+]

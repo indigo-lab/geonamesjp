@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都足立区新田二丁目",
+    "表記": "東京都足立区新田二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "足立区",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13121031002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395529",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395528"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/103145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/103145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/103146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/103146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232829/103145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232829/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232829/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232830/103144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232830/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232829/103142.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都足立区新田二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/足立区/新田/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都足立区新田"
+  }
+]

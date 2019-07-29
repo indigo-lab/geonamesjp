@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県宗像市泉ケ丘",
+    "表記": "福岡県宗像市泉ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "宗像市",
+      "町名": "泉ケ丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402200150"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県宗像市泉ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/宗像市/泉ケ丘.json",
+    "name": "泉ケ丘",
+    "alternateName": [
+      "泉ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県宗像市",
+    "children": [
+      "https://geonames.jp/resource/福岡県宗像市泉ケ丘一丁目",
+      "https://geonames.jp/resource/福岡県宗像市泉ケ丘二丁目"
+    ]
+  }
+]

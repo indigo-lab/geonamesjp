@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市植木町平井",
+    "表記": "熊本県熊本市植木町平井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "植木町平井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303527",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303528",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303537"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226259/105643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226262/105647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226260/105644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226260/105643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226258/105640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226258/105642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226263/105643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226265/105647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226266/105646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226264/105647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226266/105647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226267/105647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226258/105643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226256/105642.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市植木町平井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/植木町平井.json",
+    "name": "植木町平井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市泉玉露六丁目",
+    "表記": "福島県いわき市泉玉露六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07204505006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403647",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403657"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233631/102069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233631/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233632/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233633/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233632/102071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233633/102071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233631/102072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233632/102072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233633/102072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233633/102073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233632/102073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233631/102073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233633/102074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233631/102071.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市泉玉露六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/泉玉露/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市泉玉露"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡日野町河原",
+    "表記": "滋賀県蒲生郡日野町河原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "蒲生郡",
+      "市区町村": "日野町",
+      "町名": "河原"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡日野町河原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/蒲生郡/日野町/河原.json",
+    "name": "河原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県蒲生郡日野町",
+    "children": [
+      "https://geonames.jp/resource/滋賀県蒲生郡日野町河原（丁目なし）",
+      "https://geonames.jp/resource/滋賀県蒲生郡日野町河原一丁目",
+      "https://geonames.jp/resource/滋賀県蒲生郡日野町河原二丁目"
+    ]
+  }
+]

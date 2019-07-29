@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町五ケ浜",
+    "表記": "新潟県西蒲原郡巻町五ケ浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "巻町",
+      "町名": "五ケ浜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385625",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385635"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232152/101328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232152/101327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232152/101326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232152/101325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232153/101325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/101321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232152/101324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232152/101322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232153/101323.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町五ケ浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/巻町/五ケ浜.json",
+    "name": "五ケ浜",
+    "alternateName": [
+      "五ヶ浜"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡巻町"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市葵区北安東二丁目",
+    "表記": "静岡県静岡市葵区北安東二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "区": "葵区",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S22101108002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383390",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383391"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/103835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103835.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市葵区北安東二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/葵区/北安東/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市葵区北安東"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県知夫郡",
+    "表記": "島根県知夫郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "知夫郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県知夫郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/知夫郡.json",
+    "name": "知夫郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県",
+    "children": [
+      "https://geonames.jp/resource/島根県知夫郡浦郷村",
+      "https://geonames.jp/resource/島根県知夫郡知夫村",
+      "https://geonames.jp/resource/島根県知夫郡黒木村",
+      "https://geonames.jp/resource/島根県知夫郡浦郷町",
+      "https://geonames.jp/resource/島根県知夫郡西ノ島町"
+    ]
+  }
+]

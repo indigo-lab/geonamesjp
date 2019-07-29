@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都杉並区梅里二丁目",
+    "表記": "東京都杉並区梅里二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "杉並区",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13115010002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394531"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103211.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都杉並区梅里二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/杉並区/梅里/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都杉並区梅里"
+  }
+]

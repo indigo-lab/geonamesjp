@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道目梨郡羅臼町瀬石",
+    "表記": "北海道目梨郡羅臼町瀬石",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "目梨郡",
+      "市区町村": "羅臼町",
+      "町名": "瀬石"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2066452204",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066452214"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236881/95145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236882/95142.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道目梨郡羅臼町瀬石",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/目梨郡/羅臼町/瀬石.json",
+    "name": "瀬石",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道目梨郡羅臼町"
+  }
+]

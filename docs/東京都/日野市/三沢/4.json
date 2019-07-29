@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都日野市三沢四丁目",
+    "表記": "東京都日野市三沢四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "日野市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13212030104"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393382",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393383",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393393"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103245.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都日野市三沢四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/日野市/三沢/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都日野市三沢"
+  }
+]

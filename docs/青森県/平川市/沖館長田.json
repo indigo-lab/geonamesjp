@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県平川市沖館長田",
+    "表記": "青森県平川市沖館長田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "平川市",
+      "町名": "沖館長田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406486"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233438/98696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233439/98697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233440/98696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233437/98696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233435/98695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233437/98695.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県平川市沖館長田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/平川市/沖館長田.json",
+    "name": "沖館長田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県平川市"
+  }
+]

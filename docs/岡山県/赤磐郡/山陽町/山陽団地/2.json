@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県赤磐郡山陽町山陽団地二丁目",
+    "表記": "岡山県赤磐郡山陽町山陽団地二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "赤磐郡",
+      "市区町村": "山陽町",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340090"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228651/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228650/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228650/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228651/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228651/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228650/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228649/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228649/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228648/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228648/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228649/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228650/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228651/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228649/104061.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県赤磐郡山陽町山陽団地二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/赤磐郡/山陽町/山陽団地/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県赤磐郡山陽町山陽団地"
+  }
+]

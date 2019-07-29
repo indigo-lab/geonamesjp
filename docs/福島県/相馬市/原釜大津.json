@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬市原釜大津",
+    "表記": "福島県相馬市原釜大津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "相馬市",
+      "町名": "原釜大津"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405797",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406706",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406717"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233713/101268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233714/101272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/101274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/101274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/101273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233714/101273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101275.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬市原釜大津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬市/原釜大津.json",
+    "name": "原釜大津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬市"
+  }
+]

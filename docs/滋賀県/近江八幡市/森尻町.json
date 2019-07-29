@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県近江八幡市森尻町",
+    "表記": "滋賀県近江八幡市森尻町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "森尻町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365036"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230159/103731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230160/103733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230161/103734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230159/103734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230159/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230160/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230162/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230160/103736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230161/103736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230160/103734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230162/103736.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県近江八幡市森尻町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/近江八幡市/森尻町.json",
+    "name": "森尻町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県近江八幡市"
+  }
+]

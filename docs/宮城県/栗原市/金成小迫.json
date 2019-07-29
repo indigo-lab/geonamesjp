@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原市金成小迫",
+    "表記": "宮城県栗原市金成小迫",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "栗原市",
+      "町名": "金成小迫"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411065",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411074",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411075",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058411084"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233796/100367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233784/100357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/100361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233790/100360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/100359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233796/100368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233783/100352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233783/100355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/100363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233796/100370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233795/100370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/100369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233797/100367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233790/100357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233795/100368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/100361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233795/100367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233789/100361.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原市金成小迫",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原市/金成小迫.json",
+    "name": "金成小迫",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原市"
+  }
+]

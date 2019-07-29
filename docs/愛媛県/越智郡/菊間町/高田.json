@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県越智郡菊間町高田",
+    "表記": "愛媛県越智郡菊間町高田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "越智郡",
+      "市区町村": "菊間町",
+      "町名": "高田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320627",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320628",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320637",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320638"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227813/104691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227813/104692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227814/104692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227813/104693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227813/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227812/104693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227812/104694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227811/104694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227811/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227810/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227809/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227810/104696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227809/104696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227809/104697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227810/104697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227813/104694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227811/104696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227812/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227808/104696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227814/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227814/104694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227814/104693.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県越智郡菊間町高田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/越智郡/菊間町/高田.json",
+    "name": "高田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県越智郡菊間町"
+  }
+]

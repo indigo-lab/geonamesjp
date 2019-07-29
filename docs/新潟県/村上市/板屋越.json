@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県村上市板屋越",
+    "表記": "新潟県村上市板屋越",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "村上市",
+      "町名": "板屋越",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152122360"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393463",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393472",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393473",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057393471"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/100834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232678/100831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232678/100833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232679/100829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/100837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232680/100834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232680/100835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/100831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/100833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/100832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/100830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232682/100834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232682/100833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232683/100832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232682/100835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232683/100834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232684/100831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/100827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232679/100830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232680/100833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232669/100826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232681/100836.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県村上市板屋越",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/村上市/板屋越.json",
+    "name": "板屋越",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県村上市"
+  }
+]

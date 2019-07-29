@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道千歳市自由ケ丘二丁目",
+    "表記": "北海道千歳市自由ケ丘二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "千歳市",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064412409",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064411499"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234197/96489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234199/96489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234198/96490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234197/96490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234198/96489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234198/96488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234197/96488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234196/96490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234196/96489.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道千歳市自由ケ丘二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/千歳市/自由ケ丘/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道千歳市自由ケ丘"
+  }
+]

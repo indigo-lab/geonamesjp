@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県香美市土佐山田町南組",
+    "表記": "高知県香美市土佐山田町南組",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "香美市",
+      "町名": "土佐山田町南組"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050333514",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050333524"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228418/105069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228417/105068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228415/105069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228417/105069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228416/105070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228416/105069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228415/105070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228416/105068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228413/105068.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県香美市土佐山田町南組",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/香美市/土佐山田町南組.json",
+    "name": "土佐山田町南組",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県香美市"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県石巻市鹿妻",
+    "表記": "宮城県石巻市鹿妻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "石巻市",
+      "町名": "鹿妻"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県石巻市鹿妻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/石巻市/鹿妻.json",
+    "name": "鹿妻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県石巻市",
+    "children": [
+      "https://geonames.jp/resource/宮城県石巻市鹿妻一丁目",
+      "https://geonames.jp/resource/宮城県石巻市鹿妻二丁目",
+      "https://geonames.jp/resource/宮城県石巻市鹿妻三丁目",
+      "https://geonames.jp/resource/宮城県石巻市鹿妻四丁目",
+      "https://geonames.jp/resource/宮城県石巻市鹿妻五丁目"
+    ]
+  }
+]

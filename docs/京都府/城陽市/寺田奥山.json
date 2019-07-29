@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府城陽市寺田奥山",
+    "表記": "京都府城陽市寺田奥山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "城陽市",
+      "町名": "寺田奥山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352626",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352634"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229982/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229966/103967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229961/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229959/103965.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府城陽市寺田奥山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/城陽市/寺田奥山.json",
+    "name": "寺田奥山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府城陽市"
+  }
+]

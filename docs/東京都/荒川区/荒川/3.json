@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都荒川区荒川三丁目",
+    "表記": "東京都荒川区荒川三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "荒川区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13118002003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394682",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394672"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232857/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232859/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232859/103179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232859/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232858/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232858/103179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232858/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232857/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232857/103179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232857/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232856/103180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232856/103179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232856/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232856/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/103179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232855/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232854/103176.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都荒川区荒川三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/荒川区/荒川/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都荒川区荒川"
+  }
+]

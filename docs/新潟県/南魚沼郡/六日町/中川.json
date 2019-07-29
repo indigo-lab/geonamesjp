@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡六日町中川",
+    "表記": "新潟県南魚沼郡六日町中川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "南魚沼郡",
+      "市区町村": "六日町",
+      "町名": "中川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384754",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384764"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232236/101982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232236/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232235/101984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232235/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232235/101993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232235/101992.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232236/101993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232236/101984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232237/101983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232237/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232237/101985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232238/101984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232238/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232238/101985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232239/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232239/101984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232239/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232239/101985.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡六日町中川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/南魚沼郡/六日町/中川.json",
+    "name": "中川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県南魚沼郡六日町"
+  }
+]

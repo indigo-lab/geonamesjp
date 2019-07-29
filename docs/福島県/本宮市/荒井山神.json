@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県本宮市荒井山神",
+    "表記": "福島県本宮市荒井山神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "本宮市",
+      "町名": "荒井山神"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401390",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401391"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/101581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/101580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/101582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/101580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/101579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/101581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/101580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/101581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/101581.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県本宮市荒井山神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/本宮市/荒井山神.json",
+    "name": "荒井山神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県本宮市"
+  }
+]

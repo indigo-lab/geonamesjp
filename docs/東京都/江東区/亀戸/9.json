@@ -1,0 +1,71 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都江東区亀戸九丁目",
+    "表記": "東京都江東区亀戸九丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "江東区",
+      "町名": "九丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13108037009"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394637",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394647",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394646"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232902/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232902/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232902/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232902/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232903/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232904/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232903/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232904/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232905/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232903/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232902/103210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/103210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/103209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/103210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232898/103209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/103209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232903/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232904/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/103209.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都江東区亀戸九丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/江東区/亀戸/9.json",
+    "name": "九丁目",
+    "alternateName": [
+      "9",
+      "9丁目",
+      "９",
+      "９丁目",
+      "九"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都江東区亀戸"
+  }
+]

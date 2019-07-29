@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県行田市谷郷",
+    "表記": "埼玉県行田市谷郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "行田市",
+      "町名": "谷郷"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県行田市谷郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/行田市/谷郷.json",
+    "name": "谷郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県行田市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県行田市谷郷（丁目なし）",
+      "https://geonames.jp/resource/埼玉県行田市谷郷一丁目",
+      "https://geonames.jp/resource/埼玉県行田市谷郷二丁目",
+      "https://geonames.jp/resource/埼玉県行田市谷郷三丁目"
+    ]
+  }
+]

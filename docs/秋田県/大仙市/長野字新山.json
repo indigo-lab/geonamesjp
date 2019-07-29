@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大仙市長野字新山",
+    "表記": "秋田県大仙市長野字新山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大仙市",
+      "町名": "長野字新山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059402443",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059402453"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233411/99676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233412/99677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233410/99677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233412/99676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233411/99675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/99675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/99676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233409/99677.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大仙市長野字新山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大仙市/長野字新山.json",
+    "name": "長野字新山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大仙市"
+  }
+]

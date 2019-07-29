@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市船渡町字三ツ池",
+    "表記": "愛知県豊橋市船渡町字三ツ池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "船渡町字三ツ池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370258"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231090/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231090/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231091/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231092/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231093/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231091/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231092/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231092/104092.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市船渡町字三ツ池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/船渡町字三ツ池.json",
+    "name": "船渡町字三ツ池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市泉区紫山",
+    "表記": "宮城県仙台市泉区紫山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "泉区",
+      "町名": "紫山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S041050490"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市泉区紫山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/泉区/紫山.json",
+    "name": "紫山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市泉区",
+    "children": [
+      "https://geonames.jp/resource/宮城県仙台市泉区紫山一丁目",
+      "https://geonames.jp/resource/宮城県仙台市泉区紫山二丁目",
+      "https://geonames.jp/resource/宮城県仙台市泉区紫山三丁目",
+      "https://geonames.jp/resource/宮城県仙台市泉区紫山四丁目",
+      "https://geonames.jp/resource/宮城県仙台市泉区紫山五丁目"
+    ]
+  }
+]

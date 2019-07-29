@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市本町追手",
+    "表記": "愛媛県宇和島市本町追手",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "宇和島市",
+      "町名": "本町追手",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382030150"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市本町追手",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/宇和島市/本町追手.json",
+    "name": "本町追手",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県宇和島市",
+    "children": [
+      "https://geonames.jp/resource/愛媛県宇和島市本町追手一丁目",
+      "https://geonames.jp/resource/愛媛県宇和島市本町追手二丁目"
+    ]
+  }
+]

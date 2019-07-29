@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県伊賀市坂之下",
+    "表記": "三重県伊賀市坂之下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "伊賀市",
+      "町名": "坂之下",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242160770"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361162"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/104013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230217/104007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230217/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230217/104011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230217/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230217/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230215/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230216/104007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/104012.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県伊賀市坂之下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/伊賀市/坂之下.json",
+    "name": "坂之下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県伊賀市"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県宇都宮市東塙田",
+    "表記": "栃木県宇都宮市東塙田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "宇都宮市",
+      "町名": "東塙田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092010690"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県宇都宮市東塙田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/宇都宮市/東塙田.json",
+    "name": "東塙田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県宇都宮市",
+    "children": [
+      "https://geonames.jp/resource/栃木県宇都宮市東塙田一丁目",
+      "https://geonames.jp/resource/栃木県宇都宮市東塙田二丁目"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市神奈川区旭ケ丘",
+    "表記": "神奈川県横浜市神奈川区旭ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "神奈川区",
+      "町名": "旭ケ丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S141020840"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391570",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391479"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232744/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232744/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232744/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232743/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232743/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232742/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232743/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232742/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232741/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232745/103409.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市神奈川区旭ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/神奈川区/旭ケ丘.json",
+    "name": "旭ケ丘",
+    "alternateName": [
+      "旭ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市神奈川区"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市母ケ浦町",
+    "表記": "長崎県佐世保市母ケ浦町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "母ケ浦町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296513",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296514",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296523",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296524",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296515"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225500/105432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225501/105432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225501/105431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225502/105432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225497/105434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225497/105430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225498/105432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225500/105429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225506/105434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225499/105430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225497/105429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225495/105431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225496/105431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225504/105434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225499/105433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225498/105435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225513/105438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225500/105433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225501/105433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225506/105435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225498/105433.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県佐世保市母ケ浦町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/佐世保市/母ケ浦町.json",
+    "name": "母ケ浦町",
+    "alternateName": [
+      "母ヶ浦町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/長崎県佐世保市"
+  }
+]

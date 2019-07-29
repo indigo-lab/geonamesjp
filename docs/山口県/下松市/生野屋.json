@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下松市生野屋",
+    "表記": "山口県下松市生野屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "下松市",
+      "町名": "生野屋"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下松市生野屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下松市/生野屋.json",
+    "name": "生野屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下松市",
+    "children": [
+      "https://geonames.jp/resource/山口県下松市生野屋（丁目なし）",
+      "https://geonames.jp/resource/山口県下松市生野屋一丁目",
+      "https://geonames.jp/resource/山口県下松市生野屋二丁目",
+      "https://geonames.jp/resource/山口県下松市生野屋三丁目",
+      "https://geonames.jp/resource/山口県下松市生野屋四丁目",
+      "https://geonames.jp/resource/山口県下松市生野屋五丁目"
+    ]
+  }
+]

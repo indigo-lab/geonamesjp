@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市小山一丁目",
+    "表記": "熊本県熊本市小山一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301692",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302602",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302603"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226306/105736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226304/105736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226304/105737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226305/105736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226305/105737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226306/105737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226306/105735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226307/105734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226308/105733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226308/105735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226308/105736.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市小山一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/小山/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市小山"
+  }
+]

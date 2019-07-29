@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡蒲生町",
+    "表記": "鹿児島県姶良郡蒲生町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "姶良郡",
+      "市区町村": "蒲生町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C46443-20100323",
+        "http://data.e-stat.go.jp/lod/sac/C46443-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡蒲生町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/姶良郡/蒲生町.json",
+    "name": "蒲生町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県姶良郡",
+    "children": [
+      "https://geonames.jp/resource/鹿児島県姶良郡蒲生町下久徳",
+      "https://geonames.jp/resource/鹿児島県姶良郡蒲生町久末",
+      "https://geonames.jp/resource/鹿児島県姶良郡蒲生町上久徳",
+      "https://geonames.jp/resource/鹿児島県姶良郡蒲生町西浦",
+      "https://geonames.jp/resource/鹿児島県姶良郡蒲生町白男",
+      "https://geonames.jp/resource/鹿児島県姶良郡蒲生町米丸",
+      "https://geonames.jp/resource/鹿児島県姶良郡蒲生町北",
+      "https://geonames.jp/resource/鹿児島県姶良郡蒲生町漆"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡姶良町鍋倉",
+    "表記": "鹿児島県姶良郡姶良町鍋倉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "姶良郡",
+      "市区町村": "姶良町",
+      "町名": "鍋倉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305500"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226198/106679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226198/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226196/106677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226196/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226198/106672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226196/106668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226192/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226194/106676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226193/106676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226191/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226191/106673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226192/106672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226192/106671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226193/106670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226189/106674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226190/106675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226195/106677.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡姶良町鍋倉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/姶良郡/姶良町/鍋倉.json",
+    "name": "鍋倉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県姶良郡姶良町"
+  }
+]

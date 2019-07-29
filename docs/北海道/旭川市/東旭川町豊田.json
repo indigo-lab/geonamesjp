@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道旭川市東旭川町豊田",
+    "表記": "北海道旭川市東旭川町豊田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "旭川市",
+      "町名": "東旭川町豊田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012045880"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425410",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425329",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425338",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425339",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425328",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425420"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234842/95560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234821/95545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234823/95544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234825/95540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234827/95540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234828/95544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234825/95548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234831/95546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234832/95548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234832/95550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234831/95549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234827/95548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234832/95552.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234839/95555.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234820/95546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234831/95551.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道旭川市東旭川町豊田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/旭川市/東旭川町豊田.json",
+    "name": "東旭川町豊田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道旭川市"
+  }
+]

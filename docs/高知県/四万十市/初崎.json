@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県四万十市初崎",
+    "表記": "高知県四万十市初崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "四万十市",
+      "町名": "初崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323728",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323718"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227906/105648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227905/105654.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県四万十市初崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/四万十市/初崎.json",
+    "name": "初崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県四万十市"
+  }
+]

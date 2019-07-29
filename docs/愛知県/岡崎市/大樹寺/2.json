@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市大樹寺二丁目",
+    "表記": "愛知県岡崎市大樹寺二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23202210002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232022100",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23202210000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373172",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373182"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/103848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/103848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/103849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230944/103850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/103847.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市大樹寺二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/大樹寺/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市大樹寺"
+  }
+]

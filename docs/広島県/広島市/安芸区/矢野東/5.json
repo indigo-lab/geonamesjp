@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市安芸区矢野東五丁目",
+    "表記": "広島県広島市安芸区矢野東五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "安芸区",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34107845005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324413",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324422",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324423"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227581/104406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227582/104406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227583/104406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227583/104407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227583/104408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227582/104408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227583/104410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227581/104405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227582/104407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227583/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227583/104411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227582/104409.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市安芸区矢野東五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/安芸区/矢野東/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市安芸区矢野東"
+  }
+]

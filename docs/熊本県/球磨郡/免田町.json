@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡免田町",
+    "表記": "熊本県球磨郡免田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "球磨郡",
+      "市区町村": "免田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43503-19701101",
+        "http://data.e-stat.go.jp/lod/sac/C43503-19710801",
+        "http://data.e-stat.go.jp/lod/sac/C43503-19740901",
+        "http://data.e-stat.go.jp/lod/sac/C43503-19750415",
+        "http://data.e-stat.go.jp/lod/sac/C43503-19761001",
+        "http://data.e-stat.go.jp/lod/sac/C43503-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C43503-19740201",
+        "http://data.e-stat.go.jp/lod/sac/C43503-20030401",
+        "http://data.e-stat.go.jp/lod/sac/C43503-19770405",
+        "http://data.e-stat.go.jp/lod/sac/C43503-19720201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡免田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/球磨郡/免田町.json",
+    "name": "免田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県球磨郡"
+  }
+]

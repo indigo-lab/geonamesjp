@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県玉名郡岱明町扇崎",
+    "表記": "熊本県玉名郡岱明町扇崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "玉名郡",
+      "市区町村": "岱明町",
+      "町名": "扇崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302398",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302399",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303309"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226096/105666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226095/105662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226087/105669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226093/105667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226087/105664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226087/105665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226092/105662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226088/105664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226089/105665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226091/105664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226090/105666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226093/105666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226093/105665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226093/105664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226094/105666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226094/105665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226094/105663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226094/105664.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県玉名郡岱明町扇崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/玉名郡/岱明町/扇崎.json",
+    "name": "扇崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県玉名郡岱明町"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡柿崎町東谷内",
+    "表記": "新潟県中頸城郡柿崎町東谷内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中頸城郡",
+      "市区町村": "柿崎町",
+      "町名": "東谷内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387332",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387333",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387343"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231857/101776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231859/101779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231858/101777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231862/101774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231859/101777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231859/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231861/101777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231863/101780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231863/101777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231864/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231865/101778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231869/101780.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡柿崎町東谷内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中頸城郡/柿崎町/東谷内.json",
+    "name": "東谷内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中頸城郡柿崎町"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県氷見市小窪",
+    "表記": "富山県氷見市小窪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "氷見市",
+      "町名": "小窪",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162050680"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362723"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/102163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/102161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/102162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230764/102163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/102164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230765/102165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230766/102164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230766/102163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/102166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/102166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/102164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/102164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230762/102161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/102160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/102158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230762/102163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230763/102165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230764/102159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230763/102162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/102163.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県氷見市小窪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/氷見市/小窪.json",
+    "name": "小窪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県氷見市"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道千歳市梅ケ丘",
+    "表記": "北海道千歳市梅ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "千歳市",
+      "町名": "梅ケ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道千歳市梅ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/千歳市/梅ケ丘.json",
+    "name": "梅ケ丘",
+    "alternateName": [
+      "梅ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道千歳市",
+    "children": [
+      "https://geonames.jp/resource/北海道千歳市梅ケ丘一丁目",
+      "https://geonames.jp/resource/北海道千歳市梅ケ丘二丁目",
+      "https://geonames.jp/resource/北海道千歳市梅ケ丘三丁目"
+    ]
+  }
+]

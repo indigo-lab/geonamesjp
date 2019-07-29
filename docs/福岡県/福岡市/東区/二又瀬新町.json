@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区二又瀬新町",
+    "表記": "福岡県福岡市東区二又瀬新町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "東区",
+      "町名": "二又瀬新町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401310110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303335"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/105061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226056/105061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226055/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226055/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226054/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226054/105057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226056/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226056/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226058/105061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226056/105057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226055/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226058/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226057/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226056/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226055/105057.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区二又瀬新町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/東区/二又瀬新町.json",
+    "name": "二又瀬新町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市東区"
+  }
+]

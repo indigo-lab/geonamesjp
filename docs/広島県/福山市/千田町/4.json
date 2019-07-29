@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県福山市千田町四丁目",
+    "表記": "広島県福山市千田町四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "千田町",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34207042504"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336229",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336320"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228191/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228190/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228191/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228192/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228193/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228194/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228194/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228193/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228192/104254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228191/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228192/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228192/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228190/104255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228190/104256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228192/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228191/104258.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県福山市千田町四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/福山市/千田町/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県福山市千田町"
+  }
+]

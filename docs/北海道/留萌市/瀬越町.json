@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道留萌市瀬越町",
+    "表記": "北海道留萌市瀬越町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "瀬越町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012120040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417520",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065417530"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234206/95381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234206/95377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234206/95380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234207/95380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234207/95383.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234207/95378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234207/95379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234207/95381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234205/95377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234206/95379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234206/95385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234207/95382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234207/95384.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道留萌市瀬越町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/留萌市/瀬越町.json",
+    "name": "瀬越町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道留萌市"
+  }
+]

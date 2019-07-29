@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県北上市和賀町岩沢九地割",
+    "表記": "岩手県北上市和賀町岩沢九地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "北上市",
+      "町名": "和賀町岩沢九地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407764",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407765"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233697/99901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233699/99900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233694/99901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233696/99899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233705/99903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233702/99903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233704/99901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233690/99903.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県北上市和賀町岩沢九地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/北上市/和賀町岩沢九地割.json",
+    "name": "和賀町岩沢九地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県北上市"
+  }
+]

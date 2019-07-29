@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市鳴門町土佐泊浦字福池",
+    "表記": "徳島県鳴門市鳴門町土佐泊浦字福池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "鳴門市",
+      "町名": "鳴門町土佐泊浦字福池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342570",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342581"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229110/104515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229112/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229113/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229113/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229114/104510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229110/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229111/104516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229109/104515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229112/104510.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県鳴門市鳴門町土佐泊浦字福池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/鳴門市/鳴門町土佐泊浦字福池.json",
+    "name": "鳴門町土佐泊浦字福池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県鳴門市"
+  }
+]

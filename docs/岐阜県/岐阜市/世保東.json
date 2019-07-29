@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市世保東",
+    "表記": "岐阜県岐阜市世保東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "岐阜市",
+      "町名": "世保東",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212017520"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361677",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361686",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361687"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/103402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230713/103401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/103403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/103400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103401.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市世保東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/岐阜市/世保東.json",
+    "name": "世保東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県岐阜市"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県板野郡藍住町奥野字矢上前",
+    "表記": "徳島県板野郡藍住町奥野字矢上前",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "板野郡",
+      "市区町村": "藍住町",
+      "町名": "奥野字矢上前"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341349",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051341359"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229009/104605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229008/104603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229009/104608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229007/104605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229007/104606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229008/104605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229008/104604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229006/104603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229005/104604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229006/104605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229005/104606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229009/104606.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県板野郡藍住町奥野字矢上前",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/板野郡/藍住町/奥野字矢上前.json",
+    "name": "奥野字矢上前",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県板野郡藍住町"
+  }
+]

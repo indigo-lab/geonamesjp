@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市平和台",
+    "表記": "神奈川県横須賀市平和台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横須賀市",
+      "町名": "平和台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S142010240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397512"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232769/103598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232770/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232770/103598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232769/103599.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市平和台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横須賀市/平和台.json",
+    "name": "平和台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横須賀市"
+  }
+]

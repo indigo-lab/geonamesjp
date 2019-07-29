@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡東風平町外間",
+    "表記": "沖縄県島尻郡東風平町外間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "島尻郡",
+      "市区町村": "東風平町",
+      "町名": "外間"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272507",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272516",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272517"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224071/111312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224071/111311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224072/111310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224071/111310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224070/111309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224070/111311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224068/111310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224072/111309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224071/111308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224069/111309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224069/111311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224069/111308.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡東風平町外間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/島尻郡/東風平町/外間.json",
+    "name": "外間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県島尻郡東風平町"
+  }
+]

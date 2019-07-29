@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県鳥羽市幸丘",
+    "表記": "三重県鳥羽市幸丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "鳥羽市",
+      "町名": "幸丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242110140"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051365647",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051365657"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/104314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/104315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/104314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/104314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/104313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230720/104316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/104313.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県鳥羽市幸丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/鳥羽市/幸丘.json",
+    "name": "幸丘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県鳥羽市"
+  }
+]

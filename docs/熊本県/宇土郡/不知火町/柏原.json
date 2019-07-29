@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県宇土郡不知火町柏原",
+    "表記": "熊本県宇土郡不知火町柏原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "宇土郡",
+      "市区町村": "不知火町",
+      "町名": "柏原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048307583",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048307593"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226219/105885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226220/105887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226221/105888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226223/105887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226220/105885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226222/105885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226222/105884.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県宇土郡不知火町柏原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/宇土郡/不知火町/柏原.json",
+    "name": "柏原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県宇土郡不知火町"
+  }
+]

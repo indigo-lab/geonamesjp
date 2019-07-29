@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県下妻市下妻甲",
+    "表記": "茨城県下妻市下妻甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "下妻市",
+      "町名": "下妻甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392726",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054392727"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232988/102772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232989/102772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232989/102771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232989/102773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232990/102773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232988/102773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232988/102774.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県下妻市下妻甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/下妻市/下妻甲.json",
+    "name": "下妻甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県下妻市"
+  }
+]

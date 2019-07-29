@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市渋川",
+    "表記": "新潟県魚沼市渋川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "魚沼市",
+      "町名": "渋川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152250980"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390003",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390013",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390014",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390023",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390034",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056390024"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232328/101727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232331/101721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232320/101725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232324/101721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232324/101723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232323/101721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232323/101719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232323/101720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232324/101717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232324/101712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/101704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/101706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/101721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232323/101724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/101719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232324/101724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/101711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232328/101716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/101720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/101714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232323/101717.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市渋川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/魚沼市/渋川.json",
+    "name": "渋川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県魚沼市"
+  }
+]

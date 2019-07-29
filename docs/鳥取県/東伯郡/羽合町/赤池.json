@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡羽合町赤池",
+    "表記": "鳥取県東伯郡羽合町赤池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "東伯郡",
+      "市区町村": "羽合町",
+      "町名": "赤池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331699",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331790"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228556/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228556/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228557/103390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228557/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228557/103394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228558/103392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228558/103391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228559/103394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228559/103393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228559/103391.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡羽合町赤池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/東伯郡/羽合町/赤池.json",
+    "name": "赤池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県東伯郡羽合町"
+  }
+]

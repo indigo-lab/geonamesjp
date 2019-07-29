@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県鹿児島郡吉田町東佐多浦",
+    "表記": "鹿児島県鹿児島郡吉田町東佐多浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "鹿児島郡",
+      "市区町村": "吉田町",
+      "町名": "東佐多浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304465",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304475",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304476",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304485",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304486"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226154/106684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226161/106687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226160/106687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226154/106687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226158/106681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226153/106687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/106686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/106688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226147/106693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/106679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226155/106678.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県鹿児島郡吉田町東佐多浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/鹿児島郡/吉田町/東佐多浦.json",
+    "name": "東佐多浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県鹿児島郡吉田町"
+  }
+]

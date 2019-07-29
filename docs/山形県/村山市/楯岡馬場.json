@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県村山市楯岡馬場",
+    "表記": "山形県村山市楯岡馬場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "村山市",
+      "町名": "楯岡馬場",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062080140"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405371",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405372"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/100670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/100670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233305/100671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/100671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233305/100669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/100669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/100669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/100670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/100671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/100671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/100671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/100672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/100671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/100670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/100672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/100669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/100668.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県村山市楯岡馬場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/村山市/楯岡馬場.json",
+    "name": "楯岡馬場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県村山市"
+  }
+]

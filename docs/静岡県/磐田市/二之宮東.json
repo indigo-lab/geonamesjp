@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県磐田市二之宮東",
+    "表記": "静岡県磐田市二之宮東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "磐田市",
+      "町名": "二之宮東"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370658",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370668"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231457/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231456/104086.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231457/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231457/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231458/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231456/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231457/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231456/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231457/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231456/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231458/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231458/104091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231457/104091.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県磐田市二之宮東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/磐田市/二之宮東.json",
+    "name": "二之宮東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県磐田市"
+  }
+]

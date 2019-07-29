@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県かほく市外日角ハ",
+    "表記": "石川県かほく市外日角ハ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "かほく市",
+      "町名": "外日角ハ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360575",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360576"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230615/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230606/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230614/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230611/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230609/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230607/102283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230609/102282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230608/102283.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県かほく市外日角ハ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/かほく市/外日角ハ.json",
+    "name": "外日角ハ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県かほく市"
+  }
+]

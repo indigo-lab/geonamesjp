@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜北市四大地",
+    "表記": "静岡県浜北市四大地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜北市",
+      "町名": "四大地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372600",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372601"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231389/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231386/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/103980.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231389/103979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/103979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/103979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231389/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231383/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231386/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/103980.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜北市四大地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜北市/四大地.json",
+    "name": "四大地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜北市"
+  }
+]

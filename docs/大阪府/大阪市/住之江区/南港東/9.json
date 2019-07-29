@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府大阪市住之江区南港東九丁目",
+    "表記": "大阪府大阪市住之江区南港東九丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "大阪市",
+      "区": "住之江区",
+      "町名": "九丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S27125022009"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357364",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357374",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357373",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357363"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229693/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229690/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229686/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/104154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229692/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229689/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229684/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229692/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229690/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229691/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229685/104151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229689/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229689/104154.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府大阪市住之江区南港東九丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/大阪市/住之江区/南港東/9.json",
+    "name": "九丁目",
+    "alternateName": [
+      "9",
+      "9丁目",
+      "９",
+      "９丁目",
+      "九"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大阪府大阪市住之江区南港東"
+  }
+]

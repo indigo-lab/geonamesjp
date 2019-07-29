@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道上川郡美瑛町北瑛第二",
+    "表記": "北海道上川郡美瑛町北瑛第二",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "上川郡",
+      "市区町村": "美瑛町",
+      "町名": "北瑛第二"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423345",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423346",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423355",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423356",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423365"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234798/95702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234798/95701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234800/95700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234803/95699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234797/95687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234803/95693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234797/95694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234799/95696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234798/95690.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道上川郡美瑛町北瑛第二",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/上川郡/美瑛町/北瑛第二.json",
+    "name": "北瑛第二",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道上川郡美瑛町"
+  }
+]

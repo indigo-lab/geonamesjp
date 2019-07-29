@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市小々汐",
+    "表記": "宮城県気仙沼市小々汐",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "気仙沼市",
+      "町名": "小々汐",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04205002020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412477",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412467",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412468",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412478"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234180/100284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234181/100283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234181/100287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234182/100288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234182/100289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234179/100285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234181/100284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234185/100286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234183/100290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234182/100285.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市小々汐",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/気仙沼市/小々汐.json",
+    "name": "小々汐",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県気仙沼市"
+  }
+]

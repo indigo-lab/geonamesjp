@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県春日井市西屋町大久手",
+    "表記": "愛知県春日井市西屋町大久手",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "春日井市",
+      "町名": "西屋町大久手"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230785/103605.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県春日井市西屋町大久手",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/春日井市/西屋町大久手.json",
+    "name": "西屋町大久手",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県春日井市"
+  }
+]

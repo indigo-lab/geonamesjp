@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県丹生郡織田町",
+    "表記": "福井県丹生郡織田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "丹生郡",
+      "市区町村": "織田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C18425-20050201",
+        "http://data.e-stat.go.jp/lod/sac/C18425-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県丹生郡織田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/丹生郡/織田町.json",
+    "name": "織田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県丹生郡",
+    "children": [
+      "https://geonames.jp/resource/福井県丹生郡織田町細野",
+      "https://geonames.jp/resource/福井県丹生郡織田町織田",
+      "https://geonames.jp/resource/福井県丹生郡織田町三崎",
+      "https://geonames.jp/resource/福井県丹生郡織田町赤井谷",
+      "https://geonames.jp/resource/福井県丹生郡織田町山田",
+      "https://geonames.jp/resource/福井県丹生郡織田町中",
+      "https://geonames.jp/resource/福井県丹生郡織田町大王丸",
+      "https://geonames.jp/resource/福井県丹生郡織田町打越",
+      "https://geonames.jp/resource/福井県丹生郡織田町下河原",
+      "https://geonames.jp/resource/福井県丹生郡織田町平等",
+      "https://geonames.jp/resource/福井県丹生郡織田町丸山"
+    ]
+  }
+]

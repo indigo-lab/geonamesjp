@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県西彼杵郡三和町藤田尾",
+    "表記": "長崎県西彼杵郡三和町藤田尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "郡": "西彼杵郡",
+      "市区町村": "三和町",
+      "町名": "藤田尾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048297678",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048297688"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225633/105897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225631/105896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225629/105901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225626/105900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225628/105892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225627/105899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225633/105891.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県西彼杵郡三和町藤田尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/西彼杵郡/三和町/藤田尾.json",
+    "name": "藤田尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県西彼杵郡三和町"
+  }
+]

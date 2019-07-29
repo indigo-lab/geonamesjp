@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県宇佐市南敷田",
+    "表記": "大分県宇佐市南敷田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "宇佐市",
+      "町名": "南敷田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050312252",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050312262"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226671/105115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226672/105117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226671/105117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226669/105116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226669/105115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226670/105115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226668/105115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226668/105112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226669/105114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226668/105113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226667/105114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226666/105113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226665/105111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226666/105110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226663/105111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226665/105112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226666/105112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226667/105113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226667/105115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226668/105114.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県宇佐市南敷田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/宇佐市/南敷田.json",
+    "name": "南敷田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県宇佐市"
+  }
+]

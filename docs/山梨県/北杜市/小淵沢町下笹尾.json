@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県北杜市小淵沢町下笹尾",
+    "表記": "山梨県北杜市小淵沢町下笹尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "北杜市",
+      "町名": "小淵沢町下笹尾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053386205",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053385296"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231794/103083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231798/103092.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県北杜市小淵沢町下笹尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/北杜市/小淵沢町下笹尾.json",
+    "name": "小淵沢町下笹尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県北杜市"
+  }
+]

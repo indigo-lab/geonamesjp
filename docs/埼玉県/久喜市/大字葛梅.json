@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県久喜市大字葛梅",
+    "表記": "埼玉県久喜市大字葛梅",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "久喜市",
+      "町名": "大字葛梅"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391512",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391501",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391502",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391511"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232768/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232768/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232767/102855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232765/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/102855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232765/102853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/102853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232765/102854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232767/102854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/102855.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県久喜市大字葛梅",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/久喜市/大字葛梅.json",
+    "name": "大字葛梅",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県久喜市"
+  }
+]

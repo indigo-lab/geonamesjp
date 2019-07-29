@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県北杜市須玉町下津金",
+    "表記": "山梨県北杜市須玉町下津金",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "北杜市",
+      "町名": "須玉町下津金",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S192090090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053386315",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053386326"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231881/103082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231896/103073.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県北杜市須玉町下津金",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/北杜市/須玉町下津金.json",
+    "name": "須玉町下津金",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県北杜市"
+  }
+]

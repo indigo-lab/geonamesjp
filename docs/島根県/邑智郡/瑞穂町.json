@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県邑智郡瑞穂町",
+    "表記": "島根県邑智郡瑞穂町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "邑智郡",
+      "市区町村": "瑞穂町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32445-19820625",
+        "http://data.e-stat.go.jp/lod/sac/C32445-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C32445-19920904",
+        "http://data.e-stat.go.jp/lod/sac/C32445-20041001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県邑智郡瑞穂町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/邑智郡/瑞穂町.json",
+    "name": "瑞穂町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県邑智郡"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県大野市上丁",
+    "表記": "福井県大野市上丁",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "大野市",
+      "町名": "上丁",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182050880"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367377",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367376",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367387"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230442/102956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230446/102959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230442/102957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230443/102957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230443/102958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230440/102957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230443/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230442/102958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230443/102959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230441/102957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/102952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230448/102950.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県大野市上丁",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/大野市/上丁.json",
+    "name": "上丁",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県大野市"
+  }
+]

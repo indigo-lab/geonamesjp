@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県甲奴郡",
+    "表記": "広島県甲奴郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "甲奴郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C34560-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C34560-20050331"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県甲奴郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/甲奴郡.json",
+    "name": "甲奴郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県",
+    "children": [
+      "https://geonames.jp/resource/広島県甲奴郡総領町",
+      "https://geonames.jp/resource/広島県甲奴郡甲奴町",
+      "https://geonames.jp/resource/広島県甲奴郡上下町",
+      "https://geonames.jp/resource/広島県甲奴郡上川村",
+      "https://geonames.jp/resource/広島県甲奴郡吉野村",
+      "https://geonames.jp/resource/広島県甲奴郡清岳村",
+      "https://geonames.jp/resource/広島県甲奴郡田総村",
+      "https://geonames.jp/resource/広島県甲奴郡甲奴村",
+      "https://geonames.jp/resource/広島県甲奴郡矢野村",
+      "https://geonames.jp/resource/広島県甲奴郡階見村",
+      "https://geonames.jp/resource/広島県甲奴郡領家村"
+    ]
+  }
+]

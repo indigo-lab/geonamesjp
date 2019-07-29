@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県豊田郡瀬戸田町高根",
+    "表記": "広島県豊田郡瀬戸田町高根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "豊田郡",
+      "市区町村": "瀬戸田町",
+      "町名": "高根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333066",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333076",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333085",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333086"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227982/104442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227979/104433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227979/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227979/104437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227979/104439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227980/104439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227981/104440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227981/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227981/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227978/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227977/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227981/104443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227979/104445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227977/104449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227978/104446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227979/104447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227979/104446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227973/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227979/104442.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県豊田郡瀬戸田町高根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/豊田郡/瀬戸田町/高根.json",
+    "name": "高根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県豊田郡瀬戸田町"
+  }
+]

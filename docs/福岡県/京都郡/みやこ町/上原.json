@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県京都郡みやこ町上原",
+    "表記": "福岡県京都郡みやこ町上原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "京都郡",
+      "市区町村": "みやこ町",
+      "町名": "上原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S406250510"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050304708",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303799"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226452/105010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226454/105011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226453/105015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226453/105010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226452/105012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226452/105011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226451/105010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226451/105013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226452/105015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226449/105013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226448/105013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226448/105012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226449/105012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226448/105011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226449/105011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226451/105011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226453/105011.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県京都郡みやこ町上原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/京都郡/みやこ町/上原.json",
+    "name": "上原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県京都郡みやこ町"
+  }
+]

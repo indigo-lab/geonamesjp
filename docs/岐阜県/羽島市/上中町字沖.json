@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県羽島市上中町字沖",
+    "表記": "岐阜県羽島市上中町字沖",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "羽島市",
+      "町名": "上中町字沖"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367556"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230613/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230617/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/103572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/103572.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県羽島市上中町字沖",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/羽島市/上中町字沖.json",
+    "name": "上中町字沖",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県羽島市"
+  }
+]

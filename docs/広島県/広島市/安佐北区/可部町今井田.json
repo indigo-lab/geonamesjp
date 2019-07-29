@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐北区可部町今井田",
+    "表記": "広島県広島市安佐北区可部町今井田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "安佐北区",
+      "町名": "可部町今井田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326308",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326317",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326318"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227539/104264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227532/104264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227542/104271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227545/104275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227543/104274.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐北区可部町今井田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/安佐北区/可部町今井田.json",
+    "name": "可部町今井田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市安佐北区"
+  }
+]

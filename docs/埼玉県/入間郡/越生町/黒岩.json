@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡越生町黒岩",
+    "表記": "埼玉県入間郡越生町黒岩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "入間郡",
+      "市区町村": "越生町",
+      "町名": "黒岩"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397263",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397253"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232500/102969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/102969.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232503/102968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/102967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/102968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232501/102966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232499/102966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232501/102967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232502/102970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232499/102970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232501/102968.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県入間郡越生町黒岩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/入間郡/越生町/黒岩.json",
+    "name": "黒岩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県入間郡越生町"
+  }
+]

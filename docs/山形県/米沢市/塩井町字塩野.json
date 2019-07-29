@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県米沢市塩井町字塩野",
+    "表記": "山形県米沢市塩井町字塩野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "米沢市",
+      "町名": "塩井町字塩野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056407017",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056407018",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056407028",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056407038"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233092/101171.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/101169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233089/101183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233090/101182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/101182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233094/101182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/101183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233090/101184.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233090/101170.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233091/101166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233092/101165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233092/101166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/101183.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県米沢市塩井町字塩野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/米沢市/塩井町字塩野.json",
+    "name": "塩井町字塩野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県米沢市"
+  }
+]

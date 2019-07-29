@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県葦北郡芦北町大字宮浦",
+    "表記": "熊本県葦北郡芦北町大字宮浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "葦北郡",
+      "市区町村": "芦北町",
+      "町名": "大字宮浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048303451",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048303461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048303472",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048303462"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/106196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226112/106199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226117/106190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226123/106187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226112/106198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226122/106189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226123/106192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/106193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226116/106194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226124/106196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226113/106199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226112/106200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226117/106191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226111/106200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226113/106196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/106199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226114/106195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226118/106195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226115/106197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226118/106193.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県葦北郡芦北町大字宮浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/葦北郡/芦北町/大字宮浦.json",
+    "name": "大字宮浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県葦北郡芦北町"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市下場新町",
+    "表記": "新潟県新潟市下場新町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "下場新町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396088"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232365/101203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232364/101203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232364/101204.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232365/101202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232364/101202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232366/101202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232367/101202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232366/101203.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市下場新町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/下場新町.json",
+    "name": "下場新町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

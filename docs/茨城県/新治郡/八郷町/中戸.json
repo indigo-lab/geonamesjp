@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県新治郡八郷町中戸",
+    "表記": "茨城県新治郡八郷町中戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "新治郡",
+      "市区町村": "八郷町",
+      "町名": "中戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403146",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403156",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054403166"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/102680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/102680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/102676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233170/102673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233170/102668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233167/102676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233167/102677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233166/102677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233168/102677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233171/102677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/102675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/102674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/102676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/102669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/102671.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県新治郡八郷町中戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/新治郡/八郷町/中戸.json",
+    "name": "中戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県新治郡八郷町"
+  }
+]

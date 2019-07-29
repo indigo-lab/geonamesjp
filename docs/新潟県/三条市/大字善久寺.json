@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市大字善久寺",
+    "表記": "新潟県三条市大字善久寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三条市",
+      "町名": "大字善久寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383712",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383702"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232219/101491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/101497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232213/101493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232220/101491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/101492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232220/101493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232219/101493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232218/101497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/101493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/101491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/101490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232218/101494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232216/101493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232215/101492.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市大字善久寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/大字善久寺.json",
+    "name": "大字善久寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市"
+  }
+]

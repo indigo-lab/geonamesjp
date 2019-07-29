@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市辻",
+    "表記": "山形県山形市辻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "山形市",
+      "町名": "辻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403201",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057403211"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233213/100876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233212/100878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233212/100879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233213/100881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/100878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233215/100881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233211/100882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233213/100879.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市辻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/辻.json",
+    "name": "辻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市富田",
+    "表記": "青森県青森市富田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "富田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022011250"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市富田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/富田.json",
+    "name": "富田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市",
+    "children": [
+      "https://geonames.jp/resource/青森県青森市富田一丁目",
+      "https://geonames.jp/resource/青森県青森市富田二丁目",
+      "https://geonames.jp/resource/青森県青森市富田三丁目",
+      "https://geonames.jp/resource/青森県青森市富田四丁目",
+      "https://geonames.jp/resource/青森県青森市富田五丁目"
+    ]
+  }
+]

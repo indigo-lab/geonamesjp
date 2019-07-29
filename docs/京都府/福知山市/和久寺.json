@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市和久寺",
+    "表記": "京都府福知山市和久寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "和久寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357066",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357067",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357076",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357077"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229435/103564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229435/103563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229436/103564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229437/103563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229439/103563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229438/103562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229438/103560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229439/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229438/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229439/103560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229439/103562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229440/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229442/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229442/103560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229443/103560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229444/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229442/103559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229436/103559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229439/103556.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229439/103558.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市和久寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/和久寺.json",
+    "name": "和久寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

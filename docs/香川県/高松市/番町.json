@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県高松市番町",
+    "表記": "香川県高松市番町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "番町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県高松市番町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/高松市/番町.json",
+    "name": "番町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県高松市",
+    "children": [
+      "https://geonames.jp/resource/香川県高松市番町（丁目なし）",
+      "https://geonames.jp/resource/香川県高松市番町一丁目",
+      "https://geonames.jp/resource/香川県高松市番町二丁目",
+      "https://geonames.jp/resource/香川県高松市番町三丁目",
+      "https://geonames.jp/resource/香川県高松市番町四丁目",
+      "https://geonames.jp/resource/香川県高松市番町五丁目"
+    ]
+  }
+]

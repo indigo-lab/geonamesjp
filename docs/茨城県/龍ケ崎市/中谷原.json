@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県龍ケ崎市中谷原",
+    "表記": "茨城県龍ケ崎市中谷原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "龍ケ崎市",
+      "町名": "中谷原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406174",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406183",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406184"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233144/103026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233148/103024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233148/103025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233147/103025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233146/103025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233146/103024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233139/103028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233140/103028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233140/103029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233143/103028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233142/103029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233145/103026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233148/103026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233145/103034.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県龍ケ崎市中谷原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/龍ケ崎市/中谷原.json",
+    "name": "中谷原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県龍ケ崎市"
+  }
+]

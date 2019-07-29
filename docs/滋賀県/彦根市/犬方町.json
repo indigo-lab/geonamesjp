@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県彦根市犬方町",
+    "表記": "滋賀県彦根市犬方町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "犬方町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252021040",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25202104005",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25202104001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25202104002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25202104004",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25202104006",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25202104003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366179",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366270"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230281/103629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103630.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103626.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県彦根市犬方町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/彦根市/犬方町.json",
+    "name": "犬方町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県彦根市"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡宮田村大原区",
+    "表記": "長野県上伊那郡宮田村大原区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "上伊那郡",
+      "市区町村": "宮田村",
+      "町名": "大原区"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375715",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375705",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375716"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231523/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231522/103154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231523/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231522/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231524/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/103155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231522/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231524/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231523/103157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231523/103158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231522/103157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/103157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/103154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231523/103159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/103158.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上伊那郡宮田村大原区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上伊那郡/宮田村/大原区.json",
+    "name": "大原区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上伊那郡宮田村"
+  }
+]

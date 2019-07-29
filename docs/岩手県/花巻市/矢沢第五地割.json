@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県花巻市矢沢第五地割",
+    "表記": "岩手県花巻市矢沢第五地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "花巻市",
+      "町名": "矢沢第五地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410193",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410183"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/99798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/99800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233867/99800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233867/99799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233869/99798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233866/99803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233866/99801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233868/99798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233869/99797.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県花巻市矢沢第五地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/花巻市/矢沢第五地割.json",
+    "name": "矢沢第五地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県花巻市"
+  }
+]

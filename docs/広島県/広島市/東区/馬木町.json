@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市東区馬木町",
+    "表記": "広島県広島市東区馬木町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "東区",
+      "町名": "馬木町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S341028430"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325412",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325421",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325422",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325423",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325411",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325413",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325432"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227573/104338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227570/104332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227587/104331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227579/104335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227581/104335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227571/104338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227579/104334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227570/104333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227571/104337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227573/104334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227572/104336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227573/104339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227586/104340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227580/104333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227578/104326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227584/104338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227581/104333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227582/104333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227586/104332.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市東区馬木町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/東区/馬木町.json",
+    "name": "馬木町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市東区"
+  }
+]

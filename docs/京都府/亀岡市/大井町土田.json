@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府亀岡市大井町土田",
+    "表記": "京都府亀岡市大井町土田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "亀岡市",
+      "町名": "大井町土田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府亀岡市大井町土田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/亀岡市/大井町土田.json",
+    "name": "大井町土田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府亀岡市",
+    "children": [
+      "https://geonames.jp/resource/京都府亀岡市大井町土田（丁目なし）",
+      "https://geonames.jp/resource/京都府亀岡市大井町土田一丁目",
+      "https://geonames.jp/resource/京都府亀岡市大井町土田二丁目",
+      "https://geonames.jp/resource/京都府亀岡市大井町土田三丁目"
+    ]
+  }
+]

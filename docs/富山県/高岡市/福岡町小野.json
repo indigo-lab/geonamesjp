@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市福岡町小野",
+    "表記": "富山県高岡市福岡町小野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "高岡市",
+      "町名": "福岡町小野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360669",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360770",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360689"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/102284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230741/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230742/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230732/102280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230732/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230737/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/102280.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市福岡町小野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/福岡町小野.json",
+    "name": "福岡町小野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県雲仙市瑞穂町古部甲",
+    "表記": "長崎県雲仙市瑞穂町古部甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "雲仙市",
+      "町名": "瑞穂町古部甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302127",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302118"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225897/105716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225900/105727.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県雲仙市瑞穂町古部甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/雲仙市/瑞穂町古部甲.json",
+    "name": "瑞穂町古部甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県雲仙市"
+  }
+]

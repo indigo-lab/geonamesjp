@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県新宮市大橋通り",
+    "表記": "和歌山県新宮市大橋通り",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "新宮市",
+      "町名": "大橋通り"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県新宮市大橋通り",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/新宮市/大橋通り.json",
+    "name": "大橋通り",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県新宮市",
+    "children": [
+      "https://geonames.jp/resource/和歌山県新宮市大橋通り二丁目",
+      "https://geonames.jp/resource/和歌山県新宮市大橋通り三丁目",
+      "https://geonames.jp/resource/和歌山県新宮市大橋通り四丁目"
+    ]
+  }
+]

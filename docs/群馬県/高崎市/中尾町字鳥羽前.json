@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県高崎市中尾町字鳥羽前",
+    "表記": "群馬県高崎市中尾町字鳥羽前",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "高崎市",
+      "町名": "中尾町字鳥羽前"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394052"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232312/102601.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県高崎市中尾町字鳥羽前",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/高崎市/中尾町字鳥羽前.json",
+    "name": "中尾町字鳥羽前",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県高崎市"
+  }
+]

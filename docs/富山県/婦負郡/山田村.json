@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県婦負郡山田村",
+    "表記": "富山県婦負郡山田村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "婦負郡",
+      "市区町村": "山田村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C16363-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C16363-20050401",
+        "http://data.e-stat.go.jp/lod/sac/C16363-19770301"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県婦負郡山田村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/婦負郡/山田村.json",
+    "name": "山田村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県婦負郡"
+  }
+]

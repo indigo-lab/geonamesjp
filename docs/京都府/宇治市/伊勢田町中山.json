@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府宇治市伊勢田町中山",
+    "表記": "京都府宇治市伊勢田町中山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "宇治市",
+      "町名": "伊勢田町中山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S26204042014"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352651",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352652",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352662"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229940/103938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229940/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229942/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229941/103938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229941/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229943/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229942/103938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229943/103938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229942/103937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229941/103937.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府宇治市伊勢田町中山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/宇治市/伊勢田町中山.json",
+    "name": "伊勢田町中山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府宇治市"
+  }
+]

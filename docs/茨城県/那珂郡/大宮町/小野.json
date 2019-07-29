@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県那珂郡大宮町小野",
+    "表記": "茨城県那珂郡大宮町小野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "那珂郡",
+      "市区町村": "大宮町",
+      "町名": "小野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406249",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406330"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/102459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/102461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/102459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/102453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/102451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/102455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/102454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/102456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/102461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/102461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233288/102461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/102461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/102459.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県那珂郡大宮町小野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/那珂郡/大宮町/小野.json",
+    "name": "小野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県那珂郡大宮町"
+  }
+]

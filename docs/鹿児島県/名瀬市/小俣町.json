@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県名瀬市小俣町",
+    "表記": "鹿児島県名瀬市小俣町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "小俣町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2042294440"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225373/109514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225373/109513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225373/109515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225372/109515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225371/109515.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県名瀬市小俣町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/名瀬市/小俣町.json",
+    "name": "小俣町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県名瀬市"
+  }
+]

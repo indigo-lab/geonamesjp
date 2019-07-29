@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県西磐井郡花泉町",
+    "表記": "岩手県西磐井郡花泉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "西磐井郡",
+      "市区町村": "花泉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C03401-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C03401-19851001",
+        "http://data.e-stat.go.jp/lod/sac/C03401-20050920",
+        "http://data.e-stat.go.jp/lod/sac/C03401-20010401",
+        "http://data.e-stat.go.jp/lod/sac/C03401-19970120"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県西磐井郡花泉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/西磐井郡/花泉町.json",
+    "name": "花泉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県西磐井郡"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字真倉",
+    "表記": "京都府舞鶴市字真倉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "字真倉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350265",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350275",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350285",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350286",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350274",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350296"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229613/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229614/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229604/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229609/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229608/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229608/103481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229608/103484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229609/103488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229602/103481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229614/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229617/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229616/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229617/103464.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字真倉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/字真倉.json",
+    "name": "字真倉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

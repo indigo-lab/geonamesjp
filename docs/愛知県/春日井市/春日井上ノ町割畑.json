@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県春日井市春日井上ノ町割畑",
+    "表記": "愛知県春日井市春日井上ノ町割畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "春日井市",
+      "町名": "春日井上ノ町割畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103607.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県春日井市春日井上ノ町割畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/春日井市/春日井上ノ町割畑.json",
+    "name": "春日井上ノ町割畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県春日井市"
+  }
+]

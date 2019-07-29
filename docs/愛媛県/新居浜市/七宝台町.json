@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市七宝台町",
+    "表記": "愛媛県新居浜市七宝台町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "七宝台町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382050250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337226",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337236"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228160/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228157/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228159/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228156/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228158/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228158/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228160/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228161/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228157/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228161/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228160/104770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228159/104769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228159/104768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228158/104769.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県新居浜市七宝台町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/新居浜市/七宝台町.json",
+    "name": "七宝台町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県新居浜市"
+  }
+]

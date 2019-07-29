@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県郡山市富田町字権現林",
+    "表記": "福島県郡山市富田町字権現林",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "郡山市",
+      "町名": "富田町字権現林",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07203098187"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401217"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/101643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233266/101643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/101642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/101641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233266/101641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233265/101640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233266/101639.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233266/101642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233265/101641.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県郡山市富田町字権現林",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/郡山市/富田町字権現林.json",
+    "name": "富田町字権現林",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県郡山市"
+  }
+]

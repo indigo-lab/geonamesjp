@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県東田川郡三川町菱沼",
+    "表記": "山形県東田川郡三川町菱沼",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "郡": "東田川郡",
+      "市区町村": "三川町",
+      "町名": "菱沼"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391638",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391639",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391649"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/100389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/100391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/100389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/100391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/100393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/100392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/100391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/100391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/100385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/100387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/100385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/100384.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/100387.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県東田川郡三川町菱沼",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/東田川郡/三川町/菱沼.json",
+    "name": "菱沼",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県東田川郡三川町"
+  }
+]

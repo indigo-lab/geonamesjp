@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府泉南郡熊取町大字小谷",
+    "表記": "大阪府泉南郡熊取町大字小谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "郡": "泉南郡",
+      "市区町村": "熊取町",
+      "町名": "大字小谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354370",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354380",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354289",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354360"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/104362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229646/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229646/104362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104365.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229651/104372.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府泉南郡熊取町大字小谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/泉南郡/熊取町/大字小谷.json",
+    "name": "大字小谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府泉南郡熊取町"
+  }
+]

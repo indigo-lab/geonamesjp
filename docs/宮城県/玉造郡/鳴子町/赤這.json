@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県玉造郡鳴子町赤這",
+    "表記": "宮城県玉造郡鳴子町赤這",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "玉造郡",
+      "市区町村": "鳴子町",
+      "町名": "赤這"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400598",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058401508",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058401509"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233551/100419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233553/100414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233548/100418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233552/100421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233554/100420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233554/100419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233555/100422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233558/100420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233559/100417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233554/100423.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県玉造郡鳴子町赤這",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/玉造郡/鳴子町/赤這.json",
+    "name": "赤這",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県玉造郡鳴子町"
+  }
+]

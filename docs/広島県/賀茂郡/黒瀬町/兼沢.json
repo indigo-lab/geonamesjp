@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県賀茂郡黒瀬町兼沢",
+    "表記": "広島県賀茂郡黒瀬町兼沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "賀茂郡",
+      "市区町村": "黒瀬町",
+      "町名": "兼沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323571",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323572",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323581",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323582"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227666/104435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227667/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227664/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227661/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227662/104437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227665/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227665/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227666/104437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227667/104437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227664/104435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227663/104443.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県賀茂郡黒瀬町兼沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/賀茂郡/黒瀬町/兼沢.json",
+    "name": "兼沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県賀茂郡黒瀬町"
+  }
+]

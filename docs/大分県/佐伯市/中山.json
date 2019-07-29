@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県佐伯市中山",
+    "表記": "大分県佐伯市中山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "佐伯市",
+      "町名": "中山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313721"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227111/105647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227107/105646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227108/105646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227104/105645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227107/105645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227106/105645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227108/105644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227108/105645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227105/105644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227107/105644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227106/105644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227108/105643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227106/105646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227109/105645.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県佐伯市中山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/佐伯市/中山.json",
+    "name": "中山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県佐伯市"
+  }
+]

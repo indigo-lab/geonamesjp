@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県かほく市宇気タ",
+    "表記": "石川県かほく市宇気タ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "かほく市",
+      "町名": "宇気タ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360576",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360586",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360587"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102275.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県かほく市宇気タ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/かほく市/宇気タ.json",
+    "name": "宇気タ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県かほく市"
+  }
+]

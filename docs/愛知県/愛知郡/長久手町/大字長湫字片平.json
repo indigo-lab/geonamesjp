@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県愛知郡長久手町大字長湫字片平",
+    "表記": "愛知県愛知郡長久手町大字長湫字片平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "愛知郡",
+      "市区町村": "長久手町",
+      "町名": "大字長湫字片平"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375082",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375092",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375093"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230857/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230854/103696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230855/103696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230855/103695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230855/103694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230860/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230855/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230859/103690.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県愛知郡長久手町大字長湫字片平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/愛知郡/長久手町/大字長湫字片平.json",
+    "name": "大字長湫字片平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県愛知郡長久手町"
+  }
+]

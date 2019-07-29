@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県南安曇郡三郷村",
+    "表記": "長野県南安曇郡三郷村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "南安曇郡",
+      "市区町村": "三郷村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20466-19960401",
+        "http://data.e-stat.go.jp/lod/sac/C20466-19730401",
+        "http://data.e-stat.go.jp/lod/sac/C20466-19841201",
+        "http://data.e-stat.go.jp/lod/sac/C20466-19810901",
+        "http://data.e-stat.go.jp/lod/sac/C20466-19861201",
+        "http://data.e-stat.go.jp/lod/sac/C20466-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C20466-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県南安曇郡三郷村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/南安曇郡/三郷村.json",
+    "name": "三郷村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県南安曇郡",
+    "children": [
+      "https://geonames.jp/resource/長野県南安曇郡三郷村温",
+      "https://geonames.jp/resource/長野県南安曇郡三郷村小倉",
+      "https://geonames.jp/resource/長野県南安曇郡三郷村明盛"
+    ]
+  }
+]

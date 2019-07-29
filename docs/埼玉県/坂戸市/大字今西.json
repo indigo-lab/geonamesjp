@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県坂戸市大字今西",
+    "表記": "埼玉県坂戸市大字今西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "坂戸市",
+      "町名": "大字今西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112390450"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397279",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397269",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397278"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/102962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/102962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/102961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/102961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/102961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232552/102961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232554/102963.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/102962.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県坂戸市大字今西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/坂戸市/大字今西.json",
+    "name": "大字今西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県坂戸市"
+  }
+]

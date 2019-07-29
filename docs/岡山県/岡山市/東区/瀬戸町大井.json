@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市東区瀬戸町大井",
+    "表記": "岡山県岡山市東区瀬戸町大井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "区": "東区",
+      "町名": "瀬戸町大井",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S331031040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341025",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341015",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341016",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341026"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228702/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228701/104047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228702/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228701/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228702/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228702/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228703/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228704/104045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228703/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228702/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228702/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228701/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228700/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228701/104041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228702/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228699/104046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228700/104040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228701/104044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228704/104042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228703/104043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228704/104044.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市東区瀬戸町大井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/東区/瀬戸町大井.json",
+    "name": "瀬戸町大井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市東区"
+  }
+]

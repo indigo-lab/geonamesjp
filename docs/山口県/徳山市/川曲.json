@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県徳山市川曲",
+    "表記": "山口県徳山市川曲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "徳山市",
+      "町名": "川曲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311614",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311625"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227054/104631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227047/104627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227055/104624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227053/104624.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県徳山市川曲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/徳山市/川曲.json",
+    "name": "川曲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県徳山市"
+  }
+]

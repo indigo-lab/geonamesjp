@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都町田市玉川学園三丁目",
+    "表記": "東京都町田市玉川学園三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "町田市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13209017003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392376"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/103333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/103335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/103334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/103334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/103334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/103333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/103333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/103332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/103331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/103332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/103331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/103331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/103332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232621/103332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232621/103334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232621/103333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232621/103331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232622/103333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232622/103332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232623/103332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232622/103334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/103335.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都町田市玉川学園三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/町田市/玉川学園/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都町田市玉川学園"
+  }
+]

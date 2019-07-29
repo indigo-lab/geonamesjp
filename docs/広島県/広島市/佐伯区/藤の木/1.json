@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市佐伯区藤の木一丁目",
+    "表記": "広島県広島市佐伯区藤の木一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "佐伯区",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34108959001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325208",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325209"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227455/104348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227455/104347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227454/104348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227453/104348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227454/104349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227456/104348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227455/104349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227455/104350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227454/104350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227453/104349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227452/104349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227451/104348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227451/104349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227453/104347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227452/104348.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市佐伯区藤の木一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/佐伯区/藤の木/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市佐伯区藤の木"
+  }
+]

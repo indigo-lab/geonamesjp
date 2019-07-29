@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県水沢市天文台通り",
+    "表記": "岩手県水沢市天文台通り",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "水沢市",
+      "町名": "天文台通り"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415160"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233845/100056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233844/100058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233843/100057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233844/100057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233843/100058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233842/100057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100057.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県水沢市天文台通り",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/水沢市/天文台通り.json",
+    "name": "天文台通り",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県水沢市"
+  }
+]

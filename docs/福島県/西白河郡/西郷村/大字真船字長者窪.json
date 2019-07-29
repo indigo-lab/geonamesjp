@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県西白河郡西郷村大字真船字長者窪",
+    "表記": "福島県西白河郡西郷村大字真船字長者窪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "西白河郡",
+      "市区町村": "西郷村",
+      "町名": "大字真船字長者窪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405172",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405171"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233127/101903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233126/101902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/101904.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県西白河郡西郷村大字真船字長者窪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/西白河郡/西郷村/大字真船字長者窪.json",
+    "name": "大字真船字長者窪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県西白河郡西郷村"
+  }
+]

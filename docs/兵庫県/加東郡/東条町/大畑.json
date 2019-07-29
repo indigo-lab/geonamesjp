@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県加東郡東条町大畑",
+    "表記": "兵庫県加東郡東条町大畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "加東郡",
+      "市区町村": "東条町",
+      "町名": "大畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352022",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352032",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352042",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352051",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352052",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352061"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229391/103934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229390/103937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229391/103936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229391/103935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229390/103938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229391/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229393/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229394/103943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229396/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229403/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229396/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229396/103964.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229404/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229412/103956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229388/103936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229390/103935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229390/103936.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県加東郡東条町大畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/加東郡/東条町/大畑.json",
+    "name": "大畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県加東郡東条町"
+  }
+]

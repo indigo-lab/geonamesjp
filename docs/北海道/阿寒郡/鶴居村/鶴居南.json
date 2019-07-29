@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道阿寒郡鶴居村鶴居南",
+    "表記": "北海道阿寒郡鶴居村鶴居南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "阿寒郡",
+      "市区町村": "鶴居村",
+      "町名": "鶴居南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016670013"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道阿寒郡鶴居村鶴居南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/阿寒郡/鶴居村/鶴居南.json",
+    "name": "鶴居南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道阿寒郡鶴居村",
+    "children": [
+      "https://geonames.jp/resource/北海道阿寒郡鶴居村鶴居南一丁目",
+      "https://geonames.jp/resource/北海道阿寒郡鶴居村鶴居南二丁目",
+      "https://geonames.jp/resource/北海道阿寒郡鶴居村鶴居南三丁目",
+      "https://geonames.jp/resource/北海道阿寒郡鶴居村鶴居南四丁目",
+      "https://geonames.jp/resource/北海道阿寒郡鶴居村鶴居南五丁目"
+    ]
+  }
+]

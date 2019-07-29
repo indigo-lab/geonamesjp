@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県足柄上郡山北町谷ヶ",
+    "表記": "神奈川県足柄上郡山北町谷ヶ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "郡": "足柄上郡",
+      "市区町村": "山北町",
+      "町名": "谷ヶ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390023",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390043"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232316/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232316/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232318/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232319/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232319/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232316/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232316/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232316/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232316/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232316/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232317/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232317/103506.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県足柄上郡山北町谷ヶ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/足柄上郡/山北町/谷ヶ.json",
+    "name": "谷ヶ",
+    "alternateName": [
+      "谷ケ"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県足柄上郡山北町"
+  }
+]

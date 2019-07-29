@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県利根郡白沢村",
+    "表記": "群馬県利根郡白沢村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "利根郡",
+      "市区町村": "白沢村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C10441-19820401",
+        "http://data.e-stat.go.jp/lod/sac/C10441-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C10441-20050213",
+        "http://data.e-stat.go.jp/lod/sac/C10441-19830401",
+        "http://data.e-stat.go.jp/lod/sac/C10441-19720901"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県利根郡白沢村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/利根郡/白沢村.json",
+    "name": "白沢村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県利根郡"
+  }
+]

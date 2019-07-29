@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道紋別郡雄武町元稲府",
+    "表記": "北海道紋別郡雄武町元稲府",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "紋別郡",
+      "市区町村": "雄武町",
+      "町名": "元稲府"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2066427716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066427725"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235167/94712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235166/94711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235161/94709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235163/94709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235164/94710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235166/94710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235164/94709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235159/94709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235157/94709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235160/94709.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道紋別郡雄武町元稲府",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/紋別郡/雄武町/元稲府.json",
+    "name": "元稲府",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道紋別郡雄武町"
+  }
+]

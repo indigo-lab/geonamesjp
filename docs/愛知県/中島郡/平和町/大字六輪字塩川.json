@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県中島郡平和町大字六輪字塩川",
+    "表記": "愛知県中島郡平和町大字六輪字塩川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "中島郡",
+      "市区町村": "平和町",
+      "町名": "大字六輪字塩川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366538",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/103655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/103658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/103659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/103660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/103659.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県中島郡平和町大字六輪字塩川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/中島郡/平和町/大字六輪字塩川.json",
+    "name": "大字六輪字塩川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県中島郡平和町"
+  }
+]

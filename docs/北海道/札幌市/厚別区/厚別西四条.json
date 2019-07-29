@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道札幌市厚別区厚別西四条",
+    "表記": "北海道札幌市厚別区厚別西四条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "札幌市",
+      "区": "厚別区",
+      "町名": "厚別西四条",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S011083404"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道札幌市厚別区厚別西四条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/札幌市/厚別区/厚別西四条.json",
+    "name": "厚別西四条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道札幌市厚別区",
+    "children": [
+      "https://geonames.jp/resource/北海道札幌市厚別区厚別西四条一丁目",
+      "https://geonames.jp/resource/北海道札幌市厚別区厚別西四条二丁目",
+      "https://geonames.jp/resource/北海道札幌市厚別区厚別西四条三丁目",
+      "https://geonames.jp/resource/北海道札幌市厚別区厚別西四条四丁目",
+      "https://geonames.jp/resource/北海道札幌市厚別区厚別西四条五丁目",
+      "https://geonames.jp/resource/北海道札幌市厚別区厚別西四条六丁目"
+    ]
+  }
+]

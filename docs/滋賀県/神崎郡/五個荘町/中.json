@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡五個荘町中",
+    "表記": "滋賀県神崎郡五個荘町中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "神崎郡",
+      "市区町村": "五個荘町",
+      "町名": "中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365196"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230244/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230244/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230251/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/103692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/103690.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡五個荘町中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/神崎郡/五個荘町/中.json",
+    "name": "中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県神崎郡五個荘町"
+  }
+]

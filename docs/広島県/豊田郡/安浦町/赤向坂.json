@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県豊田郡安浦町赤向坂",
+    "表記": "広島県豊田郡安浦町赤向坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "豊田郡",
+      "市区町村": "安浦町",
+      "町名": "赤向坂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323559",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323578"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227717/104446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227717/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227720/104446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227720/104447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227723/104452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227721/104448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227732/104453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227731/104457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227720/104443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104443.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県豊田郡安浦町赤向坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/豊田郡/安浦町/赤向坂.json",
+    "name": "赤向坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県豊田郡安浦町"
+  }
+]

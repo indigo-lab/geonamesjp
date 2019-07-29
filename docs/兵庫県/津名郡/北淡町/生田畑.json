@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県津名郡北淡町生田畑",
+    "表記": "兵庫県津名郡北淡町生田畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "津名郡",
+      "市区町村": "北淡町",
+      "町名": "生田畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051345782",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051345792",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051346702"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229303/104276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229303/104273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229311/104279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229309/104287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229305/104277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229304/104284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229304/104282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229303/104281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229304/104279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229303/104285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229304/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229305/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229306/104282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229307/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229308/104285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229310/104286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229305/104275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229307/104281.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県津名郡北淡町生田畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/津名郡/北淡町/生田畑.json",
+    "name": "生田畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県津名郡北淡町"
+  }
+]

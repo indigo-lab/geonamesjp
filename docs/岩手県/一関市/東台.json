@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県一関市東台",
+    "表記": "岩手県一関市東台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "一関市",
+      "町名": "東台",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032093020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413102",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413103",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413112"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233856/100261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233861/100265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/100260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233858/100263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233860/100259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233861/100262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233862/100259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233861/100264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/100256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/100261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/100262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/100259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233866/100260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233868/100259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233861/100255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233860/100256.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県一関市東台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/一関市/東台.json",
+    "name": "東台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県一関市"
+  }
+]

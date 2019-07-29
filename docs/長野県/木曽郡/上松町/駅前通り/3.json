@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県木曽郡上松町駅前通り三丁目",
+    "表記": "長野県木曽郡上松町駅前通り三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "木曽郡",
+      "市区町村": "上松町",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375535"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231337/103136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231337/103135.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県木曽郡上松町駅前通り三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/木曽郡/上松町/駅前通り/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/長野県木曽郡上松町駅前通り"
+  }
+]

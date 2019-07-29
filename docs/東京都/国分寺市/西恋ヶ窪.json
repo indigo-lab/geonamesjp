@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都国分寺市西恋ヶ窪",
+    "表記": "東京都国分寺市西恋ヶ窪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "国分寺市",
+      "町名": "西恋ヶ窪"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都国分寺市西恋ヶ窪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/国分寺市/西恋ヶ窪.json",
+    "name": "西恋ヶ窪",
+    "alternateName": [
+      "西恋ケ窪"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都国分寺市",
+    "children": [
+      "https://geonames.jp/resource/東京都国分寺市西恋ヶ窪一丁目",
+      "https://geonames.jp/resource/東京都国分寺市西恋ヶ窪二丁目",
+      "https://geonames.jp/resource/東京都国分寺市西恋ヶ窪三丁目",
+      "https://geonames.jp/resource/東京都国分寺市西恋ヶ窪四丁目"
+    ]
+  }
+]

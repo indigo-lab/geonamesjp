@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市下川原（丁目なし）",
+    "表記": "静岡県静岡市下川原（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "町名": "（丁目なし）"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383310",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383311",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052383320"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/103895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/103895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231825/103881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231826/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/103895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231838/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/103894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/103894.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市下川原（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/下川原/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市下川原"
+  }
+]

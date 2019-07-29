@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道檜山郡江差町字東山",
+    "表記": "北海道檜山郡江差町字東山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "檜山郡",
+      "市区町村": "江差町",
+      "町名": "字東山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S013610040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406141",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406142",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406151"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/97437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233129/97438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/97434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/97438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233118/97434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233120/97437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233118/97435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/97438.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道檜山郡江差町字東山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/檜山郡/江差町/字東山.json",
+    "name": "字東山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道檜山郡江差町"
+  }
+]

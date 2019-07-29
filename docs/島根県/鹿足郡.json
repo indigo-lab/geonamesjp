@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県鹿足郡",
+    "表記": "島根県鹿足郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "鹿足郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32500-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県鹿足郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/鹿足郡.json",
+    "name": "鹿足郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県",
+    "children": [
+      "https://geonames.jp/resource/島根県鹿足郡津和野町",
+      "https://geonames.jp/resource/島根県鹿足郡吉賀町",
+      "https://geonames.jp/resource/島根県鹿足郡日原町",
+      "https://geonames.jp/resource/島根県鹿足郡六日市町",
+      "https://geonames.jp/resource/島根県鹿足郡柿木村",
+      "https://geonames.jp/resource/島根県鹿足郡七日市村",
+      "https://geonames.jp/resource/島根県鹿足郡六日市村",
+      "https://geonames.jp/resource/島根県鹿足郡小川村",
+      "https://geonames.jp/resource/島根県鹿足郡日原村",
+      "https://geonames.jp/resource/島根県鹿足郡朝倉村",
+      "https://geonames.jp/resource/島根県鹿足郡木部村",
+      "https://geonames.jp/resource/島根県鹿足郡畑迫村",
+      "https://geonames.jp/resource/島根県鹿足郡蔵木村",
+      "https://geonames.jp/resource/島根県鹿足郡青原村",
+      "https://geonames.jp/resource/島根県鹿足郡須川村"
+    ]
+  }
+]

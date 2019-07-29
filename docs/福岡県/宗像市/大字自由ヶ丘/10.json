@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県宗像市大字自由ヶ丘十丁目",
+    "表記": "福岡県宗像市大字自由ヶ丘十丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "宗像市",
+      "町名": "十丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050305446"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226158/104902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226157/104903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226158/104905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226157/104904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226158/104904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226158/104903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226159/104903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226159/104902.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226159/104904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226159/104905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226159/104906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226160/104906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226160/104905.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県宗像市大字自由ヶ丘十丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/宗像市/大字自由ヶ丘/10.json",
+    "name": "十丁目",
+    "alternateName": [
+      "10",
+      "10丁目",
+      "１０",
+      "１０丁目",
+      "十"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県宗像市大字自由ヶ丘"
+  }
+]

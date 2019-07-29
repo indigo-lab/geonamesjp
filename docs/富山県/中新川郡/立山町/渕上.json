@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町渕上",
+    "表記": "富山県中新川郡立山町渕上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "中新川郡",
+      "市区町村": "立山町",
+      "町名": "渕上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377286",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377296",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377287"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231078/102348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231077/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231074/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231073/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231075/102350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231075/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231077/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231074/102345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231076/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231078/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231078/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231077/102345.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町渕上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/中新川郡/立山町/渕上.json",
+    "name": "渕上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県中新川郡立山町"
+  }
+]

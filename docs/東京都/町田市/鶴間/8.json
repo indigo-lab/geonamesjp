@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都町田市鶴間八丁目",
+    "表記": "東京都町田市鶴間八丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "町田市",
+      "町名": "八丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392318",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392308",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392317"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232635/103379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232634/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232635/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232638/103382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232633/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232634/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232634/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232635/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232634/103379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232636/103379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232637/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232636/103380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232637/103381.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都町田市鶴間八丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/町田市/鶴間/8.json",
+    "name": "八丁目",
+    "alternateName": [
+      "8",
+      "8丁目",
+      "８",
+      "８丁目",
+      "八"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都町田市鶴間"
+  }
+]

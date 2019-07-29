@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市頸城区舟津",
+    "表記": "新潟県上越市頸城区舟津",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "頸城区舟津",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152225280"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386235"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231791/101852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231788/101858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231790/101853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231790/101855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231789/101854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231788/101856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231788/101854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231789/101853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231791/101851.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市頸城区舟津",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/頸城区舟津.json",
+    "name": "頸城区舟津",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

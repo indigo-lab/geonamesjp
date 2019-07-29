@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市菅原町",
+    "表記": "静岡県浜松市菅原町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "菅原町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370537",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370538",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231362/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231361/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231360/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231360/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231359/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231359/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231361/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231360/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231359/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231358/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231358/104103.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市菅原町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/菅原町.json",
+    "name": "菅原町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市"
+  }
+]

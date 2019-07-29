@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県江南市藤ケ丘",
+    "表記": "愛知県江南市藤ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "江南市",
+      "町名": "藤ケ丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232170540"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県江南市藤ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/江南市/藤ケ丘.json",
+    "name": "藤ケ丘",
+    "alternateName": [
+      "藤ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県江南市",
+    "children": [
+      "https://geonames.jp/resource/愛知県江南市藤ケ丘一丁目",
+      "https://geonames.jp/resource/愛知県江南市藤ケ丘二丁目",
+      "https://geonames.jp/resource/愛知県江南市藤ケ丘三丁目",
+      "https://geonames.jp/resource/愛知県江南市藤ケ丘四丁目",
+      "https://geonames.jp/resource/愛知県江南市藤ケ丘五丁目",
+      "https://geonames.jp/resource/愛知県江南市藤ケ丘六丁目",
+      "https://geonames.jp/resource/愛知県江南市藤ケ丘七丁目"
+    ]
+  }
+]

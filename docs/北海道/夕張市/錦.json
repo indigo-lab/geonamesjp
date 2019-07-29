@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道夕張市錦",
+    "表記": "北海道夕張市錦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "夕張市",
+      "町名": "錦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414799",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414798"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234464/96248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234468/96249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234466/96249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234459/96243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234466/96248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234465/96249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234467/96249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234472/96249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234465/96248.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道夕張市錦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/夕張市/錦.json",
+    "name": "錦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道夕張市"
+  }
+]

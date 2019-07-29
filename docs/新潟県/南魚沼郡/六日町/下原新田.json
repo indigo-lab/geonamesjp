@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡六日町下原新田",
+    "表記": "新潟県南魚沼郡六日町下原新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "南魚沼郡",
+      "市区町村": "六日町",
+      "町名": "下原新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101937.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101941.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/101942.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/101940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232233/101941.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡六日町下原新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/南魚沼郡/六日町/下原新田.json",
+    "name": "下原新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県南魚沼郡六日町"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県安達郡岩代町上長折",
+    "表記": "福島県安達郡岩代町上長折",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "安達郡",
+      "市区町村": "岩代町",
+      "町名": "上長折"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402471",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402481"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233392/101523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233393/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233393/101522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233392/101518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233391/101518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233391/101523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233392/101519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233393/101525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233394/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233390/101514.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県安達郡岩代町上長折",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/安達郡/岩代町/上長折.json",
+    "name": "上長折",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県安達郡岩代町"
+  }
+]

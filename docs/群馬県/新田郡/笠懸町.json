@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県新田郡笠懸町",
+    "表記": "群馬県新田郡笠懸町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "新田郡",
+      "市区町村": "笠懸町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C10484-20060327",
+        "http://data.e-stat.go.jp/lod/sac/C10484-19900401",
+        "http://data.e-stat.go.jp/lod/sac/C10484-19900601"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県新田郡笠懸町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/新田郡/笠懸町.json",
+    "name": "笠懸町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県新田郡",
+    "children": [
+      "https://geonames.jp/resource/群馬県新田郡笠懸町鹿",
+      "https://geonames.jp/resource/群馬県新田郡笠懸町西鹿田",
+      "https://geonames.jp/resource/群馬県新田郡笠懸町久宮",
+      "https://geonames.jp/resource/群馬県新田郡笠懸町阿左美"
+    ]
+  }
+]

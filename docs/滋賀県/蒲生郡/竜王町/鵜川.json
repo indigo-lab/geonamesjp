@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡竜王町鵜川",
+    "表記": "滋賀県蒲生郡竜王町鵜川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "蒲生郡",
+      "市区町村": "竜王町",
+      "町名": "鵜川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364088",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364089",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364098",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364099"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230183/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230184/103769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230185/103769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230185/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230185/103767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230185/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230187/103769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230187/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230186/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230185/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230185/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230184/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230184/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230184/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230184/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230184/103767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230185/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230186/103767.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡竜王町鵜川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/蒲生郡/竜王町/鵜川.json",
+    "name": "鵜川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県蒲生郡竜王町"
+  }
+]

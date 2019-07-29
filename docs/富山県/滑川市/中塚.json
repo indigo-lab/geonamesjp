@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県滑川市中塚",
+    "表記": "富山県滑川市中塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "滑川市",
+      "町名": "中塚",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162060630"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371310",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371209",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371219",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371300"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231105/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231105/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231105/102253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231104/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231103/102253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231104/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231104/102253.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県滑川市中塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/滑川市/中塚.json",
+    "name": "中塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県滑川市"
+  }
+]

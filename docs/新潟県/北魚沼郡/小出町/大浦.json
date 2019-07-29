@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡小出町大浦",
+    "表記": "新潟県北魚沼郡小出町大浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北魚沼郡",
+      "市区町村": "小出町",
+      "町名": "大浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386715",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386726",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386736"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/101858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/101857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/101859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/101860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/101860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/101861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/101856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/101859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/101858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/101862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/101858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/101866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/101871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/101868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/101866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/101865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/101868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232258/101860.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡小出町大浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北魚沼郡/小出町/大浦.json",
+    "name": "大浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北魚沼郡小出町"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市高州二丁目",
+    "表記": "青森県八戸市高州二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S02203072002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416348"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234097/98728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234096/98726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234095/98727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234095/98728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234096/98727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234096/98728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234096/98729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234097/98727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234098/98727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234095/98726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234097/98729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234098/98728.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市高州二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/高州/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市高州"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県能代市須田字街道上",
+    "表記": "秋田県能代市須田字街道上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "能代市",
+      "町名": "須田字街道上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402082"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233041/99013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/99013.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県能代市須田字街道上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/能代市/須田字街道上.json",
+    "name": "須田字街道上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県能代市"
+  }
+]

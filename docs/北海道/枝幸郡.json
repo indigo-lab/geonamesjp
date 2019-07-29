@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道枝幸郡",
+    "表記": "北海道枝幸郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "枝幸郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道枝幸郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/枝幸郡.json",
+    "name": "枝幸郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道",
+    "children": [
+      "https://geonames.jp/resource/北海道枝幸郡浜頓別町",
+      "https://geonames.jp/resource/北海道枝幸郡枝幸町",
+      "https://geonames.jp/resource/北海道枝幸郡中頓別町",
+      "https://geonames.jp/resource/北海道枝幸郡歌登町",
+      "https://geonames.jp/resource/北海道枝幸郡枝幸村",
+      "https://geonames.jp/resource/北海道枝幸郡頓別村",
+      "https://geonames.jp/resource/北海道枝幸郡歌登村"
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県栗太郡栗東町岡",
+    "表記": "滋賀県栗太郡栗東町岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "栗太郡",
+      "市区町村": "栗東町",
+      "町名": "岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354708",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354717",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354718"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230094/103825.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230087/103822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230088/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230086/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230085/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230085/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230085/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230086/103822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230084/103821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230087/103823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230088/103823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230088/103822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230093/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230092/103827.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県栗太郡栗東町岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/栗太郡/栗東町/岡.json",
+    "name": "岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県栗太郡栗東町"
+  }
+]

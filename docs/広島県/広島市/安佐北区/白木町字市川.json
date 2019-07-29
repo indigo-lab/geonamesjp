@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐北区白木町字市川",
+    "表記": "広島県広島市安佐北区白木町字市川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "安佐北区",
+      "町名": "白木町字市川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326562",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326572",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326573"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227670/104230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227674/104226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227672/104224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227673/104221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227674/104219.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐北区白木町字市川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/安佐北区/白木町字市川.json",
+    "name": "白木町字市川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市安佐北区"
+  }
+]

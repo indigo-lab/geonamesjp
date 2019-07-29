@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡柿崎町下金原",
+    "表記": "新潟県中頸城郡柿崎町下金原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中頸城郡",
+      "市区町村": "柿崎町",
+      "町名": "下金原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386391",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387301"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/101804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/101803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/101802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/101806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231848/101804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231848/101805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231848/101806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231849/101807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231849/101805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231850/101806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231851/101807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231850/101808.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡柿崎町下金原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中頸城郡/柿崎町/下金原.json",
+    "name": "下金原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中頸城郡柿崎町"
+  }
+]

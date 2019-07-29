@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県遠敷郡上中町仮屋",
+    "表記": "福井県遠敷郡上中町仮屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "遠敷郡",
+      "市区町村": "上中町",
+      "町名": "仮屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351649",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351740"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230012/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230012/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230014/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230012/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230011/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230011/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230010/103429.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県遠敷郡上中町仮屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/遠敷郡/上中町/仮屋.json",
+    "name": "仮屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県遠敷郡上中町"
+  }
+]

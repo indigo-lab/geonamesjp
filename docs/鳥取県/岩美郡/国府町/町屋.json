@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県岩美郡国府町町屋",
+    "表記": "鳥取県岩美郡国府町町屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "岩美郡",
+      "市区町村": "国府町",
+      "町名": "町屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341262",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341271",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341272"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228853/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228849/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228848/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228850/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228849/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228848/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228847/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228846/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228845/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228853/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228844/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228848/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228852/103414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228848/103412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228848/103413.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県岩美郡国府町町屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/岩美郡/国府町/町屋.json",
+    "name": "町屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県岩美郡国府町"
+  }
+]

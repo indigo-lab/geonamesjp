@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県津島市神守町字東高島",
+    "表記": "愛知県津島市神守町字東高島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "津島市",
+      "町名": "神守町字東高島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366612"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230671/103676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230671/103677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230672/103677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230671/103675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230672/103676.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県津島市神守町字東高島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/津島市/神守町字東高島.json",
+    "name": "神守町字東高島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県津島市"
+  }
+]

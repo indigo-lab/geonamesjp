@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県御坊市藤田町字吉田",
+    "表記": "和歌山県御坊市藤田町字吉田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "御坊市",
+      "町名": "藤田町字吉田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050356183",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050356193"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229498/104801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229495/104798.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県御坊市藤田町字吉田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/御坊市/藤田町字吉田.json",
+    "name": "藤田町字吉田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県御坊市"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県甲斐市亀沢",
+    "表記": "山梨県甲斐市亀沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "甲斐市",
+      "町名": "亀沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S192100170"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384452",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384451",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384441",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053384471"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231943/103197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231943/103198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231943/103195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231943/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231944/103199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231944/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231941/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231942/103194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231942/103199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231944/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231940/103199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231940/103198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231940/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231940/103196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231942/103184.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県甲斐市亀沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/甲斐市/亀沢.json",
+    "name": "亀沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県甲斐市"
+  }
+]

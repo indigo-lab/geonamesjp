@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県由利本荘市大中ノ沢",
+    "表記": "秋田県由利本荘市大中ノ沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "由利本荘市",
+      "町名": "大中ノ沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052100490"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400056",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400045"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233072/99835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/99835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/99834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233075/99833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/99833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233071/99835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/99833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233071/99836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233071/99833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/99832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233075/99837.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県由利本荘市大中ノ沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/由利本荘市/大中ノ沢.json",
+    "name": "大中ノ沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県由利本荘市"
+  }
+]

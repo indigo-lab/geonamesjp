@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県越智郡波方町",
+    "表記": "愛媛県越智郡波方町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "越智郡",
+      "市区町村": "波方町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C38343-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C38343-20050116"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県越智郡波方町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/越智郡/波方町.json",
+    "name": "波方町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県越智郡",
+    "children": [
+      "https://geonames.jp/resource/愛媛県越智郡波方町小部",
+      "https://geonames.jp/resource/愛媛県越智郡波方町波方",
+      "https://geonames.jp/resource/愛媛県越智郡波方町樋口"
+    ]
+  }
+]

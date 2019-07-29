@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都調布市調布ケ丘",
+    "表記": "東京都調布市調布ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "調布市",
+      "町名": "調布ケ丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S132080220"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都調布市調布ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/調布市/調布ケ丘.json",
+    "name": "調布ケ丘",
+    "alternateName": [
+      "調布ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都調布市",
+    "children": [
+      "https://geonames.jp/resource/東京都調布市調布ケ丘一丁目",
+      "https://geonames.jp/resource/東京都調布市調布ケ丘二丁目",
+      "https://geonames.jp/resource/東京都調布市調布ケ丘三丁目",
+      "https://geonames.jp/resource/東京都調布市調布ケ丘四丁目"
+    ]
+  }
+]

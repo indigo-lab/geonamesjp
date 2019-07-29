@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県見附市葛巻三丁目",
+    "表記": "新潟県見附市葛巻三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "見附市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056382722"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101557.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101558.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県見附市葛巻三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/見附市/葛巻/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県見附市葛巻"
+  }
+]

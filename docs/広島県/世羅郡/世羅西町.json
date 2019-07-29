@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県世羅郡世羅西町",
+    "表記": "広島県世羅郡世羅西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "世羅郡",
+      "市区町村": "世羅西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C34463-19941214",
+        "http://data.e-stat.go.jp/lod/sac/C34463-20041001",
+        "http://data.e-stat.go.jp/lod/sac/C34463-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C34463-19900320",
+        "http://data.e-stat.go.jp/lod/sac/C34463-19830301",
+        "http://data.e-stat.go.jp/lod/sac/C34463-19740801"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県世羅郡世羅西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/世羅郡/世羅西町.json",
+    "name": "世羅西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県世羅郡"
+  }
+]

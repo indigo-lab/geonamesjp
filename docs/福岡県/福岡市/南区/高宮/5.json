@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市南区高宮五丁目",
+    "表記": "福岡県福岡市南区高宮五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "南区",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40134007005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302372",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302373",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302383"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226035/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226035/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226036/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226037/105099.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市南区高宮五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/南区/高宮/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市南区高宮"
+  }
+]

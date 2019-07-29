@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都武蔵村山市大南五丁目",
+    "表記": "東京都武蔵村山市大南五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "武蔵村山市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13223003005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394382",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394383"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232584/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232585/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232586/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232589/103176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232588/103173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232587/103173.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都武蔵村山市大南五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/武蔵村山市/大南/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都武蔵村山市大南"
+  }
+]

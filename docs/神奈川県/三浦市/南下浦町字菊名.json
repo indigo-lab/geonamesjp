@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県三浦市南下浦町字菊名",
+    "表記": "神奈川県三浦市南下浦町字菊名",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "三浦市",
+      "町名": "南下浦町字菊名"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052396501",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052396511"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/103685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232759/103681.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県三浦市南下浦町字菊名",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/三浦市/南下浦町字菊名.json",
+    "name": "南下浦町字菊名",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県三浦市"
+  }
+]

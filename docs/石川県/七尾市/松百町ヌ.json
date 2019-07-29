@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県七尾市松百町ヌ",
+    "表記": "石川県七尾市松百町ヌ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "七尾市",
+      "町名": "松百町ヌ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364775",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364774"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230788/101974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230787/101975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230786/101974.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県七尾市松百町ヌ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/七尾市/松百町ヌ.json",
+    "name": "松百町ヌ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県七尾市"
+  }
+]

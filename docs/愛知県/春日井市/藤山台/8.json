@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県春日井市藤山台八丁目",
+    "表記": "愛知県春日井市藤山台八丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "春日井市",
+      "町名": "八丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23206001008"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377032",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377042"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230853/103584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230854/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230855/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230856/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230855/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230857/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230856/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230855/103584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230854/103584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230854/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230855/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230853/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230854/103581.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県春日井市藤山台八丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/春日井市/藤山台/8.json",
+    "name": "八丁目",
+    "alternateName": [
+      "8",
+      "8丁目",
+      "８",
+      "８丁目",
+      "八"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県春日井市藤山台"
+  }
+]

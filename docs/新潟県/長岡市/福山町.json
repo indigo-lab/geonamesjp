@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県長岡市福山町",
+    "表記": "新潟県長岡市福山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "福山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152022090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381634",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381633"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/101623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232140/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232140/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232140/101626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232141/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232142/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232142/101626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/101626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/101623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232145/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232145/101623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232146/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232147/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232148/101624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232149/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232149/101626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232150/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232150/101627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232142/101625.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232139/101626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232141/101625.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県長岡市福山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/長岡市/福山町.json",
+    "name": "福山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県長岡市"
+  }
+]

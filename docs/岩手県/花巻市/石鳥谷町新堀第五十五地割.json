@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県花巻市石鳥谷町新堀第五十五地割",
+    "表記": "岩手県花巻市石鳥谷町新堀第五十五地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "花巻市",
+      "町名": "石鳥谷町新堀第五十五地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059411163",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059411153"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/99747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/99743.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/99744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/99746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/99748.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県花巻市石鳥谷町新堀第五十五地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/花巻市/石鳥谷町新堀第五十五地割.json",
+    "name": "石鳥谷町新堀第五十五地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県花巻市"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県旭市入野",
+    "表記": "千葉県旭市入野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "旭市",
+      "町名": "入野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405520",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405510"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233472/103147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233479/103160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233476/103158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233475/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233477/103159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233475/103152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233477/103158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233473/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233480/103158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233474/103155.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県旭市入野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/旭市/入野.json",
+    "name": "入野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県旭市"
+  }
+]

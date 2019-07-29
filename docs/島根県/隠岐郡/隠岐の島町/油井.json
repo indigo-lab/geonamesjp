@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県隠岐郡隠岐の島町油井",
+    "表記": "島根県隠岐郡隠岐の島町油井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "隠岐郡",
+      "市区町村": "隠岐の島町",
+      "町名": "油井",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S325280450"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054332195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054332186"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228061/102719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228068/102724.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県隠岐郡隠岐の島町油井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/隠岐郡/隠岐の島町/油井.json",
+    "name": "油井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県隠岐郡隠岐の島町"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県東国東郡姫島村追崎",
+    "表記": "大分県東国東郡姫島村追崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "郡": "東国東郡",
+      "市区町村": "姫島村",
+      "町名": "追崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050314560"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226926/104965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226925/104963.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県東国東郡姫島村追崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/東国東郡/姫島村/追崎.json",
+    "name": "追崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県東国東郡姫島村"
+  }
+]

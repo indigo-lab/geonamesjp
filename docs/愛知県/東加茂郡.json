@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県東加茂郡",
+    "表記": "愛知県東加茂郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "東加茂郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C23540-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C23540-20050401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県東加茂郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/東加茂郡.json",
+    "name": "東加茂郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県",
+    "children": [
+      "https://geonames.jp/resource/愛知県東加茂郡稲武町",
+      "https://geonames.jp/resource/愛知県東加茂郡旭町",
+      "https://geonames.jp/resource/愛知県東加茂郡足助町",
+      "https://geonames.jp/resource/愛知県東加茂郡下山村",
+      "https://geonames.jp/resource/愛知県東加茂郡旭村",
+      "https://geonames.jp/resource/愛知県東加茂郡松平村",
+      "https://geonames.jp/resource/愛知県東加茂郡盛岡村",
+      "https://geonames.jp/resource/愛知県東加茂郡賀茂村",
+      "https://geonames.jp/resource/愛知県東加茂郡阿摺村",
+      "https://geonames.jp/resource/愛知県東加茂郡松平町"
+    ]
+  }
+]

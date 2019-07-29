@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県坂井市三国町浜地",
+    "表記": "福井県坂井市三国町浜地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "坂井市",
+      "町名": "三国町浜地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362192",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362193",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363103"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/102717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/102717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/102718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/102718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/102718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230227/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230228/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230230/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/102718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230224/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/102717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230229/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/102713.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県坂井市三国町浜地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/坂井市/三国町浜地.json",
+    "name": "三国町浜地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県坂井市"
+  }
+]

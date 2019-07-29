@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市西田沢字浜田",
+    "表記": "青森県青森市西田沢字浜田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "西田沢字浜田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402534",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402535"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/98418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233517/98418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233517/98417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233517/98416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233514/98418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233512/98418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233513/98418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/98417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/98418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/98419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233517/98415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233516/98414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233510/98420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233516/98415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/98415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/98419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/98420.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市西田沢字浜田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/西田沢字浜田.json",
+    "name": "西田沢字浜田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市"
+  }
+]

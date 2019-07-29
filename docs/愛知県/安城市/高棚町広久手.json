@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県安城市高棚町広久手",
+    "表記": "愛知県安城市高棚町広久手",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "安城市",
+      "町名": "高棚町広久手"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373031",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373041"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230844/103878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230845/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/103877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/103878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230845/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230845/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230844/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230844/103880.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県安城市高棚町広久手",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/安城市/高棚町広久手.json",
+    "name": "高棚町広久手",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県安城市"
+  }
+]

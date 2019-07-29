@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県薩摩川内市下甑町瀬々野浦",
+    "表記": "鹿児島県薩摩川内市下甑町瀬々野浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "薩摩川内市",
+      "町名": "下甑町瀬々野浦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S462150850",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S462150870"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047294525",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047294546"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225512/106720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225524/106705.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県薩摩川内市下甑町瀬々野浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/薩摩川内市/下甑町瀬々野浦.json",
+    "name": "下甑町瀬々野浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県薩摩川内市"
+  }
+]

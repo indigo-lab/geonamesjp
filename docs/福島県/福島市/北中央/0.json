@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県福島市北中央（丁目なし）",
+    "表記": "福島県福島市北中央（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "福島市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072015150",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072015130",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072015140",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072015153"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県福島市北中央（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/福島市/北中央/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県福島市北中央"
+  }
+]

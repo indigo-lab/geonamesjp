@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市南光町",
+    "表記": "新潟県柏崎市南光町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "南光町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152050400"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380424",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380425",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056380434"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231968/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231967/101706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231966/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231966/101704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231968/101706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231967/101705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231969/101708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231968/101705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231967/101708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231969/101705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231965/101705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231967/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231966/101706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231966/101705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231969/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231970/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231968/101704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231971/101707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231970/101708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231967/101709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231968/101708.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県柏崎市南光町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/柏崎市/南光町.json",
+    "name": "南光町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県柏崎市"
+  }
+]

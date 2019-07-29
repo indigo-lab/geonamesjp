@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府久世郡久御山町大字島田小字ミスノ",
+    "表記": "京都府久世郡久御山町大字島田小字ミスノ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "久世郡",
+      "市区町村": "久御山町",
+      "町名": "大字島田小字ミスノ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352558"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229909/103938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229909/103941.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府久世郡久御山町大字島田小字ミスノ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/久世郡/久御山町/大字島田小字ミスノ.json",
+    "name": "大字島田小字ミスノ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府久世郡久御山町"
+  }
+]

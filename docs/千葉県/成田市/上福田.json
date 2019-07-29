@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市上福田",
+    "表記": "千葉県成田市上福田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "上福田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122110670"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405282",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405272",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405273",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405283",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405292",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405293"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233219/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233220/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/103099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233226/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/103099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233226/103099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/103107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233227/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233226/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233227/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233227/103098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/103097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233227/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233226/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233220/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/103097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/103107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233226/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233227/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/103096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233228/103100.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市上福田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/上福田.json",
+    "name": "上福田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市"
+  }
+]

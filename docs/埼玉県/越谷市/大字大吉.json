@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市大字大吉",
+    "表記": "埼玉県越谷市大字大吉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "越谷市",
+      "町名": "大字大吉",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112220080"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397604",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396694",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397603"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/103017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232871/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232871/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232874/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/103009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232874/103008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232871/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/103009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232874/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232874/103009.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県越谷市大字大吉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/越谷市/大字大吉.json",
+    "name": "大字大吉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県越谷市"
+  }
+]

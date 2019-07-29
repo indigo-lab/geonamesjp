@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県香取郡小見川町旗鉾",
+    "表記": "千葉県香取郡小見川町旗鉾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "香取郡",
+      "市区町村": "小見川町",
+      "町名": "旗鉾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406413",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406423",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406424",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406414"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/103077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/103073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/103074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/103073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/103076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/103075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/103077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/103076.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県香取郡小見川町旗鉾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/香取郡/小見川町/旗鉾.json",
+    "name": "旗鉾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県香取郡小見川町"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県御所市大字冨田",
+    "表記": "奈良県御所市大字冨田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "御所市",
+      "町名": "大字冨田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292080060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355539",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355529",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355630"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/104326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/104322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/104327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229920/104325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/104328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/104327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104326.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/104330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229924/104327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/104327.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県御所市大字冨田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/御所市/大字冨田.json",
+    "name": "大字冨田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県御所市"
+  }
+]

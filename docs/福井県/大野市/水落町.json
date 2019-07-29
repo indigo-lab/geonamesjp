@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県大野市水落町",
+    "表記": "福井県大野市水落町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "水落町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S182050120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367388",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367389"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230457/102948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230460/102948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102947.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県大野市水落町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/大野市/水落町.json",
+    "name": "水落町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県大野市"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市小倉町",
+    "表記": "滋賀県東近江市小倉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "小倉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252131470"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365212",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365202",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365213",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365211"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230307/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230315/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230313/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230310/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230310/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230311/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230308/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230309/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230309/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230308/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230307/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230307/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230307/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230312/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230306/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230306/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230310/103755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230309/103754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230312/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230297/103752.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市小倉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/東近江市/小倉町.json",
+    "name": "小倉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県東近江市"
+  }
+]

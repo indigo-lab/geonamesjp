@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町尼ケ谷",
+    "表記": "福島県田村郡三春町尼ケ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "田村郡",
+      "市区町村": "三春町",
+      "町名": "尼ケ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401328",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401329"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/101633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/101632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233374/101635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/101632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233375/101634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/101634.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町尼ケ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村郡/三春町/尼ケ谷.json",
+    "name": "尼ケ谷",
+    "alternateName": [
+      "尼ヶ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県田村郡三春町"
+  }
+]

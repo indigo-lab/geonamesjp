@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県木更津市祇園",
+    "表記": "千葉県木更津市祇園",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "木更津市",
+      "町名": "祇園",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122063400"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県木更津市祇園",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/木更津市/祇園.json",
+    "name": "祇園",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県木更津市",
+    "children": [
+      "https://geonames.jp/resource/千葉県木更津市祇園（丁目なし）",
+      "https://geonames.jp/resource/千葉県木更津市祇園一丁目",
+      "https://geonames.jp/resource/千葉県木更津市祇園二丁目",
+      "https://geonames.jp/resource/千葉県木更津市祇園三丁目",
+      "https://geonames.jp/resource/千葉県木更津市祇園四丁目"
+    ]
+  }
+]

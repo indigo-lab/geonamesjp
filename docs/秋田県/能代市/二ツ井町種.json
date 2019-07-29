@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県能代市二ツ井町種",
+    "表記": "秋田県能代市二ツ井町種",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "能代市",
+      "町名": "二ツ井町種"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402156",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402157",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402158",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402168",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402167"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233171/99040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233173/99037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233186/99038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/99041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233185/99032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233170/99038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233175/99031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233170/99039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/99042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/99040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/99039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/99041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/99042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233173/99036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233184/99041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233183/99043.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県能代市二ツ井町種",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/能代市/二ツ井町種.json",
+    "name": "二ツ井町種",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県能代市"
+  }
+]

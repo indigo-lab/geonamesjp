@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県津市西古河町",
+    "表記": "三重県津市西古河町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "西古河町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242010560"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360369"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230465/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230464/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230465/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230467/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230467/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230465/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230465/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230468/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230466/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230467/104080.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県津市西古河町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/津市/西古河町.json",
+    "name": "西古河町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県津市"
+  }
+]

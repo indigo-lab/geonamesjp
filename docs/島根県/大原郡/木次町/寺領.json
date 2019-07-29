@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県大原郡木次町寺領",
+    "表記": "島根県大原郡木次町寺領",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "大原郡",
+      "市区町村": "木次町",
+      "町名": "寺領"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327743",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327753"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227863/103576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227862/103572.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県大原郡木次町寺領",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/大原郡/木次町/寺領.json",
+    "name": "寺領",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県大原郡木次町"
+  }
+]

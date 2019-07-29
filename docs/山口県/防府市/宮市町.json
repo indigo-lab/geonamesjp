@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県防府市宮市町",
+    "表記": "山口県防府市宮市町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "宮市町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352060130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310475"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226877/104665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226878/104664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226879/104664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226880/104664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226877/104664.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県防府市宮市町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/防府市/宮市町.json",
+    "name": "宮市町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県防府市"
+  }
+]

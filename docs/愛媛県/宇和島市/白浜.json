@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市白浜",
+    "表記": "愛媛県宇和島市白浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "宇和島市",
+      "町名": "白浜",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382030600"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049326452"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227573/105405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227575/105405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227575/105406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227575/105407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227574/105406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227573/105406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227575/105408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227574/105405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227576/105409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227577/105407.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県宇和島市白浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/宇和島市/白浜.json",
+    "name": "白浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県宇和島市"
+  }
+]

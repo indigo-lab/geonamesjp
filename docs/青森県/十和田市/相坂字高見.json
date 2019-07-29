@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県十和田市相坂字高見",
+    "表記": "青森県十和田市相坂字高見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "十和田市",
+      "町名": "相坂字高見"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417210",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417211",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417212",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060417220"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233930/98668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233930/98670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233951/98671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233930/98672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233929/98673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233928/98667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233931/98669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233939/98673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233939/98672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233933/98670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233933/98672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233936/98672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233941/98671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233944/98672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233948/98671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233946/98670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233944/98671.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県十和田市相坂字高見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/十和田市/相坂字高見.json",
+    "name": "相坂字高見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県十和田市"
+  }
+]

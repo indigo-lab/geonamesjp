@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県仲多度郡多度津町京町三",
+    "表記": "香川県仲多度郡多度津町京町三",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "仲多度郡",
+      "市区町村": "多度津町",
+      "町名": "京町三"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333620"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228469/104483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228468/104481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228469/104482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228468/104482.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県仲多度郡多度津町京町三",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/仲多度郡/多度津町/京町三.json",
+    "name": "京町三",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県仲多度郡多度津町"
+  }
+]

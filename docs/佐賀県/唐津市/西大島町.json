@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県唐津市西大島町",
+    "表記": "佐賀県唐津市西大島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "西大島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S412020840"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050291766",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050291776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050291767",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050291777"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225707/105181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225705/105181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225706/105180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225707/105180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225707/105179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225706/105178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225707/105174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225706/105181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225705/105177.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225705/105172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225705/105174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225705/105175.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225706/105176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225707/105178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225705/105178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225705/105176.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225705/105182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225706/105173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225708/105173.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県唐津市西大島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/唐津市/西大島町.json",
+    "name": "西大島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県唐津市"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市小垣江町南八角",
+    "表記": "愛知県刈谷市小垣江町南八角",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "刈谷市",
+      "町名": "小垣江町南八角"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373050",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373051",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373060",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373061"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/103863.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市小垣江町南八角",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/刈谷市/小垣江町南八角.json",
+    "name": "小垣江町南八角",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県刈谷市"
+  }
+]

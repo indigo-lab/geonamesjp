@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県鳥羽市鳥羽五丁目",
+    "表記": "三重県鳥羽市鳥羽五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "鳥羽市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S24211001005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051365667"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/104304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230719/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/104305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/104304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/104304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230718/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/104305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230717/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/104302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/104304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230716/104306.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県鳥羽市鳥羽五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/鳥羽市/鳥羽/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/三重県鳥羽市鳥羽"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県奥州市江刺区岩谷堂字御所橋",
+    "表記": "岩手県奥州市江刺区岩谷堂字御所橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "奥州市",
+      "町名": "江刺区岩谷堂字御所橋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416132",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416133"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233867/99999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233866/99999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/99998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/100002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233867/100000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233866/100000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233863/100000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233864/99999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/100000.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県奥州市江刺区岩谷堂字御所橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/奥州市/江刺区岩谷堂字御所橋.json",
+    "name": "江刺区岩谷堂字御所橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県奥州市"
+  }
+]

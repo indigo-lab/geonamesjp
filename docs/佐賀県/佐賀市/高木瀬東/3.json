@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市高木瀬東三丁目",
+    "表記": "佐賀県佐賀市高木瀬東三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "佐賀市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S41201023003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307233",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049307243"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225948/105346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225948/105345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225949/105345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225950/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225949/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225950/105345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225951/105345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225951/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225949/105343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225950/105343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225947/105345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225951/105343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225948/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225947/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225947/105346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225949/105346.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市高木瀬東三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/佐賀市/高木瀬東/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/佐賀県佐賀市高木瀬東"
+  }
+]

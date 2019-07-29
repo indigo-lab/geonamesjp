@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市常磐下船尾町居作",
+    "表記": "福島県いわき市常磐下船尾町居作",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "常磐下船尾町居作"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403689"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/102044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/102045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233651/102043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233649/102044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233651/102044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/102043.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市常磐下船尾町居作",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/常磐下船尾町居作.json",
+    "name": "常磐下船尾町居作",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

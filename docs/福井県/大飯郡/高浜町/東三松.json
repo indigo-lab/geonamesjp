@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県大飯郡高浜町東三松",
+    "表記": "福井県大飯郡高浜町東三松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "大飯郡",
+      "市区町村": "高浜町",
+      "町名": "東三松",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S184810300"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351491",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351482",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351481"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229754/103394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229759/103398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229759/103397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229754/103398.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県大飯郡高浜町東三松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/大飯郡/高浜町/東三松.json",
+    "name": "東三松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県大飯郡高浜町"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県松山市余戸中六丁目",
+    "表記": "愛媛県松山市余戸中六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "松山市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38201198006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050325578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050325588"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227724/104879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227724/104878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104876.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県松山市余戸中六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/松山市/余戸中/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛媛県松山市余戸中"
+  }
+]

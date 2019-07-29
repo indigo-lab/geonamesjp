@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県阿武郡福栄村",
+    "表記": "山口県阿武郡福栄村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "郡": "阿武郡",
+      "市区町村": "福栄村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C35508-20050306",
+        "http://data.e-stat.go.jp/lod/sac/C35508-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県阿武郡福栄村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/阿武郡/福栄村.json",
+    "name": "福栄村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県阿武郡"
+  }
+]

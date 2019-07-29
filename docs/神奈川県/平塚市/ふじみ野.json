@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県平塚市ふじみ野",
+    "表記": "神奈川県平塚市ふじみ野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "平塚市",
+      "町名": "ふじみ野"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県平塚市ふじみ野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/平塚市/ふじみ野.json",
+    "name": "ふじみ野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県平塚市",
+    "children": [
+      "https://geonames.jp/resource/神奈川県平塚市ふじみ野一丁目",
+      "https://geonames.jp/resource/神奈川県平塚市ふじみ野二丁目"
+    ]
+  }
+]

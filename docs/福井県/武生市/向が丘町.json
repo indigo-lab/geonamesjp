@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県武生市向が丘町",
+    "表記": "福井県武生市向が丘町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "向が丘町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366170",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366171"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/103036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230204/103036.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県武生市向が丘町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/武生市/向が丘町.json",
+    "name": "向が丘町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県武生市"
+  }
+]

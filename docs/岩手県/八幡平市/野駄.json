@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県八幡平市野駄",
+    "表記": "岩手県八幡平市野駄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "八幡平市",
+      "町名": "野駄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059417044",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059417036",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059417030",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059417033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059417045"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233786/99288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233801/99291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233800/99292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233750/99292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233772/99296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233791/99286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/99283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/99285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/99287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/99286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/99283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233795/99283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/99285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/99282.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県八幡平市野駄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/八幡平市/野駄.json",
+    "name": "野駄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県八幡平市"
+  }
+]

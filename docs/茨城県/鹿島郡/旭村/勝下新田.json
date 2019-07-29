@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡旭村勝下新田",
+    "表記": "茨城県鹿島郡旭村勝下新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "鹿島郡",
+      "市区町村": "旭村",
+      "町名": "勝下新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402444",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402453",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402454"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/102752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/102749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/102748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233415/102747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/102757.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県鹿島郡旭村勝下新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/鹿島郡/旭村/勝下新田.json",
+    "name": "勝下新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県鹿島郡旭村"
+  }
+]

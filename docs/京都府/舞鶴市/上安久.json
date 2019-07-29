@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市上安久",
+    "表記": "京都府舞鶴市上安久",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "上安久"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351236",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351247"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229621/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229617/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229618/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229619/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229619/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229621/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229619/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229623/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229622/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229613/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229613/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229614/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229621/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229623/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229617/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229618/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229622/103427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229618/103428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103431.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市上安久",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/上安久.json",
+    "name": "上安久",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

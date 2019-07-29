@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府船井郡園部町南八田",
+    "表記": "京都府船井郡園部町南八田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "船井郡",
+      "市区町村": "園部町",
+      "町名": "南八田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354363",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354374",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354384",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354385"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229696/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229695/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229693/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229692/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229693/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229694/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229685/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229689/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229689/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229689/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229690/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229690/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229690/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229692/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229691/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229692/103777.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府船井郡園部町南八田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/船井郡/園部町/南八田.json",
+    "name": "南八田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府船井郡園部町"
+  }
+]

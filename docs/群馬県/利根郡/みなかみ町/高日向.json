@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県利根郡みなかみ町高日向",
+    "表記": "群馬県利根郡みなかみ町高日向",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "利根郡",
+      "市区町村": "みなかみ町",
+      "町名": "高日向",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S104490330"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055381708",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055380798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055381709"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/102258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/102257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/102261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/102260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/102260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/102261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/102261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/102262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/102261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/102263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/102259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/102262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/102261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/102258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/102258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/102262.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県利根郡みなかみ町高日向",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/利根郡/みなかみ町/高日向.json",
+    "name": "高日向",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県利根郡みなかみ町"
+  }
+]

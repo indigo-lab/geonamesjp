@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県蒲郡市神ノ郷町山添",
+    "表記": "愛知県蒲郡市神ノ郷町山添",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "蒲郡市",
+      "町名": "神ノ郷町山添"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371197",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372107"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/103981.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県蒲郡市神ノ郷町山添",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/蒲郡市/神ノ郷町山添.json",
+    "name": "神ノ郷町山添",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県蒲郡市"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡城崎町飯谷",
+    "表記": "兵庫県城崎郡城崎町飯谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "城崎郡",
+      "市区町村": "城崎町",
+      "町名": "飯谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343625",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343626",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343636"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229243/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229248/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229249/103291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229249/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229250/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229250/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229251/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229251/103289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229251/103290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229255/103288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229250/103285.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県城崎郡城崎町飯谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/城崎郡/城崎町/飯谷.json",
+    "name": "飯谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県城崎郡城崎町"
+  }
+]

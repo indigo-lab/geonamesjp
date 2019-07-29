@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府城陽市寺田今橋",
+    "表記": "京都府城陽市寺田今橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "城陽市",
+      "町名": "寺田今橋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352610",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352611",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352621"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229933/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229934/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/103965.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229931/103966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/103966.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/103967.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/103968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229930/103968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229931/103968.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府城陽市寺田今橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/城陽市/寺田今橋.json",
+    "name": "寺田今橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府城陽市"
+  }
+]

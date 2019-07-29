@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都墨田区亀沢",
+    "表記": "東京都墨田区亀沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "墨田区",
+      "町名": "亀沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131070080"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都墨田区亀沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/墨田区/亀沢.json",
+    "name": "亀沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都墨田区",
+    "children": [
+      "https://geonames.jp/resource/東京都墨田区亀沢一丁目",
+      "https://geonames.jp/resource/東京都墨田区亀沢二丁目",
+      "https://geonames.jp/resource/東京都墨田区亀沢三丁目",
+      "https://geonames.jp/resource/東京都墨田区亀沢四丁目"
+    ]
+  }
+]

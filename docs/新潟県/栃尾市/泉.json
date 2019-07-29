@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県栃尾市泉",
+    "表記": "新潟県栃尾市泉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "栃尾市",
+      "町名": "泉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056381739",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391030",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391050"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232294/101616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/101615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232295/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232291/101619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232290/101623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232291/101616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/101620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/101623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232292/101614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232293/101614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232295/101622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232297/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232295/101621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232296/101619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232295/101619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232295/101620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232296/101620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/101628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/101629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232284/101627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232296/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232297/101620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232297/101618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232297/101619.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県栃尾市泉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/栃尾市/泉.json",
+    "name": "泉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県栃尾市"
+  }
+]

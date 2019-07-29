@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道中川郡池田町字千代田",
+    "表記": "北海道中川郡池田町字千代田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "中川郡",
+      "市区町村": "池田町",
+      "町名": "字千代田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016440570"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433302",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433303",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433312",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433313",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433322",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433332",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433321"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235502/96406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235500/96400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235501/96394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235502/96391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235501/96388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235500/96385.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235500/96382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235491/96386.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235499/96391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235502/96399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235502/96404.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道中川郡池田町字千代田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/中川郡/池田町/字千代田.json",
+    "name": "字千代田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道中川郡池田町"
+  }
+]

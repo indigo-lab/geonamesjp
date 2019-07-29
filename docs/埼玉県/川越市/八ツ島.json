@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県川越市八ツ島",
+    "表記": "埼玉県川越市八ツ島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "川越市",
+      "町名": "八ツ島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397400",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396490",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396491"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232659/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232657/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232658/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232659/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232662/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232660/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232661/103014.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県川越市八ツ島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/川越市/八ツ島.json",
+    "name": "八ツ島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県川越市"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市神田",
+    "表記": "石川県金沢市神田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "神田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172011360"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市神田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/神田.json",
+    "name": "神田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市",
+    "children": [
+      "https://geonames.jp/resource/石川県金沢市神田一丁目",
+      "https://geonames.jp/resource/石川県金沢市神田二丁目"
+    ]
+  }
+]

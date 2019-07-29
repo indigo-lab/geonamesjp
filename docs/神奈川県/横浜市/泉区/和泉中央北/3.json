@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市泉区和泉中央北三丁目",
+    "表記": "神奈川県横浜市泉区和泉中央北三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "泉区",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391309",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390399"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232647/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232647/103462.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市泉区和泉中央北三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/泉区/和泉中央北/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市泉区和泉中央北"
+  }
+]

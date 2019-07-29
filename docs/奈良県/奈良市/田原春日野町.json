@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市田原春日野町",
+    "表記": "奈良県奈良市田原春日野町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "田原春日野町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292018310"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357771",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357780",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357770"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230026/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230022/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230024/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230015/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230021/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104140.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230023/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230025/104143.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市田原春日野町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/田原春日野町.json",
+    "name": "田原春日野町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市"
+  }
+]

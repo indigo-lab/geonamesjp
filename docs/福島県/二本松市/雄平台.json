@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県二本松市雄平台",
+    "表記": "福島県二本松市雄平台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "二本松市",
+      "町名": "雄平台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402298",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402288",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403208"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233278/101505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233278/101508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233275/101499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/101505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233278/101509.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県二本松市雄平台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/二本松市/雄平台.json",
+    "name": "雄平台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県二本松市"
+  }
+]

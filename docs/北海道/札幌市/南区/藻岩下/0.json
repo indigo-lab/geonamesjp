@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道札幌市南区藻岩下（丁目なし）",
+    "表記": "北海道札幌市南区藻岩下（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "札幌市",
+      "区": "南区",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S011060100",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S011063300"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414216",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414217",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414226"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233987/96312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233988/96312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233986/96312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233983/96309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233984/96305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233985/96309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233986/96309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233988/96314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233992/96312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233994/96315.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道札幌市南区藻岩下（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/札幌市/南区/藻岩下/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道札幌市南区藻岩下"
+  }
+]

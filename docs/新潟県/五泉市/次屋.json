@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県五泉市次屋",
+    "表記": "新潟県五泉市次屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "五泉市",
+      "町名": "次屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395123",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395113"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232414/101328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232413/101327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232414/101329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232414/101333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232416/101327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232413/101328.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県五泉市次屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/五泉市/次屋.json",
+    "name": "次屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県五泉市"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県長井市四ツ谷",
+    "表記": "山形県長井市四ツ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "長井市",
+      "町名": "四ツ谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062090040"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県長井市四ツ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/長井市/四ツ谷.json",
+    "name": "四ツ谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県長井市",
+    "children": [
+      "https://geonames.jp/resource/山形県長井市四ツ谷一丁目",
+      "https://geonames.jp/resource/山形県長井市四ツ谷二丁目"
+    ]
+  }
+]

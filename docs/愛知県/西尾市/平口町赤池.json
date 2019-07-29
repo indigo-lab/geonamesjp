@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西尾市平口町赤池",
+    "表記": "愛知県西尾市平口町赤池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "西尾市",
+      "町名": "平口町赤池"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371083",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371094",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371084",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371093"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230868/103990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230867/103990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230868/103989.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西尾市平口町赤池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西尾市/平口町赤池.json",
+    "name": "平口町赤池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県西尾市"
+  }
+]

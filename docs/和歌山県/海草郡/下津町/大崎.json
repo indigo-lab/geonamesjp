@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県海草郡下津町大崎",
+    "表記": "和歌山県海草郡下津町大崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "海草郡",
+      "市区町村": "下津町",
+      "町名": "大崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051351150",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051351151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051351160"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229474/104602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/104599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229468/104601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229471/104600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229482/104604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229479/104601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229482/104606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229474/104601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/104603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/104604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229473/104602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/104602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229473/104598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/104600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229472/104601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229473/104601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229473/104600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229473/104599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229481/104605.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県海草郡下津町大崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/海草郡/下津町/大崎.json",
+    "name": "大崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県海草郡下津町"
+  }
+]

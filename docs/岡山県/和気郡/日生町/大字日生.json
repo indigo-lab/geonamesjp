@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県和気郡日生町大字日生",
+    "表記": "岡山県和気郡日生町大字日生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "和気郡",
+      "市区町村": "日生町",
+      "町名": "大字日生"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340260",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340271",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340272"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228846/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228848/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228846/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228847/104076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228848/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228847/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228845/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228845/104076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228846/104076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/104078.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県和気郡日生町大字日生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/和気郡/日生町/大字日生.json",
+    "name": "大字日生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県和気郡日生町"
+  }
+]

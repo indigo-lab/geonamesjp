@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県安芸郡坂町水尻",
+    "表記": "広島県安芸郡坂町水尻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "安芸郡",
+      "市区町村": "坂町",
+      "町名": "水尻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323480",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323379",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323389",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323470"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227556/104436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227553/104440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227559/104439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227555/104434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227559/104438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227555/104445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227562/104440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227556/104434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227555/104436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227559/104433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227557/104436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227559/104434.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県安芸郡坂町水尻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/安芸郡/坂町/水尻.json",
+    "name": "水尻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県安芸郡坂町"
+  }
+]

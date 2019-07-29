@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県飯山市小沼",
+    "表記": "長野県飯山市小沼",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "飯山市",
+      "町名": "小沼"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055382350",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055382351"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231841/102146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231842/102146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/102145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231844/102145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/102144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231843/102144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231847/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231837/102141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231838/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231837/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231840/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231835/102142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231837/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231835/102143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231836/102144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231838/102144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231835/102145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231839/102140.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県飯山市小沼",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/飯山市/小沼.json",
+    "name": "小沼",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県飯山市"
+  }
+]

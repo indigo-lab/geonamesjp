@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市西区拾六町団地",
+    "表記": "福岡県福岡市西区拾六町団地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "西区",
+      "町名": "拾六町団地",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401350200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302274"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/105098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225957/105102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/105102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/105102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/105101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/105101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225957/105101.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市西区拾六町団地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/西区/拾六町団地.json",
+    "name": "拾六町団地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市西区"
+  }
+]

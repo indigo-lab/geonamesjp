@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県岩手郡玉山村永井",
+    "表記": "岩手県岩手郡玉山村永井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "岩手郡",
+      "市区町村": "玉山村",
+      "町名": "永井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416174",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416175",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416184",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416185"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233880/99333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233883/99330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233883/99332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233885/99330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233885/99333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233886/99335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233886/99333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233887/99337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233888/99337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233880/99339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233883/99341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233883/99340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233884/99341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233884/99338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233885/99339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233886/99339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233888/99338.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県岩手郡玉山村永井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/岩手郡/玉山村/永井.json",
+    "name": "永井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県岩手郡玉山村"
+  }
+]

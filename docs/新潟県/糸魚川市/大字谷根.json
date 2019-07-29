@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字谷根",
+    "表記": "新潟県糸魚川市大字谷根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "糸魚川市",
+      "町名": "大字谷根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374726",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374735",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374736",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374715"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231521/102012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231525/102009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231525/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231526/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231523/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231526/102009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231522/102014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231525/102017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231524/102014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231523/102012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231524/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231526/102013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231526/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231524/102009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231520/102022.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字谷根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/糸魚川市/大字谷根.json",
+    "name": "大字谷根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県糸魚川市"
+  }
+]

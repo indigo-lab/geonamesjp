@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県紀の川市中畑",
+    "表記": "和歌山県紀の川市中畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "紀の川市",
+      "町名": "中畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353278",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353269",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353370",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353279",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353288"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229638/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229649/104445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229647/104447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229636/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229636/104433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229645/104446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229637/104437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229635/104444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229639/104436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229640/104443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229644/104442.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県紀の川市中畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/紀の川市/中畑.json",
+    "name": "中畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県紀の川市"
+  }
+]

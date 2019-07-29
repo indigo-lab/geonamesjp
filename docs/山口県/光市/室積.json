@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県光市室積",
+    "表記": "山口県光市室積",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "光市",
+      "町名": "室積",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352100300"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県光市室積",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/光市/室積.json",
+    "name": "室積",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県光市",
+    "children": [
+      "https://geonames.jp/resource/山口県光市室積一丁目",
+      "https://geonames.jp/resource/山口県光市室積二丁目",
+      "https://geonames.jp/resource/山口県光市室積三丁目",
+      "https://geonames.jp/resource/山口県光市室積四丁目",
+      "https://geonames.jp/resource/山口県光市室積五丁目",
+      "https://geonames.jp/resource/山口県光市室積六丁目",
+      "https://geonames.jp/resource/山口県光市室積七丁目",
+      "https://geonames.jp/resource/山口県光市室積八丁目"
+    ]
+  }
+]

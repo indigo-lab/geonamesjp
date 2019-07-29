@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県相模原市中央区星が丘",
+    "表記": "神奈川県相模原市中央区星が丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "相模原市",
+      "区": "中央区",
+      "町名": "星が丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県相模原市中央区星が丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/相模原市/中央区/星が丘.json",
+    "name": "星が丘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県相模原市中央区",
+    "children": [
+      "https://geonames.jp/resource/神奈川県相模原市中央区星が丘一丁目",
+      "https://geonames.jp/resource/神奈川県相模原市中央区星が丘二丁目",
+      "https://geonames.jp/resource/神奈川県相模原市中央区星が丘三丁目",
+      "https://geonames.jp/resource/神奈川県相模原市中央区星が丘四丁目"
+    ]
+  }
+]

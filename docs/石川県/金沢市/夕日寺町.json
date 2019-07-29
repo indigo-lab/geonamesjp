@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市夕日寺町",
+    "表記": "石川県金沢市夕日寺町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "夕日寺町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172016590"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366586",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366597"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/102423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230617/102423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230616/102422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/102427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230617/102422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/102424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/102422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/102424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/102423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/102422.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市夕日寺町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/夕日寺町.json",
+    "name": "夕日寺町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

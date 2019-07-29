@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡新地町駒ケ嶺市場",
+    "表記": "福島県相馬郡新地町駒ケ嶺市場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "新地町",
+      "町名": "駒ケ嶺市場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406721"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233668/101254.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡新地町駒ケ嶺市場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/新地町/駒ケ嶺市場.json",
+    "name": "駒ケ嶺市場",
+    "alternateName": [
+      "駒ヶ嶺市場"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡新地町"
+  }
+]

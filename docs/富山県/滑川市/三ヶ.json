@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県滑川市三ヶ",
+    "表記": "富山県滑川市三ヶ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "滑川市",
+      "町名": "三ヶ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371350"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231109/102219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231109/102218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231110/102219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231109/102220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231110/102220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231109/102221.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県滑川市三ヶ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/滑川市/三ヶ.json",
+    "name": "三ヶ",
+    "alternateName": [
+      "三ケ"
+    ],
+    "parentFeature": "https://geonames.jp/resource/富山県滑川市"
+  }
+]

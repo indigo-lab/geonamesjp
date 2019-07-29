@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県東国東郡武蔵町",
+    "表記": "大分県東国東郡武蔵町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "郡": "東国東郡",
+      "市区町村": "武蔵町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C44324-19980301",
+        "http://data.e-stat.go.jp/lod/sac/C44324-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C44324-19920201",
+        "http://data.e-stat.go.jp/lod/sac/C44324-20060331"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県東国東郡武蔵町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/東国東郡/武蔵町.json",
+    "name": "武蔵町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県東国東郡"
+  }
+]

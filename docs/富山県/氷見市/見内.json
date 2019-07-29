@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県氷見市見内",
+    "表記": "富山県氷見市見内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "氷見市",
+      "町名": "見内",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162050850"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362700",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361790",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361791"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/102185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/102186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/102182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230745/102187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230747/102187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230750/102187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/102189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/102191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230750/102188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230744/102182.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/102181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/102187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230747/102185.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230745/102183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/102188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/102186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/102184.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230750/102186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230751/102186.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県氷見市見内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/氷見市/見内.json",
+    "name": "見内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県氷見市"
+  }
+]

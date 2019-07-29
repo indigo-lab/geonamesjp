@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県北足立郡伊奈町",
+    "表記": "埼玉県北足立郡伊奈町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "北足立郡",
+      "市区町村": "伊奈町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C11301-19771220",
+        "http://data.e-stat.go.jp/lod/sac/C11301-19701101"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県北足立郡伊奈町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/北足立郡/伊奈町.json",
+    "name": "伊奈町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県北足立郡",
+    "children": [
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町学園",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町内宿台",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町大字小室",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町栄",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町本町",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町西小針",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町寿",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町大字小針内宿",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町大字羽貫",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町大字大針",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町大字小針新宿",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町小室",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町小針新宿",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町小針内宿",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町大針",
+      "https://geonames.jp/resource/埼玉県北足立郡伊奈町羽貫"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q915773"
+    ]
+  }
+]

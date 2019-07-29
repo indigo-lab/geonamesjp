@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県武生市松森町",
+    "表記": "福井県武生市松森町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "松森町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366153",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366163"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230223/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230226/103043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230226/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230225/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/103045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230224/103044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230224/103046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230224/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230225/103046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230225/103044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230225/103043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230226/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230225/103045.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県武生市松森町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/武生市/松森町.json",
+    "name": "松森町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県武生市"
+  }
+]

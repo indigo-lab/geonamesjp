@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県石川郡美川町平加町",
+    "表記": "石川県石川郡美川町平加町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "石川郡",
+      "市区町村": "美川町",
+      "町名": "平加町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365398",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365399"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230462/102491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230463/102491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230463/102495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230460/102491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230464/102495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230464/102492.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県石川郡美川町平加町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/石川郡/美川町/平加町.json",
+    "name": "平加町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県石川郡美川町"
+  }
+]

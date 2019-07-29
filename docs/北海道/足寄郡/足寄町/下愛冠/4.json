@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道足寄郡足寄町下愛冠四丁目",
+    "表記": "北海道足寄郡足寄町下愛冠四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "足寄郡",
+      "市区町村": "足寄町",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01647005004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064437404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064437403",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064437413",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064437414"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235604/96069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235599/96063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235596/96062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235597/96062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235596/96063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235597/96061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235598/96061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235598/96062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235599/96064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235600/96069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235607/96071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235597/96059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235600/96067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235608/96061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235596/96059.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道足寄郡足寄町下愛冠四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/足寄郡/足寄町/下愛冠/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道足寄郡足寄町下愛冠"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県能義郡広瀬町石原",
+    "表記": "島根県能義郡広瀬町石原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "能義郡",
+      "市区町村": "広瀬町",
+      "町名": "石原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330154"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228048/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228052/103500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228054/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228052/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228052/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228054/103493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228053/103498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228055/103497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228055/103496.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県能義郡広瀬町石原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/能義郡/広瀬町/石原.json",
+    "name": "石原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県能義郡広瀬町"
+  }
+]

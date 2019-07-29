@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県芦屋市翠ヶ丘町",
+    "表記": "兵庫県芦屋市翠ヶ丘町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "翠ヶ丘町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350285"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229604/104068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229604/104067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229605/104067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229604/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229605/104066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/104066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/104067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229607/104066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229607/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229605/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229605/104068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229604/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229605/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/104068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229608/104067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229607/104068.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229607/104067.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県芦屋市翠ヶ丘町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/芦屋市/翠ヶ丘町.json",
+    "name": "翠ヶ丘町",
+    "alternateName": [
+      "翠ケ丘町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県芦屋市"
+  }
+]

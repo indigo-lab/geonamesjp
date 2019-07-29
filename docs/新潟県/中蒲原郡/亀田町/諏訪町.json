@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中蒲原郡亀田町諏訪町",
+    "表記": "新潟県中蒲原郡亀田町諏訪町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中蒲原郡",
+      "市区町村": "亀田町",
+      "町名": "諏訪町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中蒲原郡亀田町諏訪町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中蒲原郡/亀田町/諏訪町.json",
+    "name": "諏訪町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中蒲原郡亀田町",
+    "children": [
+      "https://geonames.jp/resource/新潟県中蒲原郡亀田町諏訪町一丁目",
+      "https://geonames.jp/resource/新潟県中蒲原郡亀田町諏訪町二丁目",
+      "https://geonames.jp/resource/新潟県中蒲原郡亀田町諏訪町三丁目"
+    ]
+  }
+]

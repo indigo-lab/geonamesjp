@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区沼南町三丁目",
+    "表記": "福岡県北九州市小倉南区沼南町三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "小倉南区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40107049003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306705",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306715"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226421/104857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226420/104857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226420/104859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226421/104858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226422/104857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226424/104857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226423/104858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226420/104858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226423/104857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226422/104858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226422/104859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226423/104859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226424/104859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226424/104858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226425/104857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226421/104856.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区沼南町三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/小倉南区/沼南町/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市小倉南区沼南町"
+  }
+]

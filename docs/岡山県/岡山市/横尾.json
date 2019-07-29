@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市横尾",
+    "表記": "岡山県岡山市横尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "横尾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330666",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330687"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228524/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228526/104078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228520/104076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228525/104076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228525/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228526/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228528/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228531/104070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228523/104072.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市横尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/横尾.json",
+    "name": "横尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

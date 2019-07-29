@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都羽村市大字羽字羽ケ上",
+    "表記": "東京都羽村市大字羽字羽ケ上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "羽村市",
+      "町名": "大字羽字羽ケ上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395224"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232511/103147.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都羽村市大字羽字羽ケ上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/羽村市/大字羽字羽ケ上.json",
+    "name": "大字羽字羽ケ上",
+    "alternateName": [
+      "大字羽字羽ヶ上"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都羽村市"
+  }
+]

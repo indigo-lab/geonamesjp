@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市高田町長湫",
+    "表記": "岐阜県多治見市高田町長湫",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "多治見市",
+      "町名": "高田町長湫"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370132",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370122",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370131"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230942/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230940/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230945/103519.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県多治見市高田町長湫",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/多治見市/高田町長湫.json",
+    "name": "高田町長湫",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県多治見市"
+  }
+]

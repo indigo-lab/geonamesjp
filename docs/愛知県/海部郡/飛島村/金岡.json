@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県海部郡飛島村金岡",
+    "表記": "愛知県海部郡飛島村金岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "海部郡",
+      "市区町村": "飛島村",
+      "町名": "金岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364666",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364675",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364685"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230706/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230708/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230709/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230706/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230706/103789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230704/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230703/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230705/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230707/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230707/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230707/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230704/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230708/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230706/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230705/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230706/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230705/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230708/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230710/103778.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県海部郡飛島村金岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/海部郡/飛島村/金岡.json",
+    "name": "金岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県海部郡飛島村"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡伊奈町伊丹",
+    "表記": "茨城県筑波郡伊奈町伊丹",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "筑波郡",
+      "市区町村": "伊奈町",
+      "町名": "伊丹"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407035",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407036",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407045",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407056"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/102989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233078/102988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233074/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233069/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233067/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233068/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/102979.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233075/102977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233069/102985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/102975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233079/102983.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡伊奈町伊丹",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/筑波郡/伊奈町/伊丹.json",
+    "name": "伊丹",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県筑波郡伊奈町"
+  }
+]

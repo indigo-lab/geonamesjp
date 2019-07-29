@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県本荘市藤崎",
+    "表記": "秋田県本荘市藤崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "本荘市",
+      "町名": "藤崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400022",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400023",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400033"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/99848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/99844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233048/99843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/99847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/99851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233038/99852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/99849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/99846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/99849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/99842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/99842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233046/99847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/99844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/99853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/99846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/99851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/99845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233045/99846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/99848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233048/99848.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県本荘市藤崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/本荘市/藤崎.json",
+    "name": "藤崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県本荘市"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県逗子市",
+    "表記": "神奈川県逗子市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "逗子市",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C14208-19750215",
+        "http://data.e-stat.go.jp/lod/sac/C14208-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C14208-19720501"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県逗子市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/逗子市.json",
+    "name": "逗子市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県",
+    "children": [
+      "https://geonames.jp/resource/神奈川県逗子市沼間",
+      "https://geonames.jp/resource/神奈川県逗子市小坪",
+      "https://geonames.jp/resource/神奈川県逗子市逗子",
+      "https://geonames.jp/resource/神奈川県逗子市桜山",
+      "https://geonames.jp/resource/神奈川県逗子市久木",
+      "https://geonames.jp/resource/神奈川県逗子市新宿",
+      "https://geonames.jp/resource/神奈川県逗子市池子",
+      "https://geonames.jp/resource/神奈川県逗子市山の根"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q230843"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県邇摩郡仁摩町馬路町",
+    "表記": "島根県邇摩郡仁摩町馬路町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "邇摩郡",
+      "市区町村": "仁摩町",
+      "町名": "馬路町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052325350",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052325351",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052325361"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227468/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227473/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227473/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227476/103717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227476/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227476/103718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227477/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227477/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227477/103717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227478/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227475/103717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227474/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227472/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227472/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227473/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227478/103712.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県邇摩郡仁摩町馬路町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/邇摩郡/仁摩町/馬路町.json",
+    "name": "馬路町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県邇摩郡仁摩町"
+  }
+]

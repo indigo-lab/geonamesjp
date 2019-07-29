@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市下条町",
+    "表記": "新潟県阿賀野市下条町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "下条町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152230060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396107",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395197",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395196"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/101268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232446/101267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/101267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/101267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/101266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232449/101265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232450/101266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232451/101267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232451/101266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232450/101267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232449/101267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232449/101266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232450/101268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/101268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232445/101269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232445/101268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232446/101268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232444/101270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232444/101269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232443/101270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232445/101270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232449/101268.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市下条町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/阿賀野市/下条町.json",
+    "name": "下条町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県阿賀野市"
+  }
+]

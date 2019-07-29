@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県長崎市坂本",
+    "表記": "長崎県長崎市坂本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "長崎市",
+      "町名": "坂本"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県長崎市坂本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/長崎市/坂本.json",
+    "name": "坂本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県長崎市",
+    "children": [
+      "https://geonames.jp/resource/長崎県長崎市坂本（丁目なし）",
+      "https://geonames.jp/resource/長崎県長崎市坂本一丁目",
+      "https://geonames.jp/resource/長崎県長崎市坂本二丁目",
+      "https://geonames.jp/resource/長崎県長崎市坂本三丁目"
+    ]
+  }
+]

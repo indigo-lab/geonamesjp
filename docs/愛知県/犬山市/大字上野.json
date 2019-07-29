@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県犬山市大字上野",
+    "表記": "愛知県犬山市大字上野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "犬山市",
+      "町名": "大字上野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232150040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360744",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360743"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230776/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230777/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230778/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230779/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230780/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230781/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230782/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103503.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230783/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230784/103500.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県犬山市大字上野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/犬山市/大字上野.json",
+    "name": "大字上野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県犬山市"
+  }
+]

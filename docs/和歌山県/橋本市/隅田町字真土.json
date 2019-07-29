@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県橋本市隅田町字真土",
+    "表記": "和歌山県橋本市隅田町字真土",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "橋本市",
+      "町名": "隅田町字真土"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353592",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354512",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354502"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229850/104427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229855/104416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229854/104424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229855/104423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229855/104422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229853/104425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229851/104424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229852/104423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229852/104424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229856/104419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229855/104421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229853/104422.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県橋本市隅田町字真土",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/橋本市/隅田町字真土.json",
+    "name": "隅田町字真土",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県橋本市"
+  }
+]

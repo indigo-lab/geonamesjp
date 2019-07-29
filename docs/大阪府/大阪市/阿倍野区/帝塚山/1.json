@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府大阪市阿倍野区帝塚山一丁目",
+    "表記": "大阪府大阪市阿倍野区帝塚山一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "大阪市",
+      "区": "阿倍野区",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357349",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357359",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357440",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357450"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229743/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229742/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229743/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229742/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229742/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229741/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229740/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229740/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229739/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229738/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229739/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229738/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229738/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229741/104168.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府大阪市阿倍野区帝塚山一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/大阪市/阿倍野区/帝塚山/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大阪府大阪市阿倍野区帝塚山"
+  }
+]

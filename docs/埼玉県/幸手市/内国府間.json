@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県幸手市内国府間",
+    "表記": "埼玉県幸手市内国府間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "幸手市",
+      "町名": "内国府間"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391507",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391517"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232814/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232813/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232814/102861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232814/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232816/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232815/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232813/102860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232813/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232813/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232812/102859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232812/102858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232812/102855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232814/102858.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県幸手市内国府間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/幸手市/内国府間.json",
+    "name": "内国府間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県幸手市"
+  }
+]

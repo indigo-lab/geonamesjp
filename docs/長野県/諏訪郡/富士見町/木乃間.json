@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県諏訪郡富士見町木乃間",
+    "表記": "長野県諏訪郡富士見町木乃間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "諏訪郡",
+      "市区町村": "富士見町",
+      "町名": "木乃間"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053386177"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/103032.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県諏訪郡富士見町木乃間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/諏訪郡/富士見町/木乃間.json",
+    "name": "木乃間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県諏訪郡富士見町"
+  }
+]

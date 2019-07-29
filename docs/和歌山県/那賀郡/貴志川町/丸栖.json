@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡貴志川町丸栖",
+    "表記": "和歌山県那賀郡貴志川町丸栖",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "那賀郡",
+      "市区町村": "貴志川町",
+      "町名": "丸栖"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352275",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352285"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/104515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/104516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/104517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/104514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229608/104509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/104513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/104509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/104509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/104508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/104508.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡貴志川町丸栖",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/那賀郡/貴志川町/丸栖.json",
+    "name": "丸栖",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県那賀郡貴志川町"
+  }
+]

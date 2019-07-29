@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県大田市朝山町字仙山",
+    "表記": "島根県大田市朝山町字仙山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "大田市",
+      "町名": "朝山町字仙山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326485",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326495",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326496",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327405",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327406",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327415",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327425"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227607/103600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227611/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227610/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227610/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227601/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227605/103596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227613/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227609/103620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227609/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227606/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227607/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227609/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227607/103610.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県大田市朝山町字仙山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/大田市/朝山町字仙山.json",
+    "name": "朝山町字仙山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県大田市"
+  }
+]

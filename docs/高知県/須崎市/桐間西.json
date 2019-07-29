@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県須崎市桐間西",
+    "表記": "高知県須崎市桐間西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "須崎市",
+      "町名": "桐間西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S392060281"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050330293",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050330283"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228131/105235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228130/105236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228131/105234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228131/105236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228132/105236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228132/105235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228133/105235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228132/105234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228130/105235.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県須崎市桐間西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/須崎市/桐間西.json",
+    "name": "桐間西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県須崎市"
+  }
+]

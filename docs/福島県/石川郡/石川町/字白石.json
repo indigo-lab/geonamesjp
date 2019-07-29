@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町字白石",
+    "表記": "福島県石川郡石川町字白石",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "石川郡",
+      "市区町村": "石川町",
+      "町名": "字白石"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405364",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405374"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233332/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233339/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233327/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233329/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233334/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233335/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233329/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233328/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233328/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233331/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233332/101903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233334/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233334/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233337/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233332/101905.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県石川郡石川町字白石",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/石川郡/石川町/字白石.json",
+    "name": "字白石",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県石川郡石川町"
+  }
+]

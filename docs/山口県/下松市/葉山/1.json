@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下松市葉山一丁目",
+    "表記": "山口県下松市葉山一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "下松市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35207030001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227128/104694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/104698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227127/104697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227125/104697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227127/104696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227125/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227128/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/104696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/104697.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下松市葉山一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下松市/葉山/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山口県下松市葉山"
+  }
+]

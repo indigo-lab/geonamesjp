@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県佐渡市二見",
+    "表記": "新潟県佐渡市二見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "佐渡市",
+      "町名": "二見",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152240660"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056387270",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056387260",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056387280"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231749/101135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231746/101137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231747/101144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231745/101136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231745/101137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231749/101129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231749/101132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231748/101135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231749/101134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101134.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県佐渡市二見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/佐渡市/二見.json",
+    "name": "二見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県佐渡市"
+  }
+]

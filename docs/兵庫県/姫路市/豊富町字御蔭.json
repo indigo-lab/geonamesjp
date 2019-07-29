@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市豊富町字御蔭",
+    "表記": "兵庫県姫路市豊富町字御蔭",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "姫路市",
+      "町名": "豊富町字御蔭"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342559",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342548",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342558"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229189/103939.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229182/103940.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229183/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229183/103946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229184/103946.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市豊富町字御蔭",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/姫路市/豊富町字御蔭.json",
+    "name": "豊富町字御蔭",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県姫路市"
+  }
+]

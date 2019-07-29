@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市中田東町",
+    "表記": "富山県高岡市中田東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "中田東町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370011",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370012",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370021"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230850/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230851/102324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/102322.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市中田東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/中田東町.json",
+    "name": "中田東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

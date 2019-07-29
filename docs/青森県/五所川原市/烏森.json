@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県五所川原市烏森",
+    "表記": "青森県五所川原市烏森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "五所川原市",
+      "町名": "烏森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401366"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/98473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/98472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/98473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233344/98474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/98474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233345/98474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/98474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/98473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233346/98474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/98474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233345/98472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233344/98473.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233345/98473.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県五所川原市烏森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/五所川原市/烏森.json",
+    "name": "烏森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県五所川原市"
+  }
+]

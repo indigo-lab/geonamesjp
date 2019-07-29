@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県宇陀市菟田野見田",
+    "表記": "奈良県宇陀市菟田野見田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "宇陀市",
+      "町名": "菟田野見田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355778",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355788",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355787"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230088/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230091/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230091/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230086/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230084/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230084/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230085/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230086/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230087/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230087/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230087/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230088/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230088/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230090/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230089/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230092/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230090/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230088/104291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230085/104292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230082/104293.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県宇陀市菟田野見田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/宇陀市/菟田野見田.json",
+    "name": "菟田野見田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県宇陀市"
+  }
+]

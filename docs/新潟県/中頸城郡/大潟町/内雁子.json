@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡大潟町内雁子",
+    "表記": "新潟県中頸城郡大潟町内雁子",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中頸城郡",
+      "市区町村": "大潟町",
+      "町名": "内雁子"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386279",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386289",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386380"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231830/101822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231831/101823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231831/101822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231831/101821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/101822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/101821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231828/101821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231833/101818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231834/101818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231829/101818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231829/101820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231829/101821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231830/101821.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231830/101820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231831/101820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231831/101819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/101819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/101820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/101818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/101817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231833/101819.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡大潟町内雁子",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中頸城郡/大潟町/内雁子.json",
+    "name": "内雁子",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中頸城郡大潟町"
+  }
+]

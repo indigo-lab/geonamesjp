@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県一志郡三雲町小舟江",
+    "表記": "三重県一志郡三雲町小舟江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "一志郡",
+      "市区町村": "三雲町",
+      "町名": "小舟江"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367451",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367461"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230483/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230479/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230483/104160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230479/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230480/104160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230480/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230480/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230480/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230480/104156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230481/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230479/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230481/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230481/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230481/104160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230481/104161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230482/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230482/104160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230479/104159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230482/104158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230482/104157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230483/104158.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県一志郡三雲町小舟江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/一志郡/三雲町/小舟江.json",
+    "name": "小舟江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県一志郡三雲町"
+  }
+]

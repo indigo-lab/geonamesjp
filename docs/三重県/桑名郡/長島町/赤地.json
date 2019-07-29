@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県桑名郡長島町赤地",
+    "表記": "三重県桑名郡長島町赤地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "桑名郡",
+      "市区町村": "長島町",
+      "町名": "赤地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364586",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364587"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103772.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県桑名郡長島町赤地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/桑名郡/長島町/赤地.json",
+    "name": "赤地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県桑名郡長島町"
+  }
+]

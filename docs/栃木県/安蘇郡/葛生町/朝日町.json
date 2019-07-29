@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県安蘇郡葛生町朝日町",
+    "表記": "栃木県安蘇郡葛生町朝日町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "安蘇郡",
+      "市区町村": "葛生町",
+      "町名": "朝日町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394489",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394499"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/102573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232735/102572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232738/102574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/102574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/102573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232738/102572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232739/102571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232741/102571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232740/102570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/102576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232739/102574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/102576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232740/102573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232741/102570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232738/102571.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県安蘇郡葛生町朝日町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/安蘇郡/葛生町/朝日町.json",
+    "name": "朝日町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県安蘇郡葛生町"
+  }
+]

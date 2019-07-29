@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市東境町光ケ丘",
+    "表記": "愛知県刈谷市東境町光ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "刈谷市",
+      "町名": "東境町光ケ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374053",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374054"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/103792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230872/103793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/103792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230866/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230867/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230867/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230868/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230868/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230870/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230865/103797.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市東境町光ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/刈谷市/東境町光ケ丘.json",
+    "name": "東境町光ケ丘",
+    "alternateName": [
+      "東境町光ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県刈谷市"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道紋別郡興部町緑ヶ丘",
+    "表記": "北海道紋別郡興部町緑ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "紋別郡",
+      "市区町村": "興部町",
+      "町名": "緑ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2066435069",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066435150",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066435160"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235296/94843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235292/94847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235292/94845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235293/94845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235292/94844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235294/94845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235296/94846.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道紋別郡興部町緑ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/紋別郡/興部町/緑ヶ丘.json",
+    "name": "緑ヶ丘",
+    "alternateName": [
+      "緑ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道紋別郡興部町"
+  }
+]

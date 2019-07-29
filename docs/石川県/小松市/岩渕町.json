@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県小松市岩渕町",
+    "表記": "石川県小松市岩渕町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "岩渕町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172032120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364472",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054364473"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230493/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230488/102589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230486/102590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230485/102587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230501/102583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230489/102590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230487/102590.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県小松市岩渕町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/小松市/岩渕町.json",
+    "name": "岩渕町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県小松市"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県古川市上中目",
+    "表記": "宮城県古川市上中目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "古川市",
+      "町名": "上中目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406782",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406791",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057406792"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/100582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233675/100587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233675/100585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233675/100584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233675/100583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233673/100585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/100586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233670/100585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233674/100586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100584.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県古川市上中目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/古川市/上中目.json",
+    "name": "上中目",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県古川市"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町巻甲",
+    "表記": "新潟県西蒲原郡巻町巻甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "巻町",
+      "町名": "巻甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385702"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232215/101342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232215/101343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/101342.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡巻町巻甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/巻町/巻甲.json",
+    "name": "巻甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡巻町"
+  }
+]

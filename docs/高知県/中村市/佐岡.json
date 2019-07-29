@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県中村市佐岡",
+    "表記": "高知県中村市佐岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "中村市",
+      "町名": "佐岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323785",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323795"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227877/105595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227878/105595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227881/105604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227881/105603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227880/105602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227879/105601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227880/105600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227880/105599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227879/105600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227879/105597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227878/105596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227879/105595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227880/105593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227878/105594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227877/105593.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県中村市佐岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/中村市/佐岡.json",
+    "name": "佐岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県中村市"
+  }
+]

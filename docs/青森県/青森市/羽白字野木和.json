@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市羽白字野木和",
+    "表記": "青森県青森市羽白字野木和",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "羽白字野木和"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402513",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402514",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402524"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233511/98429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233507/98430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233512/98432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233513/98430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233513/98431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233511/98428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233511/98432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233504/98435.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市羽白字野木和",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/羽白字野木和.json",
+    "name": "羽白字野木和",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市"
+  }
+]

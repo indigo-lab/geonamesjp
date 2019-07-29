@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県大田市川合町字吉永",
+    "表記": "島根県大田市川合町字吉永",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "大田市",
+      "町名": "川合町字吉永"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326400",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326401",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052326410"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227561/103683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227561/103682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227561/103679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227565/103682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227561/103678.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県大田市川合町字吉永",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/大田市/川合町字吉永.json",
+    "name": "川合町字吉永",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県大田市"
+  }
+]

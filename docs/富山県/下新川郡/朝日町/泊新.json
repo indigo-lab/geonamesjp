@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県下新川郡朝日町泊新",
+    "表記": "富山県下新川郡朝日町泊新",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "下新川郡",
+      "市区町村": "朝日町",
+      "町名": "泊新"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055373454",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055373455"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231241/102069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231243/102069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231242/102071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231241/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231242/102070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231243/102070.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県下新川郡朝日町泊新",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/下新川郡/朝日町/泊新.json",
+    "name": "泊新",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県下新川郡朝日町"
+  }
+]

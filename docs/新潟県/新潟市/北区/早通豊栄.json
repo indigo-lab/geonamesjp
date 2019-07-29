@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市北区早通豊栄",
+    "表記": "新潟県新潟市北区早通豊栄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "北区",
+      "町名": "早通豊栄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397105",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397114",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397115"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232416/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232417/101188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232418/101186.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/101180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232428/101189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232430/101190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/101180.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/101179.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/101181.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232424/101181.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市北区早通豊栄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/北区/早通豊栄.json",
+    "name": "早通豊栄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市北区"
+  }
+]

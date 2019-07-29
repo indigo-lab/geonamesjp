@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道虻田郡虻田町清水",
+    "表記": "北海道虻田郡虻田町清水",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "虻田郡",
+      "市区町村": "虻田町",
+      "町名": "清水"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406579",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406660",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406670",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406680"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233558/96760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233557/96754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233562/96763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233563/96757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233562/96761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233563/96752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233566/96759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233564/96763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233564/96752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233564/96762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233570/96755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233570/96763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233567/96762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233565/96756.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道虻田郡虻田町清水",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/虻田郡/虻田町/清水.json",
+    "name": "清水",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道虻田郡虻田町"
+  }
+]

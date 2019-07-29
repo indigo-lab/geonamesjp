@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡杉戸町高野台西三丁目",
+    "表記": "埼玉県北葛飾郡杉戸町高野台西三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "北葛飾郡",
+      "市区町村": "杉戸町",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11464007003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390566",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390556"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232805/102893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232806/102895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232806/102894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232805/102895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232805/102894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232806/102893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232805/102892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232804/102893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232804/102892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232804/102891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232804/102894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232803/102892.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県北葛飾郡杉戸町高野台西三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/北葛飾郡/杉戸町/高野台西/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県北葛飾郡杉戸町高野台西"
+  }
+]

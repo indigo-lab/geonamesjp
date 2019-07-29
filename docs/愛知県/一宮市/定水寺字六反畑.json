@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県一宮市定水寺字六反畑",
+    "表記": "愛知県一宮市定水寺字六反畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "一宮市",
+      "町名": "定水寺字六反畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367677"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/103558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230715/103558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230714/103559.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県一宮市定水寺字六反畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/一宮市/定水寺字六反畑.json",
+    "name": "定水寺字六反畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県一宮市"
+  }
+]

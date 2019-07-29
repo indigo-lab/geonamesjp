@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道石狩市花川南八条",
+    "表記": "北海道石狩市花川南八条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "石狩市",
+      "町名": "花川南八条",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012350650"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道石狩市花川南八条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/石狩市/花川南八条.json",
+    "name": "花川南八条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道石狩市",
+    "children": [
+      "https://geonames.jp/resource/北海道石狩市花川南八条一丁目",
+      "https://geonames.jp/resource/北海道石狩市花川南八条二丁目",
+      "https://geonames.jp/resource/北海道石狩市花川南八条三丁目",
+      "https://geonames.jp/resource/北海道石狩市花川南八条四丁目",
+      "https://geonames.jp/resource/北海道石狩市花川南八条五丁目"
+    ]
+  }
+]

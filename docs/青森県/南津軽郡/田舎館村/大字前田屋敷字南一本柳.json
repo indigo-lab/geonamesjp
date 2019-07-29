@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡田舎館村大字前田屋敷字南一本柳",
+    "表記": "青森県南津軽郡田舎館村大字前田屋敷字南一本柳",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "南津軽郡",
+      "市区町村": "田舎館村",
+      "町名": "大字前田屋敷字南一本柳"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407473",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407474"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233412/98622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/98623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/98622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/98622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233415/98623.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡田舎館村大字前田屋敷字南一本柳",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/南津軽郡/田舎館村/大字前田屋敷字南一本柳.json",
+    "name": "大字前田屋敷字南一本柳",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県南津軽郡田舎館村"
+  }
+]

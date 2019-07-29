@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府亀岡市千歳町毘沙門",
+    "表記": "京都府亀岡市千歳町毘沙門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "亀岡市",
+      "町名": "千歳町毘沙門",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S26206044001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354446",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354436"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229801/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229806/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229801/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229803/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229803/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229803/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229802/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229801/103803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229802/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229809/103798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229801/103804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229801/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229802/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229801/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229802/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229806/103801.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府亀岡市千歳町毘沙門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/亀岡市/千歳町毘沙門.json",
+    "name": "千歳町毘沙門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府亀岡市"
+  }
+]

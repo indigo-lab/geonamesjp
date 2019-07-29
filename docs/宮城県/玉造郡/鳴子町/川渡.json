@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県玉造郡鳴子町川渡",
+    "表記": "宮城県玉造郡鳴子町川渡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "玉造郡",
+      "市区町村": "鳴子町",
+      "町名": "川渡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400661",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058400671"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233575/100435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233578/100435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233573/100440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233573/100438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/100440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233574/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233574/100436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233574/100443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233575/100436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233575/100445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233575/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233576/100445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/100445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233576/100436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/100444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233578/100437.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県玉造郡鳴子町川渡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/玉造郡/鳴子町/川渡.json",
+    "name": "川渡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県玉造郡鳴子町"
+  }
+]

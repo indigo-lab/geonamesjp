@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県米沢市金池",
+    "表記": "山形県米沢市金池",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "米沢市",
+      "町名": "金池",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062020370"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県米沢市金池",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/米沢市/金池.json",
+    "name": "金池",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県米沢市",
+    "children": [
+      "https://geonames.jp/resource/山形県米沢市金池一丁目",
+      "https://geonames.jp/resource/山形県米沢市金池二丁目",
+      "https://geonames.jp/resource/山形県米沢市金池三丁目",
+      "https://geonames.jp/resource/山形県米沢市金池四丁目",
+      "https://geonames.jp/resource/山形県米沢市金池五丁目",
+      "https://geonames.jp/resource/山形県米沢市金池六丁目",
+      "https://geonames.jp/resource/山形県米沢市金池七丁目",
+      "https://geonames.jp/resource/山形県米沢市金池八丁目"
+    ]
+  }
+]

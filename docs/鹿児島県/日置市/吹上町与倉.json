@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県日置市吹上町与倉",
+    "表記": "鹿児島県日置市吹上町与倉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "日置市",
+      "町名": "吹上町与倉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047302219",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047302310",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047302333",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047302229"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226001/106873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/106873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/106872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226007/106870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/106869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/106870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226004/106870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226002/106872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226002/106870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226005/106868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226006/106870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226009/106870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226008/106869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226009/106871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226040/106860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226007/106868.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県日置市吹上町与倉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/日置市/吹上町与倉.json",
+    "name": "吹上町与倉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県日置市"
+  }
+]

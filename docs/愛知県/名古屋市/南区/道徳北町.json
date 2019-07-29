@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市南区道徳北町",
+    "表記": "愛知県名古屋市南区道徳北町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "南区",
+      "町名": "道徳北町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S231120750"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市南区道徳北町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/南区/道徳北町.json",
+    "name": "道徳北町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市南区",
+    "children": [
+      "https://geonames.jp/resource/愛知県名古屋市南区道徳北町一丁目",
+      "https://geonames.jp/resource/愛知県名古屋市南区道徳北町二丁目",
+      "https://geonames.jp/resource/愛知県名古屋市南区道徳北町三丁目"
+    ]
+  }
+]

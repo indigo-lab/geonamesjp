@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県木更津市太田",
+    "表記": "千葉県木更津市太田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "木更津市",
+      "町名": "太田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122061190"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県木更津市太田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/木更津市/太田.json",
+    "name": "太田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県木更津市",
+    "children": [
+      "https://geonames.jp/resource/千葉県木更津市太田一丁目",
+      "https://geonames.jp/resource/千葉県木更津市太田二丁目",
+      "https://geonames.jp/resource/千葉県木更津市太田三丁目",
+      "https://geonames.jp/resource/千葉県木更津市太田四丁目"
+    ]
+  }
+]

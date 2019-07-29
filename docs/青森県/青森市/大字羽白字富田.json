@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市大字羽白字富田",
+    "表記": "青森県青森市大字羽白字富田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "大字羽白字富田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S02201014003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402525",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402514",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402515",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061402524"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/98429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/98428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/98426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/98426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/98427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/98425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/98426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/98425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/98429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233517/98427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/98431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/98434.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市大字羽白字富田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/大字羽白字富田.json",
+    "name": "大字羽白字富田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県東臼杵郡諸塚村",
+    "表記": "宮崎県東臼杵郡諸塚村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "郡": "東臼杵郡",
+      "市区町村": "諸塚村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C45429-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県東臼杵郡諸塚村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/東臼杵郡/諸塚村.json",
+    "name": "諸塚村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県東臼杵郡",
+    "children": [
+      "https://geonames.jp/resource/宮崎県東臼杵郡諸塚村大字七ツ山",
+      "https://geonames.jp/resource/宮崎県東臼杵郡諸塚村大字家代",
+      "https://geonames.jp/resource/宮崎県東臼杵郡諸塚村家代",
+      "https://geonames.jp/resource/宮崎県東臼杵郡諸塚村七ツ山"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1352167"
+    ]
+  }
+]

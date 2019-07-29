@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府八幡市上津屋林",
+    "表記": "京都府八幡市上津屋林",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "八幡市",
+      "町名": "上津屋林"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352549"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229915/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229915/103952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229914/103952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229917/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229916/103951.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府八幡市上津屋林",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/八幡市/上津屋林.json",
+    "name": "上津屋林",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府八幡市"
+  }
+]

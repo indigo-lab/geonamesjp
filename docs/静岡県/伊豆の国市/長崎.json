@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県伊豆の国市長崎",
+    "表記": "静岡県伊豆の国市長崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "伊豆の国市",
+      "町名": "長崎",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222250230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384786",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384785",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384796"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232249/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232250/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232250/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232258/103767.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県伊豆の国市長崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/伊豆の国市/長崎.json",
+    "name": "長崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県伊豆の国市"
+  }
+]

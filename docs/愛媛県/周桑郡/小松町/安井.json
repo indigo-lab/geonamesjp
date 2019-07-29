@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県周桑郡小松町安井",
+    "表記": "愛媛県周桑郡小松町安井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "周桑郡",
+      "市区町村": "小松町",
+      "町名": "安井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336043",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336044",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336034"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227959/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227957/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227958/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227958/104834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227957/104833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227956/104834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227956/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227957/104831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227958/104831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227959/104831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227960/104830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227959/104829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227955/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227959/104833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227958/104833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227958/104835.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県周桑郡小松町安井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/周桑郡/小松町/安井.json",
+    "name": "安井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県周桑郡小松町"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県須賀川市仁井田字大谷地",
+    "表記": "福島県須賀川市仁井田字大谷地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "須賀川市",
+      "町名": "仁井田字大谷地",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07207021102"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400207",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400208"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233273/101724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/101725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233271/101725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233270/101727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233275/101725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/101723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233276/101726.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県須賀川市仁井田字大谷地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/須賀川市/仁井田字大谷地.json",
+    "name": "仁井田字大谷地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県須賀川市"
+  }
+]

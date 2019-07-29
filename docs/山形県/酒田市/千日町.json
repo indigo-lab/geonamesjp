@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県酒田市千日町",
+    "表記": "山形県酒田市千日町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "千日町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062040130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058393617",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058393616"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/100253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/100253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/100252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/100251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232899/100250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232898/100253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/100252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232898/100252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232898/100251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232898/100250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/100252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/100251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/100251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/100250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232898/100254.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県酒田市千日町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/酒田市/千日町.json",
+    "name": "千日町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県酒田市"
+  }
+]

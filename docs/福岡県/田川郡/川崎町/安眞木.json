@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県田川郡川崎町安眞木",
+    "表記": "福岡県田川郡川崎町安眞木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "田川郡",
+      "市区町村": "川崎町",
+      "町名": "安眞木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302655",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302644",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302674",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050302685"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226332/105114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226322/105126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226336/105100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226337/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226339/105101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226320/105099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226327/105093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226327/105094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226328/105094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226329/105095.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県田川郡川崎町安眞木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/田川郡/川崎町/安眞木.json",
+    "name": "安眞木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県田川郡川崎町"
+  }
+]

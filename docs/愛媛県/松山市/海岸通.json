@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県松山市海岸通",
+    "表記": "愛媛県松山市海岸通",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "松山市",
+      "町名": "海岸通",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382011330"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326526",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326536",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326537"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227710/104846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227709/104845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227709/104844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227710/104843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227708/104843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227708/104842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227707/104841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227709/104842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227709/104843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227710/104844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227708/104840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227708/104844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227708/104845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227709/104846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227708/104841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227710/104842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227710/104845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227704/104848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227703/104848.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県松山市海岸通",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/松山市/海岸通.json",
+    "name": "海岸通",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県松山市"
+  }
+]

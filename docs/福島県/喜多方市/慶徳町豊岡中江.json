@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県喜多方市慶徳町豊岡中江",
+    "表記": "福島県喜多方市慶徳町豊岡中江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "喜多方市",
+      "町名": "慶徳町豊岡中江"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393657"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/101460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/101459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232901/101461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232900/101461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232902/101459.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県喜多方市慶徳町豊岡中江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/喜多方市/慶徳町豊岡中江.json",
+    "name": "慶徳町豊岡中江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県喜多方市"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県飯石郡吉田村",
+    "表記": "島根県飯石郡吉田村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "飯石郡",
+      "市区町村": "吉田村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32382-20041101",
+        "http://data.e-stat.go.jp/lod/sac/C32382-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県飯石郡吉田村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/飯石郡/吉田村.json",
+    "name": "吉田村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県飯石郡"
+  }
+]

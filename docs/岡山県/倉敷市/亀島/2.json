@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市亀島二丁目",
+    "表記": "岡山県倉敷市亀島二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "倉敷市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33202136002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336548",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336557",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336558"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228448/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228448/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228448/104243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228448/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228448/104241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228449/104242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228449/104241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228449/104240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228448/104240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228447/104240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228447/104239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228448/104239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228447/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228447/104241.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市亀島二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/倉敷市/亀島/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県倉敷市亀島"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府福知山市大江町佛性寺",
+    "表記": "京都府福知山市大江町佛性寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "福知山市",
+      "町名": "大江町佛性寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351131",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351122",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351132",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351142",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351141"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229483/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229491/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229487/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229486/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229484/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229481/103439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229486/103442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229486/103440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229482/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229479/103425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229487/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229484/103426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229477/103432.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府福知山市大江町佛性寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/福知山市/大江町佛性寺.json",
+    "name": "大江町佛性寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府福知山市"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都府中市白糸台六丁目",
+    "表記": "東京都府中市白糸台六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "府中市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13206004006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393491"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232668/103241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232667/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232666/103240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232668/103240.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都府中市白糸台六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/府中市/白糸台/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都府中市白糸台"
+  }
+]

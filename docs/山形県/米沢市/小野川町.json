@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県米沢市小野川町",
+    "表記": "山形県米沢市小野川町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "小野川町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062020760"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406044",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406054",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406064",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406045"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233061/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233056/101229.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/101230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/101230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/101228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/101228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/101227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/101225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/101226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/101227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233056/101226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233056/101227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/101222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233056/101225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/101224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233066/101239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/101223.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県米沢市小野川町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/米沢市/小野川町.json",
+    "name": "小野川町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県米沢市"
+  }
+]

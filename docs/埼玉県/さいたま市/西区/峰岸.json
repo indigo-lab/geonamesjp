@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市西区峰岸",
+    "表記": "埼玉県さいたま市西区峰岸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "区": "西区",
+      "町名": "峰岸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397414",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397424"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232695/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/103002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232694/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/103002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232692/102999.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市西区峰岸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/西区/峰岸.json",
+    "name": "峰岸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市西区"
+  }
+]

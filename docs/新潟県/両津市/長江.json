@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県両津市長江",
+    "表記": "新潟県両津市長江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "両津市",
+      "町名": "長江"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380372",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380381",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380382",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380391",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057380393"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/101047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231854/101049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231855/101047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231856/101050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231856/101052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231857/101047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231855/101054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231859/101048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231858/101052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231856/101054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231846/101048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/101051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231852/101047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231845/101044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231850/101045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231851/101045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/101044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231852/101045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/101045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231857/101045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231861/101045.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県両津市長江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/両津市/長江.json",
+    "name": "長江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県両津市"
+  }
+]

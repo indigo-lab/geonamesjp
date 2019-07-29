@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県白山市荒屋町と",
+    "表記": "石川県白山市荒屋町と",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "白山市",
+      "町名": "荒屋町と"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365488"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230546/102498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230545/102498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230545/102497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230544/102497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230544/102498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230545/102499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230547/102498.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県白山市荒屋町と",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/白山市/荒屋町と.json",
+    "name": "荒屋町と",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県白山市"
+  }
+]

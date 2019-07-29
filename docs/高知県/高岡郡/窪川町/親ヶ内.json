@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高岡郡窪川町親ヶ内",
+    "表記": "高知県高岡郡窪川町親ヶ内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "高岡郡",
+      "市区町村": "窪川町",
+      "町名": "親ヶ内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336154",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049336164"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228053/105405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228053/105404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228054/105402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228053/105401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228052/105400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228050/105401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228051/105400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228050/105400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228049/105402.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高岡郡窪川町親ヶ内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高岡郡/窪川町/親ヶ内.json",
+    "name": "親ヶ内",
+    "alternateName": [
+      "親ケ内"
+    ],
+    "parentFeature": "https://geonames.jp/resource/高知県高岡郡窪川町"
+  }
+]

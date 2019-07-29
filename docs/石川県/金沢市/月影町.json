@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市月影町",
+    "表記": "石川県金沢市月影町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "月影町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172015990"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367556",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367557"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102369.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/102371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/102372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/102370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/102371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/102373.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市月影町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/月影町.json",
+    "name": "月影町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

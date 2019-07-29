@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町女場",
+    "表記": "福島県相馬郡小高町女場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "相馬郡",
+      "市区町村": "小高町",
+      "町名": "女場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412050",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412051"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233748/101543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233748/101538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233750/101539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233754/101534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/101542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233747/101544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/101541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/101537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233751/101536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233756/101531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/101534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233753/101532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233751/101533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233754/101532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/101533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233753/101533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233754/101531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233757/101531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233755/101531.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬郡小高町女場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬郡/小高町/女場.json",
+    "name": "女場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬郡小高町"
+  }
+]

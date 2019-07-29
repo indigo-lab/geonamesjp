@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県南宇和郡御荘町長洲",
+    "表記": "愛媛県南宇和郡御荘町長洲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "南宇和郡",
+      "市区町村": "御荘町",
+      "町名": "長洲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323463",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323473",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049323482"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227589/105611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227588/105607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227587/105614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227587/105607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227588/105610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227586/105616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227585/105616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227589/105616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227589/105614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227589/105613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227589/105612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227582/105604.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県南宇和郡御荘町長洲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/南宇和郡/御荘町/長洲.json",
+    "name": "長洲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県南宇和郡御荘町"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市馬場",
+    "表記": "和歌山県和歌山市馬場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "和歌山市",
+      "町名": "馬場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352128",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352137",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352138",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352147"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/104548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/104549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/104550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229542/104549.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229542/104548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229541/104548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229540/104548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229538/104547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229539/104540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229539/104538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/104546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229540/104547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229537/104547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229539/104548.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229542/104550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229543/104547.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県和歌山市馬場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/和歌山市/馬場.json",
+    "name": "馬場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県和歌山市"
+  }
+]

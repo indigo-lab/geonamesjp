@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県三次市三若町",
+    "表記": "広島県三次市三若町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "三若町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209032002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209032006",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209032003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209032007",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209032005",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209032004",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209032001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209032009",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342090320",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34209032008"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052320761",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052320751"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227840/104085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227840/104092.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県三次市三若町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/三次市/三若町.json",
+    "name": "三若町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県三次市"
+  }
+]

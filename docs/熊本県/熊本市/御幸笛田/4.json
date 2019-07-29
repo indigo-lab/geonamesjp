@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市御幸笛田四丁目",
+    "表記": "熊本県熊本市御幸笛田四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301517"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226255/105798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226256/105798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226256/105797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226257/105798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226257/105797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226255/105799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226257/105799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226256/105799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226254/105798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226255/105797.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市御幸笛田四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/御幸笛田/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市御幸笛田"
+  }
+]

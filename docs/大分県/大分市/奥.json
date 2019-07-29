@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県大分市奥",
+    "表記": "大分県大分市奥",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "大分市",
+      "町名": "奥"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049315534",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049315535"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226961/105490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226965/105495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226965/105493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226961/105491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226962/105496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226962/105493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226962/105490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226962/105491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226964/105491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226963/105490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226962/105495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226962/105492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226963/105494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226964/105496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226963/105493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226964/105493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226964/105492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226965/105496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226965/105491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226965/105492.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県大分市奥",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/大分市/奥.json",
+    "name": "奥",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県大分市"
+  }
+]

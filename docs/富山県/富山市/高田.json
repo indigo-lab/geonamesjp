@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市高田",
+    "表記": "富山県富山市高田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "高田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162011820"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370124",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370114",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370125",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370134",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370115",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370135"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230966/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230966/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230965/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230966/102319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230965/102319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230970/102315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230966/102315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230968/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230967/102319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230969/102315.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市高田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/高田.json",
+    "name": "高田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

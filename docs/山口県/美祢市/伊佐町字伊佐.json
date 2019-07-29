@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県美祢市伊佐町字伊佐",
+    "表記": "山口県美祢市伊佐町字伊佐",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "美祢市",
+      "町名": "伊佐町字伊佐"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311196",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051312109"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226609/104574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226611/104573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226610/104574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226612/104580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226614/104572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226612/104575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226615/104573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226613/104573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226616/104573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226617/104572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226640/104584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226637/104569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226639/104572.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県美祢市伊佐町字伊佐",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/美祢市/伊佐町字伊佐.json",
+    "name": "伊佐町字伊佐",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県美祢市"
+  }
+]

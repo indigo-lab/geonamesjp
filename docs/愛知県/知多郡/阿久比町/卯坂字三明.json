@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知多郡阿久比町卯坂字三明",
+    "表記": "愛知県知多郡阿久比町卯坂字三明",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "知多郡",
+      "市区町村": "阿久比町",
+      "町名": "卯坂字三明"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363723"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230775/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230774/103888.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知多郡阿久比町卯坂字三明",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知多郡/阿久比町/卯坂字三明.json",
+    "name": "卯坂字三明",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知多郡阿久比町"
+  }
+]

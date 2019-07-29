@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県三方郡美浜町気山",
+    "表記": "福井県三方郡美浜町気山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "三方郡",
+      "市区町村": "美浜町",
+      "町名": "気山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S184420040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053353702",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053353703",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053353704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230041/103309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230039/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230040/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230047/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230041/103311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230040/103309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230039/103309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230042/103310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230048/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230043/103309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230054/103308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230042/103308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230047/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230046/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230039/103308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230040/103308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230041/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230042/103309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230043/103308.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県三方郡美浜町気山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/三方郡/美浜町/気山.json",
+    "name": "気山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県三方郡美浜町"
+  }
+]

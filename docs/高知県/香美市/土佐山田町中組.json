@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県香美市土佐山田町中組",
+    "表記": "高知県香美市土佐山田町中組",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "香美市",
+      "町名": "土佐山田町中組"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050333523",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050333524",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050333533"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228409/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228408/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228406/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228406/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228406/105061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228412/105063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228410/105063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228411/105064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228412/105065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228407/105063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228406/105063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228407/105065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228409/105067.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228407/105067.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県香美市土佐山田町中組",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/香美市/土佐山田町中組.json",
+    "name": "土佐山田町中組",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県香美市"
+  }
+]

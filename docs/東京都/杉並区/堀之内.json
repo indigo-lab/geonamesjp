@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都杉並区堀之内",
+    "表記": "東京都杉並区堀之内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "杉並区",
+      "町名": "堀之内"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都杉並区堀之内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/杉並区/堀之内.json",
+    "name": "堀之内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都杉並区",
+    "children": [
+      "https://geonames.jp/resource/東京都杉並区堀之内一丁目",
+      "https://geonames.jp/resource/東京都杉並区堀之内二丁目",
+      "https://geonames.jp/resource/東京都杉並区堀之内三丁目"
+    ]
+  }
+]

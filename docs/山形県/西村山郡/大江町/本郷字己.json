@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県西村山郡大江町本郷字己",
+    "表記": "山形県西村山郡大江町本郷字己",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "郡": "西村山郡",
+      "市区町村": "大江町",
+      "町名": "本郷字己"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057404155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057404156"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233158/100767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/100765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/100766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/100765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/100766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233160/100763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233157/100767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233160/100765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/100762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/100767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233160/100766.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県西村山郡大江町本郷字己",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/西村山郡/大江町/本郷字己.json",
+    "name": "本郷字己",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県西村山郡大江町"
+  }
+]

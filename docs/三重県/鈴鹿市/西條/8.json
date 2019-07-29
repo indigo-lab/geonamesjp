@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市西條八丁目",
+    "表記": "三重県鈴鹿市西條八丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "鈴鹿市",
+      "町名": "八丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362454",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362455"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230513/103944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230514/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230514/103944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230515/103945.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市西條八丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/鈴鹿市/西條/8.json",
+    "name": "八丁目",
+    "alternateName": [
+      "8",
+      "8丁目",
+      "８",
+      "８丁目",
+      "八"
+    ],
+    "parentFeature": "https://geonames.jp/resource/三重県鈴鹿市西條"
+  }
+]

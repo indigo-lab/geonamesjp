@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県胆沢郡金ケ崎町永沢字上羽黒町",
+    "表記": "岩手県胆沢郡金ケ崎町永沢字上羽黒町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "胆沢郡",
+      "市区町村": "金ケ崎町",
+      "町名": "永沢字上羽黒町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416016",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416017"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233808/100020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233807/100020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233810/100018.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県胆沢郡金ケ崎町永沢字上羽黒町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/胆沢郡/金ケ崎町/永沢字上羽黒町.json",
+    "name": "永沢字上羽黒町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県胆沢郡金ケ崎町"
+  }
+]

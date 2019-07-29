@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡大栄町",
+    "表記": "鳥取県東伯郡大栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "東伯郡",
+      "市区町村": "大栄町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C31367-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C31367-19810401",
+        "http://data.e-stat.go.jp/lod/sac/C31367-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C31367-19720301",
+        "http://data.e-stat.go.jp/lod/sac/C31367-19880210",
+        "http://data.e-stat.go.jp/lod/sac/C31367-19720501"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡大栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/東伯郡/大栄町.json",
+    "name": "大栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県東伯郡"
+  }
+]

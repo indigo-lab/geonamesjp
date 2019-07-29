@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県松江市本庄町",
+    "表記": "島根県松江市本庄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "本庄町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322010560"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053332110"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228014/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228013/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228012/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228011/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228012/103378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228013/103379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228014/103379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228014/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228013/103377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228013/103380.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県松江市本庄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/松江市/本庄町.json",
+    "name": "本庄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県松江市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市中家新田",
+    "表記": "新潟県魚沼市中家新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "魚沼市",
+      "町名": "中家新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386799"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/101809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/101811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/101810.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県魚沼市中家新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/魚沼市/中家新田.json",
+    "name": "中家新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県魚沼市"
+  }
+]

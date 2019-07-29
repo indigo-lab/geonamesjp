@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県久米郡久米町戸脇",
+    "表記": "岡山県久米郡久米町戸脇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "久米郡",
+      "市区町村": "久米町",
+      "町名": "戸脇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334724",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334734",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334743",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334744"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228595/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228595/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228598/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228598/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228600/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228600/103811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228602/103807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228602/103805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228597/103802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228588/103798.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県久米郡久米町戸脇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/久米郡/久米町/戸脇.json",
+    "name": "戸脇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県久米郡久米町"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県原町市牛越東北",
+    "表記": "福島県原町市牛越東北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "原町市",
+      "町名": "牛越東北"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403765",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403775"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233703/101446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233701/101446.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県原町市牛越東北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/原町市/牛越東北.json",
+    "name": "牛越東北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県原町市"
+  }
+]

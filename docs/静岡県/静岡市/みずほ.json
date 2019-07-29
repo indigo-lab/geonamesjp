@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市みずほ",
+    "表記": "静岡県静岡市みずほ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "町名": "みずほ"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市みずほ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/みずほ.json",
+    "name": "みずほ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市",
+    "children": [
+      "https://geonames.jp/resource/静岡県静岡市みずほ一丁目",
+      "https://geonames.jp/resource/静岡県静岡市みずほ二丁目",
+      "https://geonames.jp/resource/静岡県静岡市みずほ三丁目",
+      "https://geonames.jp/resource/静岡県静岡市みずほ四丁目",
+      "https://geonames.jp/resource/静岡県静岡市みずほ五丁目"
+    ]
+  }
+]

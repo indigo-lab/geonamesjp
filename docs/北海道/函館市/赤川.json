@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道函館市赤川",
+    "表記": "北海道函館市赤川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "函館市",
+      "町名": "赤川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012021380"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道函館市赤川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/函館市/赤川.json",
+    "name": "赤川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道函館市",
+    "children": [
+      "https://geonames.jp/resource/北海道函館市赤川一丁目"
+    ]
+  }
+]

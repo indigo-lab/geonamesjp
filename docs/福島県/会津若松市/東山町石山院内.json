@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市東山町石山院内",
+    "表記": "福島県会津若松市東山町石山院内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "会津若松市",
+      "町名": "東山町石山院内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056391786"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/101590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/101591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/101591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232984/101592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232985/101592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232985/101593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232986/101593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232981/101589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232982/101590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232985/101589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232987/101590.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232983/101592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232995/101597.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市東山町石山院内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/東山町石山院内.json",
+    "name": "東山町石山院内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市"
+  }
+]

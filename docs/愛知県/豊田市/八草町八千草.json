@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市八草町八千草",
+    "表記": "愛知県豊田市八草町八千草",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊田市",
+      "町名": "八草町八千草"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376018",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376019",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376028"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230912/103669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230913/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230912/103671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230916/103673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230916/103671.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市八草町八千草",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/八草町八千草.json",
+    "name": "八草町八千草",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

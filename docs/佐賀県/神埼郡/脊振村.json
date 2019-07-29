@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県神埼郡脊振村",
+    "表記": "佐賀県神埼郡脊振村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "神埼郡",
+      "市区町村": "脊振村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C41325-20060320",
+        "http://data.e-stat.go.jp/lod/sac/C41325-19811201",
+        "http://data.e-stat.go.jp/lod/sac/C41325-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県神埼郡脊振村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/神埼郡/脊振村.json",
+    "name": "脊振村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県神埼郡"
+  }
+]

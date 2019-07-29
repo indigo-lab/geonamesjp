@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市守山",
+    "表記": "富山県高岡市守山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "高岡市",
+      "町名": "守山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162023020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371020",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361729",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361739",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371030",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371040"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/102239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230832/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230832/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/102236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/102238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/102240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/102237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/102228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/102235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230838/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230837/102230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230838/102228.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市守山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/守山.json",
+    "name": "守山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

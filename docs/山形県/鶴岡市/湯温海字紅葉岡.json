@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市湯温海字紅葉岡",
+    "表記": "山形県鶴岡市湯温海字紅葉岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "鶴岡市",
+      "町名": "湯温海字紅葉岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057397437",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057397438"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232728/100550.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/100546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/100546.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/100547.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/100548.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市湯温海字紅葉岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/鶴岡市/湯温海字紅葉岡.json",
+    "name": "湯温海字紅葉岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県鶴岡市"
+  }
+]

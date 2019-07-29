@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府船井郡京丹波町曽根字中上",
+    "表記": "京都府船井郡京丹波町曽根字中上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "船井郡",
+      "市区町村": "京丹波町",
+      "町名": "曽根字中上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355382",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355392"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229675/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229670/103691.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103690.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229672/103689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229673/103691.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府船井郡京丹波町曽根字中上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/船井郡/京丹波町/曽根字中上.json",
+    "name": "曽根字中上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府船井郡京丹波町"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市諏訪",
+    "表記": "新潟県上越市諏訪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "諏訪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385263"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231773/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231774/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231775/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101910.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市諏訪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/諏訪.json",
+    "name": "諏訪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

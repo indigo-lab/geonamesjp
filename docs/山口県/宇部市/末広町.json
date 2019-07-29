@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県宇部市末広町",
+    "表記": "山口県宇部市末広町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "末広町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352020530"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317220",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050317221"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226656/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226655/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226655/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226654/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226654/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226655/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226656/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226656/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226653/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226656/104776.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県宇部市末広町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/宇部市/末広町.json",
+    "name": "末広町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県宇部市"
+  }
+]

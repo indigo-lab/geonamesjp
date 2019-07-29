@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府船井郡園部町半田",
+    "表記": "京都府船井郡園部町半田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "船井郡",
+      "市区町村": "園部町",
+      "町名": "半田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355306",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355316",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355317",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355326"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229706/103749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229709/103746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229709/103752.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229710/103751.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229711/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229713/103753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229706/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229709/103757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229709/103756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229710/103744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229711/103743.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府船井郡園部町半田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/船井郡/園部町/半田.json",
+    "name": "半田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府船井郡園部町"
+  }
+]

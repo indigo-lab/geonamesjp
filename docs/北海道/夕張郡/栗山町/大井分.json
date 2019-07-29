@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道夕張郡栗山町大井分",
+    "表記": "北海道夕張郡栗山町大井分",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "夕張郡",
+      "市区町村": "栗山町",
+      "町名": "大井分"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414626",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414635",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414636"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234343/96297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234346/96301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234353/96304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234348/96303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234350/96305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234348/96300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234351/96297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234343/96296.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道夕張郡栗山町大井分",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/夕張郡/栗山町/大井分.json",
+    "name": "大井分",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道夕張郡栗山町"
+  }
+]

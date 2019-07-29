@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町寺家",
+    "表記": "富山県東礪波郡福野町寺家",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "東礪波郡",
+      "市区町村": "福野町",
+      "町名": "寺家"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367702",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367703"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/102410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/102410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230767/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/102416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230770/102415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230770/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/102414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/102413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/102413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/102411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/102412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/102410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230770/102409.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県東礪波郡福野町寺家",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/東礪波郡/福野町/寺家.json",
+    "name": "寺家",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県東礪波郡福野町"
+  }
+]

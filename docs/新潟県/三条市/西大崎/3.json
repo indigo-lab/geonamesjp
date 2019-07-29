@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県三条市西大崎三丁目",
+    "表記": "新潟県三条市西大崎三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三条市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S15204056003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383739",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383738",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383749"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/101470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/101470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/101469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/101470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/101471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/101470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/101469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/101468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/101469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232283/101471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/101469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/101477.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県三条市西大崎三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/三条市/西大崎/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県三条市西大崎"
+  }
+]

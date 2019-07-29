@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県大牟田市四山町",
+    "表記": "福岡県大牟田市四山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "四山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S402020020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304302",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304303",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304301",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049304312"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226039/105586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226043/105586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226044/105586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226033/105588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226028/105586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226029/105587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226029/105585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226031/105586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226031/105587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226032/105587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226033/105586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226034/105585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226035/105586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226026/105587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226039/105587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226027/105588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226032/105588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226033/105583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226034/105584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226038/105587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226040/105585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226042/105586.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県大牟田市四山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/大牟田市/四山町.json",
+    "name": "四山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県大牟田市"
+  }
+]

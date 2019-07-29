@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県久慈市枝成沢",
+    "表記": "岩手県久慈市枝成沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "久慈市",
+      "町名": "枝成沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032070150"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060412537",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060412547",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060412546"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234265/99054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234269/99056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234264/99051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234267/99051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234265/99052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234266/99053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234263/99047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234263/99050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234269/99055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234259/99046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234268/99055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234265/99051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234267/99053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234267/99052.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県久慈市枝成沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/久慈市/枝成沢.json",
+    "name": "枝成沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県久慈市"
+  }
+]

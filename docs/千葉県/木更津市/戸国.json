@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県木更津市戸国",
+    "表記": "千葉県木更津市戸国",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "木更津市",
+      "町名": "戸国",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122068040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400042",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400043"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233042/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233043/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233044/103507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/103507.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県木更津市戸国",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/木更津市/戸国.json",
+    "name": "戸国",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県木更津市"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県一関市東五代",
+    "表記": "岩手県一関市東五代",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "一関市",
+      "町名": "東五代",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032091120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413120",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413130"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/100241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/100241.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県一関市東五代",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/一関市/東五代.json",
+    "name": "東五代",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県一関市"
+  }
+]

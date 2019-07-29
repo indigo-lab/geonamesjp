@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡分水町新長",
+    "表記": "新潟県西蒲原郡分水町新長",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "西蒲原郡",
+      "市区町村": "分水町",
+      "町名": "新長"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383656",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056383666"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232164/101453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232163/101450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232163/101452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232164/101455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232165/101455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232165/101454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232165/101453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/101454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232165/101456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232166/101456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/101461.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県西蒲原郡分水町新長",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/西蒲原郡/分水町/新長.json",
+    "name": "新長",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県西蒲原郡分水町"
+  }
+]

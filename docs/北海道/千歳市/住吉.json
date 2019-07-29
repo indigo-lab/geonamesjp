@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道千歳市住吉",
+    "表記": "北海道千歳市住吉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "千歳市",
+      "町名": "住吉",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012240260"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道千歳市住吉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/千歳市/住吉.json",
+    "name": "住吉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道千歳市",
+    "children": [
+      "https://geonames.jp/resource/北海道千歳市住吉一丁目",
+      "https://geonames.jp/resource/北海道千歳市住吉二丁目",
+      "https://geonames.jp/resource/北海道千歳市住吉三丁目",
+      "https://geonames.jp/resource/北海道千歳市住吉四丁目",
+      "https://geonames.jp/resource/北海道千歳市住吉五丁目"
+    ]
+  }
+]

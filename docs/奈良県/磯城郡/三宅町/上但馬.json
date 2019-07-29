@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県磯城郡三宅町上但馬",
+    "表記": "奈良県磯城郡三宅町上但馬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "磯城郡",
+      "市区町村": "三宅町",
+      "町名": "上但馬"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356671",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356681"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229935/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229935/104220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229933/104220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/104222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229934/104220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229933/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/104220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/104221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229933/104218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/104217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229934/104218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229934/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229933/104221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/104223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/104218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229933/104217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229933/104216.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県磯城郡三宅町上但馬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/磯城郡/三宅町/上但馬.json",
+    "name": "上但馬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県磯城郡三宅町"
+  }
+]

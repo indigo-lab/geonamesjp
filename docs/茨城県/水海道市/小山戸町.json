@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県水海道市小山戸町",
+    "表記": "茨城県水海道市小山戸町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "小山戸町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390748",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390749"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233007/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233006/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233008/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233009/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233010/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233010/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233010/102905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233008/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233009/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233009/102905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233005/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233004/102909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233006/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233005/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233007/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233005/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233007/102906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233008/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233011/102908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233010/102907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233006/102905.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県水海道市小山戸町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/水海道市/小山戸町.json",
+    "name": "小山戸町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県水海道市"
+  }
+]

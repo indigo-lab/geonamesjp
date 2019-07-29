@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市和井元",
+    "表記": "岡山県岡山市和井元",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "和井元"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330635",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330646"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228518/104103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228517/104102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228518/104104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228519/104101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228520/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228521/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228520/104098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228519/104100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228520/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228523/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228518/104101.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市和井元",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/和井元.json",
+    "name": "和井元",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

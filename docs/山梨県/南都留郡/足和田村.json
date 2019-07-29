@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県南都留郡足和田村",
+    "表記": "山梨県南都留郡足和田村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "南都留郡",
+      "市区町村": "足和田村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C19428-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C19428-20031115"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県南都留郡足和田村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/南都留郡/足和田村.json",
+    "name": "足和田村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県南都留郡",
+    "children": [
+      "https://geonames.jp/resource/山梨県南都留郡足和田村西湖西",
+      "https://geonames.jp/resource/山梨県南都留郡足和田村西湖南",
+      "https://geonames.jp/resource/山梨県南都留郡足和田村西湖",
+      "https://geonames.jp/resource/山梨県南都留郡足和田村長浜",
+      "https://geonames.jp/resource/山梨県南都留郡足和田村大嵐"
+    ]
+  }
+]

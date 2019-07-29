@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県東金市土農田",
+    "表記": "千葉県東金市土農田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "東金市",
+      "町名": "土農田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402383",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403303"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233320/103313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233321/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233317/103322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233319/103322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233320/103322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233318/103324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233319/103323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233319/103324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233320/103324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233320/103323.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県東金市土農田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/東金市/土農田.json",
+    "name": "土農田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県東金市"
+  }
+]

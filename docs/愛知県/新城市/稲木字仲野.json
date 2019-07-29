@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県新城市稲木字仲野",
+    "表記": "愛知県新城市稲木字仲野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "新城市",
+      "町名": "稲木字仲野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372377",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372378"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231173/103929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231178/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231176/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231177/103931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231175/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231177/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231174/103928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231174/103929.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県新城市稲木字仲野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/新城市/稲木字仲野.json",
+    "name": "稲木字仲野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県新城市"
+  }
+]

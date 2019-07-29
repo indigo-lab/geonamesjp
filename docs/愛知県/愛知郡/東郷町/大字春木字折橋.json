@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県愛知郡東郷町大字春木字折橋",
+    "表記": "愛知県愛知郡東郷町大字春木字折橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "愛知郡",
+      "市区町村": "東郷町",
+      "町名": "大字春木字折橋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375013"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103749.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103750.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230864/103749.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県愛知郡東郷町大字春木字折橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/愛知郡/東郷町/大字春木字折橋.json",
+    "name": "大字春木字折橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県愛知郡東郷町"
+  }
+]

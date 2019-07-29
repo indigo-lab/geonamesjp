@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県越前市芝原一丁目",
+    "表記": "福井県越前市芝原一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "越前市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S18209090001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367102",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367103"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230223/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230221/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230223/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230222/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230223/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230224/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/103015.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県越前市芝原一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/越前市/芝原/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福井県越前市芝原"
+  }
+]

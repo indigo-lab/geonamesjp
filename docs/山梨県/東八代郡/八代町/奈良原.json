@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県東八代郡八代町奈良原",
+    "表記": "山梨県東八代郡八代町奈良原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "東八代郡",
+      "市区町村": "八代町",
+      "町名": "奈良原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383503",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383513"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232048/103305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232047/103305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232046/103303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232045/103302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232048/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232049/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232048/103306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232049/103306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232048/103308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232049/103308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232050/103307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232049/103305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232050/103304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232048/103302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232050/103302.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県東八代郡八代町奈良原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/東八代郡/八代町/奈良原.json",
+    "name": "奈良原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県東八代郡八代町"
+  }
+]

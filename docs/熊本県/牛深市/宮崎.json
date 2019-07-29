@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県牛深市宮崎",
+    "表記": "熊本県牛深市宮崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "牛深市",
+      "町名": "宮崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302021",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302031"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225746/106286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225747/106288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225747/106287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225746/106288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225745/106289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225745/106290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225745/106291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225746/106290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225746/106291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225747/106289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225747/106291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225747/106286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225746/106287.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県牛深市宮崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/牛深市/宮崎.json",
+    "name": "宮崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県牛深市"
+  }
+]

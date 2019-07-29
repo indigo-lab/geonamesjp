@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府高槻市黄金の里一丁目",
+    "表記": "大阪府高槻市黄金の里一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "高槻市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352457"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229809/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229807/103943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229809/103946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229808/103946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229807/103946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229808/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229807/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229808/103944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229809/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229809/103943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229808/103943.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229809/103944.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府高槻市黄金の里一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/高槻市/黄金の里/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大阪府高槻市黄金の里"
+  }
+]

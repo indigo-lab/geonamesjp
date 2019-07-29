@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀市甲賀町拝坂",
+    "表記": "滋賀県甲賀市甲賀町拝坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "甲賀市",
+      "町名": "甲賀町拝坂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362188"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230269/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230266/103921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230267/103922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103921.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県甲賀市甲賀町拝坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/甲賀市/甲賀町拝坂.json",
+    "name": "甲賀町拝坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県甲賀市"
+  }
+]

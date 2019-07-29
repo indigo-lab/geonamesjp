@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県川口市朝日三丁目",
+    "表記": "埼玉県川口市朝日三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "川口市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11203027003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395579",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395578"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232824/103108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232825/103111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/103111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/103111.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/103112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/103112.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県川口市朝日三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/川口市/朝日/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県川口市朝日"
+  }
+]

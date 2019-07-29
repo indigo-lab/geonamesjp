@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県大府市大府町中原",
+    "表記": "愛知県大府市大府町中原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "大府市",
+      "町名": "大府町中原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364726"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230800/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230799/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230801/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230798/103816.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県大府市大府町中原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/大府市/大府町中原.json",
+    "name": "大府町中原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県大府市"
+  }
+]

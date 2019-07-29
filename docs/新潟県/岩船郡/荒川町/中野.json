@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県岩船郡荒川町中野",
+    "表記": "新潟県岩船郡荒川町中野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "岩船郡",
+      "市区町村": "荒川町",
+      "町名": "中野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057391333",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057391334",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057391323"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232595/101011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232594/101011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232593/101011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232593/101009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232594/101010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232595/101012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232596/101013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232596/101012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/101013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/101012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/101014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/101012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/101013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/101014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232599/101014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/101015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232599/101013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232603/101013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232603/101012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232594/101018.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県岩船郡荒川町中野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/岩船郡/荒川町/中野.json",
+    "name": "中野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県岩船郡荒川町"
+  }
+]

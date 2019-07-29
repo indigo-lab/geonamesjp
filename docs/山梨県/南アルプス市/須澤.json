@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県南アルプス市須澤",
+    "表記": "山梨県南アルプス市須澤",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "南アルプス市",
+      "町名": "須澤"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383382",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383390"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231834/103241.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県南アルプス市須澤",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/南アルプス市/須澤.json",
+    "name": "須澤",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県南アルプス市"
+  }
+]

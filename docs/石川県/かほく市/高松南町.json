@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県かほく市高松南町",
+    "表記": "石川県かほく市高松南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "高松南町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S17209028001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361506",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361516",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361517",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055361527"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/102258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230617/102258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/102246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/102247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/102251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230624/102245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/102251.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県かほく市高松南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/かほく市/高松南町.json",
+    "name": "高松南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県かほく市"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡内灘町字室ロ",
+    "表記": "石川県河北郡内灘町字室ロ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "内灘町",
+      "町名": "字室ロ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360524",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360534"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230599/102314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230596/102316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230598/102315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230597/102316.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡内灘町字室ロ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/内灘町/字室ロ.json",
+    "name": "字室ロ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡内灘町"
+  }
+]

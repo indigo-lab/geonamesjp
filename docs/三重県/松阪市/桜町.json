@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県松阪市桜町",
+    "表記": "三重県松阪市桜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "桜町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242040320"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051366470",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051366480",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051366481"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230480/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230477/104218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230479/104216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230478/104215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230479/104214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230478/104216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230477/104216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230477/104215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230477/104217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230476/104217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230476/104216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230476/104218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230475/104217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230475/104218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230475/104221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230475/104220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230476/104220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230475/104219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230479/104215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230478/104217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230476/104219.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県松阪市桜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/松阪市/桜町.json",
+    "name": "桜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県松阪市"
+  }
+]

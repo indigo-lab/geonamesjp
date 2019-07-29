@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知多郡美浜町河和小田",
+    "表記": "愛知県知多郡美浜町河和小田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "知多郡",
+      "市区町村": "美浜町",
+      "町名": "河和小田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361731"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230750/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230751/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230752/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230751/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/104034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/104033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/104039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230753/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/104035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230754/104038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/104037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/104036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/104036.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知多郡美浜町河和小田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知多郡/美浜町/河和小田.json",
+    "name": "河和小田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知多郡美浜町"
+  }
+]

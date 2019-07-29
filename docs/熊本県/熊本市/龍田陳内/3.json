@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市龍田陳内三丁目",
+    "表記": "熊本県熊本市龍田陳内三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301690"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/105742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/105742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/105741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/105741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/105740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/105739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226279/105738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/105738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/105739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/105739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/105740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/105739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/105737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226281/105738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/105737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226282/105738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226280/105740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226279/105740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226279/105739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/105740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/105738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226279/105736.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市龍田陳内三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/龍田陳内/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市龍田陳内"
+  }
+]

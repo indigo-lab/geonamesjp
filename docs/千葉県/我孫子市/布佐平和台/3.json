@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県我孫子市布佐平和台三丁目",
+    "表記": "千葉県我孫子市布佐平和台三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "我孫子市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12222103003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406029",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406120"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233111/103073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/103072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233110/103069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233109/103069.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県我孫子市布佐平和台三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/我孫子市/布佐平和台/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県我孫子市布佐平和台"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市庄ケ宮",
+    "表記": "新潟県阿賀野市庄ケ宮",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "阿賀野市",
+      "町名": "庄ケ宮",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152230260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395188",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395198"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232454/101284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232459/101285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232458/101285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232456/101283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232457/101284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232458/101284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232458/101283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232457/101283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232459/101284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232456/101284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232454/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232459/101280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232453/101276.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県阿賀野市庄ケ宮",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/阿賀野市/庄ケ宮.json",
+    "name": "庄ケ宮",
+    "alternateName": [
+      "庄ヶ宮"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県阿賀野市"
+  }
+]

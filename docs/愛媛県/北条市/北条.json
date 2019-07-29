@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県北条市北条",
+    "表記": "愛媛県北条市北条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "北条市",
+      "町名": "北条"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327662",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327671",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327672"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227760/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227759/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227758/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227761/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227762/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227763/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227764/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227764/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227763/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227762/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227753/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227760/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227757/104735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227755/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227757/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227758/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227759/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227760/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227761/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227762/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227763/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227760/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227759/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227758/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227757/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227759/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227760/104739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227761/104739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227762/104739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227763/104739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227762/104740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227761/104740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227757/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227757/104739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227755/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227756/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227755/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227753/104738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227753/104736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227761/104735.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県北条市北条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/北条市/北条.json",
+    "name": "北条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県北条市"
+  }
+]

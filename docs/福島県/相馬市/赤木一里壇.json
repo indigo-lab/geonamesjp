@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県相馬市赤木一里壇",
+    "表記": "福島県相馬市赤木一里壇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "相馬市",
+      "町名": "赤木一里壇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405706"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233709/101341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233711/101345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233708/101349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233710/101345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101344.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県相馬市赤木一里壇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/相馬市/赤木一里壇.json",
+    "name": "赤木一里壇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県相馬市"
+  }
+]

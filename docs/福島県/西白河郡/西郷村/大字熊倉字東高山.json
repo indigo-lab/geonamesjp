@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県西白河郡西郷村大字熊倉字東高山",
+    "表記": "福島県西白河郡西郷村大字熊倉字東高山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "西白河郡",
+      "市区町村": "西郷村",
+      "町名": "大字熊倉字東高山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405150",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405161"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233116/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233121/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/101916.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233119/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233123/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233122/101912.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県西白河郡西郷村大字熊倉字東高山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/西白河郡/西郷村/大字熊倉字東高山.json",
+    "name": "大字熊倉字東高山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県西白河郡西郷村"
+  }
+]

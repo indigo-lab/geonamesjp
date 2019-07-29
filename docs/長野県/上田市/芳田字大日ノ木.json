@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上田市芳田字大日ノ木",
+    "表記": "長野県上田市芳田字大日ノ木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "上田市",
+      "町名": "芳田字大日ノ木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384274"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231785/102581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231785/102580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231787/102580.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上田市芳田字大日ノ木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上田市/芳田字大日ノ木.json",
+    "name": "芳田字大日ノ木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上田市"
+  }
+]

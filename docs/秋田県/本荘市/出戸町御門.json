@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県本荘市出戸町御門",
+    "表記": "秋田県本荘市出戸町御門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "本荘市",
+      "町名": "出戸町御門"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400053",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400054",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059400063"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/99829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/99828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/99829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/99828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/99827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/99828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/99827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/99826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/99826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/99826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/99825.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県本荘市出戸町御門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/本荘市/出戸町御門.json",
+    "name": "出戸町御門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県本荘市"
+  }
+]

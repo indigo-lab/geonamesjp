@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県横手市新藤柳田",
+    "表記": "秋田県横手市新藤柳田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "横手市",
+      "町名": "新藤柳田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407424",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407433",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407434"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/99927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233413/99925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/99931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/99928.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/99933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/99929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99929.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/99932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233410/99926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233411/99925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/99928.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県横手市新藤柳田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/横手市/新藤柳田.json",
+    "name": "新藤柳田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県横手市"
+  }
+]

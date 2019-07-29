@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県奥州市衣川区十一ケ銘",
+    "表記": "岩手県奥州市衣川区十一ケ銘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "奥州市",
+      "町名": "衣川区十一ケ銘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058414064"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233783/100131.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県奥州市衣川区十一ケ銘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/奥州市/衣川区十一ケ銘.json",
+    "name": "衣川区十一ケ銘",
+    "alternateName": [
+      "衣川区十一ヶ銘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岩手県奥州市"
+  }
+]

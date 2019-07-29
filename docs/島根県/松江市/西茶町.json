@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県松江市西茶町",
+    "表記": "島根県松江市西茶町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "西茶町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322010230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331063",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331064"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227956/103416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227956/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227957/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227957/103416.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県松江市西茶町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/松江市/西茶町.json",
+    "name": "西茶町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県松江市"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県野洲郡野洲町南桜五区",
+    "表記": "滋賀県野洲郡野洲町南桜五区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "野洲郡",
+      "市区町村": "野洲町",
+      "町名": "南桜五区"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364042",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364043"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230130/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230131/103801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230131/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230129/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230130/103800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230130/103799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230131/103799.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県野洲郡野洲町南桜五区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/野洲郡/野洲町/南桜五区.json",
+    "name": "南桜五区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県野洲郡野洲町"
+  }
+]

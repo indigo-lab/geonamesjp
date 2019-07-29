@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県珠洲市三崎町細屋",
+    "表記": "石川県珠洲市三崎町細屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "珠洲市",
+      "町名": "三崎町細屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056371245",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056371246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056371255",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056371256"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231073/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/101619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/101618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231067/101613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/101614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231067/101616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231070/101617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231070/101616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231066/101619.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231067/101617.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県珠洲市三崎町細屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/珠洲市/三崎町細屋.json",
+    "name": "三崎町細屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県珠洲市"
+  }
+]

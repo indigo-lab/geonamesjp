@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市瀬戸町寺地",
+    "表記": "岡山県岡山市瀬戸町寺地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "瀬戸町寺地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340094",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340083",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340084",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340093"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228685/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228685/104065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228686/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228687/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228684/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228682/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228681/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228680/104064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228679/104062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228680/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228681/104063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228684/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228686/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228682/104060.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市瀬戸町寺地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/瀬戸町寺地.json",
+    "name": "瀬戸町寺地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市"
+  }
+]

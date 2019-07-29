@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市北方町早上",
+    "表記": "宮崎県延岡市北方町早上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "延岡市",
+      "町名": "北方町早上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048317327",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048317316"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226805/105931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226792/105944.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県延岡市北方町早上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/延岡市/北方町早上.json",
+    "name": "北方町早上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県延岡市"
+  }
+]

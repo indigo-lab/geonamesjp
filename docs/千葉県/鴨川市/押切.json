@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県鴨川市押切",
+    "表記": "千葉県鴨川市押切",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "鴨川市",
+      "町名": "押切",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122230020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405054",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405044"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/103724.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県鴨川市押切",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/鴨川市/押切.json",
+    "name": "押切",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県鴨川市"
+  }
+]

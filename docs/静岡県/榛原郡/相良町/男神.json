@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県榛原郡相良町男神",
+    "表記": "静岡県榛原郡相良町男神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "榛原郡",
+      "市区町村": "相良町",
+      "町名": "男神"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380145",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380154",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380155"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231694/104087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231696/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231695/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231696/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231698/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231699/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231700/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231700/104092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231699/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231697/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231698/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231696/104089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231699/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231696/104088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231700/104090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231699/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231698/104090.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県榛原郡相良町男神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/榛原郡/相良町/男神.json",
+    "name": "男神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県榛原郡相良町"
+  }
+]

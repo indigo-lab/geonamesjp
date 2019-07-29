@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市一ツ木町小尻付",
+    "表記": "愛知県刈谷市一ツ木町小尻付",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "刈谷市",
+      "町名": "一ツ木町小尻付"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374001",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374011"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/103828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230847/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103826.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230845/103826.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市一ツ木町小尻付",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/刈谷市/一ツ木町小尻付.json",
+    "name": "一ツ木町小尻付",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県刈谷市"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下松市潮音町八丁目",
+    "表記": "山口県下松市潮音町八丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "潮音町",
+      "町名": "八丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35207035008"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310617",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310627"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227081/104704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227078/104703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227082/104704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227080/104704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227080/104703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227079/104703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227077/104703.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下松市潮音町八丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下松市/潮音町/8.json",
+    "name": "八丁目",
+    "alternateName": [
+      "8",
+      "8丁目",
+      "８",
+      "８丁目",
+      "八"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山口県下松市潮音町"
+  }
+]

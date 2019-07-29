@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区青葉六丁目",
+    "表記": "福岡県福岡市東区青葉六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "福岡市",
+      "区": "東区",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40131018006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050303377"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226074/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226074/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226075/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226075/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226075/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/105032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/105031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/105030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/105029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/105028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/105028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226078/105031.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県福岡市東区青葉六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/福岡市/東区/青葉/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県福岡市東区青葉"
+  }
+]

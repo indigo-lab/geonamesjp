@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県東海市荒尾町水深",
+    "表記": "愛知県東海市荒尾町水深",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "東海市",
+      "町名": "荒尾町水深"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364723",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/103811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/103812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/103809.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230768/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230769/103811.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県東海市荒尾町水深",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/東海市/荒尾町水深.json",
+    "name": "荒尾町水深",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県東海市"
+  }
+]

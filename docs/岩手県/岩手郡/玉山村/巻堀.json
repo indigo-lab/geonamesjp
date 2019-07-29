@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県岩手郡玉山村巻堀",
+    "表記": "岩手県岩手郡玉山村巻堀",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "岩手郡",
+      "市区町村": "玉山村",
+      "町名": "巻堀"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416165",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416175",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416176"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233884/99344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233888/99340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233884/99345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233886/99346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233886/99344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233887/99343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233888/99342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233888/99344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233890/99346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233890/99340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233891/99341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233886/99347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233888/99346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233889/99340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233889/99343.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県岩手郡玉山村巻堀",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/岩手郡/玉山村/巻堀.json",
+    "name": "巻堀",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県岩手郡玉山村"
+  }
+]

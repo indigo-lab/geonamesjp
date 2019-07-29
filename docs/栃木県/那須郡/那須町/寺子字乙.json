@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須郡那須町寺子字乙",
+    "表記": "栃木県那須郡那須町寺子字乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "那須郡",
+      "市区町村": "那須町",
+      "町名": "寺子字乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403088",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403098",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404019",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404027",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404035",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404036",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404038",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404110"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233080/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233071/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233068/102008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233097/102034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233093/102048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233084/102016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233090/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/102022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/102021.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須郡那須町寺子字乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須郡/那須町/寺子字乙.json",
+    "name": "寺子字乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須郡那須町"
+  }
+]

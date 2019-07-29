@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県木更津市茅野",
+    "表記": "千葉県木更津市茅野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "木更津市",
+      "町名": "茅野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122068050"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400025",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400024",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400034",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400035",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053400015"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233066/103520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233064/103516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233061/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233055/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233061/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233061/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233062/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233061/103511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/103516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233063/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233064/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233062/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233061/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233063/103518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233066/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233064/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233062/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233059/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233056/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233057/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233060/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233061/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233066/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233061/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233065/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233063/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233062/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233063/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233062/103509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233063/103510.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233064/103513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233068/103523.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県木更津市茅野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/木更津市/茅野.json",
+    "name": "茅野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県木更津市"
+  }
+]

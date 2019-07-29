@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県小松島市間新田町字ヤケ木",
+    "表記": "徳島県小松島市間新田町字ヤケ木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "小松島市",
+      "町名": "間新田町字ヤケ木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347581",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347591"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229116/104726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229116/104727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229111/104727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229115/104726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229112/104727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229114/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229114/104726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229115/104725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229113/104728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229112/104728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229110/104727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229109/104727.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県小松島市間新田町字ヤケ木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/小松島市/間新田町字ヤケ木.json",
+    "name": "間新田町字ヤケ木",
+    "alternateName": [
+      "間新田町字ヤヶ木"
+    ],
+    "parentFeature": "https://geonames.jp/resource/徳島県小松島市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県東八代郡境川村大窪",
+    "表記": "山梨県東八代郡境川村大窪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "東八代郡",
+      "市区町村": "境川村",
+      "町名": "大窪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053382499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053382580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053382590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383409"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232013/103309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232013/103311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232013/103312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232014/103314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232013/103315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232018/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232015/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232016/103318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232014/103316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232014/103317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232015/103318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232016/103321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232016/103319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232017/103320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232017/103319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232018/103320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232018/103321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232017/103321.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県東八代郡境川村大窪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/東八代郡/境川村/大窪.json",
+    "name": "大窪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県東八代郡境川村"
+  }
+]

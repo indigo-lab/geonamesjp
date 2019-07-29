@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大曲市花館中町",
+    "表記": "秋田県大曲市花館中町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "花館中町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059401367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059401377"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/99741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/99741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/99740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/99741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/99740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/99739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/99740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/99739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233356/99739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233357/99738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233357/99737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/99738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233356/99737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/99737.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大曲市花館中町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大曲市/花館中町.json",
+    "name": "花館中町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大曲市"
+  }
+]

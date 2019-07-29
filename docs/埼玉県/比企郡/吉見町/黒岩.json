@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県比企郡吉見町黒岩",
+    "表記": "埼玉県比企郡吉見町黒岩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "比企郡",
+      "市区町村": "吉見町",
+      "町名": "黒岩"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390374",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054390375"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232611/102892.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232612/102894.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232612/102893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/102893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232615/102893.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232613/102891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232612/102891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232611/102890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232610/102889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232606/102886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232608/102885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232609/102885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232608/102887.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県比企郡吉見町黒岩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/比企郡/吉見町/黒岩.json",
+    "name": "黒岩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県比企郡吉見町"
+  }
+]

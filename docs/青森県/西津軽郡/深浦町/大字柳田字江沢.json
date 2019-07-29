@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県西津軽郡深浦町大字柳田字江沢",
+    "表記": "青森県西津軽郡深浦町大字柳田字江沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "西津軽郡",
+      "市区町村": "深浦町",
+      "町名": "大字柳田字江沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400190"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/98528.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県西津軽郡深浦町大字柳田字江沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/西津軽郡/深浦町/大字柳田字江沢.json",
+    "name": "大字柳田字江沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県西津軽郡深浦町"
+  }
+]

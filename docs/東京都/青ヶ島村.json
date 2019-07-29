@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都青ヶ島村",
+    "表記": "東京都青ヶ島村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "青ヶ島村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C13402-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都青ヶ島村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/青ヶ島村.json",
+    "name": "青ヶ島村",
+    "alternateName": [
+      "青ケ島村"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都",
+    "children": [
+      "https://geonames.jp/resource/東京都青ヶ島村池之沢",
+      "https://geonames.jp/resource/東京都青ヶ島村休戸郷",
+      "https://geonames.jp/resource/東京都青ヶ島村西郷",
+      "https://geonames.jp/resource/東京都青ヶ島村岡部"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1196636"
+    ]
+  }
+]

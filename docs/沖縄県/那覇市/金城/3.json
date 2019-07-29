@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県那覇市金城三丁目",
+    "表記": "沖縄県那覇市金城三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "那覇市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S47201058003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272533",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272542",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039272543"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224036/111292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224035/111292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224035/111291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224036/111291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224034/111291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224033/111291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224032/111290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224033/111290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224034/111290.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県那覇市金城三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/那覇市/金城/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/沖縄県那覇市金城"
+  }
+]

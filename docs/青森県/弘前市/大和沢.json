@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県弘前市大和沢",
+    "表記": "青森県弘前市大和沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "弘前市",
+      "町名": "大和沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406356",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406357",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406367",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406368"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/98710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/98709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/98711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/98711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/98714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/98714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/98715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/98714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/98714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/98719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233356/98717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/98716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/98717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/98718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/98717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/98717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/98722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/98716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/98719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/98715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/98713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/98712.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県弘前市大和沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/弘前市/大和沢.json",
+    "name": "大和沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県弘前市"
+  }
+]

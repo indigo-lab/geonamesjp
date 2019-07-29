@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市出石町東条",
+    "表記": "兵庫県豊岡市出石町東条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "豊岡市",
+      "町名": "出石町東条"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341750"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229287/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229286/103420.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市出石町東条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/豊岡市/出石町東条.json",
+    "name": "出石町東条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県豊岡市"
+  }
+]

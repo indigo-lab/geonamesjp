@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県碧南市平七町",
+    "表記": "愛知県碧南市平七町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "平七町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232091300"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県碧南市平七町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/碧南市/平七町.json",
+    "name": "平七町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県碧南市",
+    "children": [
+      "https://geonames.jp/resource/愛知県碧南市平七町一丁目",
+      "https://geonames.jp/resource/愛知県碧南市平七町二丁目",
+      "https://geonames.jp/resource/愛知県碧南市平七町三丁目",
+      "https://geonames.jp/resource/愛知県碧南市平七町四丁目",
+      "https://geonames.jp/resource/愛知県碧南市平七町五丁目"
+    ]
+  }
+]

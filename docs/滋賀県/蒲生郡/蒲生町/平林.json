@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡蒲生町平林",
+    "表記": "滋賀県蒲生郡蒲生町平林",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "蒲生郡",
+      "市区町村": "蒲生町",
+      "町名": "平林"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364177",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364178"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230259/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230268/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230261/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230259/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230262/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103779.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県蒲生郡蒲生町平林",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/蒲生郡/蒲生町/平林.json",
+    "name": "平林",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県蒲生郡蒲生町"
+  }
+]

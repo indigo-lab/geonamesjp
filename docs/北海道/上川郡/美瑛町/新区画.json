@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道上川郡美瑛町新区画",
+    "表記": "北海道上川郡美瑛町新区画",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "上川郡",
+      "市区町村": "美瑛町",
+      "町名": "新区画"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423410",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423420"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234837/95728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234837/95729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234839/95727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234845/95727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234844/95723.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道上川郡美瑛町新区画",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/上川郡/美瑛町/新区画.json",
+    "name": "新区画",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道上川郡美瑛町"
+  }
+]

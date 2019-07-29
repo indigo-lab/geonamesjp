@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都多摩市貝取",
+    "表記": "東京都多摩市貝取",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "多摩市",
+      "町名": "貝取"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都多摩市貝取",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/多摩市/貝取.json",
+    "name": "貝取",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都多摩市",
+    "children": [
+      "https://geonames.jp/resource/東京都多摩市貝取（丁目なし）",
+      "https://geonames.jp/resource/東京都多摩市貝取一丁目",
+      "https://geonames.jp/resource/東京都多摩市貝取二丁目",
+      "https://geonames.jp/resource/東京都多摩市貝取三丁目",
+      "https://geonames.jp/resource/東京都多摩市貝取四丁目",
+      "https://geonames.jp/resource/東京都多摩市貝取五丁目"
+    ]
+  }
+]

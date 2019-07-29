@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村市船引町春山明堂",
+    "表記": "福島県田村市船引町春山明堂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "田村市",
+      "町名": "船引町春山明堂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401414",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401404",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401405"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/101644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/101644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/101647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/101646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233422/101647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/101646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/101644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/101645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/101643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/101646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233422/101648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/101645.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村市船引町春山明堂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村市/船引町春山明堂.json",
+    "name": "船引町春山明堂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県田村市"
+  }
+]

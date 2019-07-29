@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県三原市本郷南六丁目",
+    "表記": "広島県三原市本郷南六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "三原市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34204056206"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324788",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325708"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227908/104360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227909/104360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227909/104359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227908/104359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227908/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227907/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227906/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227907/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227909/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227910/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227909/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227908/104357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227906/104356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227906/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227905/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227905/104352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227905/104350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227907/104359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227907/104356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227910/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227905/104351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227905/104354.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県三原市本郷南六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/三原市/本郷南/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県三原市本郷南"
+  }
+]

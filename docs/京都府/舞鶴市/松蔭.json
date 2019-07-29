@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市松蔭",
+    "表記": "京都府舞鶴市松蔭",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "松蔭"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351245",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351246"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229609/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229613/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229613/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103430.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市松蔭",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/松蔭.json",
+    "name": "松蔭",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道檜山郡江差町姥神町",
+    "表記": "北海道檜山郡江差町姥神町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "檜山郡",
+      "市区町村": "江差町",
+      "町名": "姥神町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406039",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406049",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406130",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406140"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233102/97444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/97443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233105/97443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/97443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/97442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/97442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/97442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233107/97441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233100/97440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233106/97441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233108/97441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233100/97442.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道檜山郡江差町姥神町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/檜山郡/江差町/姥神町.json",
+    "name": "姥神町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道檜山郡江差町"
+  }
+]

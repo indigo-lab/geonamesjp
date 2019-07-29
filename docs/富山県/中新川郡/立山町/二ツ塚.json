@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町二ツ塚",
+    "表記": "富山県中新川郡立山町二ツ塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "中新川郡",
+      "市区町村": "立山町",
+      "町名": "二ツ塚",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S163231160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370225",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370215",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370224"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231057/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231057/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/102318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231064/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/102319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231057/102318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231063/102316.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231062/102316.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県中新川郡立山町二ツ塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/中新川郡/立山町/二ツ塚.json",
+    "name": "二ツ塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県中新川郡立山町"
+  }
+]

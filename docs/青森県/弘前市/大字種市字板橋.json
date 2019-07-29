@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県弘前市大字種市字板橋",
+    "表記": "青森県弘前市大字種市字板橋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "弘前市",
+      "町名": "大字種市字板橋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400334"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233334/98578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233335/98573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233334/98575.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県弘前市大字種市字板橋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/弘前市/大字種市字板橋.json",
+    "name": "大字種市字板橋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県弘前市"
+  }
+]

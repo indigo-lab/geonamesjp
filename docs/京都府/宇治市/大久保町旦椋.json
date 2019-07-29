@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府宇治市大久保町旦椋",
+    "表記": "京都府宇治市大久保町旦椋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "宇治市",
+      "町名": "大久保町旦椋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S26204051001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352640",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352641"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229935/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229935/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229936/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229934/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229933/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229932/103947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229931/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229931/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229930/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229931/103947.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府宇治市大久保町旦椋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/宇治市/大久保町旦椋.json",
+    "name": "大久保町旦椋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府宇治市"
+  }
+]

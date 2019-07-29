@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市太白区秋保町湯元字鹿乙",
+    "表記": "宮城県仙台市太白区秋保町湯元字鹿乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "太白区",
+      "町名": "秋保町湯元字鹿乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402577"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233538/100905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233537/100903.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233536/100905.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市太白区秋保町湯元字鹿乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/太白区/秋保町湯元字鹿乙.json",
+    "name": "秋保町湯元字鹿乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市太白区"
+  }
+]

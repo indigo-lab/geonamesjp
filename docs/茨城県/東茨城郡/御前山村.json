@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県東茨城郡御前山村",
+    "表記": "茨城県東茨城郡御前山村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "東茨城郡",
+      "市区町村": "御前山村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C08308-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C08308-20041016",
+        "http://data.e-stat.go.jp/lod/sac/C08308-19910201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県東茨城郡御前山村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/東茨城郡/御前山村.json",
+    "name": "御前山村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県東茨城郡"
+  }
+]

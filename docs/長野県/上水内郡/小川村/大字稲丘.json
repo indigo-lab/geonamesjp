@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上水内郡小川村大字稲丘",
+    "表記": "長野県上水内郡小川村大字稲丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "上水内郡",
+      "市区町村": "小川村",
+      "町名": "大字稲丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S20588003011",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S205880030",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S20588003010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377779"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231556/102353.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上水内郡小川村大字稲丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上水内郡/小川村/大字稲丘.json",
+    "name": "大字稲丘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上水内郡小川村"
+  }
+]

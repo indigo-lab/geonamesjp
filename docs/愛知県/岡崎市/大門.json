@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市大門",
+    "表記": "愛知県岡崎市大門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "大門"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市大門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/大門.json",
+    "name": "大門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市",
+    "children": [
+      "https://geonames.jp/resource/愛知県岡崎市大門一丁目",
+      "https://geonames.jp/resource/愛知県岡崎市大門二丁目",
+      "https://geonames.jp/resource/愛知県岡崎市大門三丁目",
+      "https://geonames.jp/resource/愛知県岡崎市大門四丁目",
+      "https://geonames.jp/resource/愛知県岡崎市大門五丁目"
+    ]
+  }
+]

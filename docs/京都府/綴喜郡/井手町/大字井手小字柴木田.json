@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府綴喜郡井手町大字井手小字柴木田",
+    "表記": "京都府綴喜郡井手町大字井手小字柴木田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "綴喜郡",
+      "市区町村": "井手町",
+      "町名": "大字井手小字柴木田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351654",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351655"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229967/104014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229968/104013.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府綴喜郡井手町大字井手小字柴木田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/綴喜郡/井手町/大字井手小字柴木田.json",
+    "name": "大字井手小字柴木田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府綴喜郡井手町"
+  }
+]

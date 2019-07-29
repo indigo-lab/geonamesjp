@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡新宮町福栖",
+    "表記": "兵庫県揖保郡新宮町福栖",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "揖保郡",
+      "市区町村": "新宮町",
+      "町名": "福栖"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343329",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343420",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343430",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343431"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229012/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229011/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229013/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229013/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229014/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229014/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229015/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229016/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229017/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229018/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229018/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229019/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229019/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229019/103887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229019/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229022/103883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229020/103889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229020/103888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229015/103880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229014/103890.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡新宮町福栖",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/揖保郡/新宮町/福栖.json",
+    "name": "福栖",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県揖保郡新宮町"
+  }
+]

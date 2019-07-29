@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県玉名郡和水町蜻浦",
+    "表記": "熊本県玉名郡和水町蜻浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "玉名郡",
+      "市区町村": "和水町",
+      "町名": "蜻浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303550",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303540"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226192/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226191/105630.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県玉名郡和水町蜻浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/玉名郡/和水町/蜻浦.json",
+    "name": "蜻浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県玉名郡和水町"
+  }
+]

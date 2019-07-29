@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県木更津市小浜",
+    "表記": "千葉県木更津市小浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "木更津市",
+      "町名": "小浜",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122062230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390722",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390712",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390733",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390723"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232954/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/103518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/103520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/103519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/103518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/103516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/103521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103517.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県木更津市小浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/木更津市/小浜.json",
+    "name": "小浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県木更津市"
+  }
+]

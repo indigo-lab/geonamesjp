@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県福山市加茂町百谷",
+    "表記": "広島県福山市加茂町百谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "福山市",
+      "町名": "加茂町百谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337206",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337207",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337215",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337216",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337225"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228153/104183.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228154/104187.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228155/104191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228156/104193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228160/104199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228158/104194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228158/104193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228159/104194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228159/104195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228160/104198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228161/104199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228161/104198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228161/104200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228164/104201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228162/104199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228166/104201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228160/104197.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県福山市加茂町百谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/福山市/加茂町百谷.json",
+    "name": "加茂町百谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県福山市"
+  }
+]

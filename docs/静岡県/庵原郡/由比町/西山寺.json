@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡由比町西山寺",
+    "表記": "静岡県庵原郡由比町西山寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "庵原郡",
+      "市区町村": "由比町",
+      "町名": "西山寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385423",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385424",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385433",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385434",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385442"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231962/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231962/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231961/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231963/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231960/103738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231960/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103734.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231957/103733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231953/103735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231948/103729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231958/103739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231955/103732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231954/103736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231961/103737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231963/103737.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡由比町西山寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/庵原郡/由比町/西山寺.json",
+    "name": "西山寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県庵原郡由比町"
+  }
+]

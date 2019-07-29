@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡八東町",
+    "表記": "鳥取県八頭郡八東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "八頭郡",
+      "市区町村": "八東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C31324-19820201",
+        "http://data.e-stat.go.jp/lod/sac/C31324-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C31324-19841215",
+        "http://data.e-stat.go.jp/lod/sac/C31324-20050331",
+        "http://data.e-stat.go.jp/lod/sac/C31324-19760501"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡八東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/八頭郡/八東町.json",
+    "name": "八東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県八頭郡"
+  }
+]

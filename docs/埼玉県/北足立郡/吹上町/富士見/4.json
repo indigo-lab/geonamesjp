@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県北足立郡吹上町富士見四丁目",
+    "表記": "埼玉県北足立郡吹上町富士見四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "北足立郡",
+      "市区町村": "吹上町",
+      "町名": "四丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391316"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232617/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/102853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/102854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232620/102854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232619/102853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/102853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232618/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232617/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232616/102851.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県北足立郡吹上町富士見四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/北足立郡/吹上町/富士見/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県北足立郡吹上町富士見"
+  }
+]

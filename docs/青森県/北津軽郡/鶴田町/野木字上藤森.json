@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県北津軽郡鶴田町野木字上藤森",
+    "表記": "青森県北津軽郡鶴田町野木字上藤森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "北津軽郡",
+      "市区町村": "鶴田町",
+      "町名": "野木字上藤森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401301",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401302"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/98523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/98524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/98525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/98522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/98524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/98524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/98526.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県北津軽郡鶴田町野木字上藤森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/北津軽郡/鶴田町/野木字上藤森.json",
+    "name": "野木字上藤森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県北津軽郡鶴田町"
+  }
+]

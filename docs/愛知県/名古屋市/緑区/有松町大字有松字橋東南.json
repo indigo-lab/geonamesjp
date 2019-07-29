@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区有松町大字有松字橋東南",
+    "表記": "愛知県名古屋市緑区有松町大字有松字橋東南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "名古屋市",
+      "区": "緑区",
+      "町名": "有松町大字有松字橋東南"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364787"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230811/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230811/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230810/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/103776.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県名古屋市緑区有松町大字有松字橋東南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/名古屋市/緑区/有松町大字有松字橋東南.json",
+    "name": "有松町大字有松字橋東南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県名古屋市緑区"
+  }
+]

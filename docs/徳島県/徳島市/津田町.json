@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県徳島市津田町",
+    "表記": "徳島県徳島市津田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "市区町村": "津田町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県徳島市津田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/徳島市/津田町.json",
+    "name": "津田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県徳島市",
+    "children": [
+      "https://geonames.jp/resource/徳島県徳島市津田町（丁目なし）",
+      "https://geonames.jp/resource/徳島県徳島市津田町一丁目",
+      "https://geonames.jp/resource/徳島県徳島市津田町二丁目",
+      "https://geonames.jp/resource/徳島県徳島市津田町三丁目",
+      "https://geonames.jp/resource/徳島県徳島市津田町四丁目"
+    ]
+  }
+]

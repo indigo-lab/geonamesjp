@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県南都留郡道志村櫓沢",
+    "表記": "山梨県南都留郡道志村櫓沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "南都留郡",
+      "市区町村": "道志村",
+      "町名": "櫓沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392041"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232302/103354.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県南都留郡道志村櫓沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/南都留郡/道志村/櫓沢.json",
+    "name": "櫓沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県南都留郡道志村"
+  }
+]

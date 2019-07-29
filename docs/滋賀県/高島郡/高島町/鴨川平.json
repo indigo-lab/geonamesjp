@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県高島郡高島町鴨川平",
+    "表記": "滋賀県高島郡高島町鴨川平",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "高島郡",
+      "市区町村": "高島町",
+      "町名": "鴨川平"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県高島郡高島町鴨川平",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/高島郡/高島町/鴨川平.json",
+    "name": "鴨川平",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県高島郡高島町",
+    "children": [
+      "https://geonames.jp/resource/滋賀県高島郡高島町鴨川平一丁目",
+      "https://geonames.jp/resource/滋賀県高島郡高島町鴨川平二丁目",
+      "https://geonames.jp/resource/滋賀県高島郡高島町鴨川平三丁目"
+    ]
+  }
+]

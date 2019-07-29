@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県双葉郡浪江町小野田字小野田",
+    "表記": "福島県双葉郡浪江町小野田字小野田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "双葉郡",
+      "市区町村": "浪江町",
+      "町名": "小野田字小野田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401787"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233724/101592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233722/101593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/101595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233713/101596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101598.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県双葉郡浪江町小野田字小野田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/双葉郡/浪江町/小野田字小野田.json",
+    "name": "小野田字小野田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県双葉郡浪江町"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県北宇和郡広見町上川",
+    "表記": "愛媛県北宇和郡広見町上川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "北宇和郡",
+      "市区町村": "広見町",
+      "町名": "上川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049327517",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049327527"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227715/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227716/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227716/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227717/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227718/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227713/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227714/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227714/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227718/105362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227719/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227713/105361.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県北宇和郡広見町上川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/北宇和郡/広見町/上川.json",
+    "name": "上川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県北宇和郡広見町"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県行田市長野",
+    "表記": "埼玉県行田市長野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "行田市",
+      "町名": "長野"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県行田市長野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/行田市/長野.json",
+    "name": "長野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県行田市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県行田市長野（丁目なし）",
+      "https://geonames.jp/resource/埼玉県行田市長野一丁目",
+      "https://geonames.jp/resource/埼玉県行田市長野二丁目",
+      "https://geonames.jp/resource/埼玉県行田市長野三丁目",
+      "https://geonames.jp/resource/埼玉県行田市長野四丁目",
+      "https://geonames.jp/resource/埼玉県行田市長野五丁目"
+    ]
+  }
+]

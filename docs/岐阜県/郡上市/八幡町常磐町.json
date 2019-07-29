@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県郡上市八幡町常磐町",
+    "表記": "岐阜県郡上市八幡町常磐町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "八幡町常磐町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053364796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053365706"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/103165.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県郡上市八幡町常磐町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/郡上市/八幡町常磐町.json",
+    "name": "八幡町常磐町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県郡上市"
+  }
+]

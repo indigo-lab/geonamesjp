@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県武生市大虫町",
+    "表記": "福井県武生市大虫町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "大虫町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366180",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366181"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230209/103028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230209/103029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/103029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/103029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230207/103028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230206/103027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/103029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230205/103029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230202/103028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/103027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230203/103029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230201/103028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230200/103028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230199/103029.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県武生市大虫町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/武生市/大虫町.json",
+    "name": "大虫町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県武生市"
+  }
+]

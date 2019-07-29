@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市割田",
+    "表記": "岐阜県大垣市割田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "大垣市",
+      "町名": "割田"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県大垣市割田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/大垣市/割田.json",
+    "name": "割田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県大垣市",
+    "children": [
+      "https://geonames.jp/resource/岐阜県大垣市割田一丁目",
+      "https://geonames.jp/resource/岐阜県大垣市割田二丁目",
+      "https://geonames.jp/resource/岐阜県大垣市割田三丁目"
+    ]
+  }
+]

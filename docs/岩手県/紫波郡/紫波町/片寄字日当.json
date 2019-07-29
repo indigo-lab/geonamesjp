@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県紫波郡紫波町片寄字日当",
+    "表記": "岩手県紫波郡紫波町片寄字日当",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "紫波郡",
+      "市区町村": "紫波町",
+      "町名": "片寄字日当"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059412028"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233822/99696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233823/99693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233823/99694.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233822/99695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233824/99695.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県紫波郡紫波町片寄字日当",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/紫波郡/紫波町/片寄字日当.json",
+    "name": "片寄字日当",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県紫波郡紫波町"
+  }
+]

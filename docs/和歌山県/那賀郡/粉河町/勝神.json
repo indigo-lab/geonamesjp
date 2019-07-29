@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡粉河町勝神",
+    "表記": "和歌山県那賀郡粉河町勝神",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "那賀郡",
+      "市区町村": "粉河町",
+      "町名": "勝神"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352381",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352391",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352392",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353301"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229662/104496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229662/104499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229663/104498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229664/104502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229668/104505.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229663/104508.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡粉河町勝神",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/那賀郡/粉河町/勝神.json",
+    "name": "勝神",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県那賀郡粉河町"
+  }
+]

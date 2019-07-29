@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県大田原市湯津上",
+    "表記": "栃木県大田原市湯津上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "大田原市",
+      "町名": "湯津上",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092100530"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055401089",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055402007",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055401088"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233099/102196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/102178.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233098/102195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233082/102179.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県大田原市湯津上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/大田原市/湯津上.json",
+    "name": "湯津上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県大田原市"
+  }
+]

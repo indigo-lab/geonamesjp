@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道沙流郡門別町旭町",
+    "表記": "北海道沙流郡門別町旭町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "沙流郡",
+      "市区町村": "門別町",
+      "町名": "旭町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063425067",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063425068",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063425077",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063425078",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063425087",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063425088",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063425097",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063425098"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234550/96846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234537/96845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234539/96845.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234539/96842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234537/96841.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234550/96836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234544/96842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234554/96844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234543/96834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234542/96833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234541/96827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234542/96823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234546/96823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234547/96827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234544/96840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234551/96835.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道沙流郡門別町旭町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/沙流郡/門別町/旭町.json",
+    "name": "旭町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道沙流郡門別町"
+  }
+]

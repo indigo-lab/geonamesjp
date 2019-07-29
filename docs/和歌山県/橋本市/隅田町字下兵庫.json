@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県橋本市隅田町字下兵庫",
+    "表記": "和歌山県橋本市隅田町字下兵庫",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "市区町村": "橋本市",
+      "町名": "隅田町字下兵庫"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051353590",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354510"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229834/104421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229834/104428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229835/104427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229835/104426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229836/104429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229833/104428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229834/104426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229834/104414.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県橋本市隅田町字下兵庫",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/橋本市/隅田町字下兵庫.json",
+    "name": "隅田町字下兵庫",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県橋本市"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡佐伯町",
+    "表記": "広島県佐伯郡佐伯町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "佐伯郡",
+      "市区町村": "佐伯町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C34325-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C34325-20030301",
+        "http://data.e-stat.go.jp/lod/sac/C34325-19820401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県佐伯郡佐伯町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/佐伯郡/佐伯町.json",
+    "name": "佐伯町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県佐伯郡",
+    "children": [
+      "https://geonames.jp/resource/広島県佐伯郡佐伯町浅原",
+      "https://geonames.jp/resource/広島県佐伯郡佐伯町峠",
+      "https://geonames.jp/resource/広島県佐伯郡佐伯町津田",
+      "https://geonames.jp/resource/広島県佐伯郡佐伯町玖島",
+      "https://geonames.jp/resource/広島県佐伯郡佐伯町友田",
+      "https://geonames.jp/resource/広島県佐伯郡佐伯町河津原",
+      "https://geonames.jp/resource/広島県佐伯郡佐伯町永原"
+    ]
+  }
+]

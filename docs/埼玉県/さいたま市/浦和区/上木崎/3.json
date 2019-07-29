@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市浦和区上木崎三丁目",
+    "表記": "埼玉県さいたま市浦和区上木崎三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "区": "浦和区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11107007003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396561",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396571"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232758/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103039.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市浦和区上木崎三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/浦和区/上木崎/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市浦和区上木崎"
+  }
+]

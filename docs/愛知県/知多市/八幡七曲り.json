@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県知多市八幡七曲り",
+    "表記": "愛知県知多市八幡七曲り",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "知多市",
+      "町名": "八幡七曲り"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363761",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363751",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052363752"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230755/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103865.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県知多市八幡七曲り",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/知多市/八幡七曲り.json",
+    "name": "八幡七曲り",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県知多市"
+  }
+]

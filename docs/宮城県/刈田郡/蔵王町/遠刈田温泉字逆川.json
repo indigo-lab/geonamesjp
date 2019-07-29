@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県刈田郡蔵王町遠刈田温泉字逆川",
+    "表記": "宮城県刈田郡蔵王町遠刈田温泉字逆川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "刈田郡",
+      "市区町村": "蔵王町",
+      "町名": "遠刈田温泉字逆川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057401455"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/100996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233432/100998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233428/100996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233429/100997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/100995.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県刈田郡蔵王町遠刈田温泉字逆川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/刈田郡/蔵王町/遠刈田温泉字逆川.json",
+    "name": "遠刈田温泉字逆川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県刈田郡蔵王町"
+  }
+]

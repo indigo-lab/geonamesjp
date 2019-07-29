@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡能登川町佐生",
+    "表記": "滋賀県神崎郡能登川町佐生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "神崎郡",
+      "市区町村": "能登川町",
+      "町名": "佐生"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366114"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230233/103678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230232/103677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/103677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/103678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230234/103680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230235/103681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/103680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230236/103679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230237/103680.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県神崎郡能登川町佐生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/神崎郡/能登川町/佐生.json",
+    "name": "佐生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県神崎郡能登川町"
+  }
+]

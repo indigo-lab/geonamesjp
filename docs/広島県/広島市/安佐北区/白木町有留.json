@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐北区白木町有留",
+    "表記": "広島県広島市安佐北区白木町有留",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "安佐北区",
+      "町名": "白木町有留"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326544",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326563",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326573",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326574"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227686/104222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227680/104228.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227688/104225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227680/104225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227687/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227682/104227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227688/104245.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐北区白木町有留",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/安佐北区/白木町有留.json",
+    "name": "白木町有留",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市安佐北区"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県松戸市西馬橋幸町",
+    "表記": "千葉県松戸市西馬橋幸町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "西馬橋幸町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122070950"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395773",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395772"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232954/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232955/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232955/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232954/103110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232954/103108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/103108.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県松戸市西馬橋幸町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/松戸市/西馬橋幸町.json",
+    "name": "西馬橋幸町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県松戸市"
+  }
+]

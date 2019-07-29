@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県一宮市浅井町西浅井壱本杉",
+    "表記": "愛知県一宮市浅井町西浅井壱本杉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "一宮市",
+      "町名": "浅井町西浅井壱本杉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367695"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230699/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230699/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230699/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230699/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230700/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230700/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230698/103542.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県一宮市浅井町西浅井壱本杉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/一宮市/浅井町西浅井壱本杉.json",
+    "name": "浅井町西浅井壱本杉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県一宮市"
+  }
+]

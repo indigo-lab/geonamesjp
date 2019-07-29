@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市泉区紫山四丁目",
+    "表記": "宮城県仙台市泉区紫山四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "区": "泉区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04105049004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057404615",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057404625"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/100793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/100795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/100792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/100790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/100791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/100792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/100793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233614/100794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/100795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233615/100794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/100790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233613/100789.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市泉区紫山四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市/泉区/紫山/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県仙台市泉区紫山"
+  }
+]

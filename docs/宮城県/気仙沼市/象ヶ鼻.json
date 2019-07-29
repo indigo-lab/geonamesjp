@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市象ヶ鼻",
+    "表記": "宮城県気仙沼市象ヶ鼻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "気仙沼市",
+      "町名": "象ヶ鼻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412490",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412399"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234109/100268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234104/100270.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市象ヶ鼻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/気仙沼市/象ヶ鼻.json",
+    "name": "象ヶ鼻",
+    "alternateName": [
+      "象ケ鼻"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県気仙沼市"
+  }
+]

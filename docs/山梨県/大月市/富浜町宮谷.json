@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県大月市富浜町宮谷",
+    "表記": "山梨県大月市富浜町宮谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "市区町村": "大月市",
+      "町名": "富浜町宮谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S19206010002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383748",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383749",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383758",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383759",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383768"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/103279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/103279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/103279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/103280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/103278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/103278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/103278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/103278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/103279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/103279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232272/103274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/103271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/103280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/103278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232279/103282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/103283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232280/103278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/103281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/103280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232281/103277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/103278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232282/103276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/103275.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県大月市富浜町宮谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/大月市/富浜町宮谷.json",
+    "name": "富浜町宮谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県大月市"
+  }
+]

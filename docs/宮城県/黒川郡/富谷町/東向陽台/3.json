@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県黒川郡富谷町東向陽台三丁目",
+    "表記": "宮城県黒川郡富谷町東向陽台三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "黒川郡",
+      "市区町村": "富谷町",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04423020003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057404711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057404701"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/100799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233667/100799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233668/100798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233667/100798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233668/100797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233668/100799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/100797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/100798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233670/100797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/100800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233670/100800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233670/100799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233670/100798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/100800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/100798.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県黒川郡富谷町東向陽台三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/黒川郡/富谷町/東向陽台/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県黒川郡富谷町東向陽台"
+  }
+]

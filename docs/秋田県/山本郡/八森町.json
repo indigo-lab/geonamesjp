@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県山本郡八森町",
+    "表記": "秋田県山本郡八森町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "山本郡",
+      "市区町村": "八森町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C05343-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C05343-20060327"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県山本郡八森町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/山本郡/八森町.json",
+    "name": "八森町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県山本郡"
+  }
+]

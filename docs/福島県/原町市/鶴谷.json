@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県原町市鶴谷",
+    "表記": "福島県原町市鶴谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "原町市",
+      "町名": "鶴谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403707",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403708",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403709",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403717",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403718"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233731/101494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233731/101492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233732/101492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233721/101490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233728/101491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233727/101493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233729/101490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233713/101492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233737/101492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233727/101495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233722/101493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233734/101492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233729/101497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233727/101498.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233737/101495.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県原町市鶴谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/原町市/鶴谷.json",
+    "name": "鶴谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県原町市"
+  }
+]

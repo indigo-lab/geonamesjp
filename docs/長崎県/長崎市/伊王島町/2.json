@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県長崎市伊王島町二丁目",
+    "表記": "長崎県長崎市伊王島町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "伊王島町",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290632",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049290642"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225575/105853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225578/105854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225577/105855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225576/105855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225577/105854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225573/105849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225575/105854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225576/105854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225576/105853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225575/105852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225574/105853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225572/105852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225572/105850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225573/105850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225576/105852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225574/105851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225575/105855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225575/105857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225574/105852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225573/105855.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県長崎市伊王島町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/長崎市/伊王島町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/長崎県長崎市伊王島町"
+  }
+]

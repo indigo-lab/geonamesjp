@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県鹿嶋市鰐川",
+    "表記": "茨城県鹿嶋市鰐川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "鹿嶋市",
+      "町名": "鰐川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407429",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407510",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407520"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233477/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233479/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233474/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233476/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233471/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233474/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233473/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233475/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233474/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233475/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233475/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233477/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233478/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233478/102996.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県鹿嶋市鰐川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/鹿嶋市/鰐川.json",
+    "name": "鰐川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県鹿嶋市"
+  }
+]

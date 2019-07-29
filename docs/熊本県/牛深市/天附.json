@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県牛深市天附",
+    "表記": "熊本県牛深市天附",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "牛深市",
+      "町名": "天附"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302002",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302011",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302012",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302013",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302021",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302022"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225754/106299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225756/106304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225756/106297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225753/106304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225758/106297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225747/106303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225748/106300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225768/106303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225758/106299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225758/106298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225761/106303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225752/106293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225752/106292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225753/106292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225752/106294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225753/106293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225753/106294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225758/106302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225754/106293.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県牛深市天附",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/牛深市/天附.json",
+    "name": "天附",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県牛深市"
+  }
+]

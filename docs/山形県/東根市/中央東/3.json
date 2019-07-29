@@ -1,0 +1,63 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県東根市中央東三丁目",
+    "表記": "山形県東根市中央東三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "東根市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06211042003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405312",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405302",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405311"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/100719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/100716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/100716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/100718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/100719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233313/100719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/100721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233313/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/100720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233310/100720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233309/100718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/100718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233314/100720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/100721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233315/100720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/100718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/100718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233312/100722.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県東根市中央東三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/東根市/中央東/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山形県東根市中央東"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町山田クルミヤツ",
+    "表記": "福島県田村郡三春町山田クルミヤツ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "田村郡",
+      "市区町村": "三春町",
+      "町名": "山田クルミヤツ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056401315"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/101643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/101644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/101644.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県田村郡三春町山田クルミヤツ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/田村郡/三春町/山田クルミヤツ.json",
+    "name": "山田クルミヤツ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県田村郡三春町"
+  }
+]

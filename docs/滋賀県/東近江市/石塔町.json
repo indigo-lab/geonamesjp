@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市石塔町",
+    "表記": "滋賀県東近江市石塔町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "石塔町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25213207001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S25213207002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252132070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364177",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364175",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364185",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364196"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230259/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230253/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230253/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/103769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230249/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230251/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230251/103766.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/103767.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230251/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230253/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230252/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230253/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230254/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230255/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230256/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103776.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市石塔町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/東近江市/石塔町.json",
+    "name": "石塔町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県東近江市"
+  }
+]

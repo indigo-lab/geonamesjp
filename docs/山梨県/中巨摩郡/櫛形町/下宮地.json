@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡櫛形町下宮地",
+    "表記": "山梨県中巨摩郡櫛形町下宮地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "中巨摩郡",
+      "市区町村": "櫛形町",
+      "町名": "下宮地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053383327"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231897/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231897/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231898/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231899/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231899/103293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231898/103295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/103294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231900/103295.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県中巨摩郡櫛形町下宮地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/中巨摩郡/櫛形町/下宮地.json",
+    "name": "下宮地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県中巨摩郡櫛形町"
+  }
+]

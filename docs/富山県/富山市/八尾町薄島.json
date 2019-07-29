@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市八尾町薄島",
+    "表記": "富山県富山市八尾町薄島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "八尾町薄島",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162017820"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377123",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377113",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377124",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377114"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/102395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/102398.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/102396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/102396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/102397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/102394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230961/102393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/102394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/102393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/102393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/102392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/102393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/102392.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/102399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/102397.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/102391.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/102399.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市八尾町薄島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/八尾町薄島.json",
+    "name": "八尾町薄島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

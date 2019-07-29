@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県登米郡豊里町東二ッ屋",
+    "表記": "宮城県登米郡豊里町東二ッ屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "登米郡",
+      "市区町村": "豊里町",
+      "町名": "東二ッ屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416188"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233908/100585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233908/100584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233911/100583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233911/100584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233912/100583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233913/100583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233915/100583.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県登米郡豊里町東二ッ屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/登米郡/豊里町/東二ッ屋.json",
+    "name": "東二ッ屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県登米郡豊里町"
+  }
+]

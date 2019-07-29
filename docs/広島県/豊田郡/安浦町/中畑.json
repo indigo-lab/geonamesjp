@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県豊田郡安浦町中畑",
+    "表記": "広島県豊田郡安浦町中畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "豊田郡",
+      "市区町村": "安浦町",
+      "町名": "中畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323545",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323555",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323556",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323565",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051323566"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227704/104448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227701/104450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227702/104449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227703/104451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227705/104452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227708/104453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227699/104457.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227700/104458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227701/104458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227695/104454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227698/104462.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県豊田郡安浦町中畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/豊田郡/安浦町/中畑.json",
+    "name": "中畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県豊田郡安浦町"
+  }
+]

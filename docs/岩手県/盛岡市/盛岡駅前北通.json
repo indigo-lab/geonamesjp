@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市盛岡駅前北通",
+    "表記": "岩手県盛岡市盛岡駅前北通",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "盛岡駅前北通",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032011230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414140",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414141"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233844/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233842/99520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233844/99522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233843/99522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233842/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233843/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233843/99519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233845/99522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233843/99520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233841/99520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233844/99520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/99521.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市盛岡駅前北通",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/盛岡駅前北通.json",
+    "name": "盛岡駅前北通",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

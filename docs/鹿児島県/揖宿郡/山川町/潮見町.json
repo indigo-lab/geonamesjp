@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県揖宿郡山川町潮見町",
+    "表記": "鹿児島県揖宿郡山川町潮見町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "揖宿郡",
+      "市区町村": "山川町",
+      "町名": "潮見町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2046306541"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226201/107134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226200/107134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226201/107135.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県揖宿郡山川町潮見町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/揖宿郡/山川町/潮見町.json",
+    "name": "潮見町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県揖宿郡山川町"
+  }
+]

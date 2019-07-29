@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県生駒市北大和",
+    "表記": "奈良県生駒市北大和",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "生駒市",
+      "町名": "北大和"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県生駒市北大和",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/生駒市/北大和.json",
+    "name": "北大和",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県生駒市",
+    "children": [
+      "https://geonames.jp/resource/奈良県生駒市北大和（丁目なし）",
+      "https://geonames.jp/resource/奈良県生駒市北大和一丁目",
+      "https://geonames.jp/resource/奈良県生駒市北大和二丁目",
+      "https://geonames.jp/resource/奈良県生駒市北大和三丁目",
+      "https://geonames.jp/resource/奈良県生駒市北大和四丁目",
+      "https://geonames.jp/resource/奈良県生駒市北大和五丁目"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県宇陀郡大宇陀町和田",
+    "表記": "奈良県宇陀郡大宇陀町和田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "宇陀郡",
+      "市区町村": "大宇陀町",
+      "町名": "和田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355757",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355767",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355756",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355766"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230076/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230077/104307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230075/104307.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県宇陀郡大宇陀町和田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/宇陀郡/大宇陀町/和田.json",
+    "name": "和田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県宇陀郡大宇陀町"
+  }
+]

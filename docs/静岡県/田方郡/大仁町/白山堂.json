@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県田方郡大仁町白山堂",
+    "表記": "静岡県田方郡大仁町白山堂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "田方郡",
+      "市区町村": "大仁町",
+      "町名": "白山堂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384725"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232248/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232245/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232244/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232245/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232249/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232245/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232246/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232247/103815.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県田方郡大仁町白山堂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/田方郡/大仁町/白山堂.json",
+    "name": "白山堂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県田方郡大仁町"
+  }
+]

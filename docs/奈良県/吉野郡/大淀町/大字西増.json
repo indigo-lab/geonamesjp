@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡大淀町大字西増",
+    "表記": "奈良県吉野郡大淀町大字西増",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "吉野郡",
+      "市区町村": "大淀町",
+      "町名": "大字西増",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S294420020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354677",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354687",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354676",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051354697",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355607"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/104367.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229990/104361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229987/104359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229986/104356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229984/104372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229988/104350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229989/104360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229991/104352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229990/104360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229991/104361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229990/104362.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県吉野郡大淀町大字西増",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/吉野郡/大淀町/大字西増.json",
+    "name": "大字西増",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県吉野郡大淀町"
+  }
+]

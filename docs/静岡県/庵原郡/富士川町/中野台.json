@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡富士川町中野台",
+    "表記": "静岡県庵原郡富士川町中野台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "庵原郡",
+      "市区町村": "富士川町",
+      "町名": "中野台"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県庵原郡富士川町中野台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/庵原郡/富士川町/中野台.json",
+    "name": "中野台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県庵原郡富士川町",
+    "children": [
+      "https://geonames.jp/resource/静岡県庵原郡富士川町中野台一丁目",
+      "https://geonames.jp/resource/静岡県庵原郡富士川町中野台二丁目"
+    ]
+  }
+]

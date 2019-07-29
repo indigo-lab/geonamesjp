@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県塩谷郡高根沢町光陽台六丁目",
+    "表記": "栃木県塩谷郡高根沢町光陽台六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "塩谷郡",
+      "市区町村": "高根沢町",
+      "町名": "六丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054397748"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233004/102378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233003/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233003/102378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233005/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233004/102379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233005/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233005/102378.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県塩谷郡高根沢町光陽台六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/塩谷郡/高根沢町/光陽台/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/栃木県塩谷郡高根沢町光陽台"
+  }
+]

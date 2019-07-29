@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県丹羽郡扶桑町高雄字定松郷",
+    "表記": "愛知県丹羽郡扶桑町高雄字定松郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "丹羽郡",
+      "市区町村": "扶桑町",
+      "町名": "高雄字定松郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360723"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230771/103516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230772/103516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230773/103516.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県丹羽郡扶桑町高雄字定松郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/丹羽郡/扶桑町/高雄字定松郷.json",
+    "name": "高雄字定松郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県丹羽郡扶桑町"
+  }
+]

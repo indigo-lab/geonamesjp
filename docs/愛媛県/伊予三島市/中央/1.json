@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県伊予三島市中央一丁目",
+    "表記": "愛媛県伊予三島市中央一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "伊予三島市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337473",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337483"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228313/104733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228312/104732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228313/104732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228314/104732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228315/104732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228315/104731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228316/104731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228314/104731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228315/104730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228316/104730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228313/104731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228312/104731.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県伊予三島市中央一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/伊予三島市/中央/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛媛県伊予三島市中央"
+  }
+]

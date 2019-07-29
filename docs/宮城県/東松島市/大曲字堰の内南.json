@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県東松島市大曲字堰の内南",
+    "表記": "宮城県東松島市大曲字堰の内南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "東松島市",
+      "町名": "大曲字堰の内南"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415117",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415118"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233908/100718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233908/100719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233910/100719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233909/100719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233909/100720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233909/100721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233911/100719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233912/100719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233910/100720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233911/100720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233912/100720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233909/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233912/100721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233908/100721.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県東松島市大曲字堰の内南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/東松島市/大曲字堰の内南.json",
+    "name": "大曲字堰の内南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県東松島市"
+  }
+]

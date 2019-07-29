@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県さくら市フィオーレ喜連川四丁目",
+    "表記": "栃木県さくら市フィオーレ喜連川四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "さくら市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S09214022104"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400092",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400081",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400082",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400091"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233035/102268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233036/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233035/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233034/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233037/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233034/102268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233035/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233034/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233036/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233035/102267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233035/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233037/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233034/102269.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県さくら市フィオーレ喜連川四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/さくら市/フィオーレ喜連川/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/栃木県さくら市フィオーレ喜連川"
+  }
+]

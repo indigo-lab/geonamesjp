@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県珠洲郡内浦町秋吉",
+    "表記": "石川県珠洲郡内浦町秋吉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "珠洲郡",
+      "市区町村": "内浦町",
+      "町名": "秋吉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055377198",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055377199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056370108",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056370109",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056370119"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/101728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/101732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/101731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231004/101732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/101730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231003/101730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/101730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/101728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231007/101718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/101720.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県珠洲郡内浦町秋吉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/珠洲郡/内浦町/秋吉.json",
+    "name": "秋吉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県珠洲郡内浦町"
+  }
+]

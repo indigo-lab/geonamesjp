@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道旭川市台場東三丁目",
+    "表記": "北海道旭川市台場東三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "旭川市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S01204526003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425214",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065425213"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234691/95559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234690/95560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234692/95560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234693/95559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234690/95559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234691/95560.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道旭川市台場東三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/旭川市/台場東/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道旭川市台場東"
+  }
+]

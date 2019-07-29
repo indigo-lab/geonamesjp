@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県葛城市勝根",
+    "表記": "奈良県葛城市勝根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "葛城市",
+      "町名": "勝根",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292110400"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356526",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356527",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356516"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/104261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/104261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/104260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/104261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/104261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/104261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/104262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/104262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/104262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229890/104262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/104260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229893/104262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/104263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/104261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/104262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/104260.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県葛城市勝根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/葛城市/勝根.json",
+    "name": "勝根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県葛城市"
+  }
+]

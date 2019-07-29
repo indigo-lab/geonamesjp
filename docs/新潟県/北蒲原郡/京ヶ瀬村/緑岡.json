@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡京ヶ瀬村緑岡",
+    "表記": "新潟県北蒲原郡京ヶ瀬村緑岡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "京ヶ瀬村",
+      "町名": "緑岡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396105",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396114",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396115"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/101263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/101263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232427/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232427/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232428/101260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232427/101260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232428/101259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232427/101259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232424/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232424/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/101264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232427/101263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232428/101262.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡京ヶ瀬村緑岡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/京ヶ瀬村/緑岡.json",
+    "name": "緑岡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡京ヶ瀬村"
+  }
+]

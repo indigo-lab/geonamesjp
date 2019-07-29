@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県下呂市少ヶ野",
+    "表記": "岐阜県下呂市少ヶ野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "下呂市",
+      "町名": "少ヶ野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375250",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375159",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375169",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053375240"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231008/103129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231008/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231010/103120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231012/103120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231012/103121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231014/103121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231015/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/103128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/103127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/103127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/103129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/103130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231016/103131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/103122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/103128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/103131.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県下呂市少ヶ野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/下呂市/少ヶ野.json",
+    "name": "少ヶ野",
+    "alternateName": [
+      "少ケ野"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県下呂市"
+  }
+]

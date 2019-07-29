@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大館市大子内",
+    "表記": "秋田県大館市大子内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大館市",
+      "町名": "大子内",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052040940"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402480",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402389",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402470",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402378"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233382/99016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233382/99014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/99019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233386/99017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/99019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233381/99013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233380/99016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/99017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233382/99020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/99025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233381/99017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/99016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/99017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/99018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233385/99019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233384/99012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/99014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233380/99015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233382/99019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233383/99015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233386/99015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233382/99013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233382/99015.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大館市大子内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大館市/大子内.json",
+    "name": "大子内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大館市"
+  }
+]

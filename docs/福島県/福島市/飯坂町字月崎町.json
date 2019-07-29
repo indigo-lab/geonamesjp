@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県福島市飯坂町字月崎町",
+    "表記": "福島県福島市飯坂町字月崎町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "飯坂町字月崎町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405385",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056405395"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/101277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/101277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/101277.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県福島市飯坂町字月崎町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/福島市/飯坂町字月崎町.json",
+    "name": "飯坂町字月崎町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県福島市"
+  }
+]

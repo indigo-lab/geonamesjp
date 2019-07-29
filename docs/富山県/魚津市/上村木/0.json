@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県魚津市上村木（丁目なし）",
+    "表記": "富山県魚津市上村木（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "魚津市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S16204074003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371383",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371382"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231134/102195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231134/102194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231135/102194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231133/102195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231133/102196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231133/102197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231130/102197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231129/102199.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県魚津市上村木（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/魚津市/上村木/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県魚津市上村木"
+  }
+]

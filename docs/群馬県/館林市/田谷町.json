@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県館林市田谷町",
+    "表記": "群馬県館林市田谷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "田谷町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S102072130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393406",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393407",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393416"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/102710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232718/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232720/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232719/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232716/102713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232716/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232713/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232708/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232713/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/102708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232721/102712.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県館林市田谷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/館林市/田谷町.json",
+    "name": "田谷町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県館林市"
+  }
+]

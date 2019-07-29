@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市下渡",
+    "表記": "岐阜県美濃市下渡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "美濃市",
+      "町名": "下渡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S212070210"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362741",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362752",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053362751"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103351.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県美濃市下渡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/美濃市/下渡.json",
+    "name": "下渡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県美濃市"
+  }
+]

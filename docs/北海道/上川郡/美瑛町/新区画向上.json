@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道上川郡美瑛町新区画向上",
+    "表記": "北海道上川郡美瑛町新区画向上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "上川郡",
+      "市区町村": "美瑛町",
+      "町名": "新区画向上"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423309",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423318",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423319",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423400",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065423401"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234848/95737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234828/95727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234849/95740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234836/95733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234843/95733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234834/95729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234845/95737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234834/95731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234828/95729.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道上川郡美瑛町新区画向上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/上川郡/美瑛町/新区画向上.json",
+    "name": "新区画向上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道上川郡美瑛町"
+  }
+]

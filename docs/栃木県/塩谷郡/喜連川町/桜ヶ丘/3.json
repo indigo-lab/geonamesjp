@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県塩谷郡喜連川町桜ヶ丘三丁目",
+    "表記": "栃木県塩谷郡喜連川町桜ヶ丘三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "塩谷郡",
+      "市区町村": "喜連川町",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400090",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400091",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055401000"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233026/102264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233025/102265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233025/102264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233023/102262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233024/102263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233024/102264.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233025/102263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233023/102261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233024/102262.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県塩谷郡喜連川町桜ヶ丘三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/塩谷郡/喜連川町/桜ヶ丘/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/栃木県塩谷郡喜連川町桜ヶ丘"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県印旛郡本埜村小林",
+    "表記": "千葉県印旛郡本埜村小林",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "印旛郡",
+      "市区町村": "本埜村",
+      "町名": "小林"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405196",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406105",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406106"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/103091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233160/103088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/103089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233175/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233169/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233168/103092.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233170/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233169/103094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233176/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/103093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/103092.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県印旛郡本埜村小林",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/印旛郡/本埜村/小林.json",
+    "name": "小林",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県印旛郡本埜村"
+  }
+]

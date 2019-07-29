@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路郡釧路町睦",
+    "表記": "北海道釧路郡釧路町睦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "釧路郡",
+      "市区町村": "釧路町",
+      "町名": "睦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016610190"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路郡釧路町睦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路郡/釧路町/睦.json",
+    "name": "睦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路郡釧路町",
+    "children": [
+      "https://geonames.jp/resource/北海道釧路郡釧路町睦一丁目",
+      "https://geonames.jp/resource/北海道釧路郡釧路町睦二丁目",
+      "https://geonames.jp/resource/北海道釧路郡釧路町睦三丁目",
+      "https://geonames.jp/resource/北海道釧路郡釧路町睦四丁目",
+      "https://geonames.jp/resource/北海道釧路郡釧路町睦五丁目",
+      "https://geonames.jp/resource/北海道釧路郡釧路町睦六丁目"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道帯広市西八条南十六丁目",
+    "表記": "北海道帯広市西八条南十六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "帯広市",
+      "町名": "十六丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432195"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235342/96410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235342/96411.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道帯広市西八条南十六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/帯広市/西八条南/16.json",
+    "name": "十六丁目",
+    "alternateName": [
+      "16",
+      "16丁目",
+      "１６",
+      "１６丁目",
+      "十六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道帯広市西八条南"
+  }
+]

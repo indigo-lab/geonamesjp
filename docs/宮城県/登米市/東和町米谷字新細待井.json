@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県登米市東和町米谷字新細待井",
+    "表記": "宮城県登米市東和町米谷字新細待井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "登米市",
+      "町名": "東和町米谷字新細待井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410243"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233956/100464.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県登米市東和町米谷字新細待井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/登米市/東和町米谷字新細待井.json",
+    "name": "東和町米谷字新細待井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県登米市"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県中島郡祖父江町桜方",
+    "表記": "愛知県中島郡祖父江町桜方",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "中島郡",
+      "市区町村": "祖父江町",
+      "町名": "桜方"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366597",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366598",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367508"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230629/103614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230632/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230630/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230630/103614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230634/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230633/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103615.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県中島郡祖父江町桜方",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/中島郡/祖父江町/桜方.json",
+    "name": "桜方",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県中島郡祖父江町"
+  }
+]

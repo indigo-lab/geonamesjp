@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県松本市渚",
+    "表記": "長野県松本市渚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "松本市",
+      "町名": "渚",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S202020210"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県松本市渚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/松本市/渚.json",
+    "name": "渚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県松本市",
+    "children": [
+      "https://geonames.jp/resource/長野県松本市渚一丁目",
+      "https://geonames.jp/resource/長野県松本市渚二丁目",
+      "https://geonames.jp/resource/長野県松本市渚三丁目",
+      "https://geonames.jp/resource/長野県松本市渚四丁目"
+    ]
+  }
+]

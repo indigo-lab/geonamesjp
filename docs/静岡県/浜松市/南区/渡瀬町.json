@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県浜松市南区渡瀬町",
+    "表記": "静岡県浜松市南区渡瀬町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "浜松市",
+      "区": "南区",
+      "町名": "渡瀬町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S221340160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370640",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370641",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370651"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231386/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231386/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/104097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231386/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231386/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231386/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231387/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/104093.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231388/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231385/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231385/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231384/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231384/104096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231384/104094.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231383/104095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231384/104097.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県浜松市南区渡瀬町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/浜松市/南区/渡瀬町.json",
+    "name": "渡瀬町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県浜松市南区"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府城陽市寺田垣内後",
+    "表記": "京都府城陽市寺田垣内後",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "城陽市",
+      "町名": "寺田垣内後"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352621",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352622"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229942/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229943/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229940/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229940/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229941/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229941/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229942/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229943/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229942/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229941/103962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229939/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229940/103961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229939/103961.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府城陽市寺田垣内後",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/城陽市/寺田垣内後.json",
+    "name": "寺田垣内後",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府城陽市"
+  }
+]

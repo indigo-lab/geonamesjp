@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県邑智郡石見町",
+    "表記": "島根県邑智郡石見町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "邑智郡",
+      "市区町村": "石見町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32446-20041001",
+        "http://data.e-stat.go.jp/lod/sac/C32446-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県邑智郡石見町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/邑智郡/石見町.json",
+    "name": "石見町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県邑智郡"
+  }
+]

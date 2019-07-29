@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県羽咋市東川原町",
+    "表記": "石川県羽咋市東川原町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "東川原町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172070020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362672",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362673"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230675/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230677/102128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230676/102128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230678/102128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230676/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230678/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230678/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230676/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230679/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230677/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230677/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230675/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230674/102130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230675/102128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230674/102129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230675/102127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230674/102127.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県羽咋市東川原町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/羽咋市/東川原町.json",
+    "name": "東川原町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県羽咋市"
+  }
+]

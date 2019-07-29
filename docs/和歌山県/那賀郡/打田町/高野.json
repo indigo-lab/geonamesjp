@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡打田町高野",
+    "表記": "和歌山県那賀郡打田町高野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "那賀郡",
+      "市区町村": "打田町",
+      "町名": "高野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352289",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352370",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051352380"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229648/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104513.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229650/104512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229651/104511.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229652/104509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229652/104513.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県那賀郡打田町高野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/那賀郡/打田町/高野.json",
+    "name": "高野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県那賀郡打田町"
+  }
+]

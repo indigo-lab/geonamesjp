@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市白浜台",
+    "表記": "京都府舞鶴市白浜台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "白浜台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351278"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229630/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229630/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229633/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229632/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229633/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229634/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229634/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229633/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229631/103411.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市白浜台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/白浜台.json",
+    "name": "白浜台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

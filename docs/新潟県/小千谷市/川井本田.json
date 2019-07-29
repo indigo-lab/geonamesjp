@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市川井本田",
+    "表記": "新潟県小千谷市川井本田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "小千谷市",
+      "町名": "川井本田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386696",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387605",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387606",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387615",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387616"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232160/101798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/101797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232161/101798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232163/101797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232158/101805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232163/101802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232165/101801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232162/101802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232165/101812.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県小千谷市川井本田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/小千谷市/川井本田.json",
+    "name": "川井本田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県小千谷市"
+  }
+]

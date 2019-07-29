@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町古木場",
+    "表記": "佐賀県西松浦郡有田町古木場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "西松浦郡",
+      "市区町村": "有田町",
+      "町名": "古木場",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S414010210"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296702",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049295793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296703",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296713"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225671/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225673/105448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225673/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225666/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225673/105438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225666/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225666/105445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225665/105444.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町古木場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/西松浦郡/有田町/古木場.json",
+    "name": "古木場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県西松浦郡有田町"
+  }
+]

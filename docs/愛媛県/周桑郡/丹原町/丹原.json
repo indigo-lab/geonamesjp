@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県周桑郡丹原町丹原",
+    "表記": "愛媛県周桑郡丹原町丹原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "周桑郡",
+      "市区町村": "丹原町",
+      "町名": "丹原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336084",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336085"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227969/104799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227969/104800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227968/104800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227968/104801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104802.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104802.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県周桑郡丹原町丹原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/周桑郡/丹原町/丹原.json",
+    "name": "丹原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県周桑郡丹原町"
+  }
+]

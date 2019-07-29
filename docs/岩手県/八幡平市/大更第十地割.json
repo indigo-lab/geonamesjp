@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県八幡平市大更第十地割",
+    "表記": "岩手県八幡平市大更第十地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "八幡平市",
+      "町名": "大更第十地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416099",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059416190",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059417100",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059417009"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233834/99324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/99323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233837/99320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233838/99318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/99320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233842/99323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/99321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233843/99324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233838/99323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233835/99322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233835/99324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233837/99323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233835/99320.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県八幡平市大更第十地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/八幡平市/大更第十地割.json",
+    "name": "大更第十地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県八幡平市"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県河沼郡会津坂下町大字片門",
+    "表記": "福島県河沼郡会津坂下町大字片門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "河沼郡",
+      "市区町村": "会津坂下町",
+      "町名": "大字片門"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392681",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392690",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392691",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393600"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232846/101508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232848/101509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232844/101507.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232838/101504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232846/101509.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232842/101500.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232847/101508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232842/101499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232839/101504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232838/101506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232840/101503.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県河沼郡会津坂下町大字片門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/河沼郡/会津坂下町/大字片門.json",
+    "name": "大字片門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県河沼郡会津坂下町"
+  }
+]

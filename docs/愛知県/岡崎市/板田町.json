@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市板田町",
+    "表記": "愛知県岡崎市板田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "板田町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232020080"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373168",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373158",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373169",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373179"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231001/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231003/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231003/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231003/103866.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231000/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231003/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231000/103868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231002/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231002/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231001/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231002/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/103855.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231006/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231005/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231000/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231001/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231002/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231003/103863.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市板田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/板田町.json",
+    "name": "板田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

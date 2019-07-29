@@ -1,0 +1,69 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都青梅市小曾木三丁目",
+    "表記": "東京都青梅市小曾木三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "青梅市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13205040003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395281",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395261",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395271",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395272",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395282",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395292"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232486/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232485/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232487/103109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232485/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232488/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232489/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232487/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232489/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232489/103096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232484/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232485/103099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232489/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232488/103104.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232489/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232488/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232489/103103.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232490/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232484/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232486/103098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232490/103106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232486/103107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232485/103105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232486/103104.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都青梅市小曾木三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/青梅市/小曾木/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都青梅市小曾木"
+  }
+]

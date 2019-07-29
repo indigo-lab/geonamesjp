@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西条市安用出作",
+    "表記": "愛媛県西条市安用出作",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "西条市",
+      "町名": "安用出作",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382060690"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337015",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337014"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227962/104779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227961/104779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227962/104780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227962/104778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104780.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西条市安用出作",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西条市/安用出作.json",
+    "name": "安用出作",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西条市"
+  }
+]

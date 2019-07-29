@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県須賀川市宮の杜",
+    "表記": "福島県須賀川市宮の杜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "須賀川市",
+      "町名": "宮の杜",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072070222"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407289",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055407299"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/101739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/101740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233286/101739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233286/101740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/101739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/101738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/101738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/101737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/101738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/101737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/101737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233286/101738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233284/101740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/101739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233288/101739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/101738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233288/101738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/101739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/101742.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/101736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233286/101737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233287/101741.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233282/101739.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県須賀川市宮の杜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/須賀川市/宮の杜.json",
+    "name": "宮の杜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県須賀川市"
+  }
+]

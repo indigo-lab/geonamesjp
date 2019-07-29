@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県滑川市常光寺",
+    "表記": "富山県滑川市常光寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "滑川市",
+      "町名": "常光寺",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162060870"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370287",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370288",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370298"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231085/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231091/102269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231089/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231090/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231090/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231089/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231088/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231087/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231088/102271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231089/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231090/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231085/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231086/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231086/102274.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231085/102273.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231085/102275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231090/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231089/102270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231086/102272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231087/102273.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県滑川市常光寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/滑川市/常光寺.json",
+    "name": "常光寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県滑川市"
+  }
+]

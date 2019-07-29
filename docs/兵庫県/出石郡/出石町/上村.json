@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県出石郡出石町上村",
+    "表記": "兵庫県出石郡出石町上村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "出石郡",
+      "市区町村": "出石町",
+      "町名": "上村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341638"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229274/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229273/103435.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県出石郡出石町上村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/出石郡/出石町/上村.json",
+    "name": "上村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県出石郡出石町"
+  }
+]

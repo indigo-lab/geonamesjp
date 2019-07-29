@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府富田林市旭ヶ丘町",
+    "表記": "大阪府富田林市旭ヶ丘町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "旭ヶ丘町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356428"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229817/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229816/104259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229815/104259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229816/104258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229817/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229816/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229815/104257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229815/104258.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府富田林市旭ヶ丘町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/富田林市/旭ヶ丘町.json",
+    "name": "旭ヶ丘町",
+    "alternateName": [
+      "旭ケ丘町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大阪府富田林市"
+  }
+]

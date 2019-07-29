@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市和田",
+    "表記": "新潟県新潟市和田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "和田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396014",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396003",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396013"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/101258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/101263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/101263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/101258.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232328/101260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232326/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232329/101255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232328/101256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232328/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232327/101256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232326/101257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232326/101259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/101257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/101259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232324/101261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232324/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232323/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232323/101260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232324/101259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232325/101262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232324/101258.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市和田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/和田.json",
+    "name": "和田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

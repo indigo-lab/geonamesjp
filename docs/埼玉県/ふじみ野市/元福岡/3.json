@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県ふじみ野市元福岡三丁目",
+    "表記": "埼玉県ふじみ野市元福岡三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "ふじみ野市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11245032003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396461"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232665/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232664/103043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232663/103041.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県ふじみ野市元福岡三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/ふじみ野市/元福岡/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県ふじみ野市元福岡"
+  }
+]

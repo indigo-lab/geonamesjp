@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県成田市天浪",
+    "表記": "千葉県成田市天浪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "成田市",
+      "町名": "天浪"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405310",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405320",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405229",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405219"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/103146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233293/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103149.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233288/103148.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233292/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/103156.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233291/103147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233288/103151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/103154.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/103143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233289/103144.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県成田市天浪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/成田市/天浪.json",
+    "name": "天浪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県成田市"
+  }
+]

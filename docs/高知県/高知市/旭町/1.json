@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高知市旭町一丁目",
+    "表記": "高知県高知市旭町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "旭町",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S39201093001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332461",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332460"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228295/105106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228293/105106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228294/105106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228294/105107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228293/105107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228292/105106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228295/105105.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高知市旭町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高知市/旭町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/高知県高知市旭町"
+  }
+]

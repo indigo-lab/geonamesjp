@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県磐田郡豊岡村平松",
+    "表記": "静岡県磐田郡豊岡村平松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "磐田郡",
+      "市区町村": "豊岡村",
+      "町名": "平松"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371647",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371657",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371667"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231445/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231445/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231445/104017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231446/104016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231448/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231446/104015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231447/104013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231447/104011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231447/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231447/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231447/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231448/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231449/104006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231446/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231448/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231449/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231445/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231446/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231444/104021.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県磐田郡豊岡村平松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/磐田郡/豊岡村/平松.json",
+    "name": "平松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県磐田郡豊岡村"
+  }
+]

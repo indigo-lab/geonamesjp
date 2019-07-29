@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県七尾市竹町",
+    "表記": "石川県七尾市竹町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "竹町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172020640"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364728",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364737",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055364738"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/102013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230817/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/102009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230818/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230817/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/102008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230817/102009.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県七尾市竹町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/七尾市/竹町.json",
+    "name": "竹町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県七尾市"
+  }
+]

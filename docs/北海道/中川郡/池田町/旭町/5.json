@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道中川郡池田町旭町五丁目",
+    "表記": "北海道中川郡池田町旭町五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "中川郡",
+      "市区町村": "池田町",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433326",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064433325"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235530/96388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235528/96388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235529/96387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235529/96389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235529/96388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235530/96387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235531/96387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235531/96388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235532/96387.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道中川郡池田町旭町五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/中川郡/池田町/旭町/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道中川郡池田町旭町"
+  }
+]

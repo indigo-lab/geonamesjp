@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市横内",
+    "表記": "富山県富山市横内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "横内",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162013510"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377290",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377280",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377281",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377291",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370200"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/102343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/102342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/102342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/102341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/102338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/102338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/102335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/102340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231018/102341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231028/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231015/102341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231017/102340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231020/102344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231019/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102346.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市横内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/横内.json",
+    "name": "横内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

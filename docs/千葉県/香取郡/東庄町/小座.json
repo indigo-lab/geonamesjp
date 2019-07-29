@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県香取郡東庄町小座",
+    "表記": "千葉県香取郡東庄町小座",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "香取郡",
+      "市区町村": "東庄町",
+      "町名": "小座",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S123490240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405563",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405564",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405553"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233506/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233507/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233508/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233506/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233506/103119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233505/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233506/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233507/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233507/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233508/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233506/103115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233507/103119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233505/103119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233505/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233506/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233505/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233504/103114.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233504/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233505/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233503/103113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233501/103120.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県香取郡東庄町小座",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/香取郡/東庄町/小座.json",
+    "name": "小座",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県香取郡東庄町"
+  }
+]

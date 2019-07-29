@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県高崎市中室田",
+    "表記": "群馬県高崎市中室田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "高崎市",
+      "町名": "中室田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384669",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384678",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384698",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384699",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384780",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384790",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054385608"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232205/102569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232200/102576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232196/102566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232189/102571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232193/102585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232191/102584.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232184/102573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232180/102569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232184/102563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232190/102591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232185/102582.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県高崎市中室田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/高崎市/中室田.json",
+    "name": "中室田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県高崎市"
+  }
+]

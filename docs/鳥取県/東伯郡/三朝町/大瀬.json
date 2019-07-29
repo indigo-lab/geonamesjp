@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡三朝町大瀬",
+    "表記": "鳥取県東伯郡三朝町大瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "東伯郡",
+      "市区町村": "三朝町",
+      "町名": "大瀬",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S313640010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330689",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330699",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330771",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330790",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330762"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/103483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228557/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228558/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228555/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228556/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228550/103466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228552/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228552/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228553/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228551/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228550/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228551/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228551/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228551/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228550/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228549/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228549/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228549/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228550/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228547/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228548/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228548/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228549/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228546/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228545/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228547/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228552/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228556/103466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228551/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228548/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/103485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228553/103464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228547/103472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228548/103472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228550/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228555/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228552/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228553/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228554/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228555/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228556/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228556/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228557/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228577/103487.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡三朝町大瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/東伯郡/三朝町/大瀬.json",
+    "name": "大瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県東伯郡三朝町"
+  }
+]

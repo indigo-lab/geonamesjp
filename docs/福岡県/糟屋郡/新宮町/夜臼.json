@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県糟屋郡新宮町夜臼",
+    "表記": "福岡県糟屋郡新宮町夜臼",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "糟屋郡",
+      "市区町村": "新宮町",
+      "町名": "夜臼",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S403450061"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県糟屋郡新宮町夜臼",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/糟屋郡/新宮町/夜臼.json",
+    "name": "夜臼",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県糟屋郡新宮町",
+    "children": [
+      "https://geonames.jp/resource/福岡県糟屋郡新宮町夜臼一丁目",
+      "https://geonames.jp/resource/福岡県糟屋郡新宮町夜臼二丁目",
+      "https://geonames.jp/resource/福岡県糟屋郡新宮町夜臼三丁目",
+      "https://geonames.jp/resource/福岡県糟屋郡新宮町夜臼四丁目",
+      "https://geonames.jp/resource/福岡県糟屋郡新宮町夜臼五丁目",
+      "https://geonames.jp/resource/福岡県糟屋郡新宮町夜臼六丁目"
+    ]
+  }
+]

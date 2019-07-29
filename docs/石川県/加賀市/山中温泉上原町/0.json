@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県加賀市山中温泉上原町（丁目なし）",
+    "表記": "石川県加賀市山中温泉上原町（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "山中温泉上原町",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172062062",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172062061"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363219",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362299",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363208",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363209",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363218",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054362298"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230373/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230374/102719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230370/102705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230369/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230367/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230372/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230371/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230366/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230369/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230370/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230369/102700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230367/102706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230366/102706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230369/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230367/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230367/102709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230369/102701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230369/102702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230371/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230370/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230370/102702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230371/102703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230365/102706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230365/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230367/102712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230370/102706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230371/102706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230366/102705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230366/102707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230367/102704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230369/102705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230370/102711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230367/102705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230368/102706.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県加賀市山中温泉上原町（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/加賀市/山中温泉上原町/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県加賀市山中温泉上原町"
+  }
+]

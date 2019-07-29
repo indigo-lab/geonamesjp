@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県沼田市佐山町",
+    "表記": "群馬県沼田市佐山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "佐山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S10206028003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S10206028002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S102060280",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S10206028001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390053",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390041",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390071",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390083"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232322/102294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232306/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232305/102277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232316/102272.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県沼田市佐山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/沼田市/佐山町.json",
+    "name": "佐山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県沼田市"
+  }
+]

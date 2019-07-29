@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県御殿場市駒門一丁目",
+    "表記": "静岡県御殿場市駒門一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "御殿場市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387702",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387712"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232220/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232220/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232218/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232218/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232218/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232216/103606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232218/103599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232219/103599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232221/103599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232220/103599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/103603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232220/103600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232218/103603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/103599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232216/103600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232218/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232217/103604.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県御殿場市駒門一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/御殿場市/駒門/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/静岡県御殿場市駒門"
+  }
+]

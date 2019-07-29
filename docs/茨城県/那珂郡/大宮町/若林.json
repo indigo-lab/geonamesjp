@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県那珂郡大宮町若林",
+    "表記": "茨城県那珂郡大宮町若林",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "那珂郡",
+      "市区町村": "大宮町",
+      "町名": "若林"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406340",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406341",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406351",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054406361"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/102458.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/102445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/102456.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/102454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/102451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/102450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/102445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/102446.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/102447.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/102440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/102441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/102442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/102440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/102439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/102442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/102443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/102443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/102444.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県那珂郡大宮町若林",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/那珂郡/大宮町/若林.json",
+    "name": "若林",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県那珂郡大宮町"
+  }
+]

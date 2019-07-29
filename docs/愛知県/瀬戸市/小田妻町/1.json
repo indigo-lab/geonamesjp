@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県瀬戸市小田妻町一丁目",
+    "表記": "愛知県瀬戸市小田妻町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小田妻町",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23204160001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376095",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376096"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230885/103617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230886/103618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230885/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230884/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230885/103615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230884/103615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230885/103618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230887/103618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230884/103614.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県瀬戸市小田妻町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/瀬戸市/小田妻町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県瀬戸市小田妻町"
+  }
+]

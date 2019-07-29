@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県大川郡引田町小海",
+    "表記": "香川県大川郡引田町小海",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "大川郡",
+      "市区町村": "引田町",
+      "町名": "小海"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342269",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051342360"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228928/104525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228926/104526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228923/104526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228924/104525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228926/104524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228926/104523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228924/104524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228921/104524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228922/104526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228919/104525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228917/104526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228918/104526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228929/104522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228914/104526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228914/104525.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県大川郡引田町小海",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/大川郡/引田町/小海.json",
+    "name": "小海",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県大川郡引田町"
+  }
+]

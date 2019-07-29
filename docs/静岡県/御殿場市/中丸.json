@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県御殿場市中丸",
+    "表記": "静岡県御殿場市中丸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "御殿場市",
+      "町名": "中丸",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222150420"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387795",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387796",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052387797"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232258/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232258/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232250/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232259/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232257/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232253/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232262/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232262/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232263/103540.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県御殿場市中丸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/御殿場市/中丸.json",
+    "name": "中丸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県御殿場市"
+  }
+]

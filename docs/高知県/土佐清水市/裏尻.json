@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県土佐清水市裏尻",
+    "表記": "高知県土佐清水市裏尻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "土佐清水市",
+      "町名": "裏尻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049321737",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049321747"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227898/105784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227897/105784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227898/105783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227898/105781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227899/105780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227899/105779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227900/105779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227897/105780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227897/105779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227898/105778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227897/105777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227899/105777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227899/105776.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県土佐清水市裏尻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/土佐清水市/裏尻.json",
+    "name": "裏尻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県土佐清水市"
+  }
+]

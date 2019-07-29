@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府枚方市津田",
+    "表記": "大阪府枚方市津田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "枚方市",
+      "町名": "津田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351567",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351557",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351566"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229895/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229892/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229894/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229891/104009.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府枚方市津田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/枚方市/津田.json",
+    "name": "津田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府枚方市"
+  }
+]

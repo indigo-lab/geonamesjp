@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県燕市物流センター",
+    "表記": "新潟県燕市物流センター",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "燕市",
+      "町名": "物流センター"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県燕市物流センター",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/燕市/物流センター.json",
+    "name": "物流センター",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県燕市",
+    "children": [
+      "https://geonames.jp/resource/新潟県燕市物流センター一丁目",
+      "https://geonames.jp/resource/新潟県燕市物流センター二丁目",
+      "https://geonames.jp/resource/新潟県燕市物流センター三丁目",
+      "https://geonames.jp/resource/新潟県燕市物流センター四丁目"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道美唄市南美唄町新富町",
+    "表記": "北海道美唄市南美唄町新富町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "南美唄町新富町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417668",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417669",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064417679"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234373/96020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234373/96019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234373/96018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234372/96018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234379/96024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234378/96024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234374/96023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234373/96021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234376/96021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234374/96019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234373/96014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234373/96016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234377/96024.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道美唄市南美唄町新富町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/美唄市/南美唄町新富町.json",
+    "name": "南美唄町新富町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道美唄市"
+  }
+]

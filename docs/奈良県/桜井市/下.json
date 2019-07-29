@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県桜井市下",
+    "表記": "奈良県桜井市下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "桜井市",
+      "町名": "下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355688",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355698"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229996/104284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230000/104285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/104283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229998/104284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229999/104285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/104286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229997/104283.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県桜井市下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/桜井市/下.json",
+    "name": "下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県桜井市"
+  }
+]

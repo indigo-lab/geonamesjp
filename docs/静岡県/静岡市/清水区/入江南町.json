@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水区入江南町",
+    "表記": "静岡県静岡市清水区入江南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "区": "清水区",
+      "町名": "入江南町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S221030250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384318",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384328"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231909/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231910/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231909/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231910/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231908/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231907/103820.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水区入江南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/清水区/入江南町.json",
+    "name": "入江南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市清水区"
+  }
+]

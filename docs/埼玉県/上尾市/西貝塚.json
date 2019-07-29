@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県上尾市西貝塚",
+    "表記": "埼玉県上尾市西貝塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "上尾市",
+      "町名": "西貝塚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397424"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232692/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232692/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232692/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232691/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232690/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232692/102994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232690/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232693/102998.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県上尾市西貝塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/上尾市/西貝塚.json",
+    "name": "西貝塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県上尾市"
+  }
+]

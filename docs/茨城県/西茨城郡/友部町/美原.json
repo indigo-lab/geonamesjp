@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県西茨城郡友部町美原",
+    "表記": "茨城県西茨城郡友部町美原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "西茨城郡",
+      "市区町村": "友部町",
+      "町名": "美原"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県西茨城郡友部町美原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/西茨城郡/友部町/美原.json",
+    "name": "美原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県西茨城郡友部町",
+    "children": [
+      "https://geonames.jp/resource/茨城県西茨城郡友部町美原一丁目",
+      "https://geonames.jp/resource/茨城県西茨城郡友部町美原二丁目",
+      "https://geonames.jp/resource/茨城県西茨城郡友部町美原三丁目",
+      "https://geonames.jp/resource/茨城県西茨城郡友部町美原四丁目"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県千葉市若葉区西都賀五丁目",
+    "表記": "千葉県千葉市若葉区西都賀五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "千葉市",
+      "区": "若葉区",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12104043005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403171",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403161",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053403172"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233126/103263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/103261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233126/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233126/103261.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233124/103260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233125/103259.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233126/103260.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233127/103261.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県千葉市若葉区西都賀五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/千葉市/若葉区/西都賀/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県千葉市若葉区西都賀"
+  }
+]

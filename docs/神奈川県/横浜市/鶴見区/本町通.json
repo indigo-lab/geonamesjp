@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市鶴見区本町通",
+    "表記": "神奈川県横浜市鶴見区本町通",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "鶴見区",
+      "町名": "本町通"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市鶴見区本町通",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/鶴見区/本町通.json",
+    "name": "本町通",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市鶴見区",
+    "children": [
+      "https://geonames.jp/resource/神奈川県横浜市鶴見区本町通一丁目",
+      "https://geonames.jp/resource/神奈川県横浜市鶴見区本町通二丁目",
+      "https://geonames.jp/resource/神奈川県横浜市鶴見区本町通三丁目",
+      "https://geonames.jp/resource/神奈川県横浜市鶴見区本町通四丁目"
+    ]
+  }
+]

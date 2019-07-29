@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡富来町地頭町",
+    "表記": "石川県羽咋郡富来町地頭町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "羽咋郡",
+      "市区町村": "富来町",
+      "町名": "地頭町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365568",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055365579"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230642/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230638/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230637/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230635/101909.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230642/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/101904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/101905.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230639/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/101904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230642/101904.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230636/101908.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230640/101906.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230641/101906.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡富来町地頭町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/羽咋郡/富来町/地頭町.json",
+    "name": "地頭町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県羽咋郡富来町"
+  }
+]

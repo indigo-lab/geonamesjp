@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県宜野湾市佐真下",
+    "表記": "沖縄県宜野湾市佐真下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "宜野湾市",
+      "町名": "佐真下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039273519",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039273610",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039273529"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224095/111242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224097/111241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224096/111240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224097/111240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224096/111241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224094/111241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224095/111241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224096/111242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224094/111237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224094/111239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224096/111238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224096/111239.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224095/111240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224097/111238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224097/111242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224098/111240.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県宜野湾市佐真下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/宜野湾市/佐真下.json",
+    "name": "佐真下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県宜野湾市"
+  }
+]

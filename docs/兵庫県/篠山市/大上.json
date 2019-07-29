@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市大上",
+    "表記": "兵庫県篠山市大上",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "篠山市",
+      "町名": "大上",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282212480"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354290",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354291",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052355201"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229563/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229563/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229564/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229564/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229567/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229565/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229565/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229568/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229566/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229565/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229566/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229564/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229566/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229567/103758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229566/103762.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市大上",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/篠山市/大上.json",
+    "name": "大上",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県篠山市"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県婦負郡八尾町高熊",
+    "表記": "富山県婦負郡八尾町高熊",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "婦負郡",
+      "市区町村": "八尾町",
+      "町名": "高熊"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376089",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376099",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376180",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054376190"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230923/102421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230925/102417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230924/102418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230924/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230923/102423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230921/102420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230922/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230923/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230923/102418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230919/102422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230919/102416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230922/102420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230920/102421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230921/102421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230923/102422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230921/102423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230921/102425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230922/102424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230920/102419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230923/102424.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県婦負郡八尾町高熊",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/婦負郡/八尾町/高熊.json",
+    "name": "高熊",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県婦負郡八尾町"
+  }
+]

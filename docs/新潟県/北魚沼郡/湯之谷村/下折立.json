@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村下折立",
+    "表記": "新潟県北魚沼郡湯之谷村下折立",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北魚沼郡",
+      "市区町村": "湯之谷村",
+      "町名": "下折立"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396044",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396045",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396054",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396055"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/101848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232334/101847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/101843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232331/101840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232330/101842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232331/101842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232332/101843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232332/101842.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232333/101844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/101844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101843.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101846.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232334/101844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101847.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村下折立",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北魚沼郡/湯之谷村/下折立.json",
+    "name": "下折立",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県一関市千厩町清田",
+    "表記": "岩手県一関市千厩町清田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "一関市",
+      "町名": "千厩町清田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413228",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413209",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413218",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413219",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413227",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058413310"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234006/100248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234002/100248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234005/100248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234007/100253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233999/100245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234009/100256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234009/100254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234002/100246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234002/100247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234003/100246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234001/100246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234022/100252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234006/100250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234008/100252.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県一関市千厩町清田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/一関市/千厩町清田.json",
+    "name": "千厩町清田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県一関市"
+  }
+]

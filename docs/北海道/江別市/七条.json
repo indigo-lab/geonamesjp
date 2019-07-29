@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道江別市七条",
+    "表記": "北海道江別市七条",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "江別市",
+      "町名": "七条",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012170800"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道江別市七条",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/江別市/七条.json",
+    "name": "七条",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道江別市",
+    "children": [
+      "https://geonames.jp/resource/北海道江別市七条六丁目",
+      "https://geonames.jp/resource/北海道江別市七条七丁目",
+      "https://geonames.jp/resource/北海道江別市七条八丁目"
+    ]
+  }
+]

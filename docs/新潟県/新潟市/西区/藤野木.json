@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市西区藤野木",
+    "表記": "新潟県新潟市西区藤野木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "西区",
+      "町名": "藤野木",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S151071050"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385783",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385782",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385792",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385793"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232231/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232232/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232228/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232230/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232227/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232223/101276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232222/101277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232224/101276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232225/101276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232226/101276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232229/101280.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市西区藤野木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/西区/藤野木.json",
+    "name": "藤野木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市西区"
+  }
+]

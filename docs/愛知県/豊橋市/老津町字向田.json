@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市老津町字向田",
+    "表記": "愛知県豊橋市老津町字向田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "老津町字向田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370227",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370236",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052370237"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231082/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231081/104110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231080/104109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231080/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231078/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231079/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231079/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231081/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231078/104108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231080/104107.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市老津町字向田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/老津町字向田.json",
+    "name": "老津町字向田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

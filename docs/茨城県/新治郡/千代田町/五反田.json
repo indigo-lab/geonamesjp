@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県新治郡千代田町五反田",
+    "表記": "茨城県新治郡千代田町五反田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "新治郡",
+      "市区町村": "千代田町",
+      "町名": "五反田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402117",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054402118"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/102778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233178/102777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/102776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233181/102776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233180/102777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233179/102780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/102779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233177/102781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233182/102780.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県新治郡千代田町五反田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/新治郡/千代田町/五反田.json",
+    "name": "五反田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県新治郡千代田町"
+  }
+]

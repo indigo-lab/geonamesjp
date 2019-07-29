@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市久保田町大字江戸",
+    "表記": "佐賀県佐賀市久保田町大字江戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "市区町村": "佐賀市",
+      "町名": "久保田町大字江戸",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S412011700"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306148",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306139"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225906/105413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225910/105416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225903/105411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225904/105413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225907/105411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225907/105412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225908/105413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225909/105412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225913/105413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225908/105417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225912/105417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225912/105418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225908/105418.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県佐賀市久保田町大字江戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/佐賀市/久保田町大字江戸.json",
+    "name": "久保田町大字江戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県佐賀市"
+  }
+]

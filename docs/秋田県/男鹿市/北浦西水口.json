@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市北浦西水口",
+    "表記": "秋田県男鹿市北浦西水口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "男鹿市",
+      "町名": "北浦西水口",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052060220"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397549",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397640",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397641",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059397650"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/99287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232841/99280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232845/99282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232844/99282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232839/99285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232844/99284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232840/99282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232839/99279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232841/99285.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232842/99283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232843/99283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232844/99283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232837/99280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232845/99283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232846/99283.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県男鹿市北浦西水口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/男鹿市/北浦西水口.json",
+    "name": "北浦西水口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県男鹿市"
+  }
+]

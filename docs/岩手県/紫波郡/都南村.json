@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県紫波郡都南村",
+    "表記": "岩手県紫波郡都南村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "紫波郡",
+      "市区町村": "都南村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C03323-19830301",
+        "http://data.e-stat.go.jp/lod/sac/C03323-19851101",
+        "http://data.e-stat.go.jp/lod/sac/C03323-19730901",
+        "http://data.e-stat.go.jp/lod/sac/C03323-19920401",
+        "http://data.e-stat.go.jp/lod/sac/C03323-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C03323-19770210",
+        "http://data.e-stat.go.jp/lod/sac/C03323-19900701"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県紫波郡都南村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/紫波郡/都南村.json",
+    "name": "都南村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県紫波郡"
+  }
+]

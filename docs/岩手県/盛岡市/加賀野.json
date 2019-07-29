@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市加賀野",
+    "表記": "岩手県盛岡市加賀野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "加賀野"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市加賀野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/加賀野.json",
+    "name": "加賀野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市",
+    "children": [
+      "https://geonames.jp/resource/岩手県盛岡市加賀野（丁目なし）",
+      "https://geonames.jp/resource/岩手県盛岡市加賀野一丁目",
+      "https://geonames.jp/resource/岩手県盛岡市加賀野二丁目",
+      "https://geonames.jp/resource/岩手県盛岡市加賀野三丁目",
+      "https://geonames.jp/resource/岩手県盛岡市加賀野四丁目"
+    ]
+  }
+]

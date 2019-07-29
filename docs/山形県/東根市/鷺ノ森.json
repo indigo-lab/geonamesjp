@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県東根市鷺ノ森",
+    "表記": "山形県東根市鷺ノ森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "東根市",
+      "町名": "鷺ノ森"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県東根市鷺ノ森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/東根市/鷺ノ森.json",
+    "name": "鷺ノ森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県東根市",
+    "children": [
+      "https://geonames.jp/resource/山形県東根市鷺ノ森（丁目なし）",
+      "https://geonames.jp/resource/山形県東根市鷺ノ森一丁目",
+      "https://geonames.jp/resource/山形県東根市鷺ノ森二丁目"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県山武郡大網白里町餅ノ木",
+    "表記": "千葉県山武郡大網白里町餅ノ木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "郡": "山武郡",
+      "市区町村": "大網白里町",
+      "町名": "餅ノ木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402244",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053402254"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233236/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233240/103350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233240/103353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233239/103348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233241/103348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233237/103347.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県山武郡大網白里町餅ノ木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/山武郡/大網白里町/餅ノ木.json",
+    "name": "餅ノ木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県山武郡大網白里町"
+  }
+]

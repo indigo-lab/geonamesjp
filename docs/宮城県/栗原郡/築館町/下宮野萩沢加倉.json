@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町下宮野萩沢加倉",
+    "表記": "宮城県栗原郡築館町下宮野萩沢加倉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "栗原郡",
+      "市区町村": "築館町",
+      "町名": "下宮野萩沢加倉"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410074",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058410075"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233790/100439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233789/100440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233792/100441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233793/100437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/100440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233796/100438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233794/100438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233795/100439.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県栗原郡築館町下宮野萩沢加倉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/栗原郡/築館町/下宮野萩沢加倉.json",
+    "name": "下宮野萩沢加倉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県栗原郡築館町"
+  }
+]

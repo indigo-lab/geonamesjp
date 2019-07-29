@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県仁多郡横田町中村",
+    "表記": "島根県仁多郡横田町中村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "仁多郡",
+      "市区町村": "横田町",
+      "町名": "中村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052336008",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052336018",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052336028"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227994/103669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/103679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227993/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227994/103671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/103670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/103672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/103674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227997/103675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227995/103674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227997/103673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227996/103676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227997/103676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227992/103667.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県仁多郡横田町中村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/仁多郡/横田町/中村.json",
+    "name": "中村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県仁多郡横田町"
+  }
+]

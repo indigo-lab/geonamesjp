@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県東予市河之内",
+    "表記": "愛媛県東予市河之内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "東予市",
+      "町名": "河之内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337011",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337021",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337022"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227940/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227940/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227938/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227938/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227939/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227935/104780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227938/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227940/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227936/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227937/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227937/104772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227936/104772.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県東予市河之内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/東予市/河之内.json",
+    "name": "河之内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県東予市"
+  }
+]

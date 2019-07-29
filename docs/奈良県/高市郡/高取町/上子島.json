@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県高市郡高取町上子島",
+    "表記": "奈良県高市郡高取町上子島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "高市郡",
+      "市区町村": "高取町",
+      "町名": "上子島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355625",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355634"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229961/104327.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229963/104328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229971/104333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229965/104331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229965/104330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229963/104331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229964/104331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229962/104328.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県高市郡高取町上子島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/高市郡/高取町/上子島.json",
+    "name": "上子島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県高市郡高取町"
+  }
+]

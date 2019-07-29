@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県南相馬市小高区下浦",
+    "表記": "福島県南相馬市小高区下浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "南相馬市",
+      "町名": "小高区下浦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072120960"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412010",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402719",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412011",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412020",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056412021"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/101561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/101561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233753/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233754/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/101559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/101558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/101559.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233754/101561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233744/101566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233751/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233746/101563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233752/101560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233750/101558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233749/101560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233754/101564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233751/101562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233753/101562.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県南相馬市小高区下浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/南相馬市/小高区下浦.json",
+    "name": "小高区下浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県南相馬市"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県二本松市二伊滝",
+    "表記": "福島県二本松市二伊滝",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "二本松市",
+      "町名": "二伊滝"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県二本松市二伊滝",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/二本松市/二伊滝.json",
+    "name": "二伊滝",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県二本松市",
+    "children": [
+      "https://geonames.jp/resource/福島県二本松市二伊滝一丁目",
+      "https://geonames.jp/resource/福島県二本松市二伊滝二丁目",
+      "https://geonames.jp/resource/福島県二本松市二伊滝三丁目"
+    ]
+  }
+]

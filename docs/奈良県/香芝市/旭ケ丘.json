@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県香芝市旭ケ丘",
+    "表記": "奈良県香芝市旭ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "香芝市",
+      "町名": "旭ケ丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292100241"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県香芝市旭ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/香芝市/旭ケ丘.json",
+    "name": "旭ケ丘",
+    "alternateName": [
+      "旭ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県香芝市",
+    "children": [
+      "https://geonames.jp/resource/奈良県香芝市旭ケ丘一丁目",
+      "https://geonames.jp/resource/奈良県香芝市旭ケ丘二丁目",
+      "https://geonames.jp/resource/奈良県香芝市旭ケ丘三丁目",
+      "https://geonames.jp/resource/奈良県香芝市旭ケ丘四丁目",
+      "https://geonames.jp/resource/奈良県香芝市旭ケ丘五丁目"
+    ]
+  }
+]

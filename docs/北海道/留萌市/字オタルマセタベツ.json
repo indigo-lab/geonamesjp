@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道留萌市字オタルマセタベツ",
+    "表記": "北海道留萌市字オタルマセタベツ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "留萌市",
+      "町名": "字オタルマセタベツ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065416488",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065416499"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234191/95413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234190/95414.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道留萌市字オタルマセタベツ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/留萌市/字オタルマセタベツ.json",
+    "name": "字オタルマセタベツ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道留萌市"
+  }
+]

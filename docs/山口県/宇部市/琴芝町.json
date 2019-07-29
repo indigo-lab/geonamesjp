@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県宇部市琴芝町",
+    "表記": "山口県宇部市琴芝町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "琴芝町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352020430"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県宇部市琴芝町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/宇部市/琴芝町.json",
+    "name": "琴芝町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県宇部市",
+    "children": [
+      "https://geonames.jp/resource/山口県宇部市琴芝町一丁目",
+      "https://geonames.jp/resource/山口県宇部市琴芝町二丁目"
+    ]
+  }
+]

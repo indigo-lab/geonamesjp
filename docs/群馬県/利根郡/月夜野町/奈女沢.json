@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県利根郡月夜野町奈女沢",
+    "表記": "群馬県利根郡月夜野町奈女沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "利根郡",
+      "市区町村": "月夜野町",
+      "町名": "奈女沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055380798"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232277/102268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232278/102268.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県利根郡月夜野町奈女沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/利根郡/月夜野町/奈女沢.json",
+    "name": "奈女沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県利根郡月夜野町"
+  }
+]

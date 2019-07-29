@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊川市赤坂町松本",
+    "表記": "愛知県豊川市赤坂町松本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊川市",
+      "町名": "赤坂町松本"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372234",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372235"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231057/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231058/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231060/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231058/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231056/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231055/103959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231056/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231058/103960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/103958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231061/103957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231059/103960.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊川市赤坂町松本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊川市/赤坂町松本.json",
+    "name": "赤坂町松本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊川市"
+  }
+]

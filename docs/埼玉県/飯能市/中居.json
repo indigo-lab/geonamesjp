@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市中居",
+    "表記": "埼玉県飯能市中居",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "飯能市",
+      "町名": "中居"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396236",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396246"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103066.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103065.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103064.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103063.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103059.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市中居",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/飯能市/中居.json",
+    "name": "中居",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県飯能市"
+  }
+]

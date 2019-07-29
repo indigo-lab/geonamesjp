@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市戸畑区境川",
+    "表記": "福岡県北九州市戸畑区境川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "戸畑区",
+      "町名": "境川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S401050130"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市戸畑区境川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/戸畑区/境川.json",
+    "name": "境川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市戸畑区",
+    "children": [
+      "https://geonames.jp/resource/福岡県北九州市戸畑区境川一丁目",
+      "https://geonames.jp/resource/福岡県北九州市戸畑区境川二丁目"
+    ]
+  }
+]

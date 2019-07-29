@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市多米西町",
+    "表記": "愛知県豊橋市多米西町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "多米西町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232011510"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市多米西町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/多米西町.json",
+    "name": "多米西町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市",
+    "children": [
+      "https://geonames.jp/resource/愛知県豊橋市多米西町一丁目",
+      "https://geonames.jp/resource/愛知県豊橋市多米西町二丁目",
+      "https://geonames.jp/resource/愛知県豊橋市多米西町三丁目"
+    ]
+  }
+]

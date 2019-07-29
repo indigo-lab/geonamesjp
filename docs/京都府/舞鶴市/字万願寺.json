@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字万願寺",
+    "表記": "京都府舞鶴市字万願寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "字万願寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351216",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351217"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229625/103451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103449.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229621/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229623/103454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229625/103452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229625/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229625/103448.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229622/103452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229621/103450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229621/103454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229627/103453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229628/103450.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字万願寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/字万願寺.json",
+    "name": "字万願寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

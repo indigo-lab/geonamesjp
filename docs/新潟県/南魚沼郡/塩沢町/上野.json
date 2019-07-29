@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡塩沢町上野",
+    "表記": "新潟県南魚沼郡塩沢町上野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "南魚沼郡",
+      "市区町村": "塩沢町",
+      "町名": "上野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055383683",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055383684",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055383693",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055383694"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232139/102043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232138/102040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232141/102041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232142/102040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/102042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/102039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/102040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232145/102039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232138/102046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232142/102044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232142/102045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/102046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/102044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/102045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/102044.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232145/102047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232145/102046.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/102047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/102047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/102045.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232142/102046.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県南魚沼郡塩沢町上野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/南魚沼郡/塩沢町/上野.json",
+    "name": "上野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県南魚沼郡塩沢町"
+  }
+]

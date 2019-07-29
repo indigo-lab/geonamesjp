@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市北区矢坂東町",
+    "表記": "岡山県岡山市北区矢坂東町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "区": "北区",
+      "町名": "矢坂東町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S331010160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330710",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330711"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228566/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228566/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228566/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228565/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228565/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228564/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228564/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228563/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228563/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228566/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228565/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228564/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228565/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228565/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228566/104122.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市北区矢坂東町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/北区/矢坂東町.json",
+    "name": "矢坂東町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市北区"
+  }
+]

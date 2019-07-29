@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府高槻市中畑",
+    "表記": "大阪府高槻市中畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "高槻市",
+      "町名": "中畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353457",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353458",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353468",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353447",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353459"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229821/103870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229817/103869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229818/103869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229814/103867.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/103871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229820/103871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229818/103870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229817/103870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/103869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229816/103869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229815/103868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229820/103870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229820/103869.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/103870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229817/103868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229811/103868.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229819/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229823/103871.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229811/103871.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府高槻市中畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/高槻市/中畑.json",
+    "name": "中畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府高槻市"
+  }
+]

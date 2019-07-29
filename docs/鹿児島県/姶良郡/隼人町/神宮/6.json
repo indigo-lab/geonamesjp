@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡隼人町神宮六丁目",
+    "表記": "鹿児島県姶良郡隼人町神宮六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "姶良郡",
+      "市区町村": "隼人町",
+      "町名": "六丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305509"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226276/106670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226277/106669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226277/106670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226278/106670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226279/106670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226276/106669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226275/106670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226278/106669.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県姶良郡隼人町神宮六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/姶良郡/隼人町/神宮/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県姶良郡隼人町神宮"
+  }
+]

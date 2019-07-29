@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県吉川市中島",
+    "表記": "埼玉県吉川市中島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "吉川市",
+      "町名": "中島"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県吉川市中島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/吉川市/中島.json",
+    "name": "中島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県吉川市",
+    "children": [
+      "https://geonames.jp/resource/埼玉県吉川市中島（丁目なし）",
+      "https://geonames.jp/resource/埼玉県吉川市中島一丁目",
+      "https://geonames.jp/resource/埼玉県吉川市中島二丁目",
+      "https://geonames.jp/resource/埼玉県吉川市中島三丁目"
+    ]
+  }
+]

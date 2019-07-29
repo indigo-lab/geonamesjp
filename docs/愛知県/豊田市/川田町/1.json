@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市川田町一丁目",
+    "表記": "愛知県豊田市川田町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "川田町",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375113"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/103747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230957/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230958/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/103748.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230956/103747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230957/103747.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市川田町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/川田町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市川田町"
+  }
+]

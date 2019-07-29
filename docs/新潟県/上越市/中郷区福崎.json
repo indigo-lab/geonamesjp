@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市中郷区福崎",
+    "表記": "新潟県上越市中郷区福崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "中郷区福崎",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152226230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055383148",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055383137",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055383147"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/102076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231727/102078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/102078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/102075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/102076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/102077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/102079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/102078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231719/102079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/102075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231721/102079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231728/102077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231727/102076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231726/102076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/102077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231720/102079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/102078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/102080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231725/102079.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市中郷区福崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/中郷区福崎.json",
+    "name": "中郷区福崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

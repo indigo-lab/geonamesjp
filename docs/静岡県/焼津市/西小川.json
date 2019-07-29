@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県焼津市西小川",
+    "表記": "静岡県焼津市西小川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "焼津市",
+      "町名": "西小川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222120300"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県焼津市西小川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/焼津市/西小川.json",
+    "name": "西小川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県焼津市",
+    "children": [
+      "https://geonames.jp/resource/静岡県焼津市西小川一丁目",
+      "https://geonames.jp/resource/静岡県焼津市西小川二丁目",
+      "https://geonames.jp/resource/静岡県焼津市西小川三丁目",
+      "https://geonames.jp/resource/静岡県焼津市西小川四丁目",
+      "https://geonames.jp/resource/静岡県焼津市西小川五丁目",
+      "https://geonames.jp/resource/静岡県焼津市西小川六丁目",
+      "https://geonames.jp/resource/静岡県焼津市西小川七丁目",
+      "https://geonames.jp/resource/静岡県焼津市西小川八丁目"
+    ]
+  }
+]

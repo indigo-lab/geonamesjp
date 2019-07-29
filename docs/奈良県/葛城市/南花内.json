@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県葛城市南花内",
+    "表記": "奈良県葛城市南花内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "葛城市",
+      "町名": "南花内",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S29211020001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292110200",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S29211020002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355577"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229908/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229907/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229909/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229908/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229907/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229908/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229909/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229907/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229908/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229910/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229903/104293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229904/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229907/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229909/104293.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県葛城市南花内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/葛城市/南花内.json",
+    "name": "南花内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県葛城市"
+  }
+]

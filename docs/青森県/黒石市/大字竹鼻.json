@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県黒石市大字竹鼻",
+    "表記": "青森県黒石市大字竹鼻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "黒石市",
+      "町名": "大字竹鼻",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S022040880"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400419",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400427",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400428",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061400429"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233469/98586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233469/98585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233462/98588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233465/98588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233467/98586.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233466/98589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233469/98587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233469/98588.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233470/98589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233450/98582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233465/98587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233467/98585.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233449/98582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233466/98587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233467/98589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233467/98587.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233469/98589.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233469/98590.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県黒石市大字竹鼻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/黒石市/大字竹鼻.json",
+    "name": "大字竹鼻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県黒石市"
+  }
+]

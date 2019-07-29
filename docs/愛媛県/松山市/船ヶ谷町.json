@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県松山市船ヶ谷町",
+    "表記": "愛媛県松山市船ヶ谷町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "船ヶ谷町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326548",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326558"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227724/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227725/104830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227724/104829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227724/104828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227724/104827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227726/104829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227727/104830.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県松山市船ヶ谷町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/松山市/船ヶ谷町.json",
+    "name": "船ヶ谷町",
+    "alternateName": [
+      "船ケ谷町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛媛県松山市"
+  }
+]

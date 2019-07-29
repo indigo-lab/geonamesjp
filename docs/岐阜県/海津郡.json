@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県海津郡",
+    "表記": "岐阜県海津郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "海津郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C21320-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C21320-20050328"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県海津郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/海津郡.json",
+    "name": "海津郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県",
+    "children": [
+      "https://geonames.jp/resource/岐阜県海津郡海津町",
+      "https://geonames.jp/resource/岐阜県海津郡平田町",
+      "https://geonames.jp/resource/岐阜県海津郡南濃町",
+      "https://geonames.jp/resource/岐阜県海津郡今尾町",
+      "https://geonames.jp/resource/岐阜県海津郡吉里村",
+      "https://geonames.jp/resource/岐阜県海津郡城山村",
+      "https://geonames.jp/resource/岐阜県海津郡大江村",
+      "https://geonames.jp/resource/岐阜県海津郡東江村",
+      "https://geonames.jp/resource/岐阜県海津郡海西村",
+      "https://geonames.jp/resource/岐阜県海津郡石津村",
+      "https://geonames.jp/resource/岐阜県海津郡西江村",
+      "https://geonames.jp/resource/岐阜県海津郡高須町"
+    ]
+  }
+]

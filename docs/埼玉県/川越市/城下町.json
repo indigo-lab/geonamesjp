@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県川越市城下町",
+    "表記": "埼玉県川越市城下町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "城下町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112011460"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397319"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232646/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232647/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232647/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232648/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/103006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232649/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232652/103002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232646/103004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232650/103003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232651/103004.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県川越市城下町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/川越市/城下町.json",
+    "name": "城下町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県川越市"
+  }
+]

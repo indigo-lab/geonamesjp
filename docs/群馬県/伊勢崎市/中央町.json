@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県伊勢崎市中央町",
+    "表記": "群馬県伊勢崎市中央町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "中央町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S102040120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393175",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054393185"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232434/102654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232434/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232435/102649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232434/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232434/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232435/102650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232435/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232436/102651.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232436/102652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232435/102652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232435/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232434/102652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232433/102652.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232433/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232434/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232433/102654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232433/102655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232434/102655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232435/102655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232436/102653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232435/102654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232436/102654.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県伊勢崎市中央町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/伊勢崎市/中央町.json",
+    "name": "中央町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県伊勢崎市"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県下益城郡富合町廻江",
+    "表記": "熊本県下益城郡富合町廻江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "下益城郡",
+      "市区町村": "富合町",
+      "町名": "廻江"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049300554",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049300564"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226232/105835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226229/105836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226233/105832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226231/105834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226230/105834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226229/105835.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226227/105834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226228/105834.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県下益城郡富合町廻江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/下益城郡/富合町/廻江.json",
+    "name": "廻江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県下益城郡富合町"
+  }
+]

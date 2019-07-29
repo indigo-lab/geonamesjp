@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県甘木市中原",
+    "表記": "福岡県甘木市中原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "甘木市",
+      "町名": "中原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300479",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300489",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050300499"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226188/105234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226184/105245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226184/105243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226185/105240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226185/105237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226185/105244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226186/105242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226186/105245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226187/105238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226186/105236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226186/105246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226186/105247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226186/105237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226187/105244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226189/105241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226189/105243.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県甘木市中原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/甘木市/中原.json",
+    "name": "中原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県甘木市"
+  }
+]

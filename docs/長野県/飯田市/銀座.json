@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県飯田市銀座",
+    "表記": "長野県飯田市銀座",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "飯田市",
+      "町名": "銀座",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S202052080"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県飯田市銀座",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/飯田市/銀座.json",
+    "name": "銀座",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県飯田市",
+    "children": [
+      "https://geonames.jp/resource/長野県飯田市銀座一丁目",
+      "https://geonames.jp/resource/長野県飯田市銀座二丁目",
+      "https://geonames.jp/resource/長野県飯田市銀座三丁目",
+      "https://geonames.jp/resource/長野県飯田市銀座四丁目",
+      "https://geonames.jp/resource/長野県飯田市銀座五丁目"
+    ]
+  }
+]

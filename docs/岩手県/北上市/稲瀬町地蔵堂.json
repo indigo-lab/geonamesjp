@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県北上市稲瀬町地蔵堂",
+    "表記": "岩手県北上市稲瀬町地蔵堂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "北上市",
+      "町名": "稲瀬町地蔵堂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416089",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416099"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233832/99961.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233832/99962.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233832/99960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233833/99959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233831/99959.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県北上市稲瀬町地蔵堂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/北上市/稲瀬町地蔵堂.json",
+    "name": "稲瀬町地蔵堂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県北上市"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市竹野町須谷",
+    "表記": "兵庫県豊岡市竹野町須谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "豊岡市",
+      "町名": "竹野町須谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282091580"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343650",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343569",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343660"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229196/103270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229199/103270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229198/103269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229199/103265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229198/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229190/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229198/103266.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229199/103267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229197/103269.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229198/103270.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229200/103263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229199/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229198/103262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229202/103265.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229193/103267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229198/103263.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229192/103267.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229199/103263.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県豊岡市竹野町須谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/豊岡市/竹野町須谷.json",
+    "name": "竹野町須谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県豊岡市"
+  }
+]

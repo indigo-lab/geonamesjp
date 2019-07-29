@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西条市福武乙",
+    "表記": "愛媛県西条市福武乙",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "西条市",
+      "町名": "福武乙"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336175",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336186",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336165"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228063/104806.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228068/104807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228062/104811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228063/104808.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228072/104799.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228066/104803.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228068/104805.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228063/104807.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228060/104814.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西条市福武乙",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西条市/福武乙.json",
+    "name": "福武乙",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西条市"
+  }
+]

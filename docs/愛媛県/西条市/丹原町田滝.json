@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西条市丹原町田滝",
+    "表記": "愛媛県西条市丹原町田滝",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "西条市",
+      "町名": "丹原町田滝",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382061000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336061",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336051",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050336062",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050326779"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227931/104819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227936/104822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227935/104822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227931/104822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227934/104822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227933/104822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227938/104819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227932/104822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227930/104822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227930/104823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227929/104822.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227914/104812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227929/104823.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227936/104820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227936/104816.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西条市丹原町田滝",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西条市/丹原町田滝.json",
+    "name": "丹原町田滝",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西条市"
+  }
+]

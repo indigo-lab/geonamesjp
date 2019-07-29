@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府京都市下京区柿本町",
+    "表記": "京都府京都市下京区柿本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "京都市",
+      "区": "下京区",
+      "町名": "柿本町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353690"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/103836.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/103840.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229922/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229921/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/103839.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/103837.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/103838.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229923/103836.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府京都市下京区柿本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/京都市/下京区/柿本町.json",
+    "name": "柿本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府京都市下京区"
+  }
+]

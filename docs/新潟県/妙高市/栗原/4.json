@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県妙高市栗原四丁目",
+    "表記": "新潟県妙高市栗原四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "妙高市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S15217093104"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384260",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384250",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384251",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384261"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231749/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/101984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231752/101984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231749/101988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/101988.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県妙高市栗原四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/妙高市/栗原/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県妙高市栗原"
+  }
+]

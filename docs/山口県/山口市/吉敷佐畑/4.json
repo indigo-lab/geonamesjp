@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県山口市吉敷佐畑四丁目",
+    "表記": "山口県山口市吉敷佐畑四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "山口市",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S35203084204"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051312304",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051311394",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051312303",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051312313"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226775/104570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226776/104571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226775/104571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226775/104572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226774/104571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226776/104570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226775/104569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226774/104570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226773/104570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226773/104571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226772/104571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226771/104569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226772/104570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226770/104569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226764/104559.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県山口市吉敷佐畑四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/山口市/吉敷佐畑/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/山口県山口市吉敷佐畑"
+  }
+]

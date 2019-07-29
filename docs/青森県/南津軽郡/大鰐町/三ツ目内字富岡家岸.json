@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡大鰐町三ツ目内字富岡家岸",
+    "表記": "青森県南津軽郡大鰐町三ツ目内字富岡家岸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "南津軽郡",
+      "市区町村": "大鰐町",
+      "町名": "三ツ目内字富岡家岸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406423"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233415/98744.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/98745.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡大鰐町三ツ目内字富岡家岸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/南津軽郡/大鰐町/三ツ目内字富岡家岸.json",
+    "name": "三ツ目内字富岡家岸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県南津軽郡大鰐町"
+  }
+]

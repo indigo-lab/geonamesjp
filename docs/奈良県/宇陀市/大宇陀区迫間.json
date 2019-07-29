@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県宇陀市大宇陀区迫間",
+    "表記": "奈良県宇陀市大宇陀区迫間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "宇陀市",
+      "町名": "大宇陀区迫間"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355773",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355774"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230048/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230049/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230050/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230051/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230052/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230052/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230054/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230048/104297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230044/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230047/104294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230051/104295.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県宇陀市大宇陀区迫間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/宇陀市/大宇陀区迫間.json",
+    "name": "大宇陀区迫間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県宇陀市"
+  }
+]

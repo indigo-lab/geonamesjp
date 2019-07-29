@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道茅部郡森町東森町",
+    "表記": "北海道茅部郡森町東森町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "茅部郡",
+      "市区町村": "森町",
+      "町名": "東森町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063401427",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063401428",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063401438"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233448/97208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233450/97209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233451/97207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233456/97209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233456/97206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233452/97206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233452/97207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233453/97208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233453/97209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233454/97207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233454/97208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233455/97208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233455/97206.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233450/97210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233451/97211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233452/97210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233454/97209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233453/97210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233452/97208.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233451/97208.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道茅部郡森町東森町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/茅部郡/森町/東森町.json",
+    "name": "東森町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道茅部郡森町"
+  }
+]

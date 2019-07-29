@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県鹿児島市七ツ島",
+    "表記": "鹿児島県鹿児島市七ツ島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "鹿児島市",
+      "町名": "七ツ島"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県鹿児島市七ツ島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/鹿児島市/七ツ島.json",
+    "name": "七ツ島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県鹿児島市",
+    "children": [
+      "https://geonames.jp/resource/鹿児島県鹿児島市七ツ島一丁目",
+      "https://geonames.jp/resource/鹿児島県鹿児島市七ツ島二丁目"
+    ]
+  }
+]

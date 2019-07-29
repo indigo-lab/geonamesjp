@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県北茨城市中郷町字日棚",
+    "表記": "茨城県北茨城市中郷町字日棚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "北茨城市",
+      "町名": "中郷町字日棚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055401514",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055401515",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055401525"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/102248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/102247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/102241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/102244.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県北茨城市中郷町字日棚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/北茨城市/中郷町字日棚.json",
+    "name": "中郷町字日棚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県北茨城市"
+  }
+]

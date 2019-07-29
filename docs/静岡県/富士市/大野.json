@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県富士市大野",
+    "表記": "静岡県富士市大野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "富士市",
+      "町名": "大野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385577",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052385567"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232083/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232086/103706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232083/103709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232084/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232083/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232085/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232085/103709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232085/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232083/103706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232086/103709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232085/103707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232085/103706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232086/103705.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県富士市大野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/富士市/大野.json",
+    "name": "大野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県富士市"
+  }
+]

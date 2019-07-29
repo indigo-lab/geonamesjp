@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市五智",
+    "表記": "新潟県上越市五智",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "五智",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152221660"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市五智",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/五智.json",
+    "name": "五智",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市",
+    "children": [
+      "https://geonames.jp/resource/新潟県上越市五智一丁目",
+      "https://geonames.jp/resource/新潟県上越市五智二丁目",
+      "https://geonames.jp/resource/新潟県上越市五智三丁目",
+      "https://geonames.jp/resource/新潟県上越市五智四丁目",
+      "https://geonames.jp/resource/新潟県上越市五智五丁目",
+      "https://geonames.jp/resource/新潟県上越市五智六丁目"
+    ]
+  }
+]

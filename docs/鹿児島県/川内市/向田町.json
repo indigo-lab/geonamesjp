@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県川内市向田町",
+    "表記": "鹿児島県川内市向田町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "向田町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305264",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305265",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305274",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047305275"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225963/106620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/106617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225961/106621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225962/106617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225961/106618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225958/106618.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225959/106620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225963/106621.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県川内市向田町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/川内市/向田町.json",
+    "name": "向田町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県川内市"
+  }
+]

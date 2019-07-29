@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府綾部市広瀬町",
+    "表記": "京都府綾部市広瀬町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "広瀬町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357255",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357256",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357265",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052357266"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229614/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229609/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229610/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229613/103567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229606/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229611/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103567.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229613/103564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229607/103564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229615/103572.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府綾部市広瀬町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/綾部市/広瀬町.json",
+    "name": "広瀬町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府綾部市"
+  }
+]

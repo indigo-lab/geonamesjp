@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県八代市郡築四番町",
+    "表記": "熊本県八代市郡築四番町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "郡築四番町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S432021000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306434",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306435",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306444",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048306425"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226145/105998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226147/105999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226148/106000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/106000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226151/106001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226152/106002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/105999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226148/105999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105996.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県八代市郡築四番町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/八代市/郡築四番町.json",
+    "name": "郡築四番町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県八代市"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道足寄郡足寄町稲牛",
+    "表記": "北海道足寄郡足寄町稲牛",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "足寄郡",
+      "市区町村": "足寄町",
+      "町名": "稲牛",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016470420"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064436587",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064436598"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235725/96087.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235733/96083.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道足寄郡足寄町稲牛",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/足寄郡/足寄町/稲牛.json",
+    "name": "稲牛",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道足寄郡足寄町"
+  }
+]

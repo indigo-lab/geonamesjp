@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県石巻市渡波字旭ケ浦",
+    "表記": "宮城県石巻市渡波字旭ケ浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "石巻市",
+      "町名": "渡波字旭ケ浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415208",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415209",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415218",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415219"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234007/100719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234011/100724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234008/100721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234009/100721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234007/100721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234008/100720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234008/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234009/100722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234008/100723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234009/100723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234010/100723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234011/100723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234009/100724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234010/100724.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県石巻市渡波字旭ケ浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/石巻市/渡波字旭ケ浦.json",
+    "name": "渡波字旭ケ浦",
+    "alternateName": [
+      "渡波字旭ヶ浦"
+    ],
+    "parentFeature": "https://geonames.jp/resource/宮城県石巻市"
+  }
+]

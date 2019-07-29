@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県鳳珠郡",
+    "表記": "石川県鳳珠郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "鳳珠郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C17460-20050301"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県鳳珠郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/鳳珠郡.json",
+    "name": "鳳珠郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県",
+    "children": [
+      "https://geonames.jp/resource/石川県鳳珠郡能登町",
+      "https://geonames.jp/resource/石川県鳳珠郡穴水町",
+      "https://geonames.jp/resource/石川県鳳珠郡門前町"
+    ]
+  }
+]

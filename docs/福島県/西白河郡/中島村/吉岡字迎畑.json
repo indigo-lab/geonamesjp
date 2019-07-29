@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県西白河郡中島村吉岡字迎畑",
+    "表記": "福島県西白河郡中島村吉岡字迎畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "西白河郡",
+      "市区町村": "中島村",
+      "町名": "吉岡字迎畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405248",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405249",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405269"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233283/101922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233285/101907.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/101924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233279/101922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233281/101922.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県西白河郡中島村吉岡字迎畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/西白河郡/中島村/吉岡字迎畑.json",
+    "name": "吉岡字迎畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県西白河郡中島村"
+  }
+]

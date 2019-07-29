@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/徳島県那賀郡那賀川町工地",
+    "表記": "徳島県那賀郡那賀川町工地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "徳島県",
+      "郡": "那賀郡",
+      "市区町村": "那賀川町",
+      "町名": "工地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347533",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347542",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347543",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347544",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050347554"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229132/104758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229131/104763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229136/104759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229130/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229131/104762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229140/104754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229129/104758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229137/104755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229139/104757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229137/104756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229131/104761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229134/104758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229132/104760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229130/104760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229132/104759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229130/104758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229130/104757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229131/104758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229131/104759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229132/104757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229137/104757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229139/104756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229137/104758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229133/104759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229133/104757.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/徳島県那賀郡那賀川町工地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/徳島県/那賀郡/那賀川町/工地.json",
+    "name": "工地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/徳島県那賀郡那賀川町"
+  }
+]

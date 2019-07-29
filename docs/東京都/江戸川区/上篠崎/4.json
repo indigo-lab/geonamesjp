@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都江戸川区上篠崎四丁目",
+    "表記": "東京都江戸川区上篠崎四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "江戸川区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13123038004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394752",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394741",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394751"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103203.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/103201.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/103202.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/103200.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103200.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都江戸川区上篠崎四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/江戸川区/上篠崎/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都江戸川区上篠崎"
+  }
+]

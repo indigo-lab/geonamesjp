@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市堀",
+    "表記": "京都府舞鶴市堀",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "堀"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350276",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350286",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350287",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053350297"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229623/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229623/103465.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229615/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229620/103472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229625/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229626/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229625/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229625/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229626/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229618/103480.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229624/103471.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市堀",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/堀.json",
+    "name": "堀",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

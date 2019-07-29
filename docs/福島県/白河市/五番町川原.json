@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市五番町川原",
+    "表記": "福島県白河市五番町川原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "五番町川原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07205001006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405156",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405165",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405166"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233159/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233159/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233158/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233162/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233158/101911.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233161/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/101910.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233164/101913.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233165/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233163/101912.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市五番町川原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/五番町川原.json",
+    "name": "五番町川原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

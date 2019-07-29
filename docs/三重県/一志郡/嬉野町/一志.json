@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県一志郡嬉野町一志",
+    "表記": "三重県一志郡嬉野町一志",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "一志郡",
+      "市区町村": "嬉野町",
+      "町名": "一志"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367346",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367356",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367357"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230445/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230445/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230442/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230443/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230440/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230439/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230445/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230439/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230438/104166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230438/104168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230436/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230442/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230441/104165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230443/104164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230437/104163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230437/104167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230436/104164.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県一志郡嬉野町一志",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/一志郡/嬉野町/一志.json",
+    "name": "一志",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県一志郡嬉野町"
+  }
+]

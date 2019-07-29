@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡新宮町馬立",
+    "表記": "兵庫県揖保郡新宮町馬立",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "揖保郡",
+      "市区町村": "新宮町",
+      "町名": "馬立"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342473",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342482",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052342483"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229040/103925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229038/103921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229038/103923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229039/103921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229039/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229039/103924.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229039/103922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229040/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229040/103923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229040/103921.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229041/103920.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229041/103922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229041/103921.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県揖保郡新宮町馬立",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/揖保郡/新宮町/馬立.json",
+    "name": "馬立",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県揖保郡新宮町"
+  }
+]

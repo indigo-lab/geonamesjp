@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県平鹿郡大森町",
+    "表記": "秋田県平鹿郡大森町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "郡": "平鹿郡",
+      "市区町村": "大森町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C05444-19770201",
+        "http://data.e-stat.go.jp/lod/sac/C05444-19740601",
+        "http://data.e-stat.go.jp/lod/sac/C05444-20051001",
+        "http://data.e-stat.go.jp/lod/sac/C05444-19750301",
+        "http://data.e-stat.go.jp/lod/sac/C05444-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県平鹿郡大森町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/平鹿郡/大森町.json",
+    "name": "大森町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県平鹿郡"
+  }
+]

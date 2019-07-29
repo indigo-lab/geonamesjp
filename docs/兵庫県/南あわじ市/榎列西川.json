@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県南あわじ市榎列西川",
+    "表記": "兵庫県南あわじ市榎列西川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "南あわじ市",
+      "町名": "榎列西川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S28224018003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343651",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051343661"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229207/104454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229207/104452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229208/104453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229208/104452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229209/104453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229209/104452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229210/104452.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229210/104453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229208/104454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229207/104455.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229207/104453.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229208/104451.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229209/104454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229210/104454.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229211/104453.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県南あわじ市榎列西川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/南あわじ市/榎列西川.json",
+    "name": "榎列西川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県南あわじ市"
+  }
+]

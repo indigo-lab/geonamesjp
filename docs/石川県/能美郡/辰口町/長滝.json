@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県能美郡辰口町長滝",
+    "表記": "石川県能美郡辰口町長滝",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "能美郡",
+      "市区町村": "辰口町",
+      "町名": "長滝"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365436",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365446"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230526/102533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230527/102534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230524/102533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230524/102534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230525/102535.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県能美郡辰口町長滝",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/能美郡/辰口町/長滝.json",
+    "name": "長滝",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県能美郡辰口町"
+  }
+]

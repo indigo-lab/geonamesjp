@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道網走市東網走",
+    "表記": "北海道網走市東網走",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "網走市",
+      "町名": "東網走"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065447138",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065447139",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065447148",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065447149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065447240"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236114/95368.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236111/95366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236109/95372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236101/95372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236104/95371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236101/95371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236104/95370.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236107/95364.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236106/95372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236108/95372.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道網走市東網走",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/網走市/東網走.json",
+    "name": "東網走",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道網走市"
+  }
+]

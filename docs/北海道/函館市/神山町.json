@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道函館市神山町",
+    "表記": "北海道函館市神山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "神山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012021240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062405681",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062405680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062405691"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233575/97484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233571/97487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233572/97488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233572/97487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233574/97487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233573/97486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233573/97488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233573/97487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233574/97486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233573/97483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233575/97483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233578/97478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/97478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233573/97485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233575/97482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233572/97486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233575/97481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233574/97488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233577/97477.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道函館市神山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/函館市/神山町.json",
+    "name": "神山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道函館市"
+  }
+]

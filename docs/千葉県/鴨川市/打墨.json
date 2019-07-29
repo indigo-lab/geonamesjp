@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県鴨川市打墨",
+    "表記": "千葉県鴨川市打墨",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "鴨川市",
+      "町名": "打墨",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122230110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405065",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405036",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405056",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405066",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405076"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233070/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233074/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233075/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/103729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/103730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/103732.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/103728.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/103731.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233078/103729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233070/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233068/103712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233071/103717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233071/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233072/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/103717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233074/103718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233071/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233072/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/103723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/103721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233074/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233074/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233074/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233074/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233075/103722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233075/103724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/103727.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233077/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233078/103730.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233078/103726.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/103720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233067/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/103705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233072/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233073/103719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233074/103729.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/103725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233076/103724.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県鴨川市打墨",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/鴨川市/打墨.json",
+    "name": "打墨",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県鴨川市"
+  }
+]

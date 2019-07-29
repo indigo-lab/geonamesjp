@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県福山市鞆町鞆",
+    "表記": "広島県福山市鞆町鞆",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "福山市",
+      "町名": "鞆町鞆",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34207119001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334350",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334360"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228199/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228196/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228197/104379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228196/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228197/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228197/104377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228198/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228198/104377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228198/104379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228198/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228199/104378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228199/104379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228198/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228198/104376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228197/104376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228195/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228195/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228196/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228197/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228197/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228198/104382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228194/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228196/104379.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県福山市鞆町鞆",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/福山市/鞆町鞆.json",
+    "name": "鞆町鞆",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県福山市"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県奥州市水沢区真城字土手根",
+    "表記": "岩手県奥州市水沢区真城字土手根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "奥州市",
+      "町名": "水沢区真城字土手根"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415121",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058415120"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233845/100091.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233844/100089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233845/100088.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233845/100089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233846/100089.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233844/100090.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233844/100091.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県奥州市水沢区真城字土手根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/奥州市/水沢区真城字土手根.json",
+    "name": "水沢区真城字土手根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県奥州市"
+  }
+]

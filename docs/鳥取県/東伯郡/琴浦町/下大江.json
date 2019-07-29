@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡琴浦町下大江",
+    "表記": "鳥取県東伯郡琴浦町下大江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "東伯郡",
+      "市区町村": "琴浦町",
+      "町名": "下大江",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S313710210"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331566",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331575",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331576",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053331565"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228429/103411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228430/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228429/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228428/103411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228427/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228428/103408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228428/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228427/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228426/103407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228428/103409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228429/103406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228429/103415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228429/103416.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県東伯郡琴浦町下大江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/東伯郡/琴浦町/下大江.json",
+    "name": "下大江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県東伯郡琴浦町"
+  }
+]

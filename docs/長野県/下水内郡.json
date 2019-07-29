@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県下水内郡",
+    "表記": "長野県下水内郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "下水内郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20600-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県下水内郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/下水内郡.json",
+    "name": "下水内郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県",
+    "children": [
+      "https://geonames.jp/resource/長野県下水内郡栄村",
+      "https://geonames.jp/resource/長野県下水内郡豊田村",
+      "https://geonames.jp/resource/長野県下水内郡外様村",
+      "https://geonames.jp/resource/長野県下水内郡太田村",
+      "https://geonames.jp/resource/長野県下水内郡岡山村",
+      "https://geonames.jp/resource/長野県下水内郡常盤村",
+      "https://geonames.jp/resource/長野県下水内郡柳原村",
+      "https://geonames.jp/resource/長野県下水内郡水内村",
+      "https://geonames.jp/resource/長野県下水内郡永田村",
+      "https://geonames.jp/resource/長野県下水内郡秋津村",
+      "https://geonames.jp/resource/長野県下水内郡豊井村",
+      "https://geonames.jp/resource/長野県下水内郡飯山町"
+    ]
+  }
+]

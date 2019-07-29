@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県石巻市穀町",
+    "表記": "宮城県石巻市穀町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "穀町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S042020100"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415224",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415214",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057415223"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233964/100713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233963/100714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233963/100713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233966/100714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233964/100714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233964/100715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233962/100714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233966/100713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233963/100712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233965/100712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233964/100712.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県石巻市穀町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/石巻市/穀町.json",
+    "name": "穀町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県石巻市"
+  }
+]

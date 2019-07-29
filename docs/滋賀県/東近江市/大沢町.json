@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市大沢町",
+    "表記": "滋賀県東近江市大沢町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "大沢町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252131640"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365250",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365169",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365260"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230285/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230283/103712.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230284/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230287/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230288/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230286/103713.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市大沢町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/東近江市/大沢町.json",
+    "name": "大沢町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県東近江市"
+  }
+]

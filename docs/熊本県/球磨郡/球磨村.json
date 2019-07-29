@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡球磨村",
+    "表記": "熊本県球磨郡球磨村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "球磨郡",
+      "市区町村": "球磨村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43513-19890901",
+        "http://data.e-stat.go.jp/lod/sac/C43513-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県球磨郡球磨村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/球磨郡/球磨村.json",
+    "name": "球磨村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県球磨郡",
+    "children": [
+      "https://geonames.jp/resource/熊本県球磨郡球磨村大字渡",
+      "https://geonames.jp/resource/熊本県球磨郡球磨村大字大瀬",
+      "https://geonames.jp/resource/熊本県球磨郡球磨村大字神瀬",
+      "https://geonames.jp/resource/熊本県球磨郡球磨村大字一勝地",
+      "https://geonames.jp/resource/熊本県球磨郡球磨村大字三ケ浦",
+      "https://geonames.jp/resource/熊本県球磨郡球磨村渡",
+      "https://geonames.jp/resource/熊本県球磨郡球磨村一勝地",
+      "https://geonames.jp/resource/熊本県球磨郡球磨村三ヶ浦",
+      "https://geonames.jp/resource/熊本県球磨郡球磨村神瀬",
+      "https://geonames.jp/resource/熊本県球磨郡球磨村大瀬"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1184708"
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県津市久居東鷹跡町",
+    "表記": "三重県津市久居東鷹跡町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "久居東鷹跡町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S242011490"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360307",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360317"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230445/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230446/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230445/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230445/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/104126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230445/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230446/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230446/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230442/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230443/104124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230443/104125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230444/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230445/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230443/104121.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県津市久居東鷹跡町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/津市/久居東鷹跡町.json",
+    "name": "久居東鷹跡町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県津市"
+  }
+]

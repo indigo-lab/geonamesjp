@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県南砺市五領",
+    "表記": "富山県南砺市五領",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "南砺市",
+      "町名": "五領"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366766",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366767"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230805/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230802/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/102438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230804/102436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/102436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230803/102437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230805/102437.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県南砺市五領",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/南砺市/五領.json",
+    "name": "五領",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県南砺市"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県宇部市床波",
+    "表記": "山口県宇部市床波",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "宇部市",
+      "町名": "床波",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S352020215"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県宇部市床波",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/宇部市/床波.json",
+    "name": "床波",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県宇部市",
+    "children": [
+      "https://geonames.jp/resource/山口県宇部市床波一丁目",
+      "https://geonames.jp/resource/山口県宇部市床波二丁目",
+      "https://geonames.jp/resource/山口県宇部市床波三丁目",
+      "https://geonames.jp/resource/山口県宇部市床波四丁目",
+      "https://geonames.jp/resource/山口県宇部市床波五丁目",
+      "https://geonames.jp/resource/山口県宇部市床波六丁目"
+    ]
+  }
+]

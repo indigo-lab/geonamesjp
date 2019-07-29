@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府宇治市宇治又振",
+    "表記": "京都府宇治市宇治又振",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "宇治市",
+      "町名": "宇治又振",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S26204024029"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352664",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352674"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229964/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229966/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229965/103930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229965/103931.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府宇治市宇治又振",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/宇治市/宇治又振.json",
+    "name": "宇治又振",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府宇治市"
+  }
+]

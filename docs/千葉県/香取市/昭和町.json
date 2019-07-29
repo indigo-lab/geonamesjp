@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県香取市昭和町",
+    "表記": "千葉県香取市昭和町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "昭和町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406385",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406387",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406388",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406395",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406396",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406397",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406386"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/103023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/103023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/103019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233359/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233337/103024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233358/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233336/103029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233340/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233339/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233348/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233345/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233347/103024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/103023.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県香取市昭和町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/香取市/昭和町.json",
+    "name": "昭和町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県香取市"
+  }
+]

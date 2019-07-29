@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県桃生郡雄勝町和田",
+    "表記": "宮城県桃生郡雄勝町和田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "桃生郡",
+      "市区町村": "雄勝町",
+      "町名": "和田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416319"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234104/100642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234105/100644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234105/100641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234103/100640.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県桃生郡雄勝町和田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/桃生郡/雄勝町/和田.json",
+    "name": "和田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県桃生郡雄勝町"
+  }
+]

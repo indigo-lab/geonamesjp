@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市流通センター北",
+    "表記": "岩手県盛岡市流通センター北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "流通センター北",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032012300"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市流通センター北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/流通センター北.json",
+    "name": "流通センター北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市",
+    "children": [
+      "https://geonames.jp/resource/岩手県盛岡市流通センター北一丁目"
+    ]
+  }
+]

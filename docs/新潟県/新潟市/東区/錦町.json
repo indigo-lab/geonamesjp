@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市東区錦町",
+    "表記": "新潟県新潟市東区錦町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "東区",
+      "町名": "錦町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S151020670"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397026",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397027"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232351/101173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232351/101174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232352/101174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232352/101173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232353/101174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232352/101172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232350/101174.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市東区錦町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/東区/錦町.json",
+    "name": "錦町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市東区"
+  }
+]

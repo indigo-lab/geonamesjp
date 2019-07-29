@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡谷和原村伊佐衛門新田",
+    "表記": "茨城県筑波郡谷和原村伊佐衛門新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "筑波郡",
+      "市区町村": "谷和原村",
+      "町名": "伊佐衛門新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400013",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054400023"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/102932.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/102931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/102930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/102931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/102930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/102931.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233047/102930.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/102924.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県筑波郡谷和原村伊佐衛門新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/筑波郡/谷和原村/伊佐衛門新田.json",
+    "name": "伊佐衛門新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県筑波郡谷和原村"
+  }
+]

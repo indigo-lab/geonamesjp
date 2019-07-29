@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県えびの市東長江浦",
+    "表記": "宮崎県えびの市東長江浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "市区町村": "えびの市",
+      "町名": "東長江浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300635",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300645",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300615"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226326/106423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226328/106423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226327/106426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226328/106426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226327/106423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226327/106428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226327/106425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226332/106445.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226327/106422.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県えびの市東長江浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/えびの市/東長江浦.json",
+    "name": "東長江浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県えびの市"
+  }
+]

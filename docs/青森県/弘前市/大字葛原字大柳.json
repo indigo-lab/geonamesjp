@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県弘前市大字葛原字大柳",
+    "表記": "青森県弘前市大字葛原字大柳",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "弘前市",
+      "町名": "大字葛原字大柳"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407341",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407350",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407351"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/98645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/98647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/98647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233297/98644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/98646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/98643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/98640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/98643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/98646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/98645.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県弘前市大字葛原字大柳",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/弘前市/大字葛原字大柳.json",
+    "name": "大字葛原字大柳",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県弘前市"
+  }
+]

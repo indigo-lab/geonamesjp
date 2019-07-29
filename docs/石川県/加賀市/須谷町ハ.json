@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県加賀市須谷町ハ",
+    "表記": "石川県加賀市須谷町ハ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "加賀市",
+      "町名": "須谷町ハ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054363320"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230388/102693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230384/102699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230388/102692.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230388/102694.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県加賀市須谷町ハ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/加賀市/須谷町ハ.json",
+    "name": "須谷町ハ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県加賀市"
+  }
+]

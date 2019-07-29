@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県柳川市田脇",
+    "表記": "福岡県柳川市田脇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "柳川市",
+      "町名": "田脇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306300",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306310",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306311",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306320",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049306209"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226009/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226010/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226010/105439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226012/105438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226011/105437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226013/105436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226013/105439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226015/105438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226015/105437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226009/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226009/105441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226010/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226010/105441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226011/105441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226012/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226013/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226013/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226013/105443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226014/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226013/105444.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226014/105441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226013/105432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226014/105431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226015/105433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226016/105434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226017/105433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226010/105438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226012/105436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226014/105435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226016/105432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226017/105434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226011/105439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226008/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226009/105443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226018/105433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226012/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226014/105437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226011/105442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226014/105439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226014/105443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226015/105440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226016/105437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226017/105432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226014/105433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226013/105433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226012/105435.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県柳川市田脇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/柳川市/田脇.json",
+    "name": "田脇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県柳川市"
+  }
+]

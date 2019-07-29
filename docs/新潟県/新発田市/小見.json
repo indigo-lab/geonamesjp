@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新発田市小見",
+    "表記": "新潟県新発田市小見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新発田市",
+      "町名": "小見",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152060420"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056396298",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397208"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232546/101195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232547/101195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232547/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232547/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232548/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232548/101191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232548/101192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232548/101194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232548/101195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232550/101196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232551/101196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232549/101191.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新発田市小見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新発田市/小見.json",
+    "name": "小見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新発田市"
+  }
+]

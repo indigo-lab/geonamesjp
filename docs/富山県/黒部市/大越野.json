@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県黒部市大越野",
+    "表記": "富山県黒部市大越野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "黒部市",
+      "町名": "大越野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162070780"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372339",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372348"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231188/102157.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231188/102158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231189/102158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231191/102159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231192/102158.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231193/102159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231194/102159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231194/102160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231195/102161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231195/102160.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231195/102159.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231186/102155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231192/102159.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県黒部市大越野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/黒部市/大越野.json",
+    "name": "大越野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県黒部市"
+  }
+]

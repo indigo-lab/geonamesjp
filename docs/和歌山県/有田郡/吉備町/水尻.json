@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/和歌山県有田郡吉備町水尻",
+    "表記": "和歌山県有田郡吉備町水尻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "和歌山県",
+      "郡": "有田郡",
+      "市区町村": "吉備町",
+      "町名": "水尻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051350155",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051350165",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051350166",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051350175"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229517/104669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229518/104669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229518/104670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229515/104673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229514/104669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229515/104668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229517/104673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229517/104672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229519/104670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229519/104669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229518/104672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229517/104674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229516/104675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229514/104674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229515/104674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229515/104666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229522/104670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229521/104671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229521/104670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229520/104670.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/和歌山県有田郡吉備町水尻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/和歌山県/有田郡/吉備町/水尻.json",
+    "name": "水尻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/和歌山県有田郡吉備町"
+  }
+]

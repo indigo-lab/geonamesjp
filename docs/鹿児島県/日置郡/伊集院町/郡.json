@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡伊集院町郡",
+    "表記": "鹿児島県日置郡伊集院町郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "日置郡",
+      "市区町村": "伊集院町",
+      "町名": "郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県日置郡伊集院町郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/日置郡/伊集院町/郡.json",
+    "name": "郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県日置郡伊集院町",
+    "children": [
+      "https://geonames.jp/resource/鹿児島県日置郡伊集院町郡（丁目なし）",
+      "https://geonames.jp/resource/鹿児島県日置郡伊集院町郡一丁目",
+      "https://geonames.jp/resource/鹿児島県日置郡伊集院町郡二丁目"
+    ]
+  }
+]

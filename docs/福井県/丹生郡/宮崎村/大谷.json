@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県丹生郡宮崎村大谷",
+    "表記": "福井県丹生郡宮崎村大谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "丹生郡",
+      "市区町村": "宮崎村",
+      "町名": "大谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367029",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053367039"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/102994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/102993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230191/102990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230189/102993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230189/102991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230189/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/102993.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県丹生郡宮崎村大谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/丹生郡/宮崎村/大谷.json",
+    "name": "大谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県丹生郡宮崎村"
+  }
+]

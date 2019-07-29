@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県羽咋市千里浜町ヘ",
+    "表記": "石川県羽咋市千里浜町ヘ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "羽咋市",
+      "町名": "千里浜町ヘ"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362671",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362661"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230668/102132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230667/102131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230668/102131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230667/102132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230668/102133.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県羽咋市千里浜町ヘ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/羽咋市/千里浜町ヘ.json",
+    "name": "千里浜町ヘ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県羽咋市"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県北佐久郡御代田町広戸",
+    "表記": "長野県北佐久郡御代田町広戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "北佐久郡",
+      "市区町村": "御代田町",
+      "町名": "広戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383472",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383473"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231950/102659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231949/102659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231948/102660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231951/102660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231952/102659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231945/102664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231946/102665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231944/102662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231946/102663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231946/102664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231946/102662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231947/102663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231947/102662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231948/102661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231950/102661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231949/102661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231953/102661.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231945/102666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231945/102662.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231952/102658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231948/102659.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県北佐久郡御代田町広戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/北佐久郡/御代田町/広戸.json",
+    "name": "広戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県北佐久郡御代田町"
+  }
+]

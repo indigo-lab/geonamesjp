@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水区清水伊佐布",
+    "表記": "静岡県静岡市清水区清水伊佐布",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "区": "清水区",
+      "町名": "清水伊佐布"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384377",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384387"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231900/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231902/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231903/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/103773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231901/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231898/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231899/103777.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市清水区清水伊佐布",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/清水区/清水伊佐布.json",
+    "name": "清水伊佐布",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市清水区"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路市星が浦南",
+    "表記": "北海道釧路市星が浦南",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "釧路市",
+      "町名": "星が浦南",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012061060"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路市星が浦南",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路市/星が浦南.json",
+    "name": "星が浦南",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路市",
+    "children": [
+      "https://geonames.jp/resource/北海道釧路市星が浦南一丁目",
+      "https://geonames.jp/resource/北海道釧路市星が浦南二丁目",
+      "https://geonames.jp/resource/北海道釧路市星が浦南三丁目",
+      "https://geonames.jp/resource/北海道釧路市星が浦南四丁目",
+      "https://geonames.jp/resource/北海道釧路市星が浦南五丁目",
+      "https://geonames.jp/resource/北海道釧路市星が浦南六丁目"
+    ]
+  }
+]

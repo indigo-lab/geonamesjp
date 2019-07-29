@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高知市升形",
+    "表記": "高知県高知市升形",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "高知市",
+      "町名": "升形",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S392010090"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332462",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332472"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228304/105105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228303/105105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228304/105106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228303/105106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228304/105107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228303/105107.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高知市升形",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高知市/升形.json",
+    "name": "升形",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高知市"
+  }
+]

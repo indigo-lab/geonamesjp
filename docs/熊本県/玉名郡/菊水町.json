@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県玉名郡菊水町",
+    "表記": "熊本県玉名郡菊水町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "郡": "玉名郡",
+      "市区町村": "菊水町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C43365-20060301",
+        "http://data.e-stat.go.jp/lod/sac/C43365-19830501",
+        "http://data.e-stat.go.jp/lod/sac/C43365-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C43365-19820601",
+        "http://data.e-stat.go.jp/lod/sac/C43365-19871201",
+        "http://data.e-stat.go.jp/lod/sac/C43365-20030601"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県玉名郡菊水町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/玉名郡/菊水町.json",
+    "name": "菊水町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県玉名郡"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県三戸郡五戸町豊間内字志戸岸",
+    "表記": "青森県三戸郡五戸町豊間内字志戸岸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "三戸郡",
+      "市区町村": "五戸町",
+      "町名": "豊間内字志戸岸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416207",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416208",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416217",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416218"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234000/98756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234000/98757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233999/98758.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233999/98757.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233995/98753.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234001/98756.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234001/98755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234000/98753.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県三戸郡五戸町豊間内字志戸岸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/三戸郡/五戸町/豊間内字志戸岸.json",
+    "name": "豊間内字志戸岸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県三戸郡五戸町"
+  }
+]

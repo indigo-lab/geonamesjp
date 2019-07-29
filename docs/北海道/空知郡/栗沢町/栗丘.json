@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道空知郡栗沢町栗丘",
+    "表記": "北海道空知郡栗沢町栗丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "空知郡",
+      "市区町村": "栗沢町",
+      "町名": "栗丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414599",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415509",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415519",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064415600"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234287/96236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234287/96238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234289/96237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234288/96237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234289/96235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234289/96236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234285/96238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234286/96238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234283/96237.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234284/96242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234290/96240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234290/96242.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234291/96241.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234288/96240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234290/96230.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234295/96238.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234294/96240.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234284/96247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234295/96234.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道空知郡栗沢町栗丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/空知郡/栗沢町/栗丘.json",
+    "name": "栗丘",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道空知郡栗沢町"
+  }
+]

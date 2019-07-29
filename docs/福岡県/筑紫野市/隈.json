@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県筑紫野市隈",
+    "表記": "福岡県筑紫野市隈",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "筑紫野市",
+      "町名": "隈"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301444"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226140/105194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226140/105195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226142/105194.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105195.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105198.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226143/105197.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105196.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105195.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県筑紫野市隈",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/筑紫野市/隈.json",
+    "name": "隈",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県筑紫野市"
+  }
+]

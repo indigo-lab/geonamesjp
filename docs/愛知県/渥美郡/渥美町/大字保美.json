@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県渥美郡渥美町大字保美",
+    "表記": "愛知県渥美郡渥美町大字保美",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "渥美郡",
+      "市区町村": "渥美町",
+      "町名": "大字保美"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051377047"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/104172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/104174.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230901/104173.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230902/104172.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230900/104173.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県渥美郡渥美町大字保美",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/渥美郡/渥美町/大字保美.json",
+    "name": "大字保美",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県渥美郡渥美町"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県指宿市山川金生町",
+    "表記": "鹿児島県指宿市山川金生町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "山川金生町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2046306540"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226197/107135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226197/107136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226198/107136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226197/107134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226198/107135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226197/107137.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226197/107138.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県指宿市山川金生町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/指宿市/山川金生町.json",
+    "name": "山川金生町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県指宿市"
+  }
+]

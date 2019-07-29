@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県長崎市椿が丘町",
+    "表記": "長崎県長崎市椿が丘町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "椿が丘町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422013750"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048297676"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225610/105897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225611/105898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225611/105897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225610/105898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225610/105899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225609/105898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225611/105900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225611/105899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225608/105898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225609/105896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225609/105897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225609/105900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225612/105901.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225610/105900.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225609/105899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225608/105897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225610/105896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225612/105898.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県長崎市椿が丘町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/長崎市/椿が丘町.json",
+    "name": "椿が丘町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県長崎市"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県隠岐郡五箇村",
+    "表記": "島根県隠岐郡五箇村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "隠岐郡",
+      "市区町村": "五箇村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C32523-19701101",
+        "http://data.e-stat.go.jp/lod/sac/C32523-20041001",
+        "http://data.e-stat.go.jp/lod/sac/C32523-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県隠岐郡五箇村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/隠岐郡/五箇村.json",
+    "name": "五箇村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県隠岐郡"
+  }
+]

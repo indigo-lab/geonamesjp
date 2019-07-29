@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道釧路市三津浦",
+    "表記": "北海道釧路市三津浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "釧路市",
+      "町名": "三津浦",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012060700"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443337",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443347",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064443338"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236272/96378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236267/96374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236267/96379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236274/96381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236274/96376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236272/96376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236273/96376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236268/96371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236267/96375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236270/96375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236271/96378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236273/96374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236274/96373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236278/96376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236275/96381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236280/96380.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道釧路市三津浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/釧路市/三津浦.json",
+    "name": "三津浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道釧路市"
+  }
+]

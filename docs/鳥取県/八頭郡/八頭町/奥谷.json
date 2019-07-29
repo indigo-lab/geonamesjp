@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡八頭町奥谷",
+    "表記": "鳥取県八頭郡八頭町奥谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "八頭郡",
+      "市区町村": "八頭町",
+      "町名": "奥谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S313290250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340290",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053341201",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340291"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/103460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228839/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228838/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228838/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228836/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228835/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228836/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228838/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228841/103463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228835/103461.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/103459.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228842/103464.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228837/103462.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228838/103460.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡八頭町奥谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/八頭郡/八頭町/奥谷.json",
+    "name": "奥谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県八頭郡八頭町"
+  }
+]

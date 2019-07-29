@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県安中市妙義町中里",
+    "表記": "群馬県安中市妙義町中里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "安中市",
+      "町名": "妙義町中里"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383654"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232145/102676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232144/102672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232143/102672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232150/102676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232149/102676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232148/102675.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県安中市妙義町中里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/安中市/妙義町中里.json",
+    "name": "妙義町中里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県安中市"
+  }
+]

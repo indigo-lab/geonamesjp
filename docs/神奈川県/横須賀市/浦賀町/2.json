@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市浦賀町二丁目",
+    "表記": "神奈川県横須賀市浦賀町二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "浦賀町",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397506"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232803/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232803/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232805/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232802/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232805/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232804/103608.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市浦賀町二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横須賀市/浦賀町/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横須賀市浦賀町"
+  }
+]

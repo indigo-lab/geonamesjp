@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県長野市篠ノ井塩崎字山崎",
+    "表記": "長野県長野市篠ノ井塩崎字山崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "長野市",
+      "町名": "篠ノ井塩崎字山崎"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054386069",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054386079"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231647/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231647/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231648/102435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231646/102436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231645/102436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231644/102437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231645/102437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231647/102438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231646/102438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231648/102438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231644/102438.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231645/102439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231648/102436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231644/102439.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231648/102434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231647/102436.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県長野市篠ノ井塩崎字山崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/長野市/篠ノ井塩崎字山崎.json",
+    "name": "篠ノ井塩崎字山崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県長野市"
+  }
+]

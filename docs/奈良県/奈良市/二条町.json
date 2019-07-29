@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県奈良市二条町",
+    "表記": "奈良県奈良市二条町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "二条町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292014450"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県奈良市二条町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/奈良市/二条町.json",
+    "name": "二条町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県奈良市",
+    "children": [
+      "https://geonames.jp/resource/奈良県奈良市二条町一丁目",
+      "https://geonames.jp/resource/奈良県奈良市二条町二丁目",
+      "https://geonames.jp/resource/奈良県奈良市二条町三丁目"
+    ]
+  }
+]

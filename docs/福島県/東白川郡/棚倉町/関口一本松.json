@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県東白川郡棚倉町関口一本松",
+    "表記": "福島県東白川郡棚倉町関口一本松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "東白川郡",
+      "市区町村": "棚倉町",
+      "町名": "関口一本松"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404341"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/102002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/102001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/102002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/102001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233303/102001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233305/102002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233301/102003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/102001.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県東白川郡棚倉町関口一本松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/東白川郡/棚倉町/関口一本松.json",
+    "name": "関口一本松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県東白川郡棚倉町"
+  }
+]

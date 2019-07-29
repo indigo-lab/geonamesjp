@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県武生市東千福町",
+    "表記": "福井県武生市東千福町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "東千福町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366172"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/103036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/103036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/103038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/103038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/103039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230220/103039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230219/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/103039.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/103038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230217/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230218/103036.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県武生市東千福町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/武生市/東千福町.json",
+    "name": "東千福町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県武生市"
+  }
+]

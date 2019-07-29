@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県石巻市雄勝町雄勝字船戸神明",
+    "表記": "宮城県石巻市雄勝町雄勝字船戸神明",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "石巻市",
+      "町名": "雄勝町雄勝字船戸神明"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416317"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234085/100641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234083/100642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234082/100641.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234085/100640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234085/100642.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県石巻市雄勝町雄勝字船戸神明",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/石巻市/雄勝町雄勝字船戸神明.json",
+    "name": "雄勝町雄勝字船戸神明",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県石巻市"
+  }
+]

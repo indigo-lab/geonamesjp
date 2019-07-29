@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市荏原",
+    "表記": "富山県富山市荏原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "荏原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162012860"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370231"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/102311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/102310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/102310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231028/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/102309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231028/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231029/102308.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市荏原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/荏原.json",
+    "name": "荏原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

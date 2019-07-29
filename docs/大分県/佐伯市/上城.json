@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県佐伯市上城",
+    "表記": "大分県佐伯市上城",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "佐伯市",
+      "町名": "上城"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313628",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313619"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227088/105654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227093/105647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227096/105648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227092/105647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227096/105646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227093/105646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227093/105645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227088/105646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227094/105645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227090/105644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227092/105642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227093/105643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227095/105649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227095/105645.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県佐伯市上城",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/佐伯市/上城.json",
+    "name": "上城",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県佐伯市"
+  }
+]

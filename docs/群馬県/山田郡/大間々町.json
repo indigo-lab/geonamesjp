@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県山田郡大間々町",
+    "表記": "群馬県山田郡大間々町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "山田郡",
+      "市区町村": "大間々町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C10501-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C10501-19700801",
+        "http://data.e-stat.go.jp/lod/sac/C10501-20060327"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県山田郡大間々町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/山田郡/大間々町.json",
+    "name": "大間々町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県山田郡",
+    "children": [
+      "https://geonames.jp/resource/群馬県山田郡大間々町高津戸",
+      "https://geonames.jp/resource/群馬県山田郡大間々町小平",
+      "https://geonames.jp/resource/群馬県山田郡大間々町上神梅",
+      "https://geonames.jp/resource/群馬県山田郡大間々町浅原",
+      "https://geonames.jp/resource/群馬県山田郡大間々町長尾根",
+      "https://geonames.jp/resource/群馬県山田郡大間々町大間々",
+      "https://geonames.jp/resource/群馬県山田郡大間々町桐原",
+      "https://geonames.jp/resource/群馬県山田郡大間々町塩沢",
+      "https://geonames.jp/resource/群馬県山田郡大間々町塩原",
+      "https://geonames.jp/resource/群馬県山田郡大間々町下神梅"
+    ]
+  }
+]

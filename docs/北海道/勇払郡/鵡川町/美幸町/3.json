@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道勇払郡鵡川町美幸町三丁目",
+    "表記": "北海道勇払郡鵡川町美幸町三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "勇払郡",
+      "市区町村": "鵡川町",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063416783",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063416784",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063416793"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234418/96746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234417/96747.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234419/96746.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234419/96748.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道勇払郡鵡川町美幸町三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/勇払郡/鵡川町/美幸町/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/北海道勇払郡鵡川町美幸町"
+  }
+]

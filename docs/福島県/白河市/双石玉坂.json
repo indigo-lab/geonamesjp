@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市双石玉坂",
+    "表記": "福島県白河市双石玉坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "双石玉坂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405230",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405220"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/101934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/101934.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233203/101935.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233204/101936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/101935.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市双石玉坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/双石玉坂.json",
+    "name": "双石玉坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

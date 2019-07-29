@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県三原市和田二丁目",
+    "表記": "広島県三原市和田二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "三原市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34204035102"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334065",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334056",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051334066"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227973/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227972/104379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227973/104379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227974/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227973/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227974/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227975/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227974/104379.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227972/104380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227976/104381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227976/104382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227975/104382.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227973/104382.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県三原市和田二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/三原市/和田/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県三原市和田"
+  }
+]

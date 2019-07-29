@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市平林町",
+    "表記": "滋賀県東近江市平林町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "平林町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252132060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364176",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364177"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230258/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230264/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230257/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230259/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230259/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230260/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230261/103780.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県東近江市平林町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/東近江市/平林町.json",
+    "name": "平林町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県東近江市"
+  }
+]

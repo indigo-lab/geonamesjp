@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県佐伯市臼坪",
+    "表記": "大分県佐伯市臼坪",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "佐伯市",
+      "町名": "臼坪",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S442050200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313751",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313761"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227114/105622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227115/105623.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227114/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227117/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227118/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227116/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227118/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227116/105622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227115/105622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227113/105622.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227113/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227114/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227115/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227115/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227116/105620.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227117/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227112/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227111/105621.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227110/105622.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県佐伯市臼坪",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/佐伯市/臼坪.json",
+    "name": "臼坪",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県佐伯市"
+  }
+]

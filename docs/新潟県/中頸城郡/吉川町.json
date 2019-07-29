@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡吉川町",
+    "表記": "新潟県中頸城郡吉川町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中頸城郡",
+      "市区町村": "吉川町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C15544-20050101",
+        "http://data.e-stat.go.jp/lod/sac/C15544-19990918",
+        "http://data.e-stat.go.jp/lod/sac/C15544-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C15544-19960313",
+        "http://data.e-stat.go.jp/lod/sac/C15544-19890308",
+        "http://data.e-stat.go.jp/lod/sac/C15544-19820928",
+        "http://data.e-stat.go.jp/lod/sac/C15544-19720901",
+        "http://data.e-stat.go.jp/lod/sac/C15544-20010627",
+        "http://data.e-stat.go.jp/lod/sac/C15544-20030308",
+        "http://data.e-stat.go.jp/lod/sac/C15544-19771201",
+        "http://data.e-stat.go.jp/lod/sac/C15544-20000601"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡吉川町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中頸城郡/吉川町.json",
+    "name": "吉川町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中頸城郡"
+  }
+]

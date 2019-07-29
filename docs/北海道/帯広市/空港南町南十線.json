@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道帯広市空港南町南十線",
+    "表記": "北海道帯広市空港南町南十線",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "帯広市",
+      "町名": "空港南町南十線"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432152",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432153",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432162",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432163"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235321/96442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235320/96442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235322/96442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235321/96441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235320/96441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235322/96441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235322/96440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235319/96443.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235319/96441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235318/96441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235318/96440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235319/96440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235320/96440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235321/96440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235316/96442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235317/96442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235317/96441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235317/96440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235315/96441.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道帯広市空港南町南十線",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/帯広市/空港南町南十線.json",
+    "name": "空港南町南十線",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道帯広市"
+  }
+]

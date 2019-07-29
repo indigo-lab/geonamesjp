@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町鷹ノ巣",
+    "表記": "新潟県北蒲原郡中条町鷹ノ巣",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北蒲原郡",
+      "市区町村": "中条町",
+      "町名": "鷹ノ巣"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390279",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057390370"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/101062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232564/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232560/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232561/101062.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232562/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232564/101058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232563/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232565/101059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232565/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232565/101061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232566/101060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232566/101061.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北蒲原郡中条町鷹ノ巣",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北蒲原郡/中条町/鷹ノ巣.json",
+    "name": "鷹ノ巣",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北蒲原郡中条町"
+  }
+]

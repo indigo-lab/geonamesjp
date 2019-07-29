@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県氷見市五十谷",
+    "表記": "富山県氷見市五十谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "氷見市",
+      "町名": "五十谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055363707",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362797",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055363708",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055362798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055363717"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230810/102112.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230816/102109.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/102108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230815/102108.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102113.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230806/102102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230812/102106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230813/102110.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230814/102109.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県氷見市五十谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/氷見市/五十谷.json",
+    "name": "五十谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県氷見市"
+  }
+]

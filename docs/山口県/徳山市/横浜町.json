@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県徳山市横浜町",
+    "表記": "山口県徳山市横浜町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "横浜町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051310646"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227066/104686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227064/104686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227067/104688.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227066/104687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227065/104686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227067/104686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227069/104687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227068/104687.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県徳山市横浜町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/徳山市/横浜町.json",
+    "name": "横浜町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県徳山市"
+  }
+]

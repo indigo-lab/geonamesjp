@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県雲南市大東町大ケ谷",
+    "表記": "島根県雲南市大東町大ケ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "市区町村": "雲南市",
+      "町名": "大東町大ケ谷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S322090290"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327756",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327765",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327766",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052327776"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227882/103562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227882/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227887/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227883/103569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227884/103571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227883/103571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227886/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227887/103560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227883/103562.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227884/103565.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227881/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227882/103563.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227885/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227884/103570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227888/103558.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227886/103566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227886/103560.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227891/103561.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227887/103564.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227888/103559.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県雲南市大東町大ケ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/雲南市/大東町大ケ谷.json",
+    "name": "大東町大ケ谷",
+    "alternateName": [
+      "大東町大ヶ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/島根県雲南市"
+  }
+]

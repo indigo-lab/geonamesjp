@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県周桑郡丹原町徳能出作",
+    "表記": "愛媛県周桑郡丹原町徳能出作",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "周桑郡",
+      "市区町村": "丹原町",
+      "町名": "徳能出作"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337005",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050337015"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227963/104785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227964/104785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227965/104787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227966/104786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227967/104782.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県周桑郡丹原町徳能出作",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/周桑郡/丹原町/徳能出作.json",
+    "name": "徳能出作",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県周桑郡丹原町"
+  }
+]

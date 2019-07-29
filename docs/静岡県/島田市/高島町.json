@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県島田市高島町",
+    "表記": "静岡県島田市高島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "高島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S222094060"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052381196"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231704/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231704/103985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231705/103984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/103984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231705/103985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/103985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231707/103985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231708/103985.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231707/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231704/103984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231707/103984.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231705/103986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231705/103983.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県島田市高島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/島田市/高島町.json",
+    "name": "高島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県島田市"
+  }
+]

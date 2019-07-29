@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県上野市蔵縄手",
+    "表記": "三重県上野市蔵縄手",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "上野市",
+      "町名": "蔵縄手"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360038",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360039"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230185/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230188/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230189/104105.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230190/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230188/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230187/104107.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230188/104106.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230187/104106.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県上野市蔵縄手",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/上野市/蔵縄手.json",
+    "name": "蔵縄手",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県上野市"
+  }
+]

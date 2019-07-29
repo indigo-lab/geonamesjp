@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県別府市大字内竃",
+    "表記": "大分県別府市大字内竃",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "別府市",
+      "町名": "大字内竃",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S44202059001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S442020590",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S44202059004",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S44202059005",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S44202059006",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S44202059008",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S44202059002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S44202059007"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県別府市大字内竃",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/別府市/大字内竃.json",
+    "name": "大字内竃",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県別府市"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県耶麻郡塩川町常世",
+    "表記": "福島県耶麻郡塩川町常世",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "耶麻郡",
+      "市区町村": "塩川町",
+      "町名": "常世"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393733",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056393741"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/101474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/101474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232954/101474.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/101468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/101467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232939/101468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/101468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/101467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/101474.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県耶麻郡塩川町常世",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/耶麻郡/塩川町/常世.json",
+    "name": "常世",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県耶麻郡塩川町"
+  }
+]

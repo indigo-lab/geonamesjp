@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字水保",
+    "表記": "新潟県糸魚川市大字水保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "糸魚川市",
+      "町名": "大字水保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374710",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055374731"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231480/102020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231479/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231480/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231479/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231481/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231481/102026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231481/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231480/102017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231481/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231479/102018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231478/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231478/102026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231479/102022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231480/102019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231476/102023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231481/102022.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県糸魚川市大字水保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/糸魚川市/大字水保.json",
+    "name": "大字水保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県糸魚川市"
+  }
+]

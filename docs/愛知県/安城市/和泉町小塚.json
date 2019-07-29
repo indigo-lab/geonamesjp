@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県安城市和泉町小塚",
+    "表記": "愛知県安城市和泉町小塚",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "安城市",
+      "町名": "和泉町小塚"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373014"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103898.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103899.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103900.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県安城市和泉町小塚",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/安城市/和泉町小塚.json",
+    "name": "和泉町小塚",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県安城市"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府泉南郡熊取町七山",
+    "表記": "大阪府泉南郡熊取町七山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "郡": "泉南郡",
+      "市区町村": "熊取町",
+      "町名": "七山"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府泉南郡熊取町七山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/泉南郡/熊取町/七山.json",
+    "name": "七山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府泉南郡熊取町",
+    "children": [
+      "https://geonames.jp/resource/大阪府泉南郡熊取町七山（丁目なし）",
+      "https://geonames.jp/resource/大阪府泉南郡熊取町七山一丁目",
+      "https://geonames.jp/resource/大阪府泉南郡熊取町七山二丁目",
+      "https://geonames.jp/resource/大阪府泉南郡熊取町七山三丁目"
+    ]
+  }
+]

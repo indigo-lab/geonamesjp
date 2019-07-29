@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県香取市大戸新田",
+    "表記": "千葉県香取市大戸新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "香取市",
+      "町名": "大戸新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406376",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406395",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406386",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406377"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/103031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233341/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233342/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233343/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233344/103018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/103030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233344/103019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/103037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/103038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/103036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/103036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/103034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/103034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233357/103036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/103035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/103033.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県香取市大戸新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/香取市/大戸新田.json",
+    "name": "大戸新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県香取市"
+  }
+]

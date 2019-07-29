@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市婦中町添島",
+    "表記": "富山県富山市婦中町添島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "婦中町添島",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162018950"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377174",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377164"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230961/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230961/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230961/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/102361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230961/102355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/102354.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市婦中町添島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/婦中町添島.json",
+    "name": "婦中町添島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都目黒区駒場三丁目",
+    "表記": "東京都目黒区駒場三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "目黒区",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13110001003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393594",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393584",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393585",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393595"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232787/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232790/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232789/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232788/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232790/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232787/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232787/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232785/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232785/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232785/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232791/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232790/103248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232788/103244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232786/103245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232789/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232788/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232791/103247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232786/103243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232786/103246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232789/103245.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都目黒区駒場三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/目黒区/駒場/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都目黒区駒場"
+  }
+]

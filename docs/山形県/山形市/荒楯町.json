@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県山形市荒楯町",
+    "表記": "山形県山形市荒楯町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "荒楯町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062010080"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県山形市荒楯町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/山形市/荒楯町.json",
+    "name": "荒楯町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県山形市",
+    "children": [
+      "https://geonames.jp/resource/山形県山形市荒楯町一丁目",
+      "https://geonames.jp/resource/山形県山形市荒楯町二丁目"
+    ]
+  }
+]

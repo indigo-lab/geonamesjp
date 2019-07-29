@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県二本松市姫子松",
+    "表記": "福島県二本松市姫子松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "二本松市",
+      "町名": "姫子松"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402373"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233323/101521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233318/101521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233322/101522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233320/101522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233318/101522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233318/101520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233320/101521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233322/101521.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県二本松市姫子松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/二本松市/姫子松.json",
+    "name": "姫子松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県二本松市"
+  }
+]

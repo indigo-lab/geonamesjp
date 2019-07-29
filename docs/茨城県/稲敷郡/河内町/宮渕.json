@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡河内町宮渕",
+    "表記": "茨城県稲敷郡河内町宮渕",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "郡": "稲敷郡",
+      "市区町村": "河内町",
+      "町名": "宮渕"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406230",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406240",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406149"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233199/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233202/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233200/103060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233199/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233201/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233198/103057.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県稲敷郡河内町宮渕",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/稲敷郡/河内町/宮渕.json",
+    "name": "宮渕",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県稲敷郡河内町"
+  }
+]

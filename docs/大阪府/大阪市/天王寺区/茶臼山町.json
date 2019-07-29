@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府大阪市天王寺区茶臼山町",
+    "表記": "大阪府大阪市天王寺区茶臼山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "大阪市",
+      "区": "天王寺区",
+      "町名": "茶臼山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S271090120"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357470",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357471",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357480",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357481"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229748/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229748/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229749/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229749/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229749/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229746/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229746/104143.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229749/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229744/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229744/104145.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229745/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229747/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229745/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229748/104147.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229746/104142.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229745/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229746/104141.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229747/104146.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229746/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229748/104144.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229747/104145.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府大阪市天王寺区茶臼山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/大阪市/天王寺区/茶臼山町.json",
+    "name": "茶臼山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府大阪市天王寺区"
+  }
+]

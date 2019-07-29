@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県浦安市東野一丁目",
+    "表記": "千葉県浦安市東野一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "浦安市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12227007001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393771",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393772",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053393782"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/103252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/103253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/103255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232944/103255.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県浦安市東野一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/浦安市/東野/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県浦安市東野"
+  }
+]

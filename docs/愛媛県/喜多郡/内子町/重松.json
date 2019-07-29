@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県喜多郡内子町重松",
+    "表記": "愛媛県喜多郡内子町重松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "喜多郡",
+      "市区町村": "内子町",
+      "町名": "重松",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S384220020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050322543",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050322533",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050322534",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050322553",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050322544"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227679/105124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227678/105128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227682/105124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227679/105129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227679/105128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227679/105119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227684/105129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227689/105122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227678/105125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227678/105124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227678/105127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227679/105127.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県喜多郡内子町重松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/喜多郡/内子町/重松.json",
+    "name": "重松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県喜多郡内子町"
+  }
+]

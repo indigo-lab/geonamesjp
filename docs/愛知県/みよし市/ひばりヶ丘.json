@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県みよし市ひばりヶ丘",
+    "表記": "愛知県みよし市ひばりヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "みよし市",
+      "町名": "ひばりヶ丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232361200"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県みよし市ひばりヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/みよし市/ひばりヶ丘.json",
+    "name": "ひばりヶ丘",
+    "alternateName": [
+      "ひばりケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県みよし市",
+    "children": [
+      "https://geonames.jp/resource/愛知県みよし市ひばりヶ丘一丁目",
+      "https://geonames.jp/resource/愛知県みよし市ひばりヶ丘二丁目"
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市藤島字川向",
+    "表記": "山形県鶴岡市藤島字川向",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "鶴岡市",
+      "町名": "藤島字川向",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06203163002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058391721"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/100402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/100403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/100404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/100404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/100402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/100402.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県鶴岡市藤島字川向",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/鶴岡市/藤島字川向.json",
+    "name": "藤島字川向",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県鶴岡市"
+  }
+]

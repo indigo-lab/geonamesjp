@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県綾瀬市大上六丁目",
+    "表記": "神奈川県綾瀬市大上六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "綾瀬市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14218002006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391354",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391353",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053391364"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232599/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232598/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232600/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232600/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232601/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232599/103418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232597/103419.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県綾瀬市大上六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/綾瀬市/大上/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県綾瀬市大上"
+  }
+]

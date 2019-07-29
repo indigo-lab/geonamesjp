@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県四街道市めいわ",
+    "表記": "千葉県四街道市めいわ",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "四街道市",
+      "町名": "めいわ",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122280181"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県四街道市めいわ",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/四街道市/めいわ.json",
+    "name": "めいわ",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県四街道市",
+    "children": [
+      "https://geonames.jp/resource/千葉県四街道市めいわ一丁目",
+      "https://geonames.jp/resource/千葉県四街道市めいわ二丁目",
+      "https://geonames.jp/resource/千葉県四街道市めいわ三丁目",
+      "https://geonames.jp/resource/千葉県四街道市めいわ四丁目",
+      "https://geonames.jp/resource/千葉県四街道市めいわ五丁目"
+    ]
+  }
+]

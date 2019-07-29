@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県松戸市外河原",
+    "表記": "千葉県松戸市外河原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "松戸市",
+      "町名": "外河原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395791"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232937/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232936/103095.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県松戸市外河原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/松戸市/外河原.json",
+    "name": "外河原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県松戸市"
+  }
+]

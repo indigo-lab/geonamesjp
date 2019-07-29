@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県酒田市十里塚字村東山北",
+    "表記": "山形県酒田市十里塚字村東山北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "酒田市",
+      "町名": "十里塚字村東山北",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S06204096005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058392664",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058392654"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232874/100292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/100298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232872/100297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232871/100298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232876/100297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232874/100295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/100299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232875/100298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232874/100297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232875/100297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232873/100296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232875/100296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232876/100295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232875/100294.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県酒田市十里塚字村東山北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/酒田市/十里塚字村東山北.json",
+    "name": "十里塚字村東山北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県酒田市"
+  }
+]

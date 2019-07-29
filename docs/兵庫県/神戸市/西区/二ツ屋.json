@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市西区二ツ屋",
+    "表記": "兵庫県神戸市西区二ツ屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "神戸市",
+      "区": "西区",
+      "町名": "二ツ屋"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市西区二ツ屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/神戸市/西区/二ツ屋.json",
+    "name": "二ツ屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県神戸市西区",
+    "children": [
+      "https://geonames.jp/resource/兵庫県神戸市西区二ツ屋一丁目",
+      "https://geonames.jp/resource/兵庫県神戸市西区二ツ屋二丁目"
+    ]
+  }
+]

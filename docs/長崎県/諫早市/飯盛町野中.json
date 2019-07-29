@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県諫早市飯盛町野中",
+    "表記": "長崎県諫早市飯盛町野中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "諫早市",
+      "町名": "飯盛町野中"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301051",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301052",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049301041"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225749/105769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225757/105765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225752/105772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225756/105766.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県諫早市飯盛町野中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/諫早市/飯盛町野中.json",
+    "name": "飯盛町野中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県諫早市"
+  }
+]

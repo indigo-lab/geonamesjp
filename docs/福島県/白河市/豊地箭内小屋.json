@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県白河市豊地箭内小屋",
+    "表記": "福島県白河市豊地箭内小屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "白河市",
+      "町名": "豊地箭内小屋"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405197",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055406106",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405187",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055405196"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233171/101881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233172/101885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233169/101882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233171/101887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233170/101882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233172/101883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233172/101886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233173/101889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233172/101889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233172/101890.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県白河市豊地箭内小屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/白河市/豊地箭内小屋.json",
+    "name": "豊地箭内小屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県白河市"
+  }
+]

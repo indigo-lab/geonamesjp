@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大館市下川原",
+    "表記": "秋田県大館市下川原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大館市",
+      "町名": "下川原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052040900"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402482",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402483",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402491",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402492",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060402481"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/99008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/99010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/99011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233405/99014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233406/99011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233409/99015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233411/99016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/99009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/99008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/99009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/99013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/99009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233399/99010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/99010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233407/99013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/99013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/99012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233401/99013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233400/99015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233398/99013.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大館市下川原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大館市/下川原.json",
+    "name": "下川原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大館市"
+  }
+]

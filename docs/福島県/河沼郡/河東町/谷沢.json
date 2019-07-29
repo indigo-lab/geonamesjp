@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県河沼郡河東町谷沢",
+    "表記": "福島県河沼郡河東町谷沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "河沼郡",
+      "市区町村": "河東町",
+      "町名": "谷沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392762",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392763",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392772",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056392773"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/101530.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/101522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/101522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232951/101525.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/101526.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232955/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232953/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/101523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232952/101523.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232956/101524.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232957/101524.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県河沼郡河東町谷沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/河沼郡/河東町/谷沢.json",
+    "name": "谷沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県河沼郡河東町"
+  }
+]

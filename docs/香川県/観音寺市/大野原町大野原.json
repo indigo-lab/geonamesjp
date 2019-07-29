@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県観音寺市大野原町大野原",
+    "表記": "香川県観音寺市大野原町大野原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "観音寺市",
+      "町名": "大野原町大野原",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S372050260"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051331502",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051330591",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051331522",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051331523",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051331501"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228399/104643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228389/104647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228403/104629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228400/104629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228399/104627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228396/104629.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228389/104648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228389/104649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228389/104650.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228399/104644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228390/104643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228396/104628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228401/104629.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県観音寺市大野原町大野原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/観音寺市/大野原町大野原.json",
+    "name": "大野原町大野原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県観音寺市"
+  }
+]

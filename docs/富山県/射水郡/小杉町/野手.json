@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県射水郡小杉町野手",
+    "表記": "富山県射水郡小杉町野手",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "射水郡",
+      "市区町村": "小杉町",
+      "町名": "野手"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377094",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377095",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370005"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230882/102330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230884/102335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230884/102334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230871/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230879/102339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230883/102332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230884/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230883/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230882/102334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230882/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230882/102332.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230880/102337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/102340.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県射水郡小杉町野手",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/射水郡/小杉町/野手.json",
+    "name": "野手",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県射水郡小杉町"
+  }
+]

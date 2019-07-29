@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県今治市菊間町田之尻",
+    "表記": "愛媛県今治市菊間町田之尻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "今治市",
+      "町名": "菊間町田之尻",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382021600"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320625",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320624",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320635",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320615",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320636"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227787/104697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227785/104700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227788/104697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227786/104699.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227789/104697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227789/104696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227790/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227789/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227784/104700.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227780/104702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227791/104695.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227785/104701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227786/104704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227786/104697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227791/104705.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227796/104689.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227786/104698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227787/104701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227789/104698.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227790/104697.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県今治市菊間町田之尻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/今治市/菊間町田之尻.json",
+    "name": "菊間町田之尻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県今治市"
+  }
+]

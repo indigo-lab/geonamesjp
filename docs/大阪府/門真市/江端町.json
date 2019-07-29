@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府門真市江端町",
+    "表記": "大阪府門真市江端町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "江端町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S272230070"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350469",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350479",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053344304"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229822/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229822/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229823/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229823/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229824/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229824/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229825/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229826/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229826/104082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229826/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229825/104081.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229825/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229824/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229826/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229825/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229824/104079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229825/104078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229824/104078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228963/103235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229823/104083.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228962/103235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228964/103233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229823/104080.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府門真市江端町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/門真市/江端町.json",
+    "name": "江端町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府門真市"
+  }
+]

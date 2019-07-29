@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市藤島町居屋敷",
+    "表記": "愛知県小牧市藤島町居屋敷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "藤島町居屋敷",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232190600"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367710",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367720"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230747/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/103596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230747/103596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230747/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230745/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230746/103598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/103596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230747/103598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/103597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/103596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230749/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230748/103598.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市藤島町居屋敷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/藤島町居屋敷.json",
+    "name": "藤島町居屋敷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県西村山郡西川町大字月山沢",
+    "表記": "山形県西村山郡西川町大字月山沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "郡": "西村山郡",
+      "市区町村": "西川町",
+      "町名": "大字月山沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S063220130"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405030",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405060",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405091",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057395749"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233021/100701.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233022/100682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233024/100693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/100697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/100679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233034/100659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233013/100697.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233022/100696.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/100693.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/100680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/100678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233018/100677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233019/100677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233024/100694.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県西村山郡西川町大字月山沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/西村山郡/西川町/大字月山沢.json",
+    "name": "大字月山沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県西村山郡西川町"
+  }
+]

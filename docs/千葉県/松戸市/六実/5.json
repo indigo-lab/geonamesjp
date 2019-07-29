@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県松戸市六実五丁目",
+    "表記": "千葉県松戸市六実五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "松戸市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12207157005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395759",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395749",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053405050"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103125.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/103128.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/103127.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/103126.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/103124.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233016/103129.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233017/103125.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県松戸市六実五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/松戸市/六実/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県松戸市六実"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県香南市香我美町福万",
+    "表記": "高知県香南市香我美町福万",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "香南市",
+      "町名": "香我美町福万"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050332691"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228479/105085.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228480/105083.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県香南市香我美町福万",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/香南市/香我美町福万.json",
+    "name": "香我美町福万",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県香南市"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県羽島郡柳津町流通センター",
+    "表記": "岐阜県羽島郡柳津町流通センター",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "羽島郡",
+      "市区町村": "柳津町",
+      "町名": "流通センター"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県羽島郡柳津町流通センター",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/羽島郡/柳津町/流通センター.json",
+    "name": "流通センター",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県羽島郡柳津町",
+    "children": [
+      "https://geonames.jp/resource/岐阜県羽島郡柳津町流通センター一丁目",
+      "https://geonames.jp/resource/岐阜県羽島郡柳津町流通センター二丁目",
+      "https://geonames.jp/resource/岐阜県羽島郡柳津町流通センター三丁目"
+    ]
+  }
+]

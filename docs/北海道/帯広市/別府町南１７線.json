@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道帯広市別府町南１７線",
+    "表記": "北海道帯広市別府町南１７線",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "帯広市",
+      "町名": "別府町南１７線"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432039",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432111",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432120",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432121"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235291/96463.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235295/96468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235296/96466.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235300/96472.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235302/96471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235305/96475.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道帯広市別府町南１７線",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/帯広市/別府町南１７線.json",
+    "name": "別府町南１７線",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道帯広市"
+  }
+]

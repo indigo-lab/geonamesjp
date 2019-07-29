@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県河内郡南河内町磯部",
+    "表記": "栃木県河内郡南河内町磯部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "河内郡",
+      "市区町村": "南河内町",
+      "町名": "磯部"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394751",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394752",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394761",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054394762"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232945/102599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/102600.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/102598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/102599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232947/102596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232949/102596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232950/102597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/102595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/102595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232948/102594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/102597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232946/102596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232943/102598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/102594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/102593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232942/102599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/102599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232940/102599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232938/102599.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232941/102598.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県河内郡南河内町磯部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/河内郡/南河内町/磯部.json",
+    "name": "磯部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県河内郡南河内町"
+  }
+]

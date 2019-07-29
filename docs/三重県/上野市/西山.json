@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県上野市西山",
+    "表記": "三重県上野市西山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "上野市",
+      "町名": "西山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361036",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361055",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052361056"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230166/104017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230164/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230164/104016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230162/104014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230165/104016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230164/104015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230165/104014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230163/104015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230158/104015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230161/104016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230162/104017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230163/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230163/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230164/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230162/104026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230158/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230158/104017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230159/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230159/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230160/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230166/104027.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県上野市西山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/上野市/西山.json",
+    "name": "西山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県上野市"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市南玉垣町字稲狭間",
+    "表記": "三重県鈴鹿市南玉垣町字稲狭間",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "鈴鹿市",
+      "町名": "南玉垣町字稲狭間"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052362427"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230533/103962.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県鈴鹿市南玉垣町字稲狭間",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/鈴鹿市/南玉垣町字稲狭間.json",
+    "name": "南玉垣町字稲狭間",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県鈴鹿市"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡美里町南小牛田字町浦",
+    "表記": "宮城県遠田郡美里町南小牛田字町浦",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "遠田郡",
+      "市区町村": "美里町",
+      "町名": "南小牛田字町浦"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416074"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233787/100598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233786/100597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233786/100598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233787/100597.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233788/100598.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233789/100598.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡美里町南小牛田字町浦",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/遠田郡/美里町/南小牛田字町浦.json",
+    "name": "南小牛田字町浦",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県遠田郡美里町"
+  }
+]

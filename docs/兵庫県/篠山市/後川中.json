@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市後川中",
+    "表記": "兵庫県篠山市後川中",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "篠山市",
+      "町名": "後川中",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282211170"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354223",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052354213"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229589/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229590/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229585/103820.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229586/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229585/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229588/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229588/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229589/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229589/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229590/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229590/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229590/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229591/103816.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229594/103816.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県篠山市後川中",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/篠山市/後川中.json",
+    "name": "後川中",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県篠山市"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町山谷切口",
+    "表記": "佐賀県西松浦郡有田町山谷切口",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "佐賀県",
+      "郡": "西松浦郡",
+      "市区町村": "有田町",
+      "町名": "山谷切口",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S414010270"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296686",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296677",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296687",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049296685"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225615/105388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225619/105388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225621/105388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225621/105389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225619/105390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225620/105388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225619/105389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225619/105387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225618/105388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225618/105387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225617/105388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225617/105389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225607/105387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225614/105387.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/佐賀県西松浦郡有田町山谷切口",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/佐賀県/西松浦郡/有田町/山谷切口.json",
+    "name": "山谷切口",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/佐賀県西松浦郡有田町"
+  }
+]

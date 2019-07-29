@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県犬山市大字今井成沢",
+    "表記": "愛知県犬山市大字今井成沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "犬山市",
+      "町名": "大字今井成沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370021",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370030",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370041",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370042",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370050",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053370051"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230835/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230838/103512.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230846/103502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230838/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103508.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230843/103506.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230848/103515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230844/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230845/103499.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230853/103504.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230849/103501.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230851/103502.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県犬山市大字今井成沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/犬山市/大字今井成沢.json",
+    "name": "大字今井成沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県犬山市"
+  }
+]

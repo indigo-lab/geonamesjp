@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡涌谷町下郡字尼坂",
+    "表記": "宮城県遠田郡涌谷町下郡字尼坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "郡": "遠田郡",
+      "市区町村": "涌谷町",
+      "町名": "下郡字尼坂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057416079"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233835/100596.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233834/100594.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県遠田郡涌谷町下郡字尼坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/遠田郡/涌谷町/下郡字尼坂.json",
+    "name": "下郡字尼坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県遠田郡涌谷町"
+  }
+]

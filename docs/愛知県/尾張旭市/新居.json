@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県尾張旭市新居",
+    "表記": "愛知県尾張旭市新居",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "尾張旭市",
+      "町名": "新居"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376072",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376074",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376075",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376083"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230854/103631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230856/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230856/103631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230857/103632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230863/103624.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230869/103627.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230873/103628.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103627.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県尾張旭市新居",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/尾張旭市/新居.json",
+    "name": "新居",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県尾張旭市"
+  }
+]

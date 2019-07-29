@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県加東郡滝野町光明寺",
+    "表記": "兵庫県加東郡滝野町光明寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "加東郡",
+      "市区町村": "滝野町",
+      "町名": "光明寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343724",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343734",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343735",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343746"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229328/103883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229329/103886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229342/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229341/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229337/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229342/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229342/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229343/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229343/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229343/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229345/103874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229345/103875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229345/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229346/103876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229346/103877.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県加東郡滝野町光明寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/加東郡/滝野町/光明寺.json",
+    "name": "光明寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県加東郡滝野町"
+  }
+]

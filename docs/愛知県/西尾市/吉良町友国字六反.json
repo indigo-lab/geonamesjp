@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県西尾市吉良町友国字六反",
+    "表記": "愛知県西尾市吉良町友国字六反",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "西尾市",
+      "町名": "吉良町友国字六反"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371087"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230898/103993.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230899/103993.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県西尾市吉良町友国字六反",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/西尾市/吉良町友国字六反.json",
+    "name": "吉良町友国字六反",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県西尾市"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都江戸川区大杉",
+    "表記": "東京都江戸川区大杉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "江戸川区",
+      "町名": "大杉",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131230080"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都江戸川区大杉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/江戸川区/大杉.json",
+    "name": "大杉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都江戸川区",
+    "children": [
+      "https://geonames.jp/resource/東京都江戸川区大杉一丁目",
+      "https://geonames.jp/resource/東京都江戸川区大杉二丁目",
+      "https://geonames.jp/resource/東京都江戸川区大杉三丁目",
+      "https://geonames.jp/resource/東京都江戸川区大杉四丁目",
+      "https://geonames.jp/resource/東京都江戸川区大杉五丁目"
+    ]
+  }
+]

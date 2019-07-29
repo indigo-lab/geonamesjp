@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道北見市大通西",
+    "表記": "北海道北見市大通西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "北見市",
+      "町名": "大通西",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S012080020"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道北見市大通西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/北見市/大通西.json",
+    "name": "大通西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道北見市",
+    "children": [
+      "https://geonames.jp/resource/北海道北見市大通西一丁目",
+      "https://geonames.jp/resource/北海道北見市大通西二丁目",
+      "https://geonames.jp/resource/北海道北見市大通西三丁目",
+      "https://geonames.jp/resource/北海道北見市大通西四丁目",
+      "https://geonames.jp/resource/北海道北見市大通西五丁目",
+      "https://geonames.jp/resource/北海道北見市大通西六丁目"
+    ]
+  }
+]

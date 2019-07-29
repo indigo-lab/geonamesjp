@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県会津若松市橋本",
+    "表記": "福島県会津若松市橋本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "会津若松市",
+      "町名": "橋本",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S072021410"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県会津若松市橋本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/会津若松市/橋本.json",
+    "name": "橋本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県会津若松市",
+    "children": [
+      "https://geonames.jp/resource/福島県会津若松市橋本一丁目",
+      "https://geonames.jp/resource/福島県会津若松市橋本二丁目"
+    ]
+  }
+]

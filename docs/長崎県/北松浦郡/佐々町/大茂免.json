@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県北松浦郡佐々町大茂免",
+    "表記": "長崎県北松浦郡佐々町大茂免",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "郡": "北松浦郡",
+      "市区町村": "佐々町",
+      "町名": "大茂免"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297511",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297510",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297521"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225474/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225463/105366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225474/105357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225473/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225472/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225472/105363.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225473/105362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225476/105362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225474/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225475/105360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225476/105358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225471/105362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225465/105366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225468/105361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225472/105366.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225476/105357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225477/105362.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県北松浦郡佐々町大茂免",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/北松浦郡/佐々町/大茂免.json",
+    "name": "大茂免",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県北松浦郡佐々町"
+  }
+]

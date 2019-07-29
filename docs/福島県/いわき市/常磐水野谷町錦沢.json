@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市常磐水野谷町錦沢",
+    "表記": "福島県いわき市常磐水野谷町錦沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "常磐水野谷町錦沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403699",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404608",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404609",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403698"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/102031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233646/102032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233644/102031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233648/102035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/102033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233642/102034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233643/102035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233645/102034.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233646/102031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233650/102036.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233646/102033.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市常磐水野谷町錦沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/常磐水野谷町錦沢.json",
+    "name": "常磐水野谷町錦沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

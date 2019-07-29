@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県宝飯郡小坂井町伊奈市場",
+    "表記": "愛知県宝飯郡小坂井町伊奈市場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "宝飯郡",
+      "市区町村": "小坂井町",
+      "町名": "伊奈市場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371247",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371256",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052371257"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231078/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231077/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231080/104020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231078/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231079/104018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231079/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231077/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231080/104019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231079/104020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231078/104020.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県宝飯郡小坂井町伊奈市場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/宝飯郡/小坂井町/伊奈市場.json",
+    "name": "伊奈市場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県宝飯郡小坂井町"
+  }
+]

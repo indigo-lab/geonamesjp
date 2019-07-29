@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県宇陀郡大宇陀町拾生",
+    "表記": "奈良県宇陀郡大宇陀町拾生",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "宇陀郡",
+      "市区町村": "大宇陀町",
+      "町名": "拾生"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355764",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355774"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230054/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230053/104295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230053/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230052/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230054/104297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230051/104298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230057/104296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230053/104298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230055/104300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230055/104298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230055/104299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230055/104303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230057/104299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230055/104297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230054/104296.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県宇陀郡大宇陀町拾生",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/宇陀郡/大宇陀町/拾生.json",
+    "name": "拾生",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県宇陀郡大宇陀町"
+  }
+]

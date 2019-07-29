@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡志賀町栢木",
+    "表記": "石川県羽咋郡志賀町栢木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "羽咋郡",
+      "市区町村": "志賀町",
+      "町名": "栢木",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S173840720"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055366507",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055366517"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/101876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/101873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/101878.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230629/101873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/101875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/101874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/101876.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/101873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230627/101877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/101877.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/101875.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230625/101874.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県羽咋郡志賀町栢木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/羽咋郡/志賀町/栢木.json",
+    "name": "栢木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県羽咋郡志賀町"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府八尾市大字楽音寺",
+    "表記": "大阪府八尾市大字楽音寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "八尾市",
+      "町名": "大字楽音寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357571",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357562",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357561",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357572"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229848/104151.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229852/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229853/104155.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229852/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229848/104152.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229847/104153.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229849/104150.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229847/104149.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府八尾市大字楽音寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/八尾市/大字楽音寺.json",
+    "name": "大字楽音寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府八尾市"
+  }
+]

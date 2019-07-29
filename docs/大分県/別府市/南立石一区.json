@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県別府市南立石一区",
+    "表記": "大分県別府市南立石一区",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "別府市",
+      "区": "南立石一区"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317348",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317338"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226812/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226811/105345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226813/105343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226812/105345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226813/105345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226809/105342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226810/105343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226809/105345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226810/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226814/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226811/105346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226814/105347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226812/105343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226812/105346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226813/105347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226811/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226813/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226809/105344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226813/105346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226809/105343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226812/105347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226814/105345.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県別府市南立石一区",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/別府市/南立石一区.json",
+    "name": "南立石一区",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県別府市"
+  }
+]

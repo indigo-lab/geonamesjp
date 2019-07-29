@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道亀田郡大野町村山",
+    "表記": "北海道亀田郡大野町村山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "亀田郡",
+      "市区町村": "大野町",
+      "町名": "村山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406479",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406488",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406489",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406499",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406580",
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406590"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233465/97399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233476/97399.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233479/97396.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233461/97405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233464/97408.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233466/97410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233472/97405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233469/97403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233470/97403.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道亀田郡大野町村山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/亀田郡/大野町/村山.json",
+    "name": "村山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道亀田郡大野町"
+  }
+]

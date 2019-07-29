@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県中村市京町",
+    "表記": "高知県中村市京町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "京町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県中村市京町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/中村市/京町.json",
+    "name": "京町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県中村市",
+    "children": [
+      "https://geonames.jp/resource/高知県中村市京町一丁目",
+      "https://geonames.jp/resource/高知県中村市京町二丁目",
+      "https://geonames.jp/resource/高知県中村市京町三丁目",
+      "https://geonames.jp/resource/高知県中村市京町四丁目",
+      "https://geonames.jp/resource/高知県中村市京町五丁目"
+    ]
+  }
+]

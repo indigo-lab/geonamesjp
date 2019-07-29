@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県日高市大字山根",
+    "表記": "埼玉県日高市大字山根",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "日高市",
+      "町名": "大字山根",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112420210"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397205",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397206",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396295"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232523/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232519/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232524/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232516/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232517/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232521/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232520/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232524/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232523/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103012.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県日高市大字山根",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/日高市/大字山根.json",
+    "name": "大字山根",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県日高市"
+  }
+]

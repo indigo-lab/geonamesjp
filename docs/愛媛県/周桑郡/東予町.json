@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県周桑郡東予町",
+    "表記": "愛媛県周桑郡東予町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "周桑郡",
+      "市区町村": "東予町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C38325-19710101",
+        "http://data.e-stat.go.jp/lod/sac/C38325-19721001"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県周桑郡東予町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/周桑郡/東予町.json",
+    "name": "東予町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県周桑郡"
+  }
+]

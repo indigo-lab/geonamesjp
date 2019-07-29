@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県安達郡安達町上川崎赤坂",
+    "表記": "福島県安達郡安達町上川崎赤坂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "安達郡",
+      "市区町村": "安達町",
+      "町名": "上川崎赤坂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403327",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403328"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/101481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/101479.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県安達郡安達町上川崎赤坂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/安達郡/安達町/上川崎赤坂.json",
+    "name": "上川崎赤坂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県安達郡安達町"
+  }
+]

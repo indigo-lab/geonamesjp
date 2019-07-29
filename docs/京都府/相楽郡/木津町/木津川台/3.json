@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府相楽郡木津町木津川台三丁目",
+    "表記": "京都府相楽郡木津町木津川台三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "相楽郡",
+      "市区町村": "木津町",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350692",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052350693"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229949/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229950/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229949/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229948/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229949/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229950/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229948/104060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229950/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229949/104061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229948/104061.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府相楽郡木津町木津川台三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/相楽郡/木津町/木津川台/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/京都府相楽郡木津町木津川台"
+  }
+]

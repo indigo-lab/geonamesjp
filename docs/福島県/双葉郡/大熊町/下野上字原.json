@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県双葉郡大熊町下野上字原",
+    "表記": "福島県双葉郡大熊町下野上字原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "双葉郡",
+      "市区町村": "大熊町",
+      "町名": "下野上字原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400777",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400778",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056400788"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233729/101665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233731/101665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233729/101666.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233724/101670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233727/101668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233725/101670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233724/101669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233723/101670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233722/101674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233727/101665.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県双葉郡大熊町下野上字原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/双葉郡/大熊町/下野上字原.json",
+    "name": "下野上字原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県双葉郡大熊町"
+  }
+]

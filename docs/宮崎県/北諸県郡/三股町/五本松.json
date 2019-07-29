@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県北諸県郡三股町五本松",
+    "表記": "宮崎県北諸県郡三股町五本松",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "郡": "北諸県郡",
+      "市区町村": "三股町",
+      "町名": "五本松",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S453410020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047314079",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047314170"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226552/106686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226554/106685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226553/106685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226553/106684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226552/106685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226553/106686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226554/106686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226554/106687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226551/106685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226550/106685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226550/106686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226549/106686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226551/106686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226548/106687.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226549/106687.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県北諸県郡三股町五本松",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/北諸県郡/三股町/五本松.json",
+    "name": "五本松",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県北諸県郡三股町"
+  }
+]

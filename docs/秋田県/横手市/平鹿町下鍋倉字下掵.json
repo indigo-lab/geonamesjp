@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県横手市平鹿町下鍋倉字下掵",
+    "表記": "秋田県横手市平鹿町下鍋倉字下掵",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "横手市",
+      "町名": "平鹿町下鍋倉字下掵"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407309"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233379/99947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233375/99947.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233376/99945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233377/99944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233376/99944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233376/99946.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県横手市平鹿町下鍋倉字下掵",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/横手市/平鹿町下鍋倉字下掵.json",
+    "name": "平鹿町下鍋倉字下掵",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県横手市"
+  }
+]

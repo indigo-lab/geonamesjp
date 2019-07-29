@@ -1,0 +1,25 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/島根県海士郡",
+    "表記": "島根県海士郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "島根県",
+      "郡": "海士郡"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/島根県海士郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/島根県/海士郡.json",
+    "name": "海士郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/島根県",
+    "children": [
+      "https://geonames.jp/resource/島根県海士郡海士村"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市宮地町柳畑",
+    "表記": "愛知県岡崎市宮地町柳畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "宮地町柳畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052373111"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230938/103897.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230937/103896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230938/103896.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230939/103895.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230938/103895.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市宮地町柳畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/宮地町柳畑.json",
+    "name": "宮地町柳畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

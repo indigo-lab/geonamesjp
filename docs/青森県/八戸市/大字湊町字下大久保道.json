@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県八戸市大字湊町字下大久保道",
+    "表記": "青森県八戸市大字湊町字下大久保道",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "八戸市",
+      "町名": "大字湊町字下大久保道",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S02203051012"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060416413"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234139/98754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234139/98755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234140/98754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234141/98754.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234142/98755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234141/98755.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234143/98755.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県八戸市大字湊町字下大久保道",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/八戸市/大字湊町字下大久保道.json",
+    "name": "大字湊町字下大久保道",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県八戸市"
+  }
+]

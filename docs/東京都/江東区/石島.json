@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都江東区石島",
+    "表記": "東京都江東区石島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "江東区",
+      "町名": "石島",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S131080280"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394615",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394614"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/103226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232878/103226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/103226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/103227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/103227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/103227.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/103226.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232879/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232880/103225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232881/103225.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都江東区石島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/江東区/石島.json",
+    "name": "石島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都江東区"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡川本町",
+    "表記": "埼玉県大里郡川本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "大里郡",
+      "市区町村": "川本町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C11406-19940601",
+        "http://data.e-stat.go.jp/lod/sac/C11406-19920601",
+        "http://data.e-stat.go.jp/lod/sac/C11406-19770211",
+        "http://data.e-stat.go.jp/lod/sac/C11406-19770601",
+        "http://data.e-stat.go.jp/lod/sac/C11406-20060101",
+        "http://data.e-stat.go.jp/lod/sac/C11406-19850301"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡川本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/大里郡/川本町.json",
+    "name": "川本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県大里郡",
+    "children": [
+      "https://geonames.jp/resource/埼玉県大里郡川本町高見",
+      "https://geonames.jp/resource/埼玉県大里郡川本町上原",
+      "https://geonames.jp/resource/埼玉県大里郡川本町菅沼",
+      "https://geonames.jp/resource/埼玉県大里郡川本町瀬山",
+      "https://geonames.jp/resource/埼玉県大里郡川本町長在家",
+      "https://geonames.jp/resource/埼玉県大里郡川本町田中",
+      "https://geonames.jp/resource/埼玉県大里郡川本町畠山",
+      "https://geonames.jp/resource/埼玉県大里郡川本町本田",
+      "https://geonames.jp/resource/埼玉県大里郡川本町明戸"
+    ]
+  }
+]

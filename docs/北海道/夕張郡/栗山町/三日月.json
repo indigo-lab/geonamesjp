@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道夕張郡栗山町三日月",
+    "表記": "北海道夕張郡栗山町三日月",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "夕張郡",
+      "市区町村": "栗山町",
+      "町名": "三日月"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414632",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064414633"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234325/96296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234321/96296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234318/96295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234317/96297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234317/96294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234311/96296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234312/96294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234318/96293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234313/96296.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234311/96293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234327/96296.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道夕張郡栗山町三日月",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/夕張郡/栗山町/三日月.json",
+    "name": "三日月",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道夕張郡栗山町"
+  }
+]

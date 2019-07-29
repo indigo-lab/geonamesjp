@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区下吉田四丁目",
+    "表記": "福岡県北九州市小倉南区下吉田四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "北九州市",
+      "区": "小倉南区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S40107089004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306717",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050306726"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/104853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226435/104852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226434/104852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226435/104851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/104852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/104851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226437/104850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226437/104851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226438/104851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226438/104852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226437/104852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226435/104854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226435/104853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226433/104848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226434/104851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226436/104854.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県北九州市小倉南区下吉田四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/北九州市/小倉南区/下吉田/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/福岡県北九州市小倉南区下吉田"
+  }
+]

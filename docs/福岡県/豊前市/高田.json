@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県豊前市高田",
+    "表記": "福岡県豊前市高田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "豊前市",
+      "町名": "高田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050313101",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050313111"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226568/105076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226567/105074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226568/105077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226569/105075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226570/105077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226570/105076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226571/105077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226570/105075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226567/105075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226568/105075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226564/105082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226563/105082.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226565/105080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226565/105079.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226567/105077.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226567/105076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226568/105074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226570/105078.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226569/105076.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226569/105077.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県豊前市高田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/豊前市/高田.json",
+    "name": "高田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県豊前市"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県大分市鶴瀬",
+    "表記": "大分県大分市鶴瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "大分市",
+      "町名": "鶴瀬"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316534",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049316544"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226960/105411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226960/105413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226961/105417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226959/105414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226961/105413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226961/105419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226958/105418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226958/105417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226959/105413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226959/105416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226960/105418.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226959/105420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226959/105411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226959/105412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226960/105417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226960/105415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226961/105416.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県大分市鶴瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/大分市/鶴瀬.json",
+    "name": "鶴瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県大分市"
+  }
+]

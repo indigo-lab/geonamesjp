@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県長浜市難波町",
+    "表記": "滋賀県長浜市難波町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "難波町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S252031420"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360198"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230277/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230275/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230276/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230272/103468.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103471.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230278/103467.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230279/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230270/103470.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230282/103469.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230280/103470.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県長浜市難波町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/長浜市/難波町.json",
+    "name": "難波町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県長浜市"
+  }
+]

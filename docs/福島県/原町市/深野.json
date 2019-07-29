@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県原町市深野",
+    "表記": "福島県原町市深野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "原町市",
+      "町名": "深野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403794",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403795",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404703",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233697/101429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233697/101428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233692/101420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233689/101420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233698/101429.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233702/101426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233700/101426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233699/101428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233700/101428.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233701/101426.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県原町市深野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/原町市/深野.json",
+    "name": "深野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県原町市"
+  }
+]

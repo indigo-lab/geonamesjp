@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県五泉市水島町",
+    "表記": "新潟県五泉市水島町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "水島町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S152180230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394194"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232417/101346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232418/101347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232419/101347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232418/101346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232417/101345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232417/101344.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232416/101346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232418/101345.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県五泉市水島町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/五泉市/水島町.json",
+    "name": "水島町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県五泉市"
+  }
+]

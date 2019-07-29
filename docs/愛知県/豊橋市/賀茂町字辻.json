@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市賀茂町字辻",
+    "表記": "愛知県豊橋市賀茂町字辻",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊橋市",
+      "町名": "賀茂町字辻"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372304",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372314",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372315"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231144/103976.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231146/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231146/103974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231147/103974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231151/103973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231144/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231147/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231148/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231143/103975.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231143/103976.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊橋市賀茂町字辻",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊橋市/賀茂町字辻.json",
+    "name": "賀茂町字辻",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊橋市"
+  }
+]

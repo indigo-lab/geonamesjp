@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県神石郡神石高原町坂瀬川",
+    "表記": "広島県神石郡神石高原町坂瀬川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "郡": "神石郡",
+      "市区町村": "神石高原町",
+      "町名": "坂瀬川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S345450040"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337294"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228141/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228145/104137.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県神石郡神石高原町坂瀬川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/神石郡/神石高原町/坂瀬川.json",
+    "name": "坂瀬川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県神石郡神石高原町"
+  }
+]

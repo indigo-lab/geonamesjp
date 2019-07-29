@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県富山市日方江",
+    "表記": "富山県富山市日方江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "富山市",
+      "町名": "日方江",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162012330"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371211",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371200",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371201",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055371210",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370291"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231026/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102257.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231021/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102254.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231024/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231027/102262.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231025/102256.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102253.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231022/102252.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231023/102255.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231028/102252.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県富山市日方江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/富山市/日方江.json",
+    "name": "日方江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県富山市"
+  }
+]

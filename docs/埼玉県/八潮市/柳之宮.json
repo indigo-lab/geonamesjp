@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県八潮市柳之宮",
+    "表記": "埼玉県八潮市柳之宮",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "八潮市",
+      "町名": "柳之宮"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395685",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395695"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232884/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232885/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232885/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232886/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232887/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232887/103102.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232887/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232886/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232888/103099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232888/103101.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232888/103100.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232889/103099.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232888/103098.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232889/103097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232888/103097.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232888/103096.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232887/103095.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232887/103094.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県八潮市柳之宮",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/八潮市/柳之宮.json",
+    "name": "柳之宮",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県八潮市"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山梨県南都留郡足和田村西湖西",
+    "表記": "山梨県南都留郡足和田村西湖西",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山梨県",
+      "郡": "南都留郡",
+      "市区町村": "足和田村",
+      "町名": "西湖西"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053381593",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053382502",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053382503"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232043/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232041/103388.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232042/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232040/103387.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232041/103387.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山梨県南都留郡足和田村西湖西",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山梨県/南都留郡/足和田村/西湖西.json",
+    "name": "西湖西",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山梨県南都留郡足和田村"
+  }
+]

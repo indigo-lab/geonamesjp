@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県宇都宮市南一の沢町",
+    "表記": "栃木県宇都宮市南一の沢町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "南一の沢町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S092010820"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054396679",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054396678"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/102431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/102430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/102430.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県宇都宮市南一の沢町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/宇都宮市/南一の沢町.json",
+    "name": "南一の沢町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県宇都宮市"
+  }
+]

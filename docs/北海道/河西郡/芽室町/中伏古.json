@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道河西郡芽室町中伏古",
+    "表記": "北海道河西郡芽室町中伏古",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "河西郡",
+      "市区町村": "芽室町",
+      "町名": "中伏古",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016370460"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432037",
+        "http://data.e-stat.go.jp/lod/gridCode/G2064432015"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235272/96460.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/235247/96478.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道河西郡芽室町中伏古",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/河西郡/芽室町/中伏古.json",
+    "name": "中伏古",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道河西郡芽室町"
+  }
+]

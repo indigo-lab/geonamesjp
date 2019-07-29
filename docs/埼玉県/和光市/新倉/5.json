@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県和光市新倉五丁目",
+    "表記": "埼玉県和光市新倉五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "和光市",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S11229004005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395469"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/103115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232739/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232738/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232737/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232738/103119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232738/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232738/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232738/103115.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232740/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103117.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232739/103118.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232736/103116.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232739/103116.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県和光市新倉五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/和光市/新倉/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県和光市新倉"
+  }
+]

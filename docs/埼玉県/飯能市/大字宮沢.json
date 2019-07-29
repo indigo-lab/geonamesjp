@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市大字宮沢",
+    "表記": "埼玉県飯能市大字宮沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "飯能市",
+      "町名": "大字宮沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S112090230"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396256",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396245",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396255"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232533/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232532/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232532/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232532/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232533/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232533/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232519/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232520/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232520/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232521/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232523/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232521/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232524/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232529/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232530/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232531/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232532/103054.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232533/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232534/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232534/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232522/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232523/103054.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県飯能市大字宮沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/飯能市/大字宮沢.json",
+    "name": "大字宮沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県飯能市"
+  }
+]

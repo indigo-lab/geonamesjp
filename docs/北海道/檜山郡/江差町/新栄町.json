@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道檜山郡江差町新栄町",
+    "表記": "北海道檜山郡江差町新栄町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "檜山郡",
+      "市区町村": "江差町",
+      "町名": "新栄町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2062406140"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/97437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/97435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233113/97436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/97437.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233114/97436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233115/97436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233116/97436.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道檜山郡江差町新栄町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/檜山郡/江差町/新栄町.json",
+    "name": "新栄町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道檜山郡江差町"
+  }
+]

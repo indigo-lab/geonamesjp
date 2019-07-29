@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県坂戸市厚川",
+    "表記": "埼玉県坂戸市厚川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "坂戸市",
+      "町名": "厚川"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397249"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/102991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/102991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/102990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/102991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/102990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/102989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232558/102988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/102989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/102990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/102991.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/102990.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232554/102989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/102989.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232557/102988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/102988.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232554/102987.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/102986.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232556/102983.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232555/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232554/102982.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232554/102985.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県坂戸市厚川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/坂戸市/厚川.json",
+    "name": "厚川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県坂戸市"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府豊能郡能勢町大里",
+    "表記": "大阪府豊能郡能勢町大里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "郡": "豊能郡",
+      "市区町村": "能勢町",
+      "町名": "大里",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S27322008002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S273220080",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S27322008001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353352",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353362",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353363",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353372"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229672/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229671/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229670/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229673/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229673/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229673/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229672/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229672/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229675/103857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229675/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229675/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229676/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229675/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229672/103854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229673/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229676/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229675/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229672/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229675/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229678/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229672/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229672/103853.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229677/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229678/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229673/103860.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229673/103865.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229677/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229678/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229675/103856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229674/103859.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229675/103858.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229676/103863.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229676/103862.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229676/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229680/103861.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229671/103864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229673/103853.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府豊能郡能勢町大里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/豊能郡/能勢町/大里.json",
+    "name": "大里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府豊能郡能勢町"
+  }
+]

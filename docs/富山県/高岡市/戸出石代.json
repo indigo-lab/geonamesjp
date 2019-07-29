@@ -1,0 +1,61 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県高岡市戸出石代",
+    "表記": "富山県高岡市戸出石代",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "高岡市",
+      "町名": "戸出石代",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162021800"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360709",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360719",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370000",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055370010"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230827/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230827/102335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230828/102336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230828/102335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230828/102334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230828/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/102335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/102331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/102329.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/102328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230831/102331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/102333.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230832/102331.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/102330.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230829/102334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230830/102328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/102328.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230833/102334.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230834/102323.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県高岡市戸出石代",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/高岡市/戸出石代.json",
+    "name": "戸出石代",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県高岡市"
+  }
+]

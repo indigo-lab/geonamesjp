@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市神田一丁目",
+    "表記": "岡山県倉敷市神田一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "倉敷市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S33202113001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051336548"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228454/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228455/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228455/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228455/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228455/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228454/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228454/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228453/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228453/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228454/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228453/104243.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228453/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228452/104245.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228452/104244.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228452/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228453/104247.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県倉敷市神田一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/倉敷市/神田/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県倉敷市神田"
+  }
+]

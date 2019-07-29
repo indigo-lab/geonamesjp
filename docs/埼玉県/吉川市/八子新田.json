@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県吉川市八子新田",
+    "表記": "埼玉県吉川市八子新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "吉川市",
+      "町名": "八子新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396698",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396699",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397608",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397609"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232920/103017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232915/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/103018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232914/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232913/103015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232915/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232916/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/103013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232917/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232918/103014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/103018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232919/103015.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県吉川市八子新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/吉川市/八子新田.json",
+    "name": "八子新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県吉川市"
+  }
+]

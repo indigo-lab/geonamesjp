@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県南会津郡南会津町古町舘跡",
+    "表記": "福島県南会津郡南会津町古町舘跡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "南会津郡",
+      "市区町村": "南会津町",
+      "町名": "古町舘跡"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396402",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396411",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396412"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232672/101873.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232672/101874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232675/101874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232671/101872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232673/101874.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232670/101872.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県南会津郡南会津町古町舘跡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/南会津郡/南会津町/古町舘跡.json",
+    "name": "古町舘跡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県南会津郡南会津町"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県水俣市市渡瀬",
+    "表記": "熊本県水俣市市渡瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "水俣市",
+      "町名": "市渡瀬",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S432050510"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302309",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302316",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302317",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302318",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302410",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302306",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048302319"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226075/106301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226086/106299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226095/106304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226102/106303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226071/106298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226074/106303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226082/106303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226075/106299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/106301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226077/106303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226076/106303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226069/106305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226069/106302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226074/106301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226084/106302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226093/106303.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226067/106304.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県水俣市市渡瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/水俣市/市渡瀬.json",
+    "name": "市渡瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県水俣市"
+  }
+]

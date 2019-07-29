@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道野付郡別海町中春別",
+    "表記": "北海道野付郡別海町中春別",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "野付郡",
+      "市区町村": "別海町",
+      "町名": "中春別",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S016910380"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2065452130",
+        "http://data.e-stat.go.jp/lod/gridCode/G2065452027"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236753/95795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236729/95804.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道野付郡別海町中春別",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/野付郡/別海町/中春別.json",
+    "name": "中春別",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道野付郡別海町"
+  }
+]

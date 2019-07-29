@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県原町市矢川原",
+    "表記": "福島県原町市矢川原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "原町市",
+      "町名": "矢川原"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403715",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403724",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403725",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403726",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056403727"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233710/101484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/101483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233713/101483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233704/101484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/101483.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/101482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233704/101486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233711/101484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233698/101484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/101482.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233713/101484.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233706/101485.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/101481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/101482.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県原町市矢川原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/原町市/矢川原.json",
+    "name": "矢川原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県原町市"
+  }
+]

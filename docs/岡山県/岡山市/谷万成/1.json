@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市谷万成一丁目",
+    "表記": "岡山県岡山市谷万成一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330712",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330702",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330711"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228576/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228575/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228576/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228575/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228576/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228577/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228576/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228575/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104122.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228573/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104120.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228574/104119.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228576/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228577/104120.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市谷万成一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/谷万成/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市谷万成"
+  }
+]

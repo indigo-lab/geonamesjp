@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市北夕顔瀬町",
+    "表記": "岩手県盛岡市北夕顔瀬町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "北夕顔瀬町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032011250"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414140",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414150"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/99515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233837/99516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/99518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233838/99517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233837/99518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233838/99518.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/99515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/99514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233840/99516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/99516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233838/99515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233837/99515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/99514.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/99517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233838/99516.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233836/99515.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233839/99519.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233837/99517.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233836/99516.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市北夕顔瀬町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/北夕顔瀬町.json",
+    "name": "北夕顔瀬町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

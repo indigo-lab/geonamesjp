@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中蒲原郡村松町小新保",
+    "表記": "新潟県中蒲原郡村松町小新保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中蒲原郡",
+      "市区町村": "村松町",
+      "町名": "小新保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394133",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394134",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056394143"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232412/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232413/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232415/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232411/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232413/101394.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232415/101395.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232417/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232418/101393.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232419/101394.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中蒲原郡村松町小新保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中蒲原郡/村松町/小新保.json",
+    "name": "小新保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中蒲原郡村松町"
+  }
+]

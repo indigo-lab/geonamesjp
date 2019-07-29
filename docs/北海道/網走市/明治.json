@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道網走市明治",
+    "表記": "北海道網走市明治",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "市区町村": "網走市",
+      "町名": "明治"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440147",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440148",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440149",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440240",
+        "http://data.e-stat.go.jp/lod/gridCode/G2066440250"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236103/95279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236103/95283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236092/95283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236099/95281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236103/95280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236108/95281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236114/95281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236115/95283.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236114/95284.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236109/95280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236110/95286.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236112/95282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/236113/95278.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道網走市明治",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/網走市/明治.json",
+    "name": "明治",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道網走市"
+  }
+]

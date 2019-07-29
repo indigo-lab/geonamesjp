@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡花園村",
+    "表記": "埼玉県大里郡花園村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "大里郡",
+      "市区町村": "花園村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C11407-19701201",
+        "http://data.e-stat.go.jp/lod/sac/C11407-19770515",
+        "http://data.e-stat.go.jp/lod/sac/C11407-19770601",
+        "http://data.e-stat.go.jp/lod/sac/C11407-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C11407-19800501",
+        "http://data.e-stat.go.jp/lod/sac/C11407-19780501"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡花園村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/大里郡/花園村.json",
+    "name": "花園村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県大里郡"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県佐原市玉造三丁目",
+    "表記": "千葉県佐原市玉造三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "佐原市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406368"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/103043.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233365/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/103042.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233366/103040.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233367/103041.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233368/103041.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県佐原市玉造三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/佐原市/玉造/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県佐原市玉造"
+  }
+]

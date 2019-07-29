@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府宮津市字島陰",
+    "表記": "京都府宮津市字島陰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "宮津市",
+      "町名": "字島陰"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352199",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352189",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053352280"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229553/103320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229555/103323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229558/103323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229554/103323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229557/103318.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府宮津市字島陰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/宮津市/字島陰.json",
+    "name": "字島陰",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府宮津市"
+  }
+]

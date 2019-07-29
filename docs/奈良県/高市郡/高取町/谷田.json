@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県高市郡高取町谷田",
+    "表記": "奈良県高市郡高取町谷田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "高市郡",
+      "市区町村": "高取町",
+      "町名": "谷田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355611",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355621"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229936/104336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229933/104336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229937/104337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229935/104336.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県高市郡高取町谷田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/高市郡/高取町/谷田.json",
+    "name": "谷田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県高市郡高取町"
+  }
+]

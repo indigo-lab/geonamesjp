@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県双葉郡浪江町大字苅宿",
+    "表記": "福島県双葉郡浪江町大字苅宿",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "双葉郡",
+      "市区町村": "浪江町",
+      "町名": "大字苅宿",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S075470200"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402705",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402706",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402707",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402716",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056402715"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233710/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233722/101573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233708/101569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233722/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233713/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233714/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233707/101569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233722/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233721/101574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233710/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233706/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233707/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233713/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233708/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/101573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/101574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101566.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233706/101568.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233714/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233722/101575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233723/101574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233709/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233709/101569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233711/101571.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/101572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233721/101570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/101569.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県双葉郡浪江町大字苅宿",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/双葉郡/浪江町/大字苅宿.json",
+    "name": "大字苅宿",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県双葉郡浪江町"
+  }
+]

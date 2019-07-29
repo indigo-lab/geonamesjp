@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県深谷市白草台",
+    "表記": "埼玉県深谷市白草台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "深谷市",
+      "町名": "白草台"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391244",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391243",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391254"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232507/102832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232508/102827.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232508/102828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232509/102832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232504/102831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232504/102833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232507/102833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232505/102832.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232508/102831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232507/102834.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232505/102833.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232507/102830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232506/102830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232507/102828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232509/102828.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県深谷市白草台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/深谷市/白草台.json",
+    "name": "白草台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県深谷市"
+  }
+]

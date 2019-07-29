@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市築地町荒田",
+    "表記": "愛知県刈谷市築地町荒田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "刈谷市",
+      "町名": "築地町荒田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374020",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374021"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103819.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230843/103817.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/103818.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103818.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県刈谷市築地町荒田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/刈谷市/築地町荒田.json",
+    "name": "築地町荒田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県刈谷市"
+  }
+]

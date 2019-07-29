@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県名張市赤目町壇",
+    "表記": "三重県名張市赤目町壇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "市区町村": "名張市",
+      "町名": "赤目町壇"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367016",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367017",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051367026"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230159/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230160/104188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230160/104190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230166/104193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230160/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230168/104193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230162/104192.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230161/104190.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230161/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230161/104188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230162/104189.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230162/104188.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230163/104193.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230163/104191.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230166/104192.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県名張市赤目町壇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/名張市/赤目町壇.json",
+    "name": "赤目町壇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県名張市"
+  }
+]

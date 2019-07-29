@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県香美市物部町久保中内",
+    "表記": "高知県香美市物部町久保中内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "市区町村": "香美市",
+      "町名": "物部町久保中内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335726",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050335736"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228614/104917.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228614/104911.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県香美市物部町久保中内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/香美市/物部町久保中内.json",
+    "name": "物部町久保中内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県香美市"
+  }
+]

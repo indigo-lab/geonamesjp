@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県伊達郡国見町石母田",
+    "表記": "福島県伊達郡国見町石母田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "伊達郡",
+      "市区町村": "国見町",
+      "町名": "石母田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406454",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406463",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406464",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406465",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406474",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406483",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056406473"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233415/101219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/101218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/101218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/101212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233422/101224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/101219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/101218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/101214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/101215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/101217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/101219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/101215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/101219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/101218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/101215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/101221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233422/101218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/101223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/101216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/101219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/101214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/101220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/101217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/101217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/101217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/101222.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/101223.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/101224.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233413/101216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233414/101205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/101220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/101216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233421/101221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/101221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/101221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/101225.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233418/101216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233417/101218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233420/101216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/101220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233419/101221.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233416/101216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/101218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/101222.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県伊達郡国見町石母田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/伊達郡/国見町/石母田.json",
+    "name": "石母田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県伊達郡国見町"
+  }
+]

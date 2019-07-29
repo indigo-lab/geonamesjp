@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県八日市場市荻野",
+    "表記": "千葉県八日市場市荻野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "八日市場市",
+      "町名": "荻野"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404437",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053404438"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233452/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233453/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233453/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233454/103211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233454/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233454/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233454/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233454/103210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233455/103213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233455/103212.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233452/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233454/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233455/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233456/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233453/103211.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県八日市場市荻野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/八日市場市/荻野.json",
+    "name": "荻野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県八日市場市"
+  }
+]

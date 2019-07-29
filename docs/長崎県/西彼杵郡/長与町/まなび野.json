@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県西彼杵郡長与町まなび野",
+    "表記": "長崎県西彼杵郡長与町まなび野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "郡": "西彼杵郡",
+      "市区町村": "長与町",
+      "町名": "まなび野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S423070100"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県西彼杵郡長与町まなび野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/西彼杵郡/長与町/まなび野.json",
+    "name": "まなび野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県西彼杵郡長与町",
+    "children": [
+      "https://geonames.jp/resource/長崎県西彼杵郡長与町まなび野一丁目",
+      "https://geonames.jp/resource/長崎県西彼杵郡長与町まなび野二丁目",
+      "https://geonames.jp/resource/長崎県西彼杵郡長与町まなび野三丁目"
+    ]
+  }
+]

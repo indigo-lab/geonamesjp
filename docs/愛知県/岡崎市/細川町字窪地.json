@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市細川町字窪地",
+    "表記": "愛知県岡崎市細川町字窪地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "岡崎市",
+      "町名": "細川町字窪地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374124",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374123"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230961/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/103815.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230963/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230964/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230960/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230961/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230961/103814.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230962/103813.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230959/103814.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県岡崎市細川町字窪地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/岡崎市/細川町字窪地.json",
+    "name": "細川町字窪地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県岡崎市"
+  }
+]

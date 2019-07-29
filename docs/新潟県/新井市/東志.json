@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新井市東志",
+    "表記": "新潟県新井市東志",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新井市",
+      "町名": "東志"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384107",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384108",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384117",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384118"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231719/102030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231720/102030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231720/102029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231721/102028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231722/102029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/102026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231723/102027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/102027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231724/102024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231719/102031.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新井市東志",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新井市/東志.json",
+    "name": "東志",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新井市"
+  }
+]

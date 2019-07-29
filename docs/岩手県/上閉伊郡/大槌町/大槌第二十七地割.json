@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県上閉伊郡大槌町大槌第二十七地割",
+    "表記": "岩手県上閉伊郡大槌町大槌第二十七地割",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "郡": "上閉伊郡",
+      "市区町村": "大槌町",
+      "町名": "大槌第二十七地割"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059410733"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234414/99844.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234413/99842.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県上閉伊郡大槌町大槌第二十七地割",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/上閉伊郡/大槌町/大槌第二十七地割.json",
+    "name": "大槌第二十七地割",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県上閉伊郡大槌町"
+  }
+]

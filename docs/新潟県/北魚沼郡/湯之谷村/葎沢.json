@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村葎沢",
+    "表記": "新潟県北魚沼郡湯之谷村葎沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "北魚沼郡",
+      "市区町村": "湯之谷村",
+      "町名": "葎沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396060",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396061",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055396070"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232296/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232296/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232296/101831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232301/101831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232296/101828.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232297/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232297/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232298/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232299/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232300/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232301/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232302/101829.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232301/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232302/101831.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232302/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232303/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232304/101830.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232305/101830.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村葎沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/北魚沼郡/湯之谷村/葎沢.json",
+    "name": "葎沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県北魚沼郡湯之谷村"
+  }
+]

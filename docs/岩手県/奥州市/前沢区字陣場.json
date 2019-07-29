@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県奥州市前沢区字陣場",
+    "表記": "岩手県奥州市前沢区字陣場",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "奥州市",
+      "町名": "前沢区字陣場"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058414069",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058414059",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058414068"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/100136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233830/100139.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233824/100136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233831/100138.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/100133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/100134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233825/100136.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県奥州市前沢区字陣場",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/奥州市/前沢区字陣場.json",
+    "name": "前沢区字陣場",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県奥州市"
+  }
+]

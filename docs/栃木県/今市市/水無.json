@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県今市市水無",
+    "表記": "栃木県今市市水無",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "市区町村": "今市市",
+      "町名": "水無"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390549",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390559",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055390558"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/102300.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/102301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/102297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/102295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102302.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232830/102299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232833/102299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232826/102301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/102297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232827/102298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/102298.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232823/102297.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232828/102299.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232831/102301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232829/102301.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232832/102301.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県今市市水無",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/今市市/水無.json",
+    "name": "水無",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県今市市"
+  }
+]

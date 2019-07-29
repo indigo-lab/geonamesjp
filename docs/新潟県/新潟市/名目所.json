@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市名目所",
+    "表記": "新潟県新潟市名目所",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "町名": "名目所"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市名目所",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/名目所.json",
+    "name": "名目所",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市",
+    "children": [
+      "https://geonames.jp/resource/新潟県新潟市名目所（丁目なし）",
+      "https://geonames.jp/resource/新潟県新潟市名目所一丁目",
+      "https://geonames.jp/resource/新潟県新潟市名目所二丁目",
+      "https://geonames.jp/resource/新潟県新潟市名目所三丁目"
+    ]
+  }
+]

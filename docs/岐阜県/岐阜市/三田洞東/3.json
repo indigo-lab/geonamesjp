@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市三田洞東三丁目",
+    "表記": "岐阜県岐阜市三田洞東三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "岐阜市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S21201760103"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361663",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361664",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361673",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053361674"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230683/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230683/103411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230684/103411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230684/103410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230687/103411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230685/103411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230684/103412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230685/103412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230685/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230686/103412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230686/103413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230687/103412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230687/103413.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県岐阜市三田洞東三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/岐阜市/三田洞東/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岐阜県岐阜市三田洞東"
+  }
+]

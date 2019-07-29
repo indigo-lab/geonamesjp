@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡寄居町三ヶ山",
+    "表記": "埼玉県大里郡寄居町三ヶ山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "郡": "大里郡",
+      "市区町村": "寄居町",
+      "町名": "三ヶ山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391117",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054391127"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232446/102847.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232446/102848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/102848.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/102849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/102849.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232444/102854.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232446/102856.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232447/102852.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/102850.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232446/102857.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232449/102851.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232448/102851.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県大里郡寄居町三ヶ山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/大里郡/寄居町/三ヶ山.json",
+    "name": "三ヶ山",
+    "alternateName": [
+      "三ケ山"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県大里郡寄居町"
+  }
+]

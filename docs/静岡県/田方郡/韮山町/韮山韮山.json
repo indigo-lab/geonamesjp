@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県田方郡韮山町韮山韮山",
+    "表記": "静岡県田方郡韮山町韮山韮山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "田方郡",
+      "市区町村": "韮山町",
+      "町名": "韮山韮山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384766"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232258/103785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232257/103785.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/103787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/103784.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232255/103786.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/103789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/103787.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232254/103788.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232256/103785.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県田方郡韮山町韮山韮山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/田方郡/韮山町/韮山韮山.json",
+    "name": "韮山韮山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県田方郡韮山町"
+  }
+]

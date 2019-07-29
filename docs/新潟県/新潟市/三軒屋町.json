@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市三軒屋町",
+    "表記": "新潟県新潟市三軒屋町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "三軒屋町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056397131"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232395/101163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232393/101164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232394/101164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232394/101163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232396/101164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232395/101164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232396/101163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232396/101162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232397/101164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232397/101163.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市三軒屋町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/三軒屋町.json",
+    "name": "三軒屋町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市"
+  }
+]

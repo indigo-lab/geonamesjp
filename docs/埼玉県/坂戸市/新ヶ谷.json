@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県坂戸市新ヶ谷",
+    "表記": "埼玉県坂戸市新ヶ谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "坂戸市",
+      "町名": "新ヶ谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397370",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053397371"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232572/102959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232574/102957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232571/102959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232571/102958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232570/102959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232572/102957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232572/102958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232570/102958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232569/102960.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県坂戸市新ヶ谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/坂戸市/新ヶ谷.json",
+    "name": "新ヶ谷",
+    "alternateName": [
+      "新ケ谷"
+    ],
+    "parentFeature": "https://geonames.jp/resource/埼玉県坂戸市"
+  }
+]

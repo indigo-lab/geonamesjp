@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府堺市稲葉三丁",
+    "表記": "大阪府堺市稲葉三丁",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "堺市",
+      "町名": "稲葉三丁"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355397",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355398",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356307",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051356308"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229719/104282.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229720/104281.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229721/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229720/104280.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229720/104279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229720/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229721/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229720/104275.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229720/104276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229721/104276.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229721/104277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229720/104277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229722/104277.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229722/104278.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229721/104279.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229722/104279.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府堺市稲葉三丁",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/堺市/稲葉三丁.json",
+    "name": "稲葉三丁",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府堺市"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県佐用郡佐用町光都一丁目",
+    "表記": "兵庫県佐用郡佐用町光都一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "佐用郡",
+      "市区町村": "佐用町",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343334",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052343333"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228958/103879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228958/103883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228960/103882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228960/103881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228958/103881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228956/103884.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県佐用郡佐用町光都一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/佐用郡/佐用町/光都/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県佐用郡佐用町光都"
+  }
+]

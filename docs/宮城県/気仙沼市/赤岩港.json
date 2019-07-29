@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市赤岩港",
+    "表記": "宮城県気仙沼市赤岩港",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "気仙沼市",
+      "町名": "赤岩港",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04205003018",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04205003015",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04205003017"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058412466"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234170/100292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234167/100289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234167/100290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234167/100291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234168/100292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234169/100291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234169/100294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234170/100293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234171/100292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234171/100293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234165/100293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234169/100292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234169/100293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234170/100294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234168/100290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234167/100292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234170/100291.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234166/100293.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234168/100291.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県気仙沼市赤岩港",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/気仙沼市/赤岩港.json",
+    "name": "赤岩港",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県気仙沼市"
+  }
+]

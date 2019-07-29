@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県坂出市加茂町甲",
+    "表記": "香川県坂出市加茂町甲",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "市区町村": "坂出市",
+      "町名": "加茂町甲"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333762",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051333772"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228578/104441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228583/104449.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県坂出市加茂町甲",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/坂出市/加茂町甲.json",
+    "name": "加茂町甲",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県坂出市"
+  }
+]

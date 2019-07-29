@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県野洲郡野洲町五之里",
+    "表記": "滋賀県野洲郡野洲町五之里",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "野洲郡",
+      "市区町村": "野洲町",
+      "町名": "五之里"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364091",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364092",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365001",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365002"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230124/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230124/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230119/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230122/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230125/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230123/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230122/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230123/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230121/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230120/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230121/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230122/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230122/103759.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230121/103759.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県野洲郡野洲町五之里",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/野洲郡/野洲町/五之里.json",
+    "name": "五之里",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県野洲郡野洲町"
+  }
+]

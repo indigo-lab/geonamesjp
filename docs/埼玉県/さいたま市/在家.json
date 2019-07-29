@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市在家",
+    "表記": "埼玉県さいたま市在家",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "町名": "在家"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396436",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396446",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396457",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396458"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232726/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232725/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232724/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232722/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232722/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232723/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232722/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232721/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232720/103047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232720/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232721/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232721/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232718/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232719/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232719/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232718/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232718/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232717/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232717/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232716/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232716/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232715/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232713/103048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/103053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232713/103050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232714/103061.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232711/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232712/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232709/103052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/103051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232710/103052.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市在家",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/在家.json",
+    "name": "在家",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市"
+  }
+]

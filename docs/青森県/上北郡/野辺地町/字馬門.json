@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県上北郡野辺地町字馬門",
+    "表記": "青森県上北郡野辺地町字馬門",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "上北郡",
+      "市区町村": "野辺地町",
+      "町名": "字馬門",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S024010630"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061412057",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061412047",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061412048"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233814/98403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233812/98401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233815/98404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233813/98403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233811/98402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233814/98404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233812/98402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233813/98402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233815/98405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233810/98402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233818/98406.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県上北郡野辺地町字馬門",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/上北郡/野辺地町/字馬門.json",
+    "name": "字馬門",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県上北郡野辺地町"
+  }
+]

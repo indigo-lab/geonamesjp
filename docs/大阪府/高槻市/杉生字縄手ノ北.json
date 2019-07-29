@@ -1,0 +1,33 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府高槻市杉生字縄手ノ北",
+    "表記": "大阪府高槻市杉生字縄手ノ北",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "高槻市",
+      "町名": "杉生字縄手ノ北"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052353466"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229802/103861.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府高槻市杉生字縄手ノ北",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/高槻市/杉生字縄手ノ北.json",
+    "name": "杉生字縄手ノ北",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府高槻市"
+  }
+]

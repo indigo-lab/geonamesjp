@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県足羽郡",
+    "表記": "福井県足羽郡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "郡": "足羽郡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C18300-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C18300-20060201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県足羽郡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/足羽郡.json",
+    "name": "足羽郡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県",
+    "children": [
+      "https://geonames.jp/resource/福井県足羽郡足羽町",
+      "https://geonames.jp/resource/福井県足羽郡美山町",
+      "https://geonames.jp/resource/福井県足羽郡一乗谷村",
+      "https://geonames.jp/resource/福井県足羽郡上宇坂村",
+      "https://geonames.jp/resource/福井県足羽郡上文殊村",
+      "https://geonames.jp/resource/福井県足羽郡下宇坂村",
+      "https://geonames.jp/resource/福井県足羽郡下文殊村",
+      "https://geonames.jp/resource/福井県足羽郡六条村",
+      "https://geonames.jp/resource/福井県足羽郡和田村",
+      "https://geonames.jp/resource/福井県足羽郡木田村",
+      "https://geonames.jp/resource/福井県足羽郡東安居村",
+      "https://geonames.jp/resource/福井県足羽郡東郷村",
+      "https://geonames.jp/resource/福井県足羽郡社村",
+      "https://geonames.jp/resource/福井県足羽郡酒生村",
+      "https://geonames.jp/resource/福井県足羽郡麻生津村",
+      "https://geonames.jp/resource/福井県足羽郡美山村",
+      "https://geonames.jp/resource/福井県足羽郡足羽村"
+    ]
+  }
+]

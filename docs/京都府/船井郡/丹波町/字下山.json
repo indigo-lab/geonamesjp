@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府船井郡丹波町字下山",
+    "表記": "京都府船井郡丹波町字下山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "郡": "船井郡",
+      "市区町村": "丹波町",
+      "町名": "字下山"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052356353",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052356354",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052356364"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229685/103643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229693/103646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/103645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229689/103640.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/103643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229686/103643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229684/103642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229691/103644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/103642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/103644.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229688/103643.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229687/103646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229690/103642.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229689/103642.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府船井郡丹波町字下山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/船井郡/丹波町/字下山.json",
+    "name": "字下山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府船井郡丹波町"
+  }
+]

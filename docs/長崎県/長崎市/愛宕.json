@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県長崎市愛宕",
+    "表記": "長崎県長崎市愛宕",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "長崎市",
+      "町名": "愛宕"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県長崎市愛宕",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/長崎市/愛宕.json",
+    "name": "愛宕",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県長崎市",
+    "children": [
+      "https://geonames.jp/resource/長崎県長崎市愛宕（丁目なし）",
+      "https://geonames.jp/resource/長崎県長崎市愛宕一丁目",
+      "https://geonames.jp/resource/長崎県長崎市愛宕二丁目",
+      "https://geonames.jp/resource/長崎県長崎市愛宕三丁目",
+      "https://geonames.jp/resource/長崎県長崎市愛宕四丁目"
+    ]
+  }
+]

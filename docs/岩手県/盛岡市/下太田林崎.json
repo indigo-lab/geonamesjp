@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市下太田林崎",
+    "表記": "岩手県盛岡市下太田林崎",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "盛岡市",
+      "町名": "下太田林崎",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S03201203004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414028",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414029"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/99537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233830/99536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/99538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233828/99538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233826/99536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233827/99536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233822/99535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233824/99537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233823/99535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233825/99537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233829/99536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233830/99537.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県盛岡市下太田林崎",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/盛岡市/下太田林崎.json",
+    "name": "下太田林崎",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県盛岡市"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県高崎市吉井町高",
+    "表記": "群馬県高崎市吉井町高",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "市区町村": "高崎市",
+      "町名": "吉井町高",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S10202746001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054382798",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054383708"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/102717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/102715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232273/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232274/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232275/102716.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/102714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232276/102715.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県高崎市吉井町高",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/高崎市/吉井町高.json",
+    "name": "吉井町高",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県高崎市"
+  }
+]

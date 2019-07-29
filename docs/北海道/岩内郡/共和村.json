@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道岩内郡共和村",
+    "表記": "北海道岩内郡共和村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "岩内郡",
+      "市区町村": "共和村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C01401-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道岩内郡共和村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/岩内郡/共和村.json",
+    "name": "共和村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道岩内郡",
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1354347"
+    ]
+  }
+]

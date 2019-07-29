@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字多門院",
+    "表記": "京都府舞鶴市字多門院",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "字多門院"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351345",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351355",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351356"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/103426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229701/103425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/103426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229703/103421.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229707/103425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229708/103425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229696/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229697/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229704/103424.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229698/103419.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229694/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229698/103423.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229704/103420.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229702/103426.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229700/103425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229702/103425.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229708/103422.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229704/103425.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市字多門院",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/字多門院.json",
+    "name": "字多門院",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

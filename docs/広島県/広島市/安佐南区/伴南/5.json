@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐南区伴南五丁目",
+    "表記": "広島県広島市安佐南区伴南五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "安佐南区",
+      "町名": "五丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34105731005"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325330",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325340",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325239",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051325249"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227466/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227466/104321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227465/104322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227465/104321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227464/104324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227463/104324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227463/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227464/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227464/104322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227465/104324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227466/104324.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227465/104325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227466/104319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227463/104322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227464/104321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227464/104320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227465/104320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227465/104319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227465/104323.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227466/104320.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐南区伴南五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/安佐南区/伴南/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市安佐南区伴南"
+  }
+]

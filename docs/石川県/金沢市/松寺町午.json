@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市松寺町午",
+    "表記": "石川県金沢市松寺町午",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "松寺町午"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054367532"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230580/102389.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230581/102390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230582/102390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230583/102390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230580/102390.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230583/102389.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市松寺町午",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/松寺町午.json",
+    "name": "松寺町午",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市"
+  }
+]

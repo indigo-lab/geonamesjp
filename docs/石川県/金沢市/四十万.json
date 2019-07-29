@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市四十万",
+    "表記": "石川県金沢市四十万",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "四十万",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S172012490"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市四十万",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/四十万.json",
+    "name": "四十万",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市",
+    "children": [
+      "https://geonames.jp/resource/石川県金沢市四十万三丁目",
+      "https://geonames.jp/resource/石川県金沢市四十万四丁目",
+      "https://geonames.jp/resource/石川県金沢市四十万五丁目",
+      "https://geonames.jp/resource/石川県金沢市四十万六丁目"
+    ]
+  }
+]

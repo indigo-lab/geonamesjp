@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山形県村山市大字稲下",
+    "表記": "山形県村山市大字稲下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山形県",
+      "市区町村": "村山市",
+      "町名": "大字稲下",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S062080380"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405276",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405277",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405286",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057405287"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233259/100668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/100669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/100670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233258/100667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/100667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/100665.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/100664.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233267/100663.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/100667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233268/100669.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山形県村山市大字稲下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山形県/村山市/大字稲下.json",
+    "name": "大字稲下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山形県村山市"
+  }
+]

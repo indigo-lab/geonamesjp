@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新潟市西蒲区浦村",
+    "表記": "新潟県新潟市西蒲区浦村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新潟市",
+      "区": "西蒲区",
+      "町名": "浦村"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385765",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385775",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385776",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056385766"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/101295.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232250/101290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/101290.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232250/101292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232259/101287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232258/101288.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232252/101294.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232251/101289.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232249/101292.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232260/101287.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新潟市西蒲区浦村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新潟市/西蒲区/浦村.json",
+    "name": "浦村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新潟市西蒲区"
+  }
+]

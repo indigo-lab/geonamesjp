@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県弘前市大字小栗山字小松ケ沢",
+    "表記": "青森県弘前市大字小栗山字小松ケ沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "弘前市",
+      "町名": "大字小栗山字小松ケ沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060406379"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/98708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/98707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/98708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233370/98709.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233372/98707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/98706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233373/98707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233371/98706.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県弘前市大字小栗山字小松ケ沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/弘前市/大字小栗山字小松ケ沢.json",
+    "name": "大字小栗山字小松ケ沢",
+    "alternateName": [
+      "大字小栗山字小松ヶ沢"
+    ],
+    "parentFeature": "https://geonames.jp/resource/青森県弘前市"
+  }
+]

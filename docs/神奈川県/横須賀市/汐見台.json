@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市汐見台",
+    "表記": "神奈川県横須賀市汐見台",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横須賀市",
+      "町名": "汐見台"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市汐見台",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横須賀市/汐見台.json",
+    "name": "汐見台",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横須賀市",
+    "children": [
+      "https://geonames.jp/resource/神奈川県横須賀市汐見台一丁目",
+      "https://geonames.jp/resource/神奈川県横須賀市汐見台二丁目",
+      "https://geonames.jp/resource/神奈川県横須賀市汐見台三丁目"
+    ]
+  }
+]

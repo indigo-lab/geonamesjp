@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県国分市中央五丁目",
+    "表記": "鹿児島県国分市中央五丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "国分市",
+      "町名": "五丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304680",
+        "http://data.e-stat.go.jp/lod/gridCode/G2047304681"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226289/106680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226292/106680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226291/106682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226292/106681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226293/106681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226292/106682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226290/106679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226288/106678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226290/106680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226291/106681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226290/106682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226291/106680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226288/106680.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県国分市中央五丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/国分市/中央/5.json",
+    "name": "五丁目",
+    "alternateName": [
+      "5",
+      "5丁目",
+      "５",
+      "５丁目",
+      "五"
+    ],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県国分市中央"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県宗像郡玄海町公園通り",
+    "表記": "福岡県宗像郡玄海町公園通り",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "郡": "宗像郡",
+      "市区町村": "玄海町",
+      "町名": "公園通り"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県宗像郡玄海町公園通り",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/宗像郡/玄海町/公園通り.json",
+    "name": "公園通り",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県宗像郡玄海町",
+    "children": [
+      "https://geonames.jp/resource/福岡県宗像郡玄海町公園通り一丁目",
+      "https://geonames.jp/resource/福岡県宗像郡玄海町公園通り二丁目",
+      "https://geonames.jp/resource/福岡県宗像郡玄海町公園通り三丁目"
+    ]
+  }
+]

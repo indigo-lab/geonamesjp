@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市青葉区奈良四丁目",
+    "表記": "神奈川県横浜市青葉区奈良四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "横浜市",
+      "区": "青葉区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S14117149004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392368",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392378",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053392358"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/103339.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232639/103337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/103341.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/103342.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/103340.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/103338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232639/103338.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/103337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232639/103336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232638/103336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/103336.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232639/103335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/103335.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232638/103337.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232640/103343.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232639/103344.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横浜市青葉区奈良四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横浜市/青葉区/奈良/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横浜市青葉区奈良"
+  }
+]

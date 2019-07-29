@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府吹田市春日一丁目",
+    "表記": "大阪府吹田市春日一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "吹田市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S27205011001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351339",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351349"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104029.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104026.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104027.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府吹田市春日一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/吹田市/春日/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大阪府吹田市春日"
+  }
+]

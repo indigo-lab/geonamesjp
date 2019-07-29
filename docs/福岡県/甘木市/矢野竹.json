@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県甘木市矢野竹",
+    "表記": "福岡県甘木市矢野竹",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "甘木市",
+      "町名": "矢野竹"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301517",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301527",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301528",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301529",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301537",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301549",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301640",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050301538"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226283/105199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226277/105199.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226270/105207.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226261/105205.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226260/105211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226261/105211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226261/105210.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226262/105211.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226279/105209.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226268/105213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226261/105213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226260/105216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226274/105213.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県甘木市矢野竹",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/甘木市/矢野竹.json",
+    "name": "矢野竹",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県甘木市"
+  }
+]

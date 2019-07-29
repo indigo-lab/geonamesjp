@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県十日町市馬場辛",
+    "表記": "新潟県十日町市馬場辛",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "十日町市",
+      "町名": "馬場辛"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384588",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384578",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384579"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232096/101973.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232097/101974.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232097/101978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232095/101972.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232094/101970.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232095/101968.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232097/101973.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県十日町市馬場辛",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/十日町市/馬場辛.json",
+    "name": "馬場辛",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県十日町市"
+  }
+]

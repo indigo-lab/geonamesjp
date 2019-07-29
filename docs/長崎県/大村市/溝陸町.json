@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県大村市溝陸町",
+    "表記": "長崎県大村市溝陸町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "溝陸町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422053080"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049292719",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049292729",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302010",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302020",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049302021"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225734/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225730/105722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225734/105723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225737/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225739/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225738/105723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225741/105720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225740/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225740/105722.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225744/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225742/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225744/105718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225742/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225737/105725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225736/105725.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225738/105724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225736/105724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225737/105724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225736/105723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225737/105723.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225743/105718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225743/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225744/105720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225730/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225731/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225730/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225734/105720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225737/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225739/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225739/105724.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225742/105717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225743/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225743/105720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225744/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225737/105720.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225732/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225733/105717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225736/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225736/105717.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225739/105718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225738/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225741/105718.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225741/105719.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225741/105721.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225742/105723.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県大村市溝陸町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/大村市/溝陸町.json",
+    "name": "溝陸町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県大村市"
+  }
+]

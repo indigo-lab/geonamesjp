@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県引佐郡引佐町白岩",
+    "表記": "静岡県引佐郡引佐町白岩",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "引佐郡",
+      "市区町村": "引佐町",
+      "町名": "白岩"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372502",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372503",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372512"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231315/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231314/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231313/103977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231313/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231312/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231312/103977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231311/103977.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231311/103978.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231311/103972.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県引佐郡引佐町白岩",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/引佐郡/引佐町/白岩.json",
+    "name": "白岩",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県引佐郡引佐町"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県野洲市竹ヶ丘",
+    "表記": "滋賀県野洲市竹ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "市区町村": "野洲市",
+      "町名": "竹ヶ丘"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364090",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364091",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052365000"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230113/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230111/103760.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230114/103764.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230114/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230113/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230112/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230112/103763.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230111/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230113/103761.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230114/103762.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230113/103765.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230112/103761.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県野洲市竹ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/野洲市/竹ヶ丘.json",
+    "name": "竹ヶ丘",
+    "alternateName": [
+      "竹ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/滋賀県野洲市"
+  }
+]

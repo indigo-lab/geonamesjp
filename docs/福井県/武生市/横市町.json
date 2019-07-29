@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福井県武生市横市町",
+    "表記": "福井県武生市横市町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福井県",
+      "市区町村": "横市町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366185",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053366195"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/103020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/103019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230244/103021.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230244/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103017.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/103023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230248/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/103024.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230247/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/103022.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103023.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230245/103025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230243/103025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230246/103026.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福井県武生市横市町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福井県/武生市/横市町.json",
+    "name": "横市町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福井県武生市"
+  }
+]

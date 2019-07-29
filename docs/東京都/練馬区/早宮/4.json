@@ -1,0 +1,68 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都練馬区早宮四丁目",
+    "表記": "東京都練馬区早宮四丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "練馬区",
+      "町名": "四丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13120019004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395502",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394591",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394592",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053395501"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232765/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103161.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232764/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232763/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232762/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/103162.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/103163.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/103164.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/103165.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232761/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/103166.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/103167.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/103168.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232760/103169.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232765/103163.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都練馬区早宮四丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/練馬区/早宮/4.json",
+    "name": "四丁目",
+    "alternateName": [
+      "4",
+      "4丁目",
+      "４",
+      "４丁目",
+      "四"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都練馬区早宮"
+  }
+]

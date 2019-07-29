@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市岡南町",
+    "表記": "岡山県岡山市岡南町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡南町"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市岡南町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/岡南町.json",
+    "name": "岡南町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市",
+    "children": [
+      "https://geonames.jp/resource/岡山県岡山市岡南町一丁目",
+      "https://geonames.jp/resource/岡山県岡山市岡南町二丁目"
+    ]
+  }
+]

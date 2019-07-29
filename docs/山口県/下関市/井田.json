@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県下関市井田",
+    "表記": "山口県下関市井田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "市区町村": "下関市",
+      "町名": "井田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300747",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300756",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300757",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300767",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300768",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300787",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300778",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051300788"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226443/104656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226440/104678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226445/104670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226443/104678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226443/104677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226439/104667.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226438/104669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226439/104669.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226438/104668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226438/104670.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226438/104671.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226438/104673.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226439/104675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226439/104676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226441/104675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226443/104676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226443/104675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226442/104676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226442/104677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226442/104678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226441/104677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226439/104677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226440/104677.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226441/104678.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226442/104681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226444/104685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226440/104679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226437/104679.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226435/104680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226435/104681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226439/104681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226444/104668.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226439/104672.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226439/104674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226440/104674.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226441/104676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226444/104680.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226444/104676.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226442/104675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226444/104658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226444/104675.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226445/104659.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226445/104658.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226446/104659.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県下関市井田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/下関市/井田.json",
+    "name": "井田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県下関市"
+  }
+]

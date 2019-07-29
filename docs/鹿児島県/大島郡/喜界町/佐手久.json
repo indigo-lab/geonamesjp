@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県大島郡喜界町佐手久",
+    "表記": "鹿児島県大島郡喜界町佐手久",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "郡": "大島郡",
+      "市区町村": "喜界町",
+      "町名": "佐手久"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2042304021"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225749/109529.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県大島郡喜界町佐手久",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/大島郡/喜界町/佐手久.json",
+    "name": "佐手久",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県大島郡喜界町"
+  }
+]

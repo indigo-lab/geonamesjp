@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福岡県豊前市清水町",
+    "表記": "福岡県豊前市清水町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福岡県",
+      "市区町村": "清水町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050313130",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050313131"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226561/105057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226562/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226562/105057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226563/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226564/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226564/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226565/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226565/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226565/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226561/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226562/105060.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226561/105058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226563/105059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226562/105056.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福岡県豊前市清水町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福岡県/豊前市/清水町.json",
+    "name": "清水町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福岡県豊前市"
+  }
+]

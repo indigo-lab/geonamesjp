@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県上越市中真砂",
+    "表記": "新潟県上越市中真砂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "上越市",
+      "町名": "中真砂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385283",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385293",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385294",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386203"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231775/101882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231779/101883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231775/101885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231776/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101891.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101890.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101889.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101887.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231778/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/101888.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231778/101886.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231779/101884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231781/101884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231783/101885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231783/101884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231783/101883.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県上越市中真砂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/上越市/中真砂.json",
+    "name": "中真砂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県上越市"
+  }
+]

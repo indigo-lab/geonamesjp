@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県名取市手倉田字八幡",
+    "表記": "宮城県名取市手倉田字八幡",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "名取市",
+      "町名": "手倉田字八幡",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S04207111001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402619",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402700",
+        "http://data.e-stat.go.jp/lod/gridCode/G2057402710"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233653/100953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233653/100954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233654/100955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233655/100955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233656/100956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233657/100957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233657/100956.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233658/100957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233657/100958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233656/100954.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233659/100957.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233658/100955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233657/100955.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233656/100953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233654/100954.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県名取市手倉田字八幡",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/名取市/手倉田字八幡.json",
+    "name": "手倉田字八幡",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県名取市"
+  }
+]

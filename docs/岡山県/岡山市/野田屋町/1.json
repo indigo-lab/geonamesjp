@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市野田屋町一丁目",
+    "表記": "岡山県岡山市野田屋町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "野田屋町",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337793",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051337794",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330703",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052330704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228591/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228592/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228593/104130.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228591/104131.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市野田屋町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/野田屋町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市野田屋町"
+  }
+]

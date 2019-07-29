@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊田市鵜ケ瀬町",
+    "表記": "愛知県豊田市鵜ケ瀬町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "鵜ケ瀬町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232112470"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374177",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374167",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052374187"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230993/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/103783.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/103780.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230990/103776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230992/103782.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/103781.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230989/103779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230991/103774.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊田市鵜ケ瀬町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊田市/鵜ケ瀬町.json",
+    "name": "鵜ケ瀬町",
+    "alternateName": [
+      "鵜ヶ瀬町"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊田市"
+  }
+]

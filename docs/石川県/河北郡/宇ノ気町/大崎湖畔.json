@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県河北郡宇ノ気町大崎湖畔",
+    "表記": "石川県河北郡宇ノ気町大崎湖畔",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "郡": "河北郡",
+      "市区町村": "宇ノ気町",
+      "町名": "大崎湖畔"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055360535"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230604/102307.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県河北郡宇ノ気町大崎湖畔",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/河北郡/宇ノ気町/大崎湖畔.json",
+    "name": "大崎湖畔",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県河北郡宇ノ気町"
+  }
+]

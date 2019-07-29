@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県美嚢郡吉川町みなぎ台二丁目",
+    "表記": "兵庫県美嚢郡吉川町みなぎ台二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "美嚢郡",
+      "市区町村": "吉川町",
+      "町名": "二丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352038",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052352048"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229455/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229456/103948.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229456/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229455/103949.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229455/103950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229456/103950.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229455/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229454/103951.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229455/103952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229454/103952.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229454/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229455/103953.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229454/103954.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県美嚢郡吉川町みなぎ台二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/美嚢郡/吉川町/みなぎ台/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県美嚢郡吉川町みなぎ台"
+  }
+]

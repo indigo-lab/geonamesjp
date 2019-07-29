@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県関市上之保",
+    "表記": "岐阜県関市上之保",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "市区町村": "関市",
+      "町名": "上之保"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053373033",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053373075"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230862/103287.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230878/103259.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県関市上之保",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/関市/上之保.json",
+    "name": "上之保",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県関市"
+  }
+]

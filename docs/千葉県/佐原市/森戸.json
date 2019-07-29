@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県佐原市森戸",
+    "表記": "千葉県佐原市森戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "佐原市",
+      "町名": "森戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406377",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406387",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406388",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406396"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233358/103027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233362/103027.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233363/103025.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/103016.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233357/103032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233355/103032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233356/103032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/103028.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233361/103031.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233361/103030.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233364/103029.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県佐原市森戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/佐原市/森戸.json",
+    "name": "森戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県佐原市"
+  }
+]

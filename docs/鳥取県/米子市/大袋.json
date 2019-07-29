@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県米子市大袋",
+    "表記": "鳥取県米子市大袋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "市区町村": "米子市",
+      "町名": "大袋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S312020700"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053330268"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228179/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228177/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228178/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228178/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228176/103489.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228180/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228179/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228176/103486.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228178/103488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228179/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228177/103488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228180/103488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228177/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228176/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228178/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228179/103488.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228181/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228180/103489.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県米子市大袋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/米子市/大袋.json",
+    "name": "大袋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県米子市"
+  }
+]

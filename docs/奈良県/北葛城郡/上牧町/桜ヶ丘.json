@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡上牧町桜ヶ丘",
+    "表記": "奈良県北葛城郡上牧町桜ヶ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "郡": "北葛城郡",
+      "市区町村": "上牧町",
+      "町名": "桜ヶ丘"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県北葛城郡上牧町桜ヶ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/北葛城郡/上牧町/桜ヶ丘.json",
+    "name": "桜ヶ丘",
+    "alternateName": [
+      "桜ケ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/奈良県北葛城郡上牧町",
+    "children": [
+      "https://geonames.jp/resource/奈良県北葛城郡上牧町桜ヶ丘一丁目",
+      "https://geonames.jp/resource/奈良県北葛城郡上牧町桜ヶ丘二丁目",
+      "https://geonames.jp/resource/奈良県北葛城郡上牧町桜ヶ丘三丁目"
+    ]
+  }
+]

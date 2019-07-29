@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新津市秋葉三丁目",
+    "表記": "新潟県新津市秋葉三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新津市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395140",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395141"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232387/101311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232388/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232389/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232386/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232387/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232385/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232387/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232388/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232389/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232390/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232386/101309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232385/101310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232386/101310.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232388/101311.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232385/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232390/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232384/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232384/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232386/101315.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新津市秋葉三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新津市/秋葉/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県新津市秋葉"
+  }
+]

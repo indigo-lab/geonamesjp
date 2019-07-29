@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新井市菅沼",
+    "表記": "新潟県新井市菅沼",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新井市",
+      "町名": "菅沼"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055383196",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384106"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/102035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/102037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231706/102038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231707/102033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231707/102035.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231707/102037.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231709/102033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231708/102038.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231709/102032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231710/102032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231711/102032.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231711/102033.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231712/102032.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新井市菅沼",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新井市/菅沼.json",
+    "name": "菅沼",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新井市"
+  }
+]

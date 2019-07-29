@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市鹿島町御代字柿境",
+    "表記": "福島県いわき市鹿島町御代字柿境",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "鹿島町御代字柿境"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403771",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403772",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403781",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403782"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/102050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233668/102050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/102048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233672/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/102048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233671/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233670/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/102051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233669/102050.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市鹿島町御代字柿境",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/鹿島町御代字柿境.json",
+    "name": "鹿島町御代字柿境",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

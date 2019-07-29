@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県青森市大字大矢沢字里見",
+    "表記": "青森県青森市大字大矢沢字里見",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "市区町村": "青森市",
+      "町名": "大字大矢沢字里見",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S02201084001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401622",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401631",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401632",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401641",
+        "http://data.e-stat.go.jp/lod/gridCode/G2061401642"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233579/98494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233579/98493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233589/98502.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233579/98495.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233580/98496.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233580/98497.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233581/98493.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233581/98491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233583/98492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233582/98491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233583/98491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233583/98490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233585/98498.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県青森市大字大矢沢字里見",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/青森市/大字大矢沢字里見.json",
+    "name": "大字大矢沢字里見",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県青森市"
+  }
+]

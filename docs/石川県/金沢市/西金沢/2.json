@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県金沢市西金沢二丁目",
+    "表記": "石川県金沢市西金沢二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "金沢市",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S17201331002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054366469"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230552/102440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230552/102441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230552/102442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230553/102442.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230553/102441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230554/102440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230554/102441.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230555/102440.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230556/102440.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県金沢市西金沢二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/金沢市/西金沢/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/石川県金沢市西金沢"
+  }
+]

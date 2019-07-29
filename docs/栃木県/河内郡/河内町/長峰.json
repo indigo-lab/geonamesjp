@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県河内郡河内町長峰",
+    "表記": "栃木県河内郡河内町長峰",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "河内郡",
+      "市区町村": "河内町",
+      "町名": "長峰"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054397774",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054397764"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/102362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/102362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102361.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102362.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/102360.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232967/102359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232966/102361.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県河内郡河内町長峰",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/河内郡/河内町/長峰.json",
+    "name": "長峰",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県河内郡河内町"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県北松浦郡江迎町箙尾免",
+    "表記": "長崎県北松浦郡江迎町箙尾免",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "郡": "北松浦郡",
+      "市区町村": "江迎町",
+      "町名": "箙尾免"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297572",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297573",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297582",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049297583"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225483/105319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225490/105315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225487/105315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225488/105321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225485/105319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225482/105319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225482/105322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225490/105319.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225490/105314.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県北松浦郡江迎町箙尾免",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/北松浦郡/江迎町/箙尾免.json",
+    "name": "箙尾免",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県北松浦郡江迎町"
+  }
+]

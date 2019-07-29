@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都三鷹市大沢",
+    "表記": "東京都三鷹市大沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "三鷹市",
+      "町名": "大沢",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S132040110"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都三鷹市大沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/三鷹市/大沢.json",
+    "name": "大沢",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/東京都三鷹市",
+    "children": [
+      "https://geonames.jp/resource/東京都三鷹市大沢一丁目",
+      "https://geonames.jp/resource/東京都三鷹市大沢二丁目",
+      "https://geonames.jp/resource/東京都三鷹市大沢三丁目",
+      "https://geonames.jp/resource/東京都三鷹市大沢四丁目",
+      "https://geonames.jp/resource/東京都三鷹市大沢五丁目",
+      "https://geonames.jp/resource/東京都三鷹市大沢六丁目"
+    ]
+  }
+]

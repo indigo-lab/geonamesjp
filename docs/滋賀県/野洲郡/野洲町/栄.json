@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県野洲郡野洲町栄",
+    "表記": "滋賀県野洲郡野洲町栄",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "野洲郡",
+      "市区町村": "野洲町",
+      "町名": "栄"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052364082"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230125/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230126/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230127/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230126/103769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230127/103769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230128/103768.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230128/103769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230127/103772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230127/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230128/103771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230128/103770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230125/103769.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230129/103770.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県野洲郡野洲町栄",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/野洲郡/野洲町/栄.json",
+    "name": "栄",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県野洲郡野洲町"
+  }
+]

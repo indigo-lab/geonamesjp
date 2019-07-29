@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/栃木県那須郡南那須町小白井",
+    "表記": "栃木県那須郡南那須町小白井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "栃木県",
+      "郡": "那須郡",
+      "市区町村": "南那須町",
+      "町名": "小白井"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400013",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400023",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400024",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055400034"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233051/102315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/102321.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233058/102317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233054/102322.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233050/102325.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233049/102320.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/102313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233053/102308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233052/102325.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/栃木県那須郡南那須町小白井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/栃木県/那須郡/南那須町/小白井.json",
+    "name": "小白井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/栃木県那須郡南那須町"
+  }
+]

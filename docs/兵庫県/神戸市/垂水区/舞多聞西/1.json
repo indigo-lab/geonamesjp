@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市垂水区舞多聞西一丁目",
+    "表記": "兵庫県神戸市垂水区舞多聞西一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "神戸市",
+      "区": "垂水区",
+      "町名": "一丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051357093"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229410/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229411/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229410/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229409/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229412/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229411/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229411/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229412/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229409/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229409/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229410/104132.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県神戸市垂水区舞多聞西一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/神戸市/垂水区/舞多聞西/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県神戸市垂水区舞多聞西"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鹿児島県大口市青木",
+    "表記": "鹿児島県大口市青木",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鹿児島県",
+      "市区町村": "大口市",
+      "町名": "青木"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300560",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300570",
+        "http://data.e-stat.go.jp/lod/gridCode/G2048300561"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226196/106405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226196/106404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226197/106402.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226197/106401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226198/106400.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226198/106401.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226201/106404.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226197/106410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226197/106403.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226195/106405.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226195/106406.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226195/106407.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226195/106408.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鹿児島県大口市青木",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鹿児島県/大口市/青木.json",
+    "name": "青木",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鹿児島県大口市"
+  }
+]

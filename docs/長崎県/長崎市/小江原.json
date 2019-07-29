@@ -1,0 +1,31 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県長崎市小江原",
+    "表記": "長崎県長崎市小江原",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "長崎市",
+      "町名": "小江原"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県長崎市小江原",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/長崎市/小江原.json",
+    "name": "小江原",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県長崎市",
+    "children": [
+      "https://geonames.jp/resource/長崎県長崎市小江原（丁目なし）",
+      "https://geonames.jp/resource/長崎県長崎市小江原一丁目",
+      "https://geonames.jp/resource/長崎県長崎市小江原二丁目",
+      "https://geonames.jp/resource/長崎県長崎市小江原三丁目",
+      "https://geonames.jp/resource/長崎県長崎市小江原四丁目",
+      "https://geonames.jp/resource/長崎県長崎市小江原五丁目"
+    ]
+  }
+]

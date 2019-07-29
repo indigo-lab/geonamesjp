@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新津市出戸",
+    "表記": "新潟県新津市出戸",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新津市",
+      "町名": "出戸"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395035",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056395045"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232337/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232339/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232340/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101318.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232342/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232341/101317.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101315.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232336/101314.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/101313.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232335/101312.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232338/101316.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新津市出戸",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新津市/出戸.json",
+    "name": "出戸",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県新津市"
+  }
+]

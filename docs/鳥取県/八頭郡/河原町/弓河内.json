@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町弓河内",
+    "表記": "鳥取県八頭郡河原町弓河内",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "鳥取県",
+      "郡": "八頭郡",
+      "市区町村": "河原町",
+      "町名": "弓河内"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340151",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340160",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053340161"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228750/103490.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228749/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228747/103487.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228747/103491.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228751/103494.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228746/103492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228749/103492.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228748/103491.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/鳥取県八頭郡河原町弓河内",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/鳥取県/八頭郡/河原町/弓河内.json",
+    "name": "弓河内",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/鳥取県八頭郡河原町"
+  }
+]

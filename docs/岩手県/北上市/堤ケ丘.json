@@ -1,0 +1,32 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県北上市堤ケ丘",
+    "表記": "岩手県北上市堤ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "北上市",
+      "町名": "堤ケ丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S032060140"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県北上市堤ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/北上市/堤ケ丘.json",
+    "name": "堤ケ丘",
+    "alternateName": [
+      "堤ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/岩手県北上市",
+    "children": [
+      "https://geonames.jp/resource/岩手県北上市堤ケ丘一丁目",
+      "https://geonames.jp/resource/岩手県北上市堤ケ丘二丁目"
+    ]
+  }
+]

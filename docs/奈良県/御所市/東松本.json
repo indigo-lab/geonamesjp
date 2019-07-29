@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県御所市東松本",
+    "表記": "奈良県御所市東松本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "御所市",
+      "町名": "東松本"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355558",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051355568"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229909/104308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229908/104308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229907/104308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104308.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104309.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229910/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229907/104307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229908/104307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229909/104307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229910/104307.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229909/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229910/104304.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229910/104305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229909/104305.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229908/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229907/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229905/104306.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229906/104309.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県御所市東松本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/御所市/東松本.json",
+    "name": "東松本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県御所市"
+  }
+]

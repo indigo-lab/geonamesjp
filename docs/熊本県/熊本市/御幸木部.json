@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県熊本市御幸木部",
+    "表記": "熊本県熊本市御幸木部",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "熊本市",
+      "町名": "御幸木部"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県熊本市御幸木部",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/熊本市/御幸木部.json",
+    "name": "御幸木部",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県熊本市",
+    "children": [
+      "https://geonames.jp/resource/熊本県熊本市御幸木部一丁目",
+      "https://geonames.jp/resource/熊本県熊本市御幸木部二丁目",
+      "https://geonames.jp/resource/熊本県熊本市御幸木部三丁目"
+    ]
+  }
+]

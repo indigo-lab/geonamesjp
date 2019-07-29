@@ -1,0 +1,57 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県松山市和田",
+    "表記": "愛媛県松山市和田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "松山市",
+      "町名": "和田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382013320"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327621",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327611",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327620"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227750/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227753/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227753/104778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104779.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227746/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227753/104777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227749/104777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227748/104777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227747/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227748/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227751/104777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227747/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227746/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227748/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227754/104778.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227749/104776.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227750/104777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227752/104777.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227753/104775.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県松山市和田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/松山市/和田.json",
+    "name": "和田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県松山市"
+  }
+]

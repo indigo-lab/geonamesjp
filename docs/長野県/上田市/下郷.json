@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県上田市下郷",
+    "表記": "長野県上田市下郷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "市区町村": "上田市",
+      "町名": "下郷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384273",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384283",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384284",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054384294"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231781/102573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/102570.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231783/102574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/102573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/102572.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231783/102569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231784/102569.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/102579.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231777/102581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231779/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231780/102575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231780/102578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231780/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231781/102575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231781/102578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231781/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/102576.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/102578.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231782/102577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231783/102575.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県上田市下郷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/上田市/下郷.json",
+    "name": "下郷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県上田市"
+  }
+]

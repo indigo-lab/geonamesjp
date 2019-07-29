@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県三戸郡階上町赤保内字耳ケ吠",
+    "表記": "青森県三戸郡階上町赤保内字耳ケ吠",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "三戸郡",
+      "市区町村": "階上町",
+      "町名": "赤保内字耳ケ吠"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060415449"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234193/98812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234192/98812.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234191/98811.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234191/98810.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県三戸郡階上町赤保内字耳ケ吠",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/三戸郡/階上町/赤保内字耳ケ吠.json",
+    "name": "赤保内字耳ケ吠",
+    "alternateName": [
+      "赤保内字耳ヶ吠"
+    ],
+    "parentFeature": "https://geonames.jp/resource/青森県三戸郡階上町"
+  }
+]

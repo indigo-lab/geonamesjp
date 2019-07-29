@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県名賀郡青山町岡田",
+    "表記": "三重県名賀郡青山町岡田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "名賀郡",
+      "市区町村": "青山町",
+      "町名": "岡田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360105",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360115",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052360116"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230244/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230242/104123.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230251/104121.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230244/104121.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県名賀郡青山町岡田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/名賀郡/青山町/岡田.json",
+    "name": "岡田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県名賀郡青山町"
+  }
+]

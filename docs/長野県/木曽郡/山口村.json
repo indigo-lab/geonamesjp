@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長野県木曽郡山口村",
+    "表記": "長野県木曽郡山口村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長野県",
+      "郡": "木曽郡",
+      "市区町村": "山口村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C20431-20050213",
+        "http://data.e-stat.go.jp/lod/sac/C20431-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長野県木曽郡山口村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長野県/木曽郡/山口村.json",
+    "name": "山口村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長野県木曽郡"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市阿部倉町",
+    "表記": "神奈川県横須賀市阿部倉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "阿部倉町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397500",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397501",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397510",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397511"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232751/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232749/103608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/103607.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232748/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232752/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232753/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232754/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232755/103601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232756/103602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232757/103603.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県横須賀市阿部倉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/横須賀市/阿部倉町.json",
+    "name": "阿部倉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県横須賀市"
+  }
+]

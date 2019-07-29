@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市南区曲本",
+    "表記": "埼玉県さいたま市南区曲本",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "埼玉県",
+      "市区町村": "さいたま市",
+      "区": "南区",
+      "町名": "曲本",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S111080180"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/埼玉県さいたま市南区曲本",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/埼玉県/さいたま市/南区/曲本.json",
+    "name": "曲本",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/埼玉県さいたま市南区",
+    "children": [
+      "https://geonames.jp/resource/埼玉県さいたま市南区曲本一丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市南区曲本二丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市南区曲本三丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市南区曲本四丁目",
+      "https://geonames.jp/resource/埼玉県さいたま市南区曲本五丁目"
+    ]
+  }
+]

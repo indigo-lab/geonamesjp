@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県潮来市福島",
+    "表記": "茨城県潮来市福島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "潮来市",
+      "町名": "福島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407417",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407427",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053407426"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233450/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233447/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233447/103000.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233441/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233441/102995.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233441/102994.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233442/102996.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233443/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233444/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233445/102998.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233446/102997.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233448/102999.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233449/103001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233446/103001.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県潮来市福島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/潮来市/福島.json",
+    "name": "福島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県潮来市"
+  }
+]

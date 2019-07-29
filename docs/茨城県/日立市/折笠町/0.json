@@ -1,0 +1,84 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/茨城県日立市折笠町（丁目なし）",
+    "表記": "茨城県日立市折笠町（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "茨城県",
+      "市区町村": "折笠町",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S08202002000"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054407575",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054407584",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054407585",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054407574"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/102351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/102350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233524/102353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/102348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/102353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/102355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/102351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/102350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/102349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233516/102345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/102345.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233517/102351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233517/102349.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233514/102350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233517/102348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233515/102348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233518/102346.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233513/102350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/102350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233519/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233516/102350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233516/102348.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233517/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/102356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/102354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/102350.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233521/102351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/102353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233522/102351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/102355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233520/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233513/102347.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/102352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233523/102353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233516/102352.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/茨城県日立市折笠町（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/茨城県/日立市/折笠町/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/茨城県日立市折笠町"
+  }
+]

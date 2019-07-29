@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県勝浦市吉尾",
+    "表記": "千葉県勝浦市吉尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "勝浦市",
+      "町名": "吉尾",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122180160"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405262",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405272",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052405263"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233224/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/103713.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233223/103711.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233221/103715.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233222/103714.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233225/103710.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233226/103711.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県勝浦市吉尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/勝浦市/吉尾.json",
+    "name": "吉尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県勝浦市"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県平塚市桜ケ丘",
+    "表記": "神奈川県平塚市桜ケ丘",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "平塚市",
+      "町名": "桜ケ丘",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S142030201"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397296",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397295"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103544.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103545.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103543.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232524/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232525/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232527/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232528/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232526/103544.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県平塚市桜ケ丘",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/平塚市/桜ケ丘.json",
+    "name": "桜ケ丘",
+    "alternateName": [
+      "桜ヶ丘"
+    ],
+    "parentFeature": "https://geonames.jp/resource/神奈川県平塚市"
+  }
+]

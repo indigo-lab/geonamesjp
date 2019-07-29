@@ -1,0 +1,48 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県宜野湾市大謝名（丁目なし）",
+    "表記": "沖縄県宜野湾市大謝名（丁目なし）",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "市区町村": "宜野湾市",
+      "町名": "（丁目なし）",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S472050171"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2039273528",
+        "http://data.e-stat.go.jp/lod/gridCode/G2039273529"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224084/111235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224083/111235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224085/111234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224086/111235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224087/111234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224086/111234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224092/111236.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224085/111233.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224084/111234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224085/111235.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224083/111234.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224084/111233.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県宜野湾市大謝名（丁目なし）",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/宜野湾市/大謝名/0.json",
+    "name": "（丁目なし）",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県宜野湾市大謝名"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府豊中市新千里東町一丁目",
+    "表記": "大阪府豊中市新千里東町一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "新千里東町",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S27203102001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351369",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052351379"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229735/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229735/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104002.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104001.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229735/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229734/104006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229734/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229735/104006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104006.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229735/104003.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229737/104005.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104004.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229736/104002.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府豊中市新千里東町一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/豊中市/新千里東町/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大阪府豊中市新千里東町"
+  }
+]

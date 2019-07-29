@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県滝沢市大釜大畑",
+    "表記": "岩手県滝沢市大釜大畑",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "滝沢市",
+      "町名": "大釜大畑"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414046",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059414045"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/99520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/99520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233798/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/99522.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233797/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233800/99520.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233800/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233801/99521.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233799/99519.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県滝沢市大釜大畑",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/滝沢市/大釜大畑.json",
+    "name": "大釜大畑",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県滝沢市"
+  }
+]

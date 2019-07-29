@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県十日町市上新田",
+    "表記": "新潟県十日町市上新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "十日町市",
+      "町名": "上新田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386614",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386615",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386622",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055386621"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232145/101870.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232146/101872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232155/101872.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232127/101864.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232124/101866.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県十日町市上新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/十日町市/上新田.json",
+    "name": "上新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県十日町市"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県新井市美守三丁目",
+    "表記": "新潟県新井市美守三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "新井市",
+      "町名": "三丁目"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384220",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384230",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055384221"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231749/102010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/102013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/102012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/102013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/102014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/102014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/102015.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231750/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/102011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231751/102012.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県新井市美守三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/新井市/美守/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/新潟県新井市美守"
+  }
+]

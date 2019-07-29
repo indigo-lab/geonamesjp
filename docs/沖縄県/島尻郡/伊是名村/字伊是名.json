@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡伊是名村字伊是名",
+    "表記": "沖縄県島尻郡伊是名村字伊是名",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "沖縄県",
+      "郡": "島尻郡",
+      "市区町村": "伊是名村",
+      "町名": "字伊是名",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S473600020"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2040272794",
+        "http://data.e-stat.go.jp/lod/gridCode/G2040273704"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224229/110708.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/224229/110705.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/沖縄県島尻郡伊是名村字伊是名",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/沖縄県/島尻郡/伊是名村/字伊是名.json",
+    "name": "字伊是名",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/沖縄県島尻郡伊是名村"
+  }
+]

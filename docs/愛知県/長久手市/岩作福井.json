@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県長久手市岩作福井",
+    "表記": "愛知県長久手市岩作福井",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "長久手市",
+      "町名": "岩作福井",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S232381380"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376004",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052375094"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230874/103684.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103685.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103686.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230875/103682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103683.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103682.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230876/103681.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230877/103682.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県長久手市岩作福井",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/長久手市/岩作福井.json",
+    "name": "岩作福井",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県長久手市"
+  }
+]

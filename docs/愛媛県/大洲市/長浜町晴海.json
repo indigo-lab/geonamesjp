@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県大洲市長浜町晴海",
+    "表記": "愛媛県大洲市長浜町晴海",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "大洲市",
+      "町名": "長浜町晴海",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382070600"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050323349"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227551/105051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227549/105053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227552/105051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227553/105050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227553/105048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227552/105050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227549/105052.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227555/105049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227550/105053.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227553/105049.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県大洲市長浜町晴海",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/大洲市/長浜町晴海.json",
+    "name": "長浜町晴海",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県大洲市"
+  }
+]

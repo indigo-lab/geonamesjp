@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県土岐郡笠原町富士下",
+    "表記": "岐阜県土岐郡笠原町富士下",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "土岐郡",
+      "市区町村": "笠原町",
+      "町名": "富士下"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377132",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377142",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377143",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052377152"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/103583.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230948/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230950/103582.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230951/103581.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230953/103580.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230948/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230948/103577.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230946/103573.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230947/103574.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230948/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/103575.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230949/103576.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県土岐郡笠原町富士下",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/土岐郡/笠原町/富士下.json",
+    "name": "富士下",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県土岐郡笠原町"
+  }
+]

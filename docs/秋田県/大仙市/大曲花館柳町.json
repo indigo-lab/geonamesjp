@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県大仙市大曲花館柳町",
+    "表記": "秋田県大仙市大曲花館柳町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "大曲花館柳町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059401366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059401376",
+        "http://data.e-stat.go.jp/lod/gridCode/G2059401377"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/99740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/99740.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/99739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/99738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/99739.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233351/99738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/99737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/99736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/99736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/99736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233352/99737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/99738.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233354/99736.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233353/99737.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/99735.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233350/99733.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233349/99734.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県大仙市大曲花館柳町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/大仙市/大曲花館柳町.json",
+    "name": "大曲花館柳町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県大仙市"
+  }
+]

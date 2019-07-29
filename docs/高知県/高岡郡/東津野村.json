@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/高知県高岡郡東津野村",
+    "表記": "高知県高岡郡東津野村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "高知県",
+      "郡": "高岡郡",
+      "市区町村": "東津野村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C39407-20050201",
+        "http://data.e-stat.go.jp/lod/sac/C39407-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/高知県高岡郡東津野村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/高知県/高岡郡/東津野村.json",
+    "name": "東津野村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/高知県高岡郡"
+  }
+]

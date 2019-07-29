@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/熊本県玉名市三ツ川",
+    "表記": "熊本県玉名市三ツ川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "熊本県",
+      "市区町村": "玉名市",
+      "町名": "三ツ川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S432060510"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303475",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303484",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303465",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303483",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049303474"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226148/105608.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226144/105601.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226146/105610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226151/105614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226137/105602.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226135/105605.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226135/105604.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226136/105603.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226150/105615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226149/105606.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226141/105610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226136/105607.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/熊本県玉名市三ツ川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/熊本県/玉名市/三ツ川.json",
+    "name": "三ツ川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/熊本県玉名市"
+  }
+]

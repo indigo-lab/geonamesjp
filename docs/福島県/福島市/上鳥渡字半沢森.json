@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県福島市上鳥渡字半沢森",
+    "表記": "福島県福島市上鳥渡字半沢森",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "福島市",
+      "町名": "上鳥渡字半沢森"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404351",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404352"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/101380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233304/101377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233311/101378.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県福島市上鳥渡字半沢森",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/福島市/上鳥渡字半沢森.json",
+    "name": "上鳥渡字半沢森",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県福島市"
+  }
+]

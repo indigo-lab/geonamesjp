@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県佐伯市新女島",
+    "表記": "大分県佐伯市新女島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "佐伯市",
+      "町名": "新女島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313732",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313742",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049313753"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227124/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227124/105635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227125/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227122/105635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227122/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227123/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227125/105631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/105631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227127/105632.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227125/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227130/105626.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227126/105635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227123/105635.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227119/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227124/105633.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227123/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227124/105634.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227124/105631.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227125/105632.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県佐伯市新女島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/佐伯市/新女島.json",
+    "name": "新女島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大分県佐伯市"
+  }
+]

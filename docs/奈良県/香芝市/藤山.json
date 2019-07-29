@@ -1,0 +1,30 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/奈良県香芝市藤山",
+    "表記": "奈良県香芝市藤山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "奈良県",
+      "市区町村": "香芝市",
+      "町名": "藤山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S292100110"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/奈良県香芝市藤山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/奈良県/香芝市/藤山.json",
+    "name": "藤山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/奈良県香芝市",
+    "children": [
+      "https://geonames.jp/resource/奈良県香芝市藤山一丁目",
+      "https://geonames.jp/resource/奈良県香芝市藤山二丁目"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮城県仙台市",
+    "表記": "宮城県仙台市",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮城県",
+      "市区町村": "仙台市",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C04100-19890401",
+        "http://data.e-stat.go.jp/lod/sac/C04100-20190401",
+        "http://data.e-stat.go.jp/lod/sac/C04100-19900301",
+        "http://data.e-stat.go.jp/lod/sac/C04201-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C04100-20090401",
+        "http://data.e-stat.go.jp/lod/sac/C04201-19890401",
+        "http://data.e-stat.go.jp/lod/sac/C04100-19920601",
+        "http://data.e-stat.go.jp/lod/sac/C04201-19730901",
+        "http://data.e-stat.go.jp/lod/sac/C04100-20130701",
+        "http://data.e-stat.go.jp/lod/sac/C04201-19871101",
+        "http://data.e-stat.go.jp/lod/sac/C04100-19981201",
+        "http://data.e-stat.go.jp/lod/sac/C04201-19880301",
+        "http://data.e-stat.go.jp/lod/sac/C04201-19860901",
+        "http://data.e-stat.go.jp/lod/sac/C04201-19790501",
+        "http://data.e-stat.go.jp/lod/sac/C04100-20110812",
+        "http://data.e-stat.go.jp/lod/sac/C04201-19871201"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮城県仙台市",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮城県/仙台市.json",
+    "name": "仙台市",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮城県",
+    "children": [
+      "https://geonames.jp/resource/宮城県仙台市宮城野区",
+      "https://geonames.jp/resource/宮城県仙台市若林区",
+      "https://geonames.jp/resource/宮城県仙台市青葉区",
+      "https://geonames.jp/resource/宮城県仙台市泉区",
+      "https://geonames.jp/resource/宮城県仙台市太白区"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q46747"
+    ]
+  }
+]

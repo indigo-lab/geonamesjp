@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県市川市妙典",
+    "表記": "千葉県市川市妙典",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "市川市",
+      "町名": "妙典",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122030580"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県市川市妙典",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/市川市/妙典.json",
+    "name": "妙典",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県市川市",
+    "children": [
+      "https://geonames.jp/resource/千葉県市川市妙典一丁目",
+      "https://geonames.jp/resource/千葉県市川市妙典二丁目",
+      "https://geonames.jp/resource/千葉県市川市妙典三丁目",
+      "https://geonames.jp/resource/千葉県市川市妙典四丁目",
+      "https://geonames.jp/resource/千葉県市川市妙典五丁目",
+      "https://geonames.jp/resource/千葉県市川市妙典六丁目"
+    ]
+  }
+]

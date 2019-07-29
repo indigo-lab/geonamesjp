@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/群馬県吾妻郡嬬恋村大字袋倉",
+    "表記": "群馬県吾妻郡嬬恋村大字袋倉",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "群馬県",
+      "郡": "吾妻郡",
+      "市区町村": "嬬恋村",
+      "町名": "大字袋倉",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S104250100"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054386456",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054386446"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231981/102450.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231985/102455.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/群馬県吾妻郡嬬恋村大字袋倉",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/群馬県/吾妻郡/嬬恋村/大字袋倉.json",
+    "name": "大字袋倉",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/群馬県吾妻郡嬬恋村"
+  }
+]

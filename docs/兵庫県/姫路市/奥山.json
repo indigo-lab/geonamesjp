@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市奥山",
+    "表記": "兵庫県姫路市奥山",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "姫路市",
+      "町名": "奥山",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S282016680"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341557",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341567"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229168/104013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229170/104013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229166/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229169/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229169/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229169/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229170/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229168/104014.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229169/104013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229170/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229173/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229174/104013.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229171/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229169/104009.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229168/104010.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229168/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229169/104007.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229169/104011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229170/104012.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229170/104011.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229172/104008.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229171/104011.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県姫路市奥山",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/姫路市/奥山.json",
+    "name": "奥山",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県姫路市"
+  }
+]

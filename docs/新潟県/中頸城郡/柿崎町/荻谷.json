@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡柿崎町荻谷",
+    "表記": "新潟県中頸城郡柿崎町荻谷",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "郡": "中頸城郡",
+      "市区町村": "柿崎町",
+      "町名": "荻谷"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387312",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055387322"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231851/101789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231857/101793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231856/101791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231858/101791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231859/101792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231851/101791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231852/101792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/101792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231853/101790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231854/101790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231854/101792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231855/101792.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県中頸城郡柿崎町荻谷",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/中頸城郡/柿崎町/荻谷.json",
+    "name": "荻谷",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県中頸城郡柿崎町"
+  }
+]

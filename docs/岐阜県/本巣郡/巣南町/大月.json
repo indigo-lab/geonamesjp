@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岐阜県本巣郡巣南町大月",
+    "表記": "岐阜県本巣郡巣南町大月",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岐阜県",
+      "郡": "本巣郡",
+      "市区町村": "巣南町",
+      "町名": "大月"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360571",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360581"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230573/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230574/103475.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103476.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230575/103477.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103479.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103478.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103481.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230576/103476.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岐阜県本巣郡巣南町大月",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岐阜県/本巣郡/巣南町/大月.json",
+    "name": "大月",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岐阜県本巣郡巣南町"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県中島郡祖父江町中牧",
+    "表記": "愛知県中島郡祖父江町中牧",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "郡": "中島郡",
+      "市区町村": "祖父江町",
+      "町名": "中牧"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366596",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052366597",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367506",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367507"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/103615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230626/103615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/103609.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230621/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230620/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103613.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103611.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103610.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230623/103612.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/103615.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230622/103617.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/103616.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230619/103614.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230628/103613.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県中島郡祖父江町中牧",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/中島郡/祖父江町/中牧.json",
+    "name": "中牧",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県中島郡祖父江町"
+  }
+]

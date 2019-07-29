@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県西予市城川町野井川",
+    "表記": "愛媛県西予市城川町野井川",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "市区町村": "西予市",
+      "町名": "城川町野井川",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38214075005",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38214075001",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38214075002",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38214075003",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S382140750",
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S38214075004"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050321623",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050321633"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227765/105213.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227773/105204.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県西予市城川町野井川",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/西予市/城川町野井川.json",
+    "name": "城川町野井川",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県西予市"
+  }
+]

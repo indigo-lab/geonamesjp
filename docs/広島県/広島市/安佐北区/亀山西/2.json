@@ -1,0 +1,65 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐北区亀山西二丁目",
+    "表記": "広島県広島市安佐北区亀山西二丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "広島市",
+      "区": "安佐北区",
+      "町名": "二丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S34106753002"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326337",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326347",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326348",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051326338"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227537/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227537/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104247.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227534/104249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104249.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227535/104250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227536/104246.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227534/104250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227537/104250.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227537/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227534/104248.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227539/104251.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227538/104246.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県広島市安佐北区亀山西二丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/広島市/安佐北区/亀山西/2.json",
+    "name": "二丁目",
+    "alternateName": [
+      "2",
+      "2丁目",
+      "２",
+      "２丁目",
+      "二"
+    ],
+    "parentFeature": "https://geonames.jp/resource/広島県広島市安佐北区亀山西"
+  }
+]

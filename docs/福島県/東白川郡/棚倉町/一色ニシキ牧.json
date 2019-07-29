@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県東白川郡棚倉町一色ニシキ牧",
+    "表記": "福島県東白川郡棚倉町一色ニシキ牧",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "郡": "東白川郡",
+      "市区町村": "棚倉町",
+      "町名": "一色ニシキ牧"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404391",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055404392"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233306/101960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/101959.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/101958.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233307/101960.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233308/101958.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県東白川郡棚倉町一色ニシキ牧",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/東白川郡/棚倉町/一色ニシキ牧.json",
+    "name": "一色ニシキ牧",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県東白川郡棚倉町"
+  }
+]

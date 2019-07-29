@@ -1,0 +1,66 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/東京都江戸川区松江七丁目",
+    "表記": "東京都江戸川区松江七丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "東京都",
+      "市区町村": "江戸川区",
+      "町名": "七丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S13123005007"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394639",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053394730"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232925/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232923/103220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232923/103219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232923/103218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232924/103218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232924/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232924/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232924/103215.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232924/103214.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232925/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232925/103218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232924/103219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232924/103220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232925/103220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232925/103219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232926/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232926/103216.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232927/103217.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232926/103218.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232926/103219.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232926/103220.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232924/103221.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/東京都江戸川区松江七丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/東京都/江戸川区/松江/7.json",
+    "name": "七丁目",
+    "alternateName": [
+      "7",
+      "7丁目",
+      "７",
+      "７丁目",
+      "七"
+    ],
+    "parentFeature": "https://geonames.jp/resource/東京都江戸川区松江"
+  }
+]

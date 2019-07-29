@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県静岡市葵区門屋",
+    "表記": "静岡県静岡市葵区門屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "市区町村": "静岡市",
+      "区": "葵区",
+      "町名": "門屋",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S221011710"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384360",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384259",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384269",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384350",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052384340"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231836/103789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231836/103792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231835/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231835/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231835/103797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231834/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231834/103795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231833/103793.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231833/103792.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231833/103791.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231835/103788.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231833/103790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231834/103790.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231834/103789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231835/103789.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231832/103788.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231837/103788.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231836/103796.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231835/103798.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231836/103797.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県静岡市葵区門屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/静岡市/葵区/門屋.json",
+    "name": "門屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県静岡市葵区"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県豊川市萩町下室",
+    "表記": "愛知県豊川市萩町下室",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "豊川市",
+      "町名": "萩町下室"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372256",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372245",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372246",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052372255"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/103945.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/103944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/103946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231069/103946.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231068/103945.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県豊川市萩町下室",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/豊川市/萩町下室.json",
+    "name": "萩町下室",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県豊川市"
+  }
+]

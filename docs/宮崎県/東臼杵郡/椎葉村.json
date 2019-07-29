@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村",
+    "表記": "宮崎県東臼杵郡椎葉村",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "宮崎県",
+      "郡": "東臼杵郡",
+      "市区町村": "椎葉村",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C45430-20100930",
+        "http://data.e-stat.go.jp/lod/sac/C45430-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/宮崎県/東臼杵郡/椎葉村.json",
+    "name": "椎葉村",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/宮崎県東臼杵郡",
+    "children": [
+      "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村松尾",
+      "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村大河内",
+      "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村不土野",
+      "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村下福良",
+      "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村大字大河内",
+      "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村大字下福良",
+      "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村大字不土野",
+      "https://geonames.jp/resource/宮崎県東臼杵郡椎葉村大字松尾"
+    ],
+    "seeAlso": [
+      "http://www.wikidata.org/entity/Q1205964"
+    ]
+  }
+]

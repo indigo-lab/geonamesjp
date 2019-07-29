@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県美方郡香美町香住区由良",
+    "表記": "兵庫県美方郡香美町香住区由良",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "美方郡",
+      "市区町村": "香美町",
+      "町名": "香住区由良"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343459",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053343469"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229095/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229099/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229100/103272.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229099/103271.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229099/103268.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229102/103272.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県美方郡香美町香住区由良",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/美方郡/香美町/香住区由良.json",
+    "name": "香住区由良",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県美方郡香美町"
+  }
+]

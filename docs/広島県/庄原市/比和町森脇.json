@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県庄原市比和町森脇",
+    "表記": "広島県庄原市比和町森脇",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "庄原市",
+      "町名": "比和町森脇",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S342100990"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052324739",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052334040"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227914/103810.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227921/103803.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県庄原市比和町森脇",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/庄原市/比和町森脇.json",
+    "name": "比和町森脇",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県庄原市"
+  }
+]

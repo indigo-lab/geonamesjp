@@ -1,0 +1,29 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市川崎区中瀬",
+    "表記": "神奈川県川崎市川崎区中瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "川崎市",
+      "区": "川崎区",
+      "町名": "中瀬"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県川崎市川崎区中瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/川崎市/川崎区/中瀬.json",
+    "name": "中瀬",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県川崎市川崎区",
+    "children": [
+      "https://geonames.jp/resource/神奈川県川崎市川崎区中瀬一丁目",
+      "https://geonames.jp/resource/神奈川県川崎市川崎区中瀬二丁目",
+      "https://geonames.jp/resource/神奈川県川崎市川崎区中瀬三丁目"
+    ]
+  }
+]

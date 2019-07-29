@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県黒部市北野",
+    "表記": "富山県黒部市北野",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "市区町村": "黒部市",
+      "町名": "北野",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S162070360"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372375",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372365",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372366",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055372374"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231158/102132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231157/102132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231157/102134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231157/102133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231158/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231158/102135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231158/102134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231159/102134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231159/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231159/102135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231160/102133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231160/102134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231160/102136.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231160/102135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231161/102133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231158/102131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231147/102131.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231147/102132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231146/102132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231161/102134.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県黒部市北野",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/黒部市/北野.json",
+    "name": "北野",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県黒部市"
+  }
+]

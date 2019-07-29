@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市山崎町杉ヶ瀬",
+    "表記": "兵庫県宍粟市山崎町杉ヶ瀬",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "市区町村": "宍粟市",
+      "町名": "山崎町杉ヶ瀬"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052344466"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229067/103783.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県宍粟市山崎町杉ヶ瀬",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/宍粟市/山崎町杉ヶ瀬.json",
+    "name": "山崎町杉ヶ瀬",
+    "alternateName": [
+      "山崎町杉ケ瀬"
+    ],
+    "parentFeature": "https://geonames.jp/resource/兵庫県宍粟市"
+  }
+]

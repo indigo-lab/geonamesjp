@@ -1,0 +1,47 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県岡山市東区河本町",
+    "表記": "岡山県岡山市東区河本町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "市区町村": "岡山市",
+      "区": "東区",
+      "町名": "河本町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S331030240"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347093",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051347094"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228683/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228682/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228684/104132.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228684/104133.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228683/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228684/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228682/104135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228684/104135.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228682/104134.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228683/104135.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県岡山市東区河本町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/岡山市/東区/河本町.json",
+    "name": "河本町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県岡山市東区"
+  }
+]

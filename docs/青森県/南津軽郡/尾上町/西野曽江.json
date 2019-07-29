@@ -1,0 +1,45 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡尾上町西野曽江",
+    "表記": "青森県南津軽郡尾上町西野曽江",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "青森県",
+      "郡": "南津軽郡",
+      "市区町村": "尾上町",
+      "町名": "西野曽江"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407432",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407433",
+        "http://data.e-stat.go.jp/lod/gridCode/G2060407442"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/98656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/98655.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/98656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233403/98654.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233402/98656.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233404/98653.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/98657.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233412/98660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233408/98660.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233410/98660.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/青森県南津軽郡尾上町西野曽江",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/青森県/南津軽郡/尾上町/西野曽江.json",
+    "name": "西野曽江",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/青森県南津軽郡尾上町"
+  }
+]

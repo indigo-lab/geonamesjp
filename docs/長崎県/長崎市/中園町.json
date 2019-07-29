@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/長崎県長崎市中園町",
+    "表記": "長崎県長崎市中園町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "長崎県",
+      "市区町村": "中園町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S422013110"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049291648",
+        "http://data.e-stat.go.jp/lod/gridCode/G2049291658"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225633/105772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225632/105773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225632/105772.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225632/105771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225631/105771.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225631/105770.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225633/105773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/225631/105772.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/長崎県長崎市中園町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/長崎県/長崎市/中園町.json",
+    "name": "中園町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/長崎県長崎市"
+  }
+]

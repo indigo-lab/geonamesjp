@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県茅ヶ崎市下町屋",
+    "表記": "神奈川県茅ヶ崎市下町屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "市区町村": "茅ヶ崎市",
+      "町名": "下町屋"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県茅ヶ崎市下町屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/茅ヶ崎市/下町屋.json",
+    "name": "下町屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県茅ヶ崎市",
+    "children": [
+      "https://geonames.jp/resource/神奈川県茅ヶ崎市下町屋一丁目",
+      "https://geonames.jp/resource/神奈川県茅ヶ崎市下町屋二丁目",
+      "https://geonames.jp/resource/神奈川県茅ヶ崎市下町屋三丁目"
+    ]
+  }
+]

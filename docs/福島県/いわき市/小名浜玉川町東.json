@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県いわき市小名浜玉川町東",
+    "表記": "福島県いわき市小名浜玉川町東",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "いわき市",
+      "町名": "小名浜玉川町東"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403770",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403771",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403780",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055403781"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/102050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/102050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/102051.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/102050.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/102048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233663/102048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/102048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/102048.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233662/102047.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233665/102049.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233664/102051.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県いわき市小名浜玉川町東",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/いわき市/小名浜玉川町東.json",
+    "name": "小名浜玉川町東",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県いわき市"
+  }
+]

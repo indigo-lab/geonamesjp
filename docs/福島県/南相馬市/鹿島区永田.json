@@ -1,0 +1,56 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/福島県南相馬市鹿島区永田",
+    "表記": "福島県南相馬市鹿島区永田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "福島県",
+      "市区町村": "南相馬市",
+      "町名": "鹿島区永田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S07212066003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404766",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404757",
+        "http://data.e-stat.go.jp/lod/gridCode/G2056404767"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233714/101373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101371.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233714/101375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233714/101372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/101374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233715/101375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233713/101373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/101375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/101376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233720/101378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/101375.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233712/101372.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233718/101377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233717/101376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233716/101374.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233719/101378.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/福島県南相馬市鹿島区永田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/福島県/南相馬市/鹿島区永田.json",
+    "name": "鹿島区永田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/福島県南相馬市"
+  }
+]

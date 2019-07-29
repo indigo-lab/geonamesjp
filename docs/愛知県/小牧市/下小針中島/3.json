@@ -1,0 +1,62 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県小牧市下小針中島三丁目",
+    "表記": "愛知県小牧市下小針中島三丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "小牧市",
+      "町名": "三丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S23219064003"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367721",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052367722"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230761/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103592.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/103594.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230757/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230758/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230759/103593.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230756/103595.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103591.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230760/103596.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県小牧市下小針中島三丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/小牧市/下小針中島/3.json",
+    "name": "三丁目",
+    "alternateName": [
+      "3",
+      "3丁目",
+      "３",
+      "３丁目",
+      "三"
+    ],
+    "parentFeature": "https://geonames.jp/resource/愛知県小牧市下小針中島"
+  }
+]

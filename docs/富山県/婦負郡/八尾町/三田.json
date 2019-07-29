@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/富山県婦負郡八尾町三田",
+    "表記": "富山県婦負郡八尾町三田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "富山県",
+      "郡": "婦負郡",
+      "市区町村": "八尾町",
+      "町名": "三田"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377048",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377049",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054377059"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230922/102380.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230922/102378.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230920/102377.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230916/102381.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230919/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230919/102373.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230914/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230918/102376.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230916/102379.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/富山県婦負郡八尾町三田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/富山県/婦負郡/八尾町/三田.json",
+    "name": "三田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/富山県婦負郡八尾町"
+  }
+]

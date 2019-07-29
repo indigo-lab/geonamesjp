@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県我孫子市浅間前新田",
+    "表記": "千葉県我孫子市浅間前新田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "我孫子市",
+      "町名": "浅間前新田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S122221170"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053406029"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233101/103072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/103070.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233102/103069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233101/103069.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233104/103071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233103/103069.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県我孫子市浅間前新田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/我孫子市/浅間前新田.json",
+    "name": "浅間前新田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/千葉県我孫子市"
+  }
+]

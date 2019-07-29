@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市北田辺",
+    "表記": "京都府舞鶴市北田辺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "京都府",
+      "市区町村": "舞鶴市",
+      "町名": "北田辺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351236",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351245",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053351246"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229613/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229614/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229615/103436.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229615/103435.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229615/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229616/103433.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229616/103432.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229616/103434.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229612/103427.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229613/103430.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229615/103431.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229616/103431.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/京都府舞鶴市北田辺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/京都府/舞鶴市/北田辺.json",
+    "name": "北田辺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/京都府舞鶴市"
+  }
+]

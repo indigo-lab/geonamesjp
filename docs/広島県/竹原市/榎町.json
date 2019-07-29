@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/広島県竹原市榎町",
+    "表記": "広島県竹原市榎町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "広島県",
+      "市区町村": "榎町"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324702",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324712",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051324722"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227849/104412.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227850/104411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227850/104409.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227850/104410.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227851/104411.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227848/104416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227850/104414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227850/104416.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227851/104414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227851/104415.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227852/104413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227853/104413.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227853/104414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227854/104414.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227847/104417.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227848/104417.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/広島県竹原市榎町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/広島県/竹原市/榎町.json",
+    "name": "榎町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/広島県竹原市"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県横手市朝倉町",
+    "表記": "秋田県横手市朝倉町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "朝倉町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S052030310"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407484",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407494",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058407485"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/99882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/99883.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/99881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/99879.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99884.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233427/99880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/99880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/99882.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233424/99885.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233426/99881.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233423/99880.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233425/99879.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県横手市朝倉町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/横手市/朝倉町.json",
+    "name": "朝倉町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/秋田県横手市"
+  }
+]

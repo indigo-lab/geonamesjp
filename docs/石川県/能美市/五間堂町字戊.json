@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/石川県能美市五間堂町字戊",
+    "表記": "石川県能美市五間堂町字戊",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "石川県",
+      "市区町村": "能美市",
+      "町名": "五間堂町字戊"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365338",
+        "http://data.e-stat.go.jp/lod/gridCode/G2054365339"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230458/102540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230459/102539.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/石川県能美市五間堂町字戊",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/石川県/能美市/五間堂町字戊.json",
+    "name": "五間堂町字戊",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/石川県能美市"
+  }
+]

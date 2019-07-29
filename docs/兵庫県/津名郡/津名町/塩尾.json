@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/兵庫県津名郡津名町塩尾",
+    "表記": "兵庫県津名郡津名町塩尾",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "兵庫県",
+      "郡": "津名郡",
+      "市区町村": "津名町",
+      "町名": "塩尾"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051344791"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229300/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229296/104351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229295/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229294/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229296/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229298/104358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229297/104351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229297/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229297/104353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229298/104351.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229298/104352.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229299/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229298/104353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229299/104354.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229299/104353.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229300/104355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/229300/104356.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/兵庫県津名郡津名町塩尾",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/兵庫県/津名郡/津名町/塩尾.json",
+    "name": "塩尾",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/兵庫県津名郡津名町"
+  }
+]

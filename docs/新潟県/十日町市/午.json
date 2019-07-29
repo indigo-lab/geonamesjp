@@ -1,0 +1,46 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/新潟県十日町市午",
+    "表記": "新潟県十日町市午",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "新潟県",
+      "市区町村": "十日町市",
+      "町名": "午"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385652",
+        "http://data.e-stat.go.jp/lod/gridCode/G2055385653"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232132/101912.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232138/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232130/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232134/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232134/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232132/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232132/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232131/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232136/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232133/101915.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232137/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232130/101914.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232135/101916.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/新潟県十日町市午",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/新潟県/十日町市/午.json",
+    "name": "午",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/新潟県十日町市"
+  }
+]

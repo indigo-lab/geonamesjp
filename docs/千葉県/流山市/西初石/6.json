@@ -1,0 +1,60 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/千葉県流山市西初石六丁目",
+    "表記": "千葉県流山市西初石六丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "千葉県",
+      "市区町村": "流山市",
+      "町名": "六丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S12220061006"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396744",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053396743"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232965/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232966/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232965/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232965/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/103056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232964/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/103057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/103058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232962/103055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232963/103059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232961/103058.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/千葉県流山市西初石六丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/千葉県/流山市/西初石/6.json",
+    "name": "六丁目",
+    "alternateName": [
+      "6",
+      "6丁目",
+      "６",
+      "６丁目",
+      "六"
+    ],
+    "parentFeature": "https://geonames.jp/resource/千葉県流山市西初石"
+  }
+]

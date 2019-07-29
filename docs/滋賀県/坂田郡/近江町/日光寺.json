@@ -1,0 +1,42 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/滋賀県坂田郡近江町日光寺",
+    "表記": "滋賀県坂田郡近江町日光寺",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "滋賀県",
+      "郡": "坂田郡",
+      "市区町村": "近江町",
+      "町名": "日光寺"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053360205"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230337/103531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230334/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230335/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230336/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230336/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230337/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230333/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230334/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230335/103535.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/滋賀県坂田郡近江町日光寺",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/滋賀県/坂田郡/近江町/日光寺.json",
+    "name": "日光寺",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/滋賀県坂田郡近江町"
+  }
+]

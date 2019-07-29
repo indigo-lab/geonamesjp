@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/三重県一志郡香良洲町",
+    "表記": "三重県一志郡香良洲町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "三重県",
+      "郡": "一志郡",
+      "市区町村": "香良洲町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C24402-20060101",
+        "http://data.e-stat.go.jp/lod/sac/C24402-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/三重県一志郡香良洲町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/三重県/一志郡/香良洲町.json",
+    "name": "香良洲町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/三重県一志郡",
+    "children": [
+      "https://geonames.jp/resource/三重県一志郡香良洲町稲葉",
+      "https://geonames.jp/resource/三重県一志郡香良洲町高砂",
+      "https://geonames.jp/resource/三重県一志郡香良洲町砂原",
+      "https://geonames.jp/resource/三重県一志郡香良洲町桜町",
+      "https://geonames.jp/resource/三重県一志郡香良洲町小松",
+      "https://geonames.jp/resource/三重県一志郡香良洲町川原",
+      "https://geonames.jp/resource/三重県一志郡香良洲町地家",
+      "https://geonames.jp/resource/三重県一志郡香良洲町東山",
+      "https://geonames.jp/resource/三重県一志郡香良洲町馬場",
+      "https://geonames.jp/resource/三重県一志郡香良洲町浜浦"
+    ]
+  }
+]

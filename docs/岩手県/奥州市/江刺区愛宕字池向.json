@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県奥州市江刺区愛宕字池向",
+    "表記": "岩手県奥州市江刺区愛宕字池向",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "奥州市",
+      "町名": "江刺区愛宕字池向"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058416113"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233866/100020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/100019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233865/100018.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233867/100019.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233868/100020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233869/100020.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233869/100019.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県奥州市江刺区愛宕字池向",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/奥州市/江刺区愛宕字池向.json",
+    "name": "江刺区愛宕字池向",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県奥州市"
+  }
+]

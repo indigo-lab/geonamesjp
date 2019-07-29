@@ -1,0 +1,28 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大阪府寝屋川市寝屋",
+    "表記": "大阪府寝屋川市寝屋",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大阪府",
+      "市区町村": "寝屋川市",
+      "町名": "寝屋"
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大阪府寝屋川市寝屋",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大阪府/寝屋川市/寝屋.json",
+    "name": "寝屋",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/大阪府寝屋川市",
+    "children": [
+      "https://geonames.jp/resource/大阪府寝屋川市寝屋（丁目なし）",
+      "https://geonames.jp/resource/大阪府寝屋川市寝屋一丁目",
+      "https://geonames.jp/resource/大阪府寝屋川市寝屋二丁目"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岩手県釜石市釜石",
+    "表記": "岩手県釜石市釜石",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岩手県",
+      "市区町村": "釜石市",
+      "町名": "釜石"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417618",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417629",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417638",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417639",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417701",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417711",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417720",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417730",
+        "http://data.e-stat.go.jp/lod/gridCode/G2058417731"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234393/99944.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234385/99933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234393/99936.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234364/99938.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234368/99925.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234378/99927.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234390/99926.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234376/99933.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234392/99923.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234388/99922.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/234365/99940.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岩手県釜石市釜石",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岩手県/釜石市/釜石.json",
+    "name": "釜石",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岩手県釜石市"
+  }
+]

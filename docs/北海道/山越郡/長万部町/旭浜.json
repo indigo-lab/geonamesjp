@@ -1,0 +1,43 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/北海道山越郡長万部町旭浜",
+    "表記": "北海道山越郡長万部町旭浜",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "北海道",
+      "郡": "山越郡",
+      "市区町村": "長万部町",
+      "町名": "旭浜"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406310",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406320",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406321",
+        "http://data.e-stat.go.jp/lod/gridCode/G2063406331"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233298/96800.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233299/96797.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233300/96795.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233296/96801.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233302/96794.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233294/96804.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233295/96803.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/北海道山越郡長万部町旭浜",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/北海道/山越郡/長万部町/旭浜.json",
+    "name": "旭浜",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/北海道山越郡長万部町"
+  }
+]

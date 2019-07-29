@@ -1,0 +1,54 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/大分県別府市浜脇一丁目",
+    "表記": "大分県別府市浜脇一丁目",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "大分県",
+      "市区町村": "別府市",
+      "町名": "一丁目",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S44202037001"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2049317420"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226833/105356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226834/105356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226834/105355.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226835/105357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226835/105356.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226833/105357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226834/105357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226836/105359.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226835/105358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226834/105358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226836/105358.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226836/105357.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/226833/105358.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/大分県別府市浜脇一丁目",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/大分県/別府市/浜脇/1.json",
+    "name": "一丁目",
+    "alternateName": [
+      "1",
+      "1丁目",
+      "１",
+      "１丁目",
+      "一"
+    ],
+    "parentFeature": "https://geonames.jp/resource/大分県別府市浜脇"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県熊毛郡田布施町麻郷団地",
+    "表記": "山口県熊毛郡田布施町麻郷団地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "郡": "熊毛郡",
+      "市区町村": "田布施町",
+      "町名": "麻郷団地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327023",
+        "http://data.e-stat.go.jp/lod/gridCode/G2050327024"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227227/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227228/104774.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227226/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227227/104773.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227228/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227227/104775.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227227/104776.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県熊毛郡田布施町麻郷団地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/熊毛郡/田布施町/麻郷団地.json",
+    "name": "麻郷団地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県熊毛郡田布施町"
+  }
+]

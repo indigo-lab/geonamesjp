@@ -1,0 +1,36 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/香川県綾歌郡飯山町",
+    "表記": "香川県綾歌郡飯山町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "香川県",
+      "郡": "綾歌郡",
+      "市区町村": "飯山町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C37385-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C37385-20050322"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/香川県綾歌郡飯山町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/香川県/綾歌郡/飯山町.json",
+    "name": "飯山町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/香川県綾歌郡",
+    "children": [
+      "https://geonames.jp/resource/香川県綾歌郡飯山町下法軍寺",
+      "https://geonames.jp/resource/香川県綾歌郡飯山町上法軍寺",
+      "https://geonames.jp/resource/香川県綾歌郡飯山町真時",
+      "https://geonames.jp/resource/香川県綾歌郡飯山町西坂元",
+      "https://geonames.jp/resource/香川県綾歌郡飯山町川原",
+      "https://geonames.jp/resource/香川県綾歌郡飯山町東坂元",
+      "https://geonames.jp/resource/香川県綾歌郡飯山町東小川"
+    ]
+  }
+]

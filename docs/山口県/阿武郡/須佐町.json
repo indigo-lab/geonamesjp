@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県阿武郡須佐町",
+    "表記": "山口県阿武郡須佐町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "郡": "阿武郡",
+      "市区町村": "須佐町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C35506-20050306",
+        "http://data.e-stat.go.jp/lod/sac/C35506-19700401"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県阿武郡須佐町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/阿武郡/須佐町.json",
+    "name": "須佐町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県阿武郡"
+  }
+]

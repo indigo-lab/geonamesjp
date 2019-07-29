@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛知県尾張旭市印場元町北島",
+    "表記": "愛知県尾張旭市印場元町北島",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛知県",
+      "市区町村": "尾張旭市",
+      "町名": "印場元町北島"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376040",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376050",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052376051"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/103648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230843/103647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230844/103647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230844/103646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230845/103646.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230845/103647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230842/103647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230841/103649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103649.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230839/103648.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230840/103647.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230845/103645.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/230843/103648.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛知県尾張旭市印場元町北島",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛知県/尾張旭市/印場元町北島.json",
+    "name": "印場元町北島",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛知県尾張旭市"
+  }
+]

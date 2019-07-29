@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/山口県美祢郡秋芳町",
+    "表記": "山口県美祢郡秋芳町",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "山口県",
+      "郡": "美祢郡",
+      "市区町村": "秋芳町",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/sac/C35462-19700401",
+        "http://data.e-stat.go.jp/lod/sac/C35462-20000306",
+        "http://data.e-stat.go.jp/lod/sac/C35462-20080321"
+      ]
+    }
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/山口県美祢郡秋芳町",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/山口県/美祢郡/秋芳町.json",
+    "name": "秋芳町",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/山口県美祢郡",
+    "children": [
+      "https://geonames.jp/resource/山口県美祢郡秋芳町岩永下郷",
+      "https://geonames.jp/resource/山口県美祢郡秋芳町岩永本郷",
+      "https://geonames.jp/resource/山口県美祢郡秋芳町秋吉",
+      "https://geonames.jp/resource/山口県美祢郡秋芳町別府",
+      "https://geonames.jp/resource/山口県美祢郡秋芳町大字嘉万",
+      "https://geonames.jp/resource/山口県美祢郡秋芳町大字岩永下郷",
+      "https://geonames.jp/resource/山口県美祢郡秋芳町大字岩永本郷",
+      "https://geonames.jp/resource/山口県美祢郡秋芳町大字秋吉",
+      "https://geonames.jp/resource/山口県美祢郡秋芳町大字青景",
+      "https://geonames.jp/resource/山口県美祢郡秋芳町大字別府"
+    ]
+  }
+]

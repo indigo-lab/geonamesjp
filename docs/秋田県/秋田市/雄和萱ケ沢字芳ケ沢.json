@@ -1,0 +1,35 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/秋田県秋田市雄和萱ケ沢字芳ケ沢",
+    "表記": "秋田県秋田市雄和萱ケ沢字芳ケ沢",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "秋田県",
+      "市区町村": "秋田市",
+      "町名": "雄和萱ケ沢字芳ケ沢"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2059402200"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/233206/99709.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/秋田県秋田市雄和萱ケ沢字芳ケ沢",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/秋田県/秋田市/雄和萱ケ沢字芳ケ沢.json",
+    "name": "雄和萱ケ沢字芳ケ沢",
+    "alternateName": [
+      "雄和萱ヶ沢字芳ヶ沢"
+    ],
+    "parentFeature": "https://geonames.jp/resource/秋田県秋田市"
+  }
+]

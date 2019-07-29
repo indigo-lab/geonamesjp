@@ -1,0 +1,53 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/岡山県赤磐郡山陽町南方",
+    "表記": "岡山県赤磐郡山陽町南方",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "岡山県",
+      "郡": "赤磐郡",
+      "市区町村": "山陽町",
+      "町名": "南方"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340092",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052340093",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341002",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052341003"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228675/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228673/104055.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228675/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228676/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228674/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228674/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228673/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228674/104056.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228673/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228672/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228671/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228671/104059.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228670/104058.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228671/104057.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/228669/104058.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/岡山県赤磐郡山陽町南方",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/岡山県/赤磐郡/山陽町/南方.json",
+    "name": "南方",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/岡山県赤磐郡山陽町"
+  }
+]

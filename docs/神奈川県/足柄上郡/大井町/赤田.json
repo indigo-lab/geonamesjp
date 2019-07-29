@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/神奈川県足柄上郡大井町赤田",
+    "表記": "神奈川県足柄上郡大井町赤田",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "神奈川県",
+      "郡": "足柄上郡",
+      "市区町村": "大井町",
+      "町名": "赤田",
+      "住所コード": [
+        "http://data.e-stat.go.jp/lod/smallArea/g00200521/2015/S143620010"
+      ]
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390104",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397194",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052397195",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390105",
+        "http://data.e-stat.go.jp/lod/gridCode/G2053390114"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232424/103531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232423/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/103539.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232428/103542.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/103540.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232424/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232423/103536.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/103537.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232423/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/103535.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232421/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232419/103532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232424/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/103533.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/103532.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232426/103531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232423/103541.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/103531.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232424/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232422/103534.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232423/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232425/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232427/103538.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/232420/103530.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/神奈川県足柄上郡大井町赤田",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/神奈川県/足柄上郡/大井町/赤田.json",
+    "name": "赤田",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/神奈川県足柄上郡大井町"
+  }
+]

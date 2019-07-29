@@ -1,0 +1,40 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/愛媛県越智郡玉川町桂",
+    "表記": "愛媛県越智郡玉川町桂",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "愛媛県",
+      "郡": "越智郡",
+      "市区町村": "玉川町",
+      "町名": "桂"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320714",
+        "http://data.e-stat.go.jp/lod/gridCode/G2051320724"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227872/104703.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227872/104702.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227872/104704.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227873/104706.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227872/104707.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/227873/104704.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/愛媛県越智郡玉川町桂",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/愛媛県/越智郡/玉川町/桂.json",
+    "name": "桂",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/愛媛県越智郡玉川町"
+  }
+]

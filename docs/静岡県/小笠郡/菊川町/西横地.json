@@ -1,0 +1,52 @@
+[
+  {
+    "@context": "https://imi.go.jp/ns/core/context.jsonld",
+    "@type": "場所型",
+    "@id": "https://geonames.jp/resource/静岡県小笠郡菊川町西横地",
+    "表記": "静岡県小笠郡菊川町西横地",
+    "住所": {
+      "@type": "住所型",
+      "都道府県": "静岡県",
+      "郡": "小笠郡",
+      "市区町村": "菊川町",
+      "町名": "西横地"
+    },
+    "参照": {
+      "@type": "参照型",
+      "種別": "メッシュコード",
+      "参照先": [
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380066",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380076",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380077",
+        "http://data.e-stat.go.jp/lod/gridCode/G2052380087"
+      ]
+    },
+    "画像": [
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231625/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231624/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231624/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231625/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231623/104080.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231625/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231625/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231626/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231626/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231627/104072.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231627/104073.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231621/104075.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231622/104074.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231630/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231631/104071.png",
+      "https://cyberjapandata.gsi.go.jp/xyz/std/18/231628/104073.png"
+    ]
+  },
+  {
+    "@context": "https://geonames.jp/context.jsonld",
+    "@id": "https://geonames.jp/resource/静岡県小笠郡菊川町西横地",
+    "@type": "Feature",
+    "isDefinedBy": "https://indigo-lab.github.io/geonamesjp/静岡県/小笠郡/菊川町/西横地.json",
+    "name": "西横地",
+    "alternateName": [],
+    "parentFeature": "https://geonames.jp/resource/静岡県小笠郡菊川町"
+  }
+]
